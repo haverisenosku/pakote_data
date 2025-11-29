@@ -1,0 +1,103 @@
+name: Update Sanctions Data
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Create data directory
+        run: mkdir -p data
+      
+      - name: Download EU XML
+        run: |
+          curl -sL "https://webgate.ec.europa.eu/fsd/fsf/public/files/xmlFullSanctionsList_1_1/content?token=dG9rZW4tMjAxNw" -o data/eu.xml
+          echo "EU: $(wc -c < data/eu.xml) bytes"
+      
+      - name: Download UN XML
+        run: |
+          curl -sL "https://scsanctions.un.org/resources/xml/en/consolidated.xml" -o data/un.xml
+          echo "UN: $(wc -c < data/un.xml) bytes"
+      
+      - name: Download OFAC XML
+        run: |
+          curl -sL "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/CONSOLIDATED.XML" -o data/ofac.xml || \
+          curl -sL "https://www.treasury.gov/ofac/downloads/sdn.xml" -o data/ofac.xml
+          echo "OFAC: $(wc -c < data/ofac.xml) bytes"
+      
+      - name: Download UK XML
+        run: |
+          curl -sL "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.xml" -o data/uk.xml
+          echo "UK: $(wc -c < data/uk.xml) bytes"
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install lxml
+      
+      - name: Generate combined JSON
+        run: python scripts/aggregate.py
+      
+      - name: Generate manifest
+        run: |
+          cat > data/manifest.json << EOF
+          {
+            "updated": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
+            "files": {
+              "eu": {"file": "eu.xml", "bytes": $(wc -c < data/eu.xml | tr -d ' ')},
+              "un": {"file": "un.xml", "bytes": $(wc -c < data/un.xml | tr -d ' ')},
+              "ofac": {"file": "ofac.xml", "bytes": $(wc -c < data/ofac.xml | tr -d ' ')},
+              "uk": {"file": "uk.xml", "bytes": $(wc -c < data/uk.xml | tr -d ' ')},
+              "all": {"file": "all.json", "bytes": $(wc -c < data/all.json | tr -d ' ')}
+            }
+          }
+          EOF
+          cat data/manifest.json
+      
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Update sanctions data $(date -u +%Y-%m-%d)"
+          git push
+
+  deploy-pages:
+    needs: update-data
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './data'
+      
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

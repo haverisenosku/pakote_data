@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sanctions Data</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 600px; margin: 2rem auto; padding: 0 1rem; }
+    a { color: #0066cc; }
+    .file { background: #f5f5f5; padding: 0.75rem 1rem; border-radius: 6px; margin: 0.5rem 0; display: flex; justify-content: space-between; }
+  </style>
+</head>
+<body>
+  <h1>🛡️ Sanctions Data</h1>
+  <p>Raw XML files from official sources. Updated daily.</p>
+  
+  <div class="file"><a href="all.json">all.json</a> <span>All lists combined (JSON)</span></div>
+  <div class="file"><a href="eu.xml">eu.xml</a> <span>EU Financial Sanctions</span></div>
+  <div class="file"><a href="un.xml">un.xml</a> <span>UN Security Council</span></div>
+  <div class="file"><a href="ofac.xml">ofac.xml</a> <span>US OFAC SDN</span></div>
+  <div class="file"><a href="uk.xml">uk.xml</a> <span>UK Sanctions</span></div>
+  <div class="file"><a href="manifest.json">manifest.json</a> <span>Metadata</span></div>
+  
+  <p style="margin-top:2rem;color:#666;font-size:0.9rem">
+    Sources: 
+    <a href="https://webgate.ec.europa.eu/fsd/fsf">EU</a> · 
+    <a href="https://scsanctions.un.org/">UN</a> · 
+    <a href="https://ofac.treasury.gov/">OFAC</a> · 
+    <a href="https://sanctionslist.fcdo.gov.uk/">UK</a>
+  </p>
+</body>
+</html>
