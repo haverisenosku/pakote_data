@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2025-12-09T00:00:06.058Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2025-12-10T00:00:06.263Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -6582,56 +6582,6 @@ coup d’état of 12 April 2012.” INTERPOL-UN Security Council Special Notice 
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <COUNTRY/>
-      </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
-      <SORT_KEY/>
-      <SORT_KEY_LAST_MOD/>
-    </INDIVIDUAL>
-    <INDIVIDUAL>
-      <DATAID>6908121</DATAID>
-      <VERSIONNUM>1</VERSIONNUM>
-      <FIRST_NAME>MUNIR</FIRST_NAME>
-      <SECOND_NAME>AL QUBAYSI</SECOND_NAME>
-      <UN_LIST_TYPE>Iraq</UN_LIST_TYPE>
-      <REFERENCE_NUMBER>IQi.074</REFERENCE_NUMBER>
-      <LISTED_ON>2004-04-26</LISTED_ON>
-      <NAME_ORIGINAL_SCRIPT>منير القبيسي</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1/>
-      <NATIONALITY>
-        <VALUE>Iraq</VALUE>
-      </NATIONALITY>
-      <LIST_TYPE>
-        <VALUE>UN List</VALUE>
-      </LIST_TYPE>
-      <LAST_DAY_UPDATED>
-        <VALUE/>
-      </LAST_DAY_UPDATED>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Munir Al-Kubaysi</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Muneer Al-Kubaisi</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Munir Awad</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Munir A Mamduh. Awad</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ADDRESS>
-        <COUNTRY>Syrian Arab Republic</COUNTRY>
-      </INDIVIDUAL_ADDRESS>
-      <INDIVIDUAL_DATE_OF_BIRTH>
-        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-        <YEAR>1966</YEAR>
-      </INDIVIDUAL_DATE_OF_BIRTH>
-      <INDIVIDUAL_PLACE_OF_BIRTH>
-        <CITY>Heet</CITY>
-        <COUNTRY>Iraq</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT/>
       <SORT_KEY/>
