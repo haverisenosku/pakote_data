@@ -2460,6 +2460,11 @@
         <idNumber>253400V1H6ART1UQ0N98</idNumber>
       </id>
       <id>
+        <uid>146553</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>17 Oct 1990</idNumber>
+      </id>
+      <id>
         <uid>151145</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -2468,11 +2473,6 @@
         <uid>172703</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
-        <uid>146553</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>17 Oct 1990</idNumber>
       </id>
       <id>
         <uid>146669</uid>
