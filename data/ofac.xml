@@ -30191,6 +30191,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>146057</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>2004</idNumber>
+      </id>
+      <id>
         <uid>146710</uid>
         <idType>Executive Order 14024 Directive Information -</idType>
         <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
@@ -30209,11 +30214,6 @@
         <uid>146824</uid>
         <idType>Effective Date (EO 14024 Directive 3):</idType>
         <idNumber>26 Mar 2022</idNumber>
-      </id>
-      <id>
-        <uid>146057</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>2004</idNumber>
       </id>
     </idList>
     <akaList>
