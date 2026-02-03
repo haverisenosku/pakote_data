@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>16/01/2026</DateGenerated>
+  <DateGenerated>02/02/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -152242,6 +152242,605 @@ ANSARI has facilitated and provided support to hostile activity by the Governmen
         <BirthDetails>
           <Location>
             <TownOfBirth>Ghazvin</TownOfBirth>
+            <CountryOfBirth>Iran</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>02/02/2026</LastUpdated>
+    <DateDesignated>02/02/2026</DateDesignated>
+    <UniqueID>IRN0255</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Eskandar</Name1>
+        <Name6>Momeni</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Eskandar MOMENI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground: MOMENI is or has been responsible for a serious human rights violation or abuse in Iran, in his role as Iran’s Interior Minister and Deputy Commander-in-Chief of the armed forces in the police force, based on the violence perpetrated against protestors in 2025 and 2026 by Iranian security forces.  
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>dd/mm/1962</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Iran</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Qaem Shahr</TownOfBirth>
+            <CountryOfBirth>Iran</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>02/02/2026</LastUpdated>
+    <DateDesignated>02/02/2026</DateDesignated>
+    <UniqueID>IRN0258</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Mohammad</Name1>
+        <Name2>Reza</Name2>
+        <Name6>Hashemifar</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Mohammad Reza HASHEMIFAR  is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground: HASHEMIFAR is or has been involved in the commission of a serious human rights violation or abuse in Iran, amounting to a serious violation of the right to freedom of expression and peaceful assembly, through his role as head of the Lorestan Provincial Police.   
+</UKStatementofReasons>
+  </Designation>
+  <Designation>
+    <LastUpdated>02/02/2026</LastUpdated>
+    <DateDesignated>02/02/2026</DateDesignated>
+    <UniqueID>IRN0259</UniqueID>
+    <Names>
+      <Name>
+        <Name6>Law Enforcement Forces of the Islamic Republic of Iran </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>FARAJA</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>Law Enforcement Command of the Islamic Republic of Iran </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>NAJA</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>Police Command of the Islamic Republic of Iran </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+ 
+The Secretary of State considers that there are reasonable grounds to suspect that the Law Enforcement Forces of the Islamic Republic of Iran is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground:  
+ 
+The Law Enforcement Forces of the Islamic Republic of Iran is or has been responsible for activity which amounts to a serious human rights violation or abuse in Iran, namely the right to freedom of expression and peaceful assembly. 
+ 
+Specifically, during the January 2026 protests the Law Enforcement Forces engaged in, and provided support for, deadly crackdowns on protesters across Iran.  
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Iran</AddressCountry>
+      </Address>
+    </Addresses>
+    <Websites>
+      <Website>http://police.ir/ </Website>
+    </Websites>
+  </Designation>
+  <Designation>
+    <LastUpdated>02/02/2026</LastUpdated>
+    <DateDesignated>02/02/2026</DateDesignated>
+    <UniqueID>IRN0260</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Ahmed</Name1>
+        <Name6>Amini</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Colonel</Title>
+    </Titles>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Ahmed AMINI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground:  AMINI is or has been responsible for a serious human rights violation or abuse in Iran, namely through overseeing the violent enforcement of mandatory hijab in his role as police chief in Noor. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Iran</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>02/02/2026</LastUpdated>
+    <DateDesignated>02/02/2026</DateDesignated>
+    <UniqueID>IRN0261</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Mohammad</Name1>
+        <Name6>Ghanbari</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Brigadier General</Title>
+    </Titles>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Mohammad GHANBARI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground: GHANBARI is or has been responsible for, engaging in, or providing support a serious human rights violation or abuse in Iran, namely torture, sexual violence and violent crackdowns against protesters. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Iran</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>02/02/2026</LastUpdated>
+    <DateDesignated>02/02/2026</DateDesignated>
+    <UniqueID>IRN0262</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Ahmad</Name1>
+        <Name2>Darvish</Name2>
+        <Name6>Goftar</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Judge</Title>
+    </Titles>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Ahmad Darvish GOFTAR is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground:  GOFTAR is or has been responsible for, engaging in or providing support for a serious human rights violation or abuse in Iran, through his position as a judge at Branch 1 of the Revolutionary Court of Rasht. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Iran</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>02/02/2026</LastUpdated>
+    <DateDesignated>02/02/2026</DateDesignated>
+    <UniqueID>IRN0263</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Mehdi</Name1>
+        <Name6>Rasakhi</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Judge</Title>
+    </Titles>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Mehdi RASAKHI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground: RASAKHI is or has been responsible for, engaging in or providing support for a serious human rights violation or abuse in Iran through his position as a judge at the Revolutionary Court of Rasht. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Iran</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>02/02/2026</LastUpdated>
+    <DateDesignated>02/02/2026</DateDesignated>
+    <UniqueID>IRN0264</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Mohammad</Name1>
+        <Name6>Zamani</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Mohammed ZAMANI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground: (1) ZAMANI is or has been responsible for, engaging in or providing support for a serious human rights violation or abuse in Iran, namely the murder of a protestor, in his position as a senior official in the Islamic Revolutionary Guard Corps (IRGC); (2) ZAMANI is a member of, or associated with, a person, namely the IRGC, that is or has been involved in the commission of a serious human rights violation or abuse in Iran. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Iran</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>02/02/2026</LastUpdated>
+    <DateDesignated>02/02/2026</DateDesignated>
+    <UniqueID>IRN0265</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Seyed</Name1>
+        <Name2>Majid</Name2>
+        <Name3>Feiz</Name3>
+        <Name6>Jafari</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>سید مجید فیض جعفری </NameNonLatinScript>
+        <NonLatinScriptLanguage>Persian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Seyed Majid Feiz JAFARI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground: JAFARI is or has been responsible for activity which amounts to a serious human rights violation or abuse in Iran, namely the right to freedom of expression and peaceful assembly. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Iran</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>02/02/2026</LastUpdated>
+    <DateDesignated>02/02/2026</DateDesignated>
+    <UniqueID>IRN0266</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Yadollah</Name1>
+        <Name6>Bouali</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Yadollah</Name1>
+        <Name6>Booali</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Yadullah</Name1>
+        <Name6>Bouali</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Yadollah</Name1>
+        <Name6>Bou-Ali</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Yadollah</Name1>
+        <Name6>Buali</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+ 
+The Secretary of State considers that there are reasonable grounds to suspect that Yadollah BOUALI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground: BOUALI is or has been involved in the commission of serious human rights violations or abuses in Iran, specifically violating the right to freedom of expression and peaceful assembly, and the right to life. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>07/09/1965</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Iran</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>02/02/2026</LastUpdated>
+    <DateDesignated>02/02/2026</DateDesignated>
+    <UniqueID>IRN0267</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Babak</Name1>
+        <Name6>Zanjani</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Babak</Name1>
+        <Name2>Morteza</Name2>
+        <Name6>Zanjani</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>بابک زنجانی </NameNonLatinScript>
+        <NonLatinScriptLanguage>Persian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Babak ZANJANI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground: ZANJANI is or has provided financial services, or made available funds or economic resources, to those responsible for the commission of serious human rights abuses in Iran. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>12/03/1974</DOB>
+          <DOB>12/03/1971</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>L18597666</PassportNumber>
+          </Passport>
+          <Passport>
+            <PassportNumber>L95279398</PassportNumber>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Iran</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Tehran</TownOfBirth>
             <CountryOfBirth>Iran</CountryOfBirth>
           </Location>
         </BirthDetails>
