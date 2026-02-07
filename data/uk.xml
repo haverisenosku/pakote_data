@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>05/02/2026</DateGenerated>
+  <DateGenerated>06/02/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -2555,12 +2555,12 @@
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>D0009803</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>D0009716</PassportNumber>
             <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009716, issued on 25 Sept. 2021, issued in Kabul, Afghanistan (Name in Latin script: AMIR KHAN MUTAQI, name in original script: اميرخان متقي ; expires 25 Sept. 2026)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>D0009803</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -3206,8 +3206,8 @@
         <Positions>
           <Position>Governor of Khost and Paktika provinces under the Taliban regime</Position>
           <Position>Consular Department</Position>
-          <Position>Vice-Minister of Information and  Culture under the Taliban regime</Position>
           <Position>Ministry of Foreign Affairs under the Taliban regime</Position>
+          <Position>Vice-Minister of Information and  Culture under the Taliban regime</Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -7650,8 +7650,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1972</DOB>
           <DOB>dd/mm/1973</DOB>
+          <DOB>dd/mm/1972</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -7661,11 +7661,11 @@
         </Positions>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Sarpolad village, Washer District, Helmand Province</TownOfBirth>
+            <TownOfBirth>Arghandab District, Kandahar Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Arghandab District, Kandahar Province</TownOfBirth>
+            <TownOfBirth>Sarpolad village, Washer District, Helmand Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -9801,6 +9801,13 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressLine1>Kayla Village</AddressLine1>
+        <AddressLine2>near Miram Shah</AddressLine2>
+        <AddressLine5>North Waziristan Agency (NWA),</AddressLine5>
+        <AddressLine6>Federally Administered Tribal Areas (FATA)</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
         <AddressLine1>Near Dergey Manday Madrasa</AddressLine1>
         <AddressLine2>Dergey Manday Village</AddressLine2>
         <AddressLine3>near Miram Shah</AddressLine3>
@@ -9812,13 +9819,6 @@
         <AddressLine1>Sarana Zadran Village</AddressLine1>
         <AddressLine6>Paktia Province</AddressLine6>
         <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Kayla Village</AddressLine1>
-        <AddressLine2>near Miram Shah</AddressLine2>
-        <AddressLine5>North Waziristan Agency (NWA),</AddressLine5>
-        <AddressLine6>Federally Administered Tribal Areas (FATA)</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
       </Address>
       <Address>
         <AddressLine6>Peshawar</AddressLine6>
@@ -27876,12 +27876,12 @@ the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Sp
             <PassportAdditionalInformation>Libyan. Issued in Tripoli.</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>347834</PassportNumber>
-            <PassportAdditionalInformation>Libyan. Issued under name Ibrahim Ali Tantoush. Expired on 21 February 2014.</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>434021161</PassportNumber>
             <PassportAdditionalInformation>South African. Related to alias Abdel Ilah Sabri. Confiscated.</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>347834</PassportNumber>
+            <PassportAdditionalInformation>Libyan. Issued under name Ibrahim Ali Tantoush. Expired on 21 February 2014.</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -41456,17 +41456,17 @@ Iraq (possible alternative location as at Aug. 2015) </OtherInformation>
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Desa Taman Fajar</AddressLine1>
-        <AddressLine2>Kecamatan Probolinggo</AddressLine2>
-        <AddressLine3>Kabupaten Lampung Timur</AddressLine3>
-        <AddressLine4>Lampung</AddressLine4>
-        <AddressCountry>Indonesia</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Desa Gebang</AddressLine1>
         <AddressLine2>Kecamatan Masaran</AddressLine2>
         <AddressLine3>Kabupaten Sragen</AddressLine3>
         <AddressLine4>Jawa Tenagh</AddressLine4>
+        <AddressCountry>Indonesia</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Desa Taman Fajar</AddressLine1>
+        <AddressLine2>Kecamatan Probolinggo</AddressLine2>
+        <AddressLine3>Kabupaten Lampung Timur</AddressLine3>
+        <AddressLine4>Lampung</AddressLine4>
         <AddressCountry>Indonesia</AddressCountry>
       </Address>
     </Addresses>
@@ -63298,8 +63298,8 @@ We have reasonable grounds to suspect that Rampage Productions (“Rampage”) i
       <Website>www.Rampageproductions.co.uk </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>sales@rampageproductions.co.uk</EmailAddress>
       <EmailAddress>RAMPAGETRADE@aol.com</EmailAddress>
+      <EmailAddress>sales@rampageproductions.co.uk</EmailAddress>
       <EmailAddress>rampage-productions@hotmail.com</EmailAddress>
     </EmailAddresses>
   </Designation>
@@ -112030,8 +112030,8 @@ There are reasonable grounds to suspect that ZHU Zhongbiao (“ZHU”) is an inv
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Director of Jin Bei Group Company Limited</Position>
           <Position>Director of Cambodian Heng Xin Real Estate Company Limited</Position>
+          <Position>Director of Jin Bei Group Company Limited</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -112454,12 +112454,12 @@ There are reasonable grounds to suspect that QIU Wei Ren (“QIU”) is an invol
             <PassportAdditionalInformation>Cambodia</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>BXJXN</PassportNumber>
-            <PassportAdditionalInformation>Hong Kong</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>K00459432</PassportNumber>
             <PassportAdditionalInformation>Cyprus</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>BXJXN</PassportNumber>
+            <PassportAdditionalInformation>Hong Kong</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -112468,8 +112468,8 @@ There are reasonable grounds to suspect that QIU Wei Ren (“QIU”) is an invol
         </Nationalities>
         <Positions>
           <Position>Director of Prince Vanguard Development Company Limited</Position>
-          <Position>Owner of Sky Sailing Limited</Position>
           <Position>Owner of Unstoppable Bird Limited </Position>
+          <Position>Owner of Sky Sailing Limited</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -127295,16 +127295,16 @@ Pars Aviation Services Company is an involved person within the meaning of the I
 Qods Aeronautics Industries (QAI) is an involved person within the meaning of the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019. Qods Aeronautics Industries (QAI) is or has been   responsible for, providing support for or facilitating a relevant nuclear activity, specifically the development of a nuclear weapon delivery system in, or for use in, Iran.</UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Unit 207</AddressLine1>
-        <AddressLine2>Tarajit Maydane Taymori (or Teimori) Square</AddressLine2>
-        <AddressLine3>Basiri Building</AddressLine3>
-        <AddressLine4>Tarasht</AddressLine4>
+        <AddressLine1>Km 5 Karaj Special Road</AddressLine1>
+        <AddressLine2>P.O. Box 15875-1834</AddressLine2>
         <AddressLine6>Tehran</AddressLine6>
         <AddressCountry>Iran</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Km 5 Karaj Special Road</AddressLine1>
-        <AddressLine2>P.O. Box 15875-1834</AddressLine2>
+        <AddressLine1>Unit 207</AddressLine1>
+        <AddressLine2>Tarajit Maydane Taymori (or Teimori) Square</AddressLine2>
+        <AddressLine3>Basiri Building</AddressLine3>
+        <AddressLine4>Tarasht</AddressLine4>
         <AddressLine6>Tehran</AddressLine6>
         <AddressCountry>Iran</AddressCountry>
       </Address>
@@ -131957,13 +131957,13 @@ Arvandan Oil &amp; Gas Company is owned or controlled directly or indirectly by 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+(98) 21-88724246</PhoneNumber>
       <PhoneNumber>+(98) 61-32268300</PhoneNumber>
+      <PhoneNumber>+(98) 21-88724246</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.aogc.ir</Website>
       <Website>agoc.ir </Website>
       <Website>www.arvandan.org</Website>
+      <Website>www.aogc.ir</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>info@aogc.ir</EmailAddress>
@@ -132684,8 +132684,8 @@ Machine Sazi Arak is an involved person within the meaning of the Iran (Sanction
       <PhoneNumber>+98-86- 32172908</PhoneNumber>
       <PhoneNumber>+98-86-32172916-32172920</PhoneNumber>
       <PhoneNumber>+98-86-32172920-32172916</PhoneNumber>
-      <PhoneNumber>+98-86-33130031-9</PhoneNumber>
       <PhoneNumber>+98-86-32172960-32172955</PhoneNumber>
+      <PhoneNumber>+98-86-33130031-9</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.msa.ir</Website>
@@ -133027,9 +133027,9 @@ n, or for use in, Iran; or the development of a nuclear weapon delivery system i
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>Iran Registration No. - 126785 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>SWIFT/BIC - PBIRIRTH </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Iran National ID Number – 10101702747 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Iran Registration No. - 126785 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -133098,9 +133098,9 @@ Sina Bank is an involved person under the Iran (Sanctions) (Nuclear) (EU Exit) R
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>Iran Registration No. 2904  </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>BvD ID: IRFEB54525
 SWIFT/BIC – SINAIRTH</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Iran Registration No. 2904  </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -152815,15 +152815,15 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>12/03/1971</DOB>
           <DOB>12/03/1974</DOB>
+          <DOB>12/03/1971</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>L95279398</PassportNumber>
+            <PassportNumber>L18597666</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>L18597666</PassportNumber>
+            <PassportNumber>L95279398</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -215945,10 +215945,10 @@ Petr Olegovich Aven (hereinafter AVEN) is an involved person under the Russia (S
           <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
+          <Position>Chairman of the Board Alfastrakhovanie</Position>
           <Position>Former President of Alfa-Bank (Russia)</Position>
           <Position>Former Chairman of the Board AHB Holdings</Position>
           <Position>Former Chairman of the Board Alfa-Bank Russia</Position>
-          <Position>Chairman of the Board Alfastrakhovanie</Position>
           <Position>Member of the supervisory board Alfa Bank Consortium</Position>
         </Positions>
         <Genders>
@@ -239848,80 +239848,6 @@ The trust services sanctions were imposed on 21/03/2023.
   <Designation>
     <LastUpdated>09/04/2025</LastUpdated>
     <DateDesignated>04/05/2022</DateDesignated>
-    <UniqueID>RUS1023</UniqueID>
-    <OFSIGroupID>15354</OFSIGroupID>
-    <Names>
-      <Name>
-        <Name1>Alexey</Name1>
-        <Name2>Valeryevich</Name2>
-        <Name6>Panferov</Name6>
-        <NameType>Primary Name</NameType>
-      </Name>
-      <Name>
-        <Name1>Alexei</Name1>
-        <Name2>Valeryevich</Name2>
-        <Name6>Panferov</Name6>
-        <NameType>Primary Name Variation</NameType>
-      </Name>
-    </Names>
-    <NonLatinNames>
-      <NonLatinName>
-        <NameNonLatinScript>Алексей Валерьевич Панферов </NameNonLatinScript>
-        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
-        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
-      </NonLatinName>
-    </NonLatinNames>
-    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
-    <IndividualEntityShip>Individual</IndividualEntityShip>
-    <DesignationSource>UK</DesignationSource>
-    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
-    <SanctionsImposedIndicators>
-      <AssetFreeze>true</AssetFreeze>
-      <ArmsEmbargo>false</ArmsEmbargo>
-      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
-      <CharteringOfShips>false</CharteringOfShips>
-      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
-      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
-      <Deflag>false</Deflag>
-      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
-      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
-      <TravelBan>true</TravelBan>
-      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
-      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
-      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
-      <TrustServicesSanctions>true</TrustServicesSanctions>
-      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
-    </SanctionsImposedIndicators>
-    <OtherInformation>The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
-    <UKStatementofReasons>
- Alexey Valeryevich PANFEROV is the Deputy Chairman of the Management Board of SOVCOMBANK. In his role, PANFEROV is a member of and associated with SOVCOMBANK. SOVCOMBANK is an involved person under the Russian (EU Exit) (Sanctions) regulations 2019. 
- The trust services sanctions were imposed on 21/03/2023.</UKStatementofReasons>
-    <IndividualDetails>
-      <Individual>
-        <DOBs>
-          <DOB>30/09/1970</DOB>
-        </DOBs>
-        <PassportDetails>
-          <Passport>
-            <PassportNumber>761897623</PassportNumber>
-            <PassportAdditionalInformation>Russia</PassportAdditionalInformation>
-          </Passport>
-        </PassportDetails>
-        <Nationalities>
-          <Nationality>Russia</Nationality>
-        </Nationalities>
-        <Positions>
-          <Position>Deputy Chairman of the Management Board of SOVCOMBANK </Position>
-        </Positions>
-        <Genders>
-          <Gender>Male</Gender>
-        </Genders>
-      </Individual>
-    </IndividualDetails>
-  </Designation>
-  <Designation>
-    <LastUpdated>09/04/2025</LastUpdated>
-    <DateDesignated>04/05/2022</DateDesignated>
     <UniqueID>RUS1024</UniqueID>
     <OFSIGroupID>15356</OFSIGroupID>
     <Names>
@@ -242865,8 +242791,8 @@ Alfa-Bank JSC is a Russian bank. There are reasonable grounds to suspect that Al
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>7 495 78-888-78 </PhoneNumber>
       <PhoneNumber>7 495 755-58-58 </PhoneNumber>
+      <PhoneNumber>7 495 78-888-78 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://alfabank.ru/</Website>
@@ -244140,8 +244066,8 @@ SMP BANK is a Russian bank. SMP Bank is or has been involved in obtaining a bene
     </Websites>
     <EmailAddresses>
       <EmailAddress>smpbank@smpbank.ru</EmailAddress>
-      <EmailAddress>bk@smpbank.ru</EmailAddress>
       <EmailAddress>Money@smpbank.ru</EmailAddress>
+      <EmailAddress>bk@smpbank.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -262140,8 +262066,8 @@ Oleg Valentinovich Belozyorov is the Chief Executive of Russian Railways (RDZ) a
           <DOB>26/09/1969</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Latvia</Nationality>
           <Nationality>Russia</Nationality>
+          <Nationality>Latvia</Nationality>
         </Nationalities>
         <Positions>
           <Position>Chief Executive Officer of Russian Railways</Position>
@@ -264372,8 +264298,8 @@ The Secretary of State considers that there are reasonable grounds to suspect Se
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7(495) 9565415</PhoneNumber>
-      <PhoneNumber>+7(495) 9565414</PhoneNumber>
       <PhoneNumber>+7(499) 6500150</PhoneNumber>
+      <PhoneNumber>+7(495) 9565414</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>t-platforms.ru</Website>
@@ -269191,17 +269117,17 @@ JOINT STOCK COMPANY MOSCOW INDUSTRIAL BANK is a Russian commercial bank. It is o
           <TypeOfEntity>Financial Institution</TypeOfEntity>
         </TypeOfEntities>
         <Subsidiaries>
+          <Subsidiary>Agropromyshlenny Kompleks Voronezhski OOO, Anninskii Elevator OOO, Auditkonsalt OOO, Belinveststroi OOO, Dve Stolitsy OOO, Kontrakt OOO, Ladoga OOO, Nekommercheskaya Organizatsiya Fond Khimicheskoe Razoruzhenie I Konversiya  </Subsidiary>
           <Subsidiary>Azovskaya Zernovaya Kompaniya OOO 
 Ekspluatiruyushchaya Kompaniya Tsentr OOO </Subsidiary>
-          <Subsidiary>Agropromyshlenny Kompleks Voronezhski OOO, Anninskii Elevator OOO, Auditkonsalt OOO, Belinveststroi OOO, Dve Stolitsy OOO, Kontrakt OOO, Ladoga OOO, Nekommercheskaya Organizatsiya Fond Khimicheskoe Razoruzhenie I Konversiya  </Subsidiary>
         </Subsidiaries>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>Legal Entity Number 2534006SJ05GGKETEY75 (Russia) 
-Registration Number 1027739179160 (Russia) </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>SWIFT/BIC MINNRUMM,
 BIK (RU) 044525600,
 Tax ID No. 7725039953 (Russia),
 Government Gazette Number 09317135 (Russia)</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Legal Entity Number 2534006SJ05GGKETEY75 (Russia) 
+Registration Number 1027739179160 (Russia) </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -275619,8 +275545,8 @@ Alexey Petrovich Belous is an “involved person” under the Russia (Sanctions)
           <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Deputy Chairman of Gazprombank’s Management Board</Position>
           <Position>Member of Gazprombank’s Management Board</Position>
+          <Position>Deputy Chairman of Gazprombank’s Management Board</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -289459,8 +289385,8 @@ Demetris Ioannides is Managing Director of Cyprus-based corporate services provi
           <DOB>28/09/1943</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Cyprus</Nationality>
           <Nationality>United Kingdom</Nationality>
+          <Nationality>Cyprus</Nationality>
         </Nationalities>
         <Positions>
           <Position>Managing Director  Meritservus HC Limited</Position>
@@ -300459,8 +300385,8 @@ Vadym Oleksandrovich TREGUB is an involved person under the Russia (Sanctions) (
           <DOB>10/10/1985</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Cyprus</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
           <Position>Director of Redensy Management Ltd, Director of VALENTHA HOLDINGS LIMITED</Position>
@@ -307196,8 +307122,8 @@ Central Counterparty National Clearing Centre is an involved person under the Ru
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+74953633232 </PhoneNumber>
       <PhoneNumber>+7 495 782 9794 </PhoneNumber>
+      <PhoneNumber>+74953633232 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.nationalclearingcentre.com/ </Website>
@@ -309681,8 +309607,8 @@ VNIIR Progress is an involved person under The Russia (Sanctions) (EU Exit) Regu
       <PhoneNumber>+7 8352 390029</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>vniir-progress.ru</Website>
       <Website>Vniir.ru</Website>
+      <Website>vniir-progress.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>progress@vniir.ru</EmailAddress>
@@ -309693,8 +309619,8 @@ VNIIR Progress is an involved person under The Russia (Sanctions) (EU Exit) Regu
           <TypeOfEntity>Closed Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1112130013270</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN: 2130094170</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1112130013270</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -314478,8 +314404,8 @@ TSK VEKTOR is an involved person under the Russia (Sanctions) (EU Exit) Regulati
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1153850042246</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 3849055365</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1153850042246</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -316079,7 +316005,7 @@ AK MICROTECH is an involved entity under the Russia (Sanctions) (EU Exit) Regula
     </EntityDetails>
   </Designation>
   <Designation>
-    <LastUpdated>09/04/2025</LastUpdated>
+    <LastUpdated>06/02/2026</LastUpdated>
     <DateDesignated>07/11/2024</DateDesignated>
     <UniqueID>RUS2288</UniqueID>
     <OFSIGroupID>16655</OFSIGroupID>
@@ -316116,7 +316042,7 @@ AK MICROTECH is an involved entity under the Russia (Sanctions) (EU Exit) Regula
     </SanctionsImposedIndicators>
     <OtherInformation>The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
     <UKStatementofReasons>
-BY INOVASYON TEKNOLOJI SANAYI VE TICARET LIMITED SIRKETI is an involved entity under the Russia (Sanctions) (EU Exit) Regulations 2019 because it is or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely, the Russian defence sector. 
+The Secretary of State has reasonable grounds to suspect BY INOVASYON TEKNOLOJI SANAYI VE TICARET LIMITED SIRKETI is an involved entity under the Russia (Sanctions) (EU Exit) Regulations 2019 because it is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by providing financial services, or making available funds, economic resources, goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
 </UKStatementofReasons>
     <Addresses>
       <Address>
@@ -316197,13 +316123,13 @@ Andrey Naumovich Perla (hereafter Perla) is an “involved person” under the R
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Maslennikova 41/24</AddressLine1>
-        <AddressLine6>Samara</AddressLine6>
+        <AddressLine1>Gurzufskaya 16/102</AddressLine1>
+        <AddressLine6>Yekaterinburg</AddressLine6>
         <AddressCountry>Russia</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Gurzufskaya 16/102</AddressLine1>
-        <AddressLine6>Yekaterinburg</AddressLine6>
+        <AddressLine1>Maslennikova 41/24</AddressLine1>
+        <AddressLine6>Samara</AddressLine6>
         <AddressCountry>Russia</AddressCountry>
       </Address>
     </Addresses>
@@ -316211,13 +316137,13 @@ Andrey Naumovich Perla (hereafter Perla) is an “involved person” under the R
       <PhoneNumber>+79220206444</PhoneNumber>
       <PhoneNumber>+79220279500</PhoneNumber>
       <PhoneNumber>+79783000289</PhoneNumber>
-      <PhoneNumber>+79193175340</PhoneNumber>
       <PhoneNumber>+79221630515</PhoneNumber>
+      <PhoneNumber>+79193175340</PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
       <EmailAddress>perla0606@mail.ru</EmailAddress>
-      <EmailAddress>andrewperla@gmail.com</EmailAddress>
       <EmailAddress>dvp32@sev.gov.ru</EmailAddress>
+      <EmailAddress>andrewperla@gmail.com</EmailAddress>
     </EmailAddresses>
     <IndividualDetails>
       <Individual>
@@ -316409,13 +316335,13 @@ Nikolai Aleksandrovich  Tupikin (hereafter Tupikin ) is an “involved person�
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+74991967100</PhoneNumber>
-      <PhoneNumber>+79104626802</PhoneNumber>
       <PhoneNumber>+79160353451</PhoneNumber>
+      <PhoneNumber>+79104626802</PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
       <EmailAddress>nikolay.tupikin@gmail.com</EmailAddress>
-      <EmailAddress>kurnikoff@yandex.ru</EmailAddress>
       <EmailAddress>natupikin@mail.ru</EmailAddress>
+      <EmailAddress>kurnikoff@yandex.ru</EmailAddress>
     </EmailAddresses>
     <IndividualDetails>
       <Individual>
@@ -316505,18 +316431,18 @@ obtaining a benefit from or supporting the Government of Russia
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Prospekt Novoyasenevskii</AddressLine1>
-        <AddressLine2>d. 23, k. 1</AddressLine2>
-        <AddressLine6>Moscow</AddressLine6>
-        <AddressPostalCode>117463</AddressPostalCode>
-        <AddressCountry>Russia</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Per. Bolshoi Kislovskiy</AddressLine1>
         <AddressLine2>d. 1, str. 2</AddressLine2>
         <AddressLine3>Arbat Municipal Okrug</AddressLine3>
         <AddressLine6>Moscow</AddressLine6>
         <AddressPostalCode>125009</AddressPostalCode>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Prospekt Novoyasenevskii</AddressLine1>
+        <AddressLine2>d. 23, k. 1</AddressLine2>
+        <AddressLine6>Moscow</AddressLine6>
+        <AddressPostalCode>117463</AddressPostalCode>
         <AddressCountry>Russia</AddressCountry>
       </Address>
     </Addresses>
@@ -316602,16 +316528,16 @@ obtaining a benefit from or supporting the Government of Russia
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Pereulok Bolshoi Kislovskiy</AddressLine1>
-        <AddressLine2>d. 1, str. 2</AddressLine2>
-        <AddressLine3>Arbat Municipal Okrug</AddressLine3>
+        <AddressLine1>Ulitsa Bolshaya Nikitskaya</AddressLine1>
+        <AddressLine2>d. 12, str. 1</AddressLine2>
         <AddressLine6>Moscow</AddressLine6>
         <AddressPostalCode>125009</AddressPostalCode>
         <AddressCountry>Russia</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Ulitsa Bolshaya Nikitskaya</AddressLine1>
-        <AddressLine2>d. 12, str. 1</AddressLine2>
+        <AddressLine1>Pereulok Bolshoi Kislovskiy</AddressLine1>
+        <AddressLine2>d. 1, str. 2</AddressLine2>
+        <AddressLine3>Arbat Municipal Okrug</AddressLine3>
         <AddressLine6>Moscow</AddressLine6>
         <AddressPostalCode>125009</AddressPostalCode>
         <AddressCountry>Russia</AddressCountry>
@@ -317623,8 +317549,8 @@ ALL-RUSSIAN “YOUNG ARMY” MILITARY PATRIOTIC SOCIAL MOVEMENT (hereafter ‘YU
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1167700061540</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 7704366170</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1167700061540</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -321741,8 +321667,8 @@ CHAIKA is or has been involved in obtaining a benefit from or supporting the Gov
     <IndividualDetails>
       <Individual>
         <Nationalities>
-          <Nationality>Switzerland</Nationality>
           <Nationality>Russia</Nationality>
+          <Nationality>Switzerland</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -322762,8 +322688,8 @@ FEDERAL STATE UNITARY ENTERPRISE “MAIN CENTER OF SPECIAL COMMUNICATION” is a
     <PhoneNumbers>
       <PhoneNumber>7 (495) 686-8021</PhoneNumber>
       <PhoneNumber>7 495 7859244</PhoneNumber>
-      <PhoneNumber>7(495)620-46-20</PhoneNumber>
       <PhoneNumber>8-800-250-60-70   </PhoneNumber>
+      <PhoneNumber>7(495)620-46-20</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.cccb.ru </Website>
@@ -323107,8 +323033,8 @@ LLC KRAFTTEK is an involved person under the Russia (Sanctions) (EU Exit) Regula
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (812) 622-89-89 </PhoneNumber>
       <PhoneNumber>+7 9681 941805</PhoneNumber>
+      <PhoneNumber>+7 (812) 622-89-89 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.crafttech.ru</Website>
@@ -324263,10 +324189,10 @@ NEWAY CNC EQUIPMENT (SUZHOU) CO LTD, is an involved person under the Russia (San
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 512 6239 2186</PhoneNumber>
       <PhoneNumber>+86 512 6239 9980</PhoneNumber>
       <PhoneNumber>+86 512-6607 1116</PhoneNumber>
       <PhoneNumber>+86 512-6607 6668</PhoneNumber>
+      <PhoneNumber>+86 512 6239 2186</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>http://www.newaycnc.com</Website>
@@ -325378,8 +325304,8 @@ LLC INTERVESP-M is an involved person as it is or has been destabilising Ukraine
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>TIN - 7706441909 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN - 1167746856738 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>TIN - 7706441909 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -325812,8 +325738,8 @@ LLC GRANT-TRADE is or has been involved in destabilising Ukraine or undermining 
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>INN – 7722779734</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>OGRN – 1127746497328</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP - 772201001</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN – 1127746497328</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -336436,8 +336362,8 @@ PIONEER TRADE LLC is or has been involved in obtaining a benefit from or support
     <PhoneNumbers>
       <PhoneNumber>+7 (3852) 506-555</PhoneNumber>
       <PhoneNumber>+7 (3852) 55-02-00</PhoneNumber>
-      <PhoneNumber>+7 (3852) 63-11-51</PhoneNumber>
       <PhoneNumber>+7 (3852) 55-02-20 </PhoneNumber>
+      <PhoneNumber>+7 (3852) 63-11-51</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>trade-pioneer.ru </Website>
@@ -337275,8 +337201,8 @@ JOINT STOCK COMPANY VOLGOGRAD METALLURGICAL PLANT "RED OCTOBER" is involved in o
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1113459005175</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 3442117699 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1113459005175</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -354511,8 +354437,8 @@ LLC MYTISHCHI INSTRUMENT-MAKING PLANT is an "involved person" under the Russian 
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 5029217125</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1175029001641</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 5029217125</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -357891,8 +357817,8 @@ NPK PROGRESS is an "involved person" under the Russia (Sanctions) (EU Exit) Regu
       <Website>https://npkprogress.ru/ </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info-zakaz@npkpro.ru </EmailAddress>
       <EmailAddress>npk.progress@gmail.com </EmailAddress>
+      <EmailAddress>info-zakaz@npkpro.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -358087,8 +358013,8 @@ LLC HARTIS DV is an "involved person" under the Russia (Sanctions) (EU Exit) Reg
       <Website>https://hartisdv.ru/ </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>balakaeva@hartisdv.ru </EmailAddress>
       <EmailAddress>info@hartisdv.ru </EmailAddress>
+      <EmailAddress>balakaeva@hartisdv.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -359189,15 +359115,15 @@ HORSWAY TECH (HK) CO., LIMITED is an "involved person" under the Russia (Sanctio
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Rm 1318, Sunbeam Centre</AddressLine1>
-        <AddressLine2>27 Shing Yip Street</AddressLine2>
-        <AddressLine5>Kwun Tong</AddressLine5>
+        <AddressLine1>Flat/Rm 2003 20/F Hong Kong Plaza</AddressLine1>
+        <AddressLine2>188 Connaught Road West</AddressLine2>
         <AddressLine6>Hong Kong</AddressLine6>
         <AddressCountry>China</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Flat/Rm 2003 20/F Hong Kong Plaza</AddressLine1>
-        <AddressLine2>188 Connaught Road West</AddressLine2>
+        <AddressLine1>Rm 1318, Sunbeam Centre</AddressLine1>
+        <AddressLine2>27 Shing Yip Street</AddressLine2>
+        <AddressLine5>Kwun Tong</AddressLine5>
         <AddressLine6>Hong Kong</AddressLine6>
         <AddressCountry>China</AddressCountry>
       </Address>
@@ -359670,13 +359596,13 @@ Transstroibank
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 786 37 73 </PhoneNumber>
       <PhoneNumber>+7 495 788 17 68 </PhoneNumber>
+      <PhoneNumber>+7 495 786 37 73 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>http://www.tsbnk.ru</Website>
-      <Website>http://www.transstroybank.ru  </Website>
       <Website>http://www.transstroibank.ru  </Website>
+      <Website>http://www.transstroybank.ru  </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>tsbank@transstroybank.ru  </EmailAddress>
@@ -360303,16 +360229,16 @@ PJSC Oil Company LUKOIL (hereafter LUKOIL) is an involved person under the Russi
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 628 98 41</PhoneNumber>
       <PhoneNumber>+7 495 627 44 44</PhoneNumber>
+      <PhoneNumber>+7 495 628 98 41</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>lukoil.ru</Website>
       <Website>www.lukoil.com</Website>
+      <Website>lukoil.ru</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>lukoil@lukoil.com</EmailAddress>
       <EmailAddress>lukoil@lukoil.ru</EmailAddress>
+      <EmailAddress>lukoil@lukoil.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -364396,8 +364322,8 @@ The Secretary of State has reasonable grounds to suspect that GELION BUSINESS TR
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+998 94 100-80-55</PhoneNumber>
       <PhoneNumber>+998 90 924 66 65</PhoneNumber>
+      <PhoneNumber>+998 94 100-80-55</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://gelion.uz/ </Website>
@@ -365423,8 +365349,8 @@ The Secretary of State has reasonable grounds to suspect that ALTRUM GROUP FZCO 
           <DOB>24/12/1965</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Sweden</Nationality>
           <Nationality>Somalia</Nationality>
+          <Nationality>Sweden</Nationality>
         </Nationalities>
       </Individual>
     </IndividualDetails>
@@ -366300,8 +366226,8 @@ The Secretary of State has reasonable grounds to suspect that ALTRUM GROUP FZCO 
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>United States</Nationality>
           <Nationality>Syria</Nationality>
+          <Nationality>United States</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
@@ -366901,8 +366827,8 @@ The Secretary of State has reasonable grounds to suspect that ALTRUM GROUP FZCO 
       <Individual>
         <DOBs>
           <DOB>dd/mm/1971</DOB>
-          <DOB>dd/mm/1972</DOB>
           <DOB>dd/mm/1973</DOB>
+          <DOB>dd/mm/1972</DOB>
         </DOBs>
         <Positions>
           <Position>Deputy leader of Al-Shabaab</Position>
@@ -367884,8 +367810,8 @@ Michael Makuei Leuth has held the position of Minister for Information and Broad
         </Nationalities>
         <Positions>
           <Position>Deputy Chief of General Staff for Logistics</Position>
-          <Position>Deputy Chief of Defence Staff</Position>
           <Position>Inspector General of the Army</Position>
+          <Position>Deputy Chief of Defence Staff</Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -368067,12 +367993,12 @@ Michael Makuei Leuth has held the position of Minister for Information and Broad
             <PassportAdditionalInformation>Sudan number</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>B002606</PassportNumber>
-            <PassportAdditionalInformation>Sudan number</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>DA025963</PassportNumber>
             <PassportAdditionalInformation>Uganda.</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>B002606</PassportNumber>
+            <PassportAdditionalInformation>Sudan number</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -370402,18 +370328,18 @@ Sudan, including El Fasher.
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>AP628498</PassportNumber>
+            <PassportNumber>YB7731256</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>YB7731256</PassportNumber>
+            <PassportNumber>AP628498</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
           <Nationality>Colombia</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Retired Army Colonel </Position>
           <Position>Recruiter for A4SI (INTERNATIONAL SERVICES AGENCY S.A.S)</Position>
+          <Position>Retired Army Colonel </Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -370505,8 +370431,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </Nationalities>
         <Positions>
           <Position>Head of the Sudan Shield Forces</Position>
-          <Position>Senior SAF Commander</Position>
           <Position>Former Senior RSF Commander</Position>
+          <Position>Senior SAF Commander</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -372510,8 +372436,8 @@ There are reasonable grounds to suspect that they are an involved person under t
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>United Kingdom</Nationality>
           <Nationality>Syria</Nationality>
+          <Nationality>United Kingdom</Nationality>
         </Nationalities>
         <Positions>
           <Position>Wife of President Bashar Al Asad</Position>
@@ -373745,8 +373671,8 @@ There are reasonable grounds to suspect that they are an involved person under t
           <DOB>dd/mm/1945</DOB>
           <DOB>dd/mm/1946</DOB>
           <DOB>dd/mm/1947</DOB>
-          <DOB>dd/mm/1948</DOB>
           <DOB>dd/mm/1950</DOB>
+          <DOB>dd/mm/1948</DOB>
           <DOB>dd/mm/1949</DOB>
         </DOBs>
         <Nationalities>
@@ -385033,10 +384959,10 @@ There are reasonable grounds to suspect that they are an involved person under t
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>842781</PassportNumber>
+            <PassportNumber>86449</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>86449</PassportNumber>
+            <PassportNumber>842781</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -385956,8 +385882,8 @@ There are reasonable grounds to suspect that they are an involved person under t
           <DOB>dd/mm/1952</DOB>
         </DOBs>
         <Positions>
-          <Position>Former Vice Prime Minister for Economic Affairs</Position>
           <Position>Former Minister for Domestic Trade and Consumer Protection</Position>
+          <Position>Former Vice Prime Minister for Economic Affairs</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -390856,8 +390782,8 @@ There are reasonable grounds to suspect that they are an involved person under t
       <Entity>
         <TypeOfEntities>
           <TypeOfEntity>Private Joint Stock Company</TypeOfEntity>
-          <TypeOfEntity>Construction</TypeOfEntity>
           <TypeOfEntity>Joint Venture</TypeOfEntity>
+          <TypeOfEntity>Construction</TypeOfEntity>
         </TypeOfEntities>
       </Entity>
     </EntityDetails>
@@ -391033,8 +390959,8 @@ There are reasonable grounds to suspect that they are an involved person under t
     <EntityDetails>
       <Entity>
         <TypeOfEntities>
-          <TypeOfEntity>Private</TypeOfEntity>
           <TypeOfEntity>Real Estate</TypeOfEntity>
+          <TypeOfEntity>Private</TypeOfEntity>
         </TypeOfEntities>
         <Subsidiaries>
           <Subsidiary>Cham Holdings (parent), Cham Holding Building, Daraa Highway, Ashrafiyat Sahnaya Rif Dimashq, Syria, P.O. Box 9525</Subsidiary>
@@ -391266,8 +391192,8 @@ There are reasonable grounds to suspect that they are an involved person under t
     <EntityDetails>
       <Entity>
         <TypeOfEntities>
-          <TypeOfEntity>Private</TypeOfEntity>
           <TypeOfEntity>Investment</TypeOfEntity>
+          <TypeOfEntity>Private</TypeOfEntity>
         </TypeOfEntities>
         <Subsidiaries>
           <Subsidiary>Cham Holding (parent), Cham Holding Building, Daraa Highway, Ashrafiyat Sahnaya Rif Dimashq, Syria, P.O. Box 9525</Subsidiary>
@@ -391630,14 +391556,14 @@ There are reasonable grounds to suspect that they are an involved person under t
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>PO Box 21120</AddressLine1>
-        <AddressLine5>Baramkeh</AddressLine5>
+        <AddressLine1>PO Box 5966</AddressLine1>
+        <AddressLine2>Abou Bakr Al Seddeq St.</AddressLine2>
         <AddressLine6>Damascus</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>PO Box 5966</AddressLine1>
-        <AddressLine2>Abou Bakr Al Seddeq St.</AddressLine2>
+        <AddressLine1>PO Box 21120</AddressLine1>
+        <AddressLine5>Baramkeh</AddressLine5>
         <AddressLine6>Damascus</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
       </Address>
@@ -391651,8 +391577,8 @@ There are reasonable grounds to suspect that they are an involved person under t
     <PhoneNumbers>
       <PhoneNumber>+963112212743</PhoneNumber>
       <PhoneNumber>+963115110117</PhoneNumber>
-      <PhoneNumber>+963112121816</PhoneNumber>
       <PhoneNumber>+963112214650</PhoneNumber>
+      <PhoneNumber>+963112121816</PhoneNumber>
       <PhoneNumber>+963112121834</PhoneNumber>
     </PhoneNumbers>
   </Designation>
@@ -391784,15 +391710,15 @@ There are reasonable grounds to suspect that they are an involved person under t
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>P.O. Box 2230</AddressLine1>
-        <AddressLine5>Al-Hameh</AddressLine5>
-        <AddressLine6>Damascus Countryside</AddressLine6>
-      </Address>
-      <Address>
         <AddressLine1>P.O. Box 2330</AddressLine1>
         <AddressLine2>Al Thawraa Street</AddressLine2>
         <AddressLine6>Damascus</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>P.O. Box 2230</AddressLine1>
+        <AddressLine5>Al-Hameh</AddressLine5>
+        <AddressLine6>Damascus Countryside</AddressLine6>
       </Address>
     </Addresses>
   </Designation>
@@ -392090,8 +392016,8 @@ There are reasonable grounds to suspect that they are an involved person under t
     <EntityDetails>
       <Entity>
         <TypeOfEntities>
-          <TypeOfEntity>Partially owned by Riyad Chaliche (member of Assad family)</TypeOfEntity>
           <TypeOfEntity>Partially state-owned</TypeOfEntity>
+          <TypeOfEntity>Partially owned by Riyad Chaliche (member of Assad family)</TypeOfEntity>
         </TypeOfEntities>
       </Entity>
     </EntityDetails>
@@ -392142,11 +392068,11 @@ There are reasonable grounds to suspect that they are an involved person under t
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Damascus</AddressLine6>
-      </Address>
-      <Address>
         <AddressLine5>PO Box 4470</AddressLine5>
         <AddressCountry>Syria</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine6>Damascus</AddressLine6>
       </Address>
     </Addresses>
     <EntityDetails>
@@ -392348,8 +392274,8 @@ There are reasonable grounds to suspect that they are an involved person under t
     <PhoneNumbers>
       <PhoneNumber>+963-11-5316396</PhoneNumber>
       <PhoneNumber>+963-932-878282</PhoneNumber>
-      <PhoneNumber>+963-11-5327266</PhoneNumber>
       <PhoneNumber>+963-933-526812</PhoneNumber>
+      <PhoneNumber>+963-11-5327266</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>http://sites.google.com/site/sorohco</Website>
@@ -393475,8 +393401,8 @@ There are reasonable grounds to suspect that they are an involved person under t
           <Nationality>Syria</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Governor of Damascus</Position>
           <Position>Chairman of Damascus Cham Holding Company</Position>
+          <Position>Governor of Damascus</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -397478,8 +397404,8 @@ There are reasonable grounds to suspect that they are an involved person under t
           <DOB>17/01/1978</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Lebanon</Nationality>
           <Nationality>Syria</Nationality>
+          <Nationality>Lebanon</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -398937,8 +398863,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <DOB>18/06/1957</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Syria</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -400747,8 +400673,8 @@ Finally, there is reliable evidence that In May 2019 members of the Venezuelan N
           <Position>hief of Staff of the Commander in Chief of the Venezuelan Armed Forces</Position>
           <Position>Deputy Minister of Monitoring and Inspection of Government Administration</Position>
           <Position>Secretary General of the National Defence Council (SECODENA)</Position>
-          <Position>Former Second-in-Command of CEOFANB</Position>
           <Position>Former Chief of Staff of CEOFANB</Position>
+          <Position>Former Second-in-Command of CEOFANB</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -403035,15 +402961,15 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1979</DOB>
           <DOB>dd/mm/1984</DOB>
+          <DOB>dd/mm/1979</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Yemen</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Major General</Position>
           <Position>Houthi Chief of General Staff</Position>
+          <Position>Major General</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -403232,12 +403158,12 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
       <Individual>
         <PassportDetails>
           <Passport>
-            <PassportNumber>00481779</PassportNumber>
-            <PassportAdditionalInformation>Yemen number , issued on 9 Dec. 2000 (Expiration date: 9 Dec 2006)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>05274639</PassportNumber>
             <PassportAdditionalInformation>Yemen number, issued on 7 Oct. 2013 (Expiration date: 7 Oct 2019)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>00481779</PassportNumber>
+            <PassportAdditionalInformation>Yemen number , issued on 9 Dec. 2000 (Expiration date: 9 Dec 2006)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -403245,17 +403171,17 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>10010057512</NationalIdentifierNumber>
+            <NationalIdentifierNumber>1388114</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Yemen</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
           <NationalIdentifier>
-            <NationalIdentifierNumber>1388114</NationalIdentifierNumber>
+            <NationalIdentifierNumber>10010057512</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Yemen</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Judicial Custodian of properties and funds owned by Houthis’ opponents</Position>
           <Position>Major General</Position>
+          <Position>Judicial Custodian of properties and funds owned by Houthis’ opponents</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
