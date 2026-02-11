@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>06/02/2026</DateGenerated>
+  <DateGenerated>10/02/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -165286,13 +165286,12 @@ Sky Aviator Company Ltd has been responsible for the brokering of deals for the 
     </EntityDetails>
   </Designation>
   <Designation>
-    <LastUpdated>09/04/2025</LastUpdated>
+    <LastUpdated>10/02/2026</LastUpdated>
     <DateDesignated>24/08/2022</DateDesignated>
     <UniqueID>MYA0052</UniqueID>
     <OFSIGroupID>15495</OFSIGroupID>
     <Names>
       <Name>
-        <Name3>*</Name3>
         <Name6>Sky One Construction Company Ltd</Name6>
         <NameType>Primary Name</NameType>
       </Name>
@@ -346250,7 +346249,7 @@ IMO 9388754 (“Long Bai”) is, has been or is likely to be involved in activit
     </ShipDetails>
   </Designation>
   <Designation>
-    <LastUpdated>21/07/2025</LastUpdated>
+    <LastUpdated>10/02/2026</LastUpdated>
     <DateDesignated>21/07/2025</DateDesignated>
     <UniqueID>RUS2841</UniqueID>
     <Names>
@@ -346292,9 +346291,6 @@ IMO 9277735 (“Lunar Tide”) is, has been or is likely to be involved in activ
         <CurrentOwnerOperators>
           <CurrentOwnerOperator>WEST MARITIME SERVICES AND TRADING INC</CurrentOwnerOperator>
         </CurrentOwnerOperators>
-        <CurrentBelievedFlagOfShips>
-          <CurrentBelievedFlagOfShip>Tazmania</CurrentBelievedFlagOfShip>
-        </CurrentBelievedFlagOfShips>
         <YearsBuilt>
           <YearBuilt>2004</YearBuilt>
         </YearsBuilt>
