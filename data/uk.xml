@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>10/02/2026</DateGenerated>
+  <DateGenerated>13/02/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -259126,7 +259126,7 @@ Evgeny Borisovich ZUBITSKIY is the co-owner and CEO of Industrial Metallurgical 
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>09/04/2025</LastUpdated>
+    <LastUpdated>13/02/2026</LastUpdated>
     <DateDesignated>13/04/2022</DateDesignated>
     <UniqueID>RUS1319</UniqueID>
     <OFSIGroupID>15276</OFSIGroupID>
@@ -259167,8 +259167,9 @@ Evgeny Borisovich ZUBITSKIY is the co-owner and CEO of Industrial Metallurgical 
     </SanctionsImposedIndicators>
     <OtherInformation>The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
     <UKStatementofReasons>
-Saodat NARZIEVA is the sister of Alisher USMANOV, an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019. USMANOV was designated by the UK on 3 March 2022. As an immediate family member of USMANOV and obtaining a financial or other material benefit from USMANOV, Saodat NARZIEVA is associated with an involved person and therefore NARZIEVA is an involved person under the Russia (Sanctions) (EU Exit)Regulations 2019. 
- The trust services sanctions were imposed on 21/03/2023.</UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Saodat NARZIEVA is the sister of Alisher USMANOV, an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019. USMANOV was designated by the UK on 3 March 2022. As an immediate family member of USMANOV Saodat NARZIEVA is associated with an involved person and therefore NARZIEVA is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019. 
+The trust services sanctions were imposed on 21/03/2023.
+</UKStatementofReasons>
     <Addresses>
       <Address>
         <AddressLine6>Tashkent</AddressLine6>
@@ -259177,6 +259178,9 @@ Saodat NARZIEVA is the sister of Alisher USMANOV, an involved person under the R
     </Addresses>
     <IndividualDetails>
       <Individual>
+        <DOBs>
+          <DOB>15/05/1965</DOB>
+        </DOBs>
         <Nationalities>
           <Nationality>Russia</Nationality>
         </Nationalities>
