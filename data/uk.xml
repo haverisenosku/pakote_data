@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>24/02/2026</DateGenerated>
+  <DateGenerated>25/02/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -24087,8 +24087,8 @@ Address: Reportedly located in Waziristan, Federally Administered Tribal Areas, 
           <DOB>01/08/1983</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Tunisia</Nationality>
           <Nationality>France</Nationality>
+          <Nationality>Tunisia</Nationality>
         </Nationalities>
         <BirthDetails>
           <Location>
@@ -364241,10 +364241,10 @@ The Secretary of State has reasonable grounds to suspect that FARGONA KIMYO ZAVO
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+998 90 231 31 49</PhoneNumber>
-      <PhoneNumber>+998 90 533 64 84</PhoneNumber>
       <PhoneNumber>+998 91 681 82 14</PhoneNumber>
       <PhoneNumber>+998 93 501 03 32</PhoneNumber>
+      <PhoneNumber>+998 90 231 31 49</PhoneNumber>
+      <PhoneNumber>+998 90 533 64 84</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://fergchem.com/</Website>
@@ -372982,10 +372982,10 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 812 2717494</PhoneNumber>
+      <PhoneNumber>; +7 812 445-21-55</PhoneNumber>
       <PhoneNumber>+7 812 445-23-60</PhoneNumber>
       <PhoneNumber>+7 812 445-26-18</PhoneNumber>
-      <PhoneNumber>; +7 812 445-21-55</PhoneNumber>
+      <PhoneNumber>+7 812 2717494</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.akvamarin-npc.ru</Website>
@@ -372996,8 +372996,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN - 1037816019713</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN – 7806121490</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN - 1037816019713</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -373070,8 +373070,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN - 1085259006117</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN - 5259077666</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN - 1085259006117</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -373409,8 +373409,8 @@ The Secretary of State has reasonable grounds to suspect that LLC MACHINE-BUILDI
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1236600076569</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 6671290740</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1236600076569</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -374316,18 +374316,18 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 598-50-00 </PhoneNumber>
+      <PhoneNumber>+7 485 770-91-49 </PhoneNumber>
       <PhoneNumber>+7 496 644-70-00</PhoneNumber>
       <PhoneNumber>+7 916 795-34-16</PhoneNumber>
       <PhoneNumber>+7 985 164-31-37</PhoneNumber>
-      <PhoneNumber>+7 485 770-91-49 </PhoneNumber>
+      <PhoneNumber>+7 495 598-50-00 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>cmk-group.ru</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@smk.ru </EmailAddress>
       <EmailAddress>info@cmk-group.com</EmailAddress>
+      <EmailAddress>info@smk.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -374335,8 +374335,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
           <TypeOfEntity>Joint Stock Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1025005917551</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN - 5045023416</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1025005917551</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -375404,8 +375404,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1197746016049</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 7751154399</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1197746016049</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -375803,10 +375803,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
-      <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
       <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
       <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
+      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
+      <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://tochka.com</Website>
@@ -376041,13 +376041,13 @@ JOINT-STOCK COMPANY COMMERCIAL BANK “LANTA-BANK”
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+8 800 100-67-00</PhoneNumber>
       <PhoneNumber>+7 (495) 957-00-00</PhoneNumber>
+      <PhoneNumber>+8 800 100-67-00</PhoneNumber>
     </PhoneNumbers>
     <Websites>
+      <Website>https://lanta.ru</Website>
       <Website>www.lanta.ru</Website>
       <Website>https://www.lanta.ru</Website>
-      <Website>https://lanta.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>mail@lanta.ru</EmailAddress>
@@ -376147,20 +376147,20 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
-      <PhoneNumber>8(343)355 75 75</PhoneNumber>
       <PhoneNumber>8(495)771 70 95</PhoneNumber>
       <PhoneNumber>8(800)1000 600</PhoneNumber>
+      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
+      <PhoneNumber>8(343)355 75 75</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>http://www.sinara.ru</Website>
       <Website>http://sinara.ru</Website>
+      <Website>http://www.sinara.ru</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>orders@delo.ru</EmailAddress>
-      <EmailAddress>digital@sinara.ru</EmailAddress>
       <EmailAddress>orders@sinara.ru</EmailAddress>
       <EmailAddress>clients@skbbank.ru</EmailAddress>
+      <EmailAddress>orders@delo.ru</EmailAddress>
+      <EmailAddress>digital@sinara.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -376249,12 +376249,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Owner of LLC NATSPROMKOMPLEKT</Position>
-          <Position>Co-owner of LLC NATSPROMRESURS</Position>
           <Position>President of LLC UNIMATIC</Position>
           <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
           <Position>Minority shareholder of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
+          <Position>Owner of LLC NATSPROMKOMPLEKT</Position>
+          <Position>Co-owner of LLC NATSPROMRESURS</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -376341,12 +376341,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
+          <Position>Owner of LLC 2D6</Position>
           <Position>Owner of LLC GRAVITAL</Position>
           <Position>Owner of LLC UNIMATIC</Position>
           <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>Owner of LLC HUSTLE SHIFT</Position>
-          <Position>Owner of LLC 2D6</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -376555,11 +376555,11 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>+86 755-29874501</PhoneNumber>
       <PhoneNumber>+86 0755-29874500</PhoneNumber>
       <PhoneNumber>+86 512-36825901</PhoneNumber>
       <PhoneNumber>+86 755- 23405269</PhoneNumber>
       <PhoneNumber>+86 755- 27175156</PhoneNumber>
-      <PhoneNumber>+86 755-29874501</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.sowincnc.com/</Website>
@@ -376633,16 +376633,16 @@ is an &amp;quot;involved person&amp;quot; under the Russian (Sanctions) (EU Exit
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86-0517-88297588</PhoneNumber>
       <PhoneNumber>+86-0517-88297770</PhoneNumber>
       <PhoneNumber>18260406767</PhoneNumber>
+      <PhoneNumber>+86-0517-88297588</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>qzmtt.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@qzmtt.com</EmailAddress>
       <EmailAddress>samuel@qzmtt.com</EmailAddress>
+      <EmailAddress>info@qzmtt.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -376704,8 +376704,8 @@ The Secretary of State considers there are reasonable grounds to suspect that NI
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 62766789</PhoneNumber>
       <PhoneNumber>+86 574 6276 6276</PhoneNumber>
+      <PhoneNumber>+86 62766789</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.skymaster.com.cn</Website>
@@ -377736,8 +377736,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 6025018018</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1026000899682</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 6025018018</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -377812,8 +377812,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 1650252110</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1121650019567</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 1650252110</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -377885,8 +377885,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 0264070057</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1150280012211</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 0264070057</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -378177,16 +378177,16 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 371 60308992</PhoneNumber>
       <PhoneNumber>+86 371 60973290</PhoneNumber>
+      <PhoneNumber>+86 371 60308992</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>timewaymachine.com</Website>
       <Website>https://www.timewaymachinery.com/</Website>
+      <Website>timewaymachine.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@timewaymachine.com</EmailAddress>
       <EmailAddress>timeway@aliyun.com</EmailAddress>
+      <EmailAddress>info@timewaymachine.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -378387,8 +378387,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86-13889429555</PhoneNumber>
       <PhoneNumber>+86-411-88702340</PhoneNumber>
+      <PhoneNumber>+86-13889429555</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.chineselathe.com/</Website>
@@ -378707,8 +378707,8 @@ destabilising Ukraine or undermining or threatening the territorial integrity, s
       <Website>www.minospace.cn</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>minospace@minospace.cn</EmailAddress>
       <EmailAddress>maming@minospace.cn</EmailAddress>
+      <EmailAddress>minospace@minospace.cn</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -379092,12 +379092,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 737 33 13 </PhoneNumber>
       <PhoneNumber>+7 495 777 41 50 </PhoneNumber>
+      <PhoneNumber>+7 495 737 33 13 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.tkbbank.ru </Website>
       <Website>http://www.tkbbank.ru </Website>
+      <Website>www.tkbbank.ru </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>info@tkbbank.ru </EmailAddress>
@@ -379242,12 +379242,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 777-71-75 </PhoneNumber>
       <PhoneNumber>+7 495 777-71-71 </PhoneNumber>
+      <PhoneNumber>+7 495 777-71-75 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.absolutbank.com </Website>
       <Website>www.absolutbank.ru </Website>
+      <Website>www.absolutbank.com </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>info@absolutbank.ru</EmailAddress>
@@ -379494,10 +379494,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <PhoneNumber>8 (495) 775-65-55 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
+      <Website>http://vk.com/forabank </Website>
       <Website>https://www.forabank.ru </Website>
       <Website>www.forabank.ru </Website>
       <Website>https://forabank.ru </Website>
-      <Website>http://vk.com/forabank </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>broker@forabank.ru </EmailAddress>
@@ -380141,8 +380141,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN – 7805349407</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN - 1167847135059</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN – 7805349407</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -380494,8 +380494,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 7728173890 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027700311760 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 7728173890 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -380683,8 +380683,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1193850025467</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 3810081395</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1193850025467</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -380940,8 +380940,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027810256473 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -381036,8 +381036,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1022201770084</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN – 2225008370 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1022201770084</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -381119,8 +381119,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN - 2635001120 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1022601947521</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN - 2635001120 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -386148,10 +386148,11 @@ Listed pursuant to paragraph 7(c) of UN Security Council Resolution 1591 (2005).
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>12/12/2025</LastUpdated>
+    <LastUpdated>25/02/2026</LastUpdated>
     <DateDesignated>12/12/2025</DateDesignated>
     <UniqueID>SUD0022</UniqueID>
     <OFSIGroupID>17257</OFSIGroupID>
+    <UNReferenceNumber>SDi.008</UNReferenceNumber>
     <Names>
       <Name>
         <Name1>Abdul</Name1>
@@ -386226,7 +386227,7 @@ Listed pursuant to paragraph 7(c) of UN Security Council Resolution 1591 (2005).
     </NonLatinNames>
     <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
     <IndividualEntityShip>Individual</IndividualEntityShip>
-    <DesignationSource>UK</DesignationSource>
+    <DesignationSource>UK|UN</DesignationSource>
     <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
     <SanctionsImposedIndicators>
       <AssetFreeze>true</AssetFreeze>
@@ -386245,6 +386246,9 @@ Listed pursuant to paragraph 7(c) of UN Security Council Resolution 1591 (2005).
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
+    <OtherInformation>Abdul Rahim Hamdan Daglo was sanctioned by the UN on 24/02/2026 on the following ground:
+
+Listed pursuant to paragraph 3(c) of UN Security Council Resolution 1591 (2005). As a Lieutenant General and Deputy commander of the RSF, DAGLO is an individual who impedes the peace process, constitutes a threat to stability in Darfur and the region and has committed violations of international humanitarian or human rights law or other atrocities.</OtherInformation>
     <UKStatementofReasons>
 The Secretary of State considers that there are reasonable grounds to suspect that Abdul Rahim Hamdan Daglo is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 because he is or has been responsible for, engaging in, providing support for, or promoting the commission of serious violations of international humanitarian law in Sudan,grave breaches such as the mass killings of civilians; ethnically targeted executions; sexual violence, including gang rape; abductions for ransom; widespread arbitrary detentions; and attacks on health facilities, medical staff and humanitarian workers.
 </UKStatementofReasons>
@@ -386265,14 +386269,24 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         <Positions>
           <Position>Lieutenant General of Rapid Support Forces, Deputy Leader of Rapid Support Forces</Position>
         </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Khartoum</TownOfBirth>
+            <CountryOfBirth>Sudan</CountryOfBirth>
+          </Location>
+        </BirthDetails>
       </Individual>
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>12/12/2025</LastUpdated>
+    <LastUpdated>25/02/2026</LastUpdated>
     <DateDesignated>12/12/2025</DateDesignated>
     <UniqueID>SUD0023</UniqueID>
     <OFSIGroupID>17258</OFSIGroupID>
+    <UNReferenceNumber>SDi.009</UNReferenceNumber>
     <Names>
       <Name>
         <Name1>Al-Fateh</Name1>
@@ -386310,7 +386324,7 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Titles>
     <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
     <IndividualEntityShip>Individual</IndividualEntityShip>
-    <DesignationSource>UK</DesignationSource>
+    <DesignationSource>UK|UN</DesignationSource>
     <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
     <SanctionsImposedIndicators>
       <AssetFreeze>true</AssetFreeze>
@@ -386329,6 +386343,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
+    <OtherInformation>Al-Fateh Abdullah Idris was sanctioned by the UN on 24/02/2026 on the following ground: 
+
+Listed pursuant to paragraph 3(c) of UN Security Council Resolution 1591 (2005). As a Brigadier General of the RSF, IDRIS is an individual who impedes the peace process, constitutes a threat to stability in Darfur and the region and has committed violations of international humanitarian or human rights law or other atrocities. </OtherInformation>
     <UKStatementofReasons>
 The Secretary of State considers that there are reasonable grounds to suspect that Al-Fateh Abdullah Idris is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 because he is or has been responsible for the commission of serious violations of international humanitarian law in Sudan, such as violence against persons on the basis of their ethnicity or religious beliefs and the deliberate targeting of civilians.
 </UKStatementofReasons>
@@ -386345,14 +386362,18 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         <Positions>
           <Position>Brigadier General of Rapid Support Forces</Position>
         </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
       </Individual>
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>12/12/2025</LastUpdated>
+    <LastUpdated>25/02/2026</LastUpdated>
     <DateDesignated>12/12/2025</DateDesignated>
     <UniqueID>SUD0024</UniqueID>
     <OFSIGroupID>17259</OFSIGroupID>
+    <UNReferenceNumber>SDi.007</UNReferenceNumber>
     <Names>
       <Name>
         <Name1>Gedo</Name1>
@@ -386394,7 +386415,7 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </NonLatinNames>
     <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
     <IndividualEntityShip>Individual</IndividualEntityShip>
-    <DesignationSource>UK</DesignationSource>
+    <DesignationSource>UK|UN</DesignationSource>
     <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
     <SanctionsImposedIndicators>
       <AssetFreeze>true</AssetFreeze>
@@ -386413,6 +386434,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
+    <OtherInformation>Gedo Hamdan Ahmed was sanctioned by the UN on 24/02/2026 on the following ground:
+
+Listed pursuant to paragraph 3(c) of UN Security Council Resolution 1591 (2005). As a Lieutenant General and Deputy commander of the RSF, AHMED is an individual who impedes the peace process, constitutes a threat to stability in Darfur and the region and has committed violations of international humanitarian or human rights law or other atrocities. </OtherInformation>
     <UKStatementofReasons>
 The Secretary of State considers that there are reasonable grounds to suspect that Gedo Hamdan Ahmed is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 because he is or has been responsible for, engaging in, providing support for, or promoting the commission of serious violations of international humanitarian law in Sudan, such as the mass killings of civilians; ethnically targeted executions; sexual violence, including gang rape; abductions for ransom; widespread arbitrary detentions; and attacks on health facilities, medical staff and humanitarian workers.
 </UKStatementofReasons>
@@ -386429,14 +386453,18 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         <Positions>
           <Position>RSF Commander for the North Darfur section </Position>
         </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
       </Individual>
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>12/12/2025</LastUpdated>
+    <LastUpdated>25/02/2026</LastUpdated>
     <DateDesignated>12/12/2025</DateDesignated>
     <UniqueID>SUD0025</UniqueID>
     <OFSIGroupID>17260</OFSIGroupID>
+    <UNReferenceNumber>SDi.010</UNReferenceNumber>
     <Names>
       <Name>
         <Name1>Tijani</Name1>
@@ -386453,7 +386481,7 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Names>
     <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
     <IndividualEntityShip>Individual</IndividualEntityShip>
-    <DesignationSource>UK</DesignationSource>
+    <DesignationSource>UK|UN</DesignationSource>
     <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
     <SanctionsImposedIndicators>
       <AssetFreeze>true</AssetFreeze>
@@ -386472,6 +386500,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
+    <OtherInformation>Tijani Ibrahim Moussa Mohamed (Al Zeir Salem) was sanctioned by the UN on 24/02/2026 on the following ground:
+
+Listed pursuant to paragraph 3(c) of UN Security Council Resolution 1591 (2005). As a Lieutenant General and Deputy commander of the RSF,   AL ZEIR SALEM is an individual who impedes the peace process, constitutes a threat to stability in Darfur and the region and has committed violations of international humanitarian or human rights law or other atrocities.</OtherInformation>
     <UKStatementofReasons>
 The Secretary of State considers that there are reasonable grounds to suspect that Tijani Ibrahim Moussa Mohamed (Al Zeir Salem) is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 because he is or has been responsible for, engaging in, providing support for, or promoting the commission of serious violations of international humanitarian law in Sudan, such as the deliberate targeting of civilians in El Fasher.
 </UKStatementofReasons>
@@ -386485,6 +386516,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         <Positions>
           <Position>Field Commander of the Rapid Support Forces </Position>
         </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
       </Individual>
     </IndividualDetails>
   </Designation>
@@ -386649,8 +386683,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </Nationalities>
         <Positions>
           <Position>Head of the Sudan Shield Forces</Position>
-          <Position>Former Senior RSF Commander</Position>
           <Position>Senior SAF Commander</Position>
+          <Position>Former Senior RSF Commander</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
