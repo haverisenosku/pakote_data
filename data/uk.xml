@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>25/02/2026</DateGenerated>
+  <DateGenerated>27/02/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -99119,7 +99119,7 @@ Denis GORBUNENKO is an involved person within the meaning of the Global Anti-Cor
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>09/04/2025</LastUpdated>
+    <LastUpdated>27/02/2026</LastUpdated>
     <DateDesignated>09/12/2024</DateDesignated>
     <UniqueID>GAC0061</UniqueID>
     <OFSIGroupID>16706</OFSIGroupID>
@@ -99130,6 +99130,16 @@ Denis GORBUNENKO is an involved person within the meaning of the Global Anti-Cor
         <Name3>Damji</Name3>
         <Name6>Pattni</Name6>
         <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>KP</Name1>
+        <Name6>Damji</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name1>Brother Paul</Name1>
+        <Name6>Pattni </Name6>
+        <NameType>Alias</NameType>
       </Name>
     </Names>
     <RegimeName>The Global Anti-Corruption Sanctions Regulations 2021</RegimeName>
@@ -99155,8 +99165,14 @@ Denis GORBUNENKO is an involved person within the meaning of the Global Anti-Cor
     </SanctionsImposedIndicators>
     <OtherInformation>The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
     <UKStatementofReasons>
-Kamlesh PATTNI is an involved person within the meaning of the Global Anti-Corruption Sanctions Regulations 2021 on the basis of the following ground: PATTNI is or has been involved in being responsible for or engaging in serious corruption. Specifically, PATTNI is or has been responsible for and engaging in serious corruption, namely bribery, in support of his illicit gold trading enterprises. 
+The Secretary of State considers that there are reasonable grounds to suspect that Kamlesh PATTNI is an involved person within the meaning of the Global Anti-Corruption Sanctions Regulations 2021 on the basis of the following grounds: (1) PATTNI has been involved in being responsible for or engaging in serious corruption; (2) PATTNI has been involved in profiting financially or obtaining any other benefit from serious corruption. Specifically, PATTNI has been responsible for, engaged in, and profited from serious corruption, namely bribery, in support of his illicit gold trading enterprises. 
 </UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine6>Dubai</AddressLine6>
+        <AddressCountry>United Arab Emirates</AddressCountry>
+      </Address>
+    </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
@@ -99167,6 +99183,9 @@ Kamlesh PATTNI is an involved person within the meaning of the Global Anti-Corru
             <PassportNumber>564196270</PassportNumber>
             <PassportAdditionalInformation>Issued 23/12/2019 </PassportAdditionalInformation>
           </Passport>
+          <Passport>
+            <PassportNumber>CK23926</PassportNumber>
+          </Passport>
         </PassportDetails>
         <Nationalities>
           <Nationality>United Kingdom</Nationality>
@@ -99176,6 +99195,10 @@ Kamlesh PATTNI is an involved person within the meaning of the Global Anti-Corru
           <Gender>Male</Gender>
         </Genders>
         <BirthDetails>
+          <Location>
+            <TownOfBirth>Mombasa</TownOfBirth>
+            <CountryOfBirth>Kenya</CountryOfBirth>
+          </Location>
           <Location>
             <CountryOfBirth>Kenya</CountryOfBirth>
           </Location>
