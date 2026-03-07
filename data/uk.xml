@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>02/03/2026</DateGenerated>
+  <DateGenerated>06/03/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -9951,17 +9951,17 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressLine1>Kalay Rangin</AddressLine1>
+        <AddressLine2>Spin Boldak District</AddressLine2>
+        <AddressLine6>Kandahar Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
         <AddressLine1>Boghra Road</AddressLine1>
         <AddressLine2>Miralzei Village</AddressLine2>
         <AddressLine3>Chaman</AddressLine3>
         <AddressLine6>Baluchistan Province</AddressLine6>
         <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Kalay Rangin</AddressLine1>
-        <AddressLine2>Spin Boldak District</AddressLine2>
-        <AddressLine6>Kandahar Province</AddressLine6>
-        <AddressCountry>Afghanistan</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -23914,8 +23914,8 @@ Address: Reportedly located in Waziristan, Federally Administered Tribal Areas, 
           <DOB>01/08/1983</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Tunisia</Nationality>
           <Nationality>France</Nationality>
+          <Nationality>Tunisia</Nationality>
         </Nationalities>
         <BirthDetails>
           <Location>
@@ -27693,12 +27693,12 @@ the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Sp
             <PassportAdditionalInformation>Libyan. Issued in Tripoli.</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>347834</PassportNumber>
-            <PassportAdditionalInformation>Libyan. Issued under name Ibrahim Ali Tantoush. Expired on 21 February 2014.</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>434021161</PassportNumber>
             <PassportAdditionalInformation>South African. Related to alias Abdel Ilah Sabri. Confiscated.</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>347834</PassportNumber>
+            <PassportAdditionalInformation>Libyan. Issued under name Ibrahim Ali Tantoush. Expired on 21 February 2014.</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -28002,8 +28002,8 @@ the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Sp
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>19/04/1982</DOB>
           <DOB>18/04/1982</DOB>
+          <DOB>19/04/1982</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -41273,17 +41273,17 @@ Iraq (possible alternative location as at Aug. 2015) </OtherInformation>
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Desa Gebang</AddressLine1>
-        <AddressLine2>Kecamatan Masaran</AddressLine2>
-        <AddressLine3>Kabupaten Sragen</AddressLine3>
-        <AddressLine4>Jawa Tenagh</AddressLine4>
-        <AddressCountry>Indonesia</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Desa Taman Fajar</AddressLine1>
         <AddressLine2>Kecamatan Probolinggo</AddressLine2>
         <AddressLine3>Kabupaten Lampung Timur</AddressLine3>
         <AddressLine4>Lampung</AddressLine4>
+        <AddressCountry>Indonesia</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Desa Gebang</AddressLine1>
+        <AddressLine2>Kecamatan Masaran</AddressLine2>
+        <AddressLine3>Kabupaten Sragen</AddressLine3>
+        <AddressLine4>Jawa Tenagh</AddressLine4>
         <AddressCountry>Indonesia</AddressCountry>
       </Address>
     </Addresses>
@@ -63116,8 +63116,8 @@ We have reasonable grounds to suspect that Rampage Productions (“Rampage”) i
     </Websites>
     <EmailAddresses>
       <EmailAddress>sales@rampageproductions.co.uk</EmailAddress>
-      <EmailAddress>rampage-productions@hotmail.com</EmailAddress>
       <EmailAddress>RAMPAGETRADE@aol.com</EmailAddress>
+      <EmailAddress>rampage-productions@hotmail.com</EmailAddress>
     </EmailAddresses>
   </Designation>
   <Designation>
@@ -132867,9 +132867,9 @@ n, or for use in, Iran; or the development of a nuclear weapon delivery system i
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>Iran National ID Number – 10101702747 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Iran Registration No. - 126785 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>SWIFT/BIC - PBIRIRTH </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Iran National ID Number – 10101702747 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -215784,9 +215784,9 @@ Petr Olegovich Aven (hereinafter AVEN) is an involved person under the Russia (S
           <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
+          <Position>Former President of Alfa-Bank (Russia)</Position>
           <Position>Former Chairman of the Board Alfa-Bank Russia</Position>
           <Position>Chairman of the Board Alfastrakhovanie</Position>
-          <Position>Former President of Alfa-Bank (Russia)</Position>
           <Position>Former Chairman of the Board AHB Holdings</Position>
           <Position>Member of the supervisory board Alfa Bank Consortium</Position>
         </Positions>
@@ -327628,7 +327628,7 @@ IMO 9544281
     </ShipDetails>
   </Designation>
   <Designation>
-    <LastUpdated>21/07/2025</LastUpdated>
+    <LastUpdated>06/03/2026</LastUpdated>
     <DateDesignated>24/02/2025</DateDesignated>
     <UniqueID>RUS2479</UniqueID>
     <OFSIGroupID>16829</OFSIGroupID>
@@ -327698,9 +327698,7 @@ IMO 9544281
     </SanctionsImposedIndicators>
     <OtherInformation>The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
     <UKStatementofReasons>
-OJSC KEREMET BANK is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis that it is 
-and has been involved in obtaining a benefit from or supporting the Government of Russia through:
- (1) carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector; (2) providing financial services to persons carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector.
+The Secretary of State considers that there are reasonable grounds to suspect that OJSC KEREMET BANK is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis that it has been involved in obtaining a benefit from or supporting the Government of Russia through: (1) carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector; (2) providing financial services to persons carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector.
 </UKStatementofReasons>
     <Addresses>
       <Address>
@@ -340381,8 +340379,8 @@ Non-bank Credit Organization Joint-Stock Company “Petersburg Settlement Center
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 (812) 655-74-31</PhoneNumber>
-      <PhoneNumber>+7 (812) 324-3806</PhoneNumber>
       <PhoneNumber>+7 (812) 655-74-30</PhoneNumber>
+      <PhoneNumber>+7 (812) 324-3806</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.spsc.ru</Website>
@@ -357425,9 +357423,9 @@ ABSOLUT TRADE LLC is an "involved person" under the Russia (Sanctions) (EU Exit)
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 495 234 9939</PhoneNumber>
+      <PhoneNumber>+7 495 234 9939 </PhoneNumber>
       <PhoneNumber>+7 495 287 8456</PhoneNumber>
       <PhoneNumber>7 495 580 7183</PhoneNumber>
-      <PhoneNumber>+7 495 234 9939 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>absoluttrade.ru</Website>
@@ -360014,16 +360012,16 @@ PJSC Oil Company LUKOIL (hereafter LUKOIL) is an involved person under the Russi
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 627 44 44</PhoneNumber>
       <PhoneNumber>+7 495 628 98 41</PhoneNumber>
+      <PhoneNumber>+7 495 627 44 44</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.lukoil.com</Website>
       <Website>lukoil.ru</Website>
+      <Website>www.lukoil.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>lukoil@lukoil.ru</EmailAddress>
       <EmailAddress>lukoil@lukoil.com</EmailAddress>
+      <EmailAddress>lukoil@lukoil.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -364037,9 +364035,9 @@ The Secretary of State has reasonable grounds to suspect that FARGONA KIMYO ZAVO
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+998 93 501 03 32</PhoneNumber>
+      <PhoneNumber>+998 91 681 82 14</PhoneNumber>
       <PhoneNumber>+998 90 231 31 49</PhoneNumber>
       <PhoneNumber>+998 90 533 64 84</PhoneNumber>
-      <PhoneNumber>+998 91 681 82 14</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://fergchem.com/</Website>
@@ -373204,8 +373202,8 @@ The Secretary of State has reasonable grounds to suspect that LLC MACHINE-BUILDI
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1236600076569</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 6671290740</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1236600076569</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -375599,9 +375597,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
-      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
       <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
       <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
+      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://tochka.com</Website>
@@ -375942,20 +375940,20 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
-      <PhoneNumber>8(343)355 75 75</PhoneNumber>
       <PhoneNumber>8(495)771 70 95</PhoneNumber>
       <PhoneNumber>8(800)1000 600</PhoneNumber>
+      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
+      <PhoneNumber>8(343)355 75 75</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>http://www.sinara.ru</Website>
       <Website>http://sinara.ru</Website>
+      <Website>http://www.sinara.ru</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>orders@delo.ru</EmailAddress>
-      <EmailAddress>digital@sinara.ru</EmailAddress>
       <EmailAddress>orders@sinara.ru</EmailAddress>
       <EmailAddress>clients@skbbank.ru</EmailAddress>
+      <EmailAddress>orders@delo.ru</EmailAddress>
+      <EmailAddress>digital@sinara.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -376044,12 +376042,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Owner of LLC NATSPROMKOMPLEKT</Position>
           <Position>Co-owner of LLC NATSPROMRESURS</Position>
           <Position>President of LLC UNIMATIC</Position>
           <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
           <Position>Minority shareholder of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
+          <Position>Owner of LLC NATSPROMKOMPLEKT</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -386478,8 +386476,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </Nationalities>
         <Positions>
           <Position>Head of the Sudan Shield Forces</Position>
-          <Position>Former Senior RSF Commander</Position>
           <Position>Senior SAF Commander</Position>
+          <Position>Former Senior RSF Commander</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -415011,8 +415009,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <DOB>03/10/1964</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Syria</Nationality>
           <Nationality>Russia</Nationality>
+          <Nationality>Syria</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
