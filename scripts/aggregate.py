@@ -1,3 +1,4 @@
+'''
 #!/usr/bin/env python3
 """Parse downloaded XML files and create combined all.json"""
 
@@ -209,4 +210,281 @@ def main():
     print(f"Combined: {len(merged)} entities -> data/all.json")
 
 if __name__ == '__main__':
+    main()
+'''
+
+#!/usr/bin/env python3
+import json
+from datetime import datetime
+from lxml import etree
+
+def norm(s):
+    return " ".join(str(s).strip().split()).lower() if s else None
+
+def clean(s):
+    return " ".join(str(s).strip().split()) if s and str(s).strip() else None
+
+def parse_date(s):
+    if not s:
+        return None
+    for fmt in ['%Y-%m-%d', '%d/%m/%Y', '%d-%m-%Y', '%Y']:
+        try:
+            return datetime.strptime(s.strip(), fmt).strftime('%Y-%m-%d')
+        except:
+            pass
+    return s.strip() if len(s.strip()) >= 4 else None
+
+
+# ---------------- EU ----------------
+
+def parse_eu(content):
+    entities = []
+    root = etree.fromstring(content)
+
+    for entity in root.iter():
+        if 'sanctionEntity' not in entity.tag:
+            continue
+
+        rec = {
+            'name': None,
+            'type': 'unknown',
+            'aliases': [],
+            'birthdates': [],
+            'identifiers': [],
+            'source': ['EU'],
+            'source_ids': {'EU': entity.get('logicalId')}
+        }
+
+        for na in entity.iter():
+            if 'nameAlias' in na.tag:
+                name = clean(na.get('wholeName'))
+                if name:
+                    if not rec['name']:
+                        rec['name'] = name
+                    elif name not in rec['aliases']:
+                        rec['aliases'].append(name)
+
+        for st in entity.iter():
+            if 'subjectType' in st.tag:
+                code = st.get('code') or st.text or ''
+                rec['type'] = 'individual' if 'person' in code.lower() else 'entity'
+
+        for bd in entity.iter():
+            if 'birthdate' in bd.tag.lower():
+                d = parse_date(bd.get('birthdate') or bd.text)
+                if d and d not in rec['birthdates']:
+                    rec['birthdates'].append(d)
+
+        for ident in entity.iter():
+            if 'identification' in ident.tag.lower() and ident.get('number'):
+                rec['identifiers'].append({
+                    'type': ident.get('identificationTypeCode'),
+                    'number': ident.get('number'),
+                    'country': ident.get('countryIso2Code')
+                })
+
+        if rec['name']:
+            entities.append(rec)
+
+    return entities
+
+
+# ---------------- UN ----------------
+
+def parse_un(content):
+    entities = []
+    root = etree.fromstring(content)
+
+    for tag, etype in [('INDIVIDUAL', 'individual'), ('ENTITY', 'entity')]:
+        for elem in root.iter(tag):
+
+            rec = {
+                'name': None,
+                'type': etype,
+                'aliases': [],
+                'birthdates': [],
+                'identifiers': [],
+                'source': ['UN'],
+                'source_ids': {'UN': elem.findtext('REFERENCE_NUMBER')}
+            }
+
+            if etype == 'individual':
+                parts = [
+                    elem.findtext(f)
+                    for f in ['FIRST_NAME','SECOND_NAME','THIRD_NAME','FOURTH_NAME']
+                    if elem.findtext(f)
+                ]
+                rec['name'] = clean(' '.join(parts))
+            else:
+                rec['name'] = clean(elem.findtext('FIRST_NAME'))
+
+            for alias in elem.iter('INDIVIDUAL_ALIAS'):
+                a = clean(alias.findtext('ALIAS_NAME'))
+                if a and a != rec['name'] and a not in rec['aliases']:
+                    rec['aliases'].append(a)
+
+            for alias in elem.iter('ENTITY_ALIAS'):
+                a = clean(alias.findtext('ALIAS_NAME'))
+                if a and a != rec['name'] and a not in rec['aliases']:
+                    rec['aliases'].append(a)
+
+            for dob in elem.iter('INDIVIDUAL_DATE_OF_BIRTH'):
+                d = parse_date(dob.findtext('DATE') or dob.findtext('YEAR'))
+                if d and d not in rec['birthdates']:
+                    rec['birthdates'].append(d)
+
+            for doc in elem.iter('INDIVIDUAL_DOCUMENT'):
+                if doc.findtext('NUMBER'):
+                    rec['identifiers'].append({
+                        'type': doc.findtext('TYPE_OF_DOCUMENT'),
+                        'number': doc.findtext('NUMBER'),
+                        'country': doc.findtext('ISSUING_COUNTRY')
+                    })
+
+            if rec['name']:
+                entities.append(rec)
+
+    return entities
+
+
+# ---------------- OFAC ----------------
+
+def parse_ofac(content):
+    entities = []
+    root = etree.fromstring(content)
+
+    for entry in root.iter():
+        if not (entry.tag.endswith('sdnEntry') or entry.tag == 'sdnEntry'):
+            continue
+
+        rec = {
+            'name': None,
+            'type': 'unknown',
+            'aliases': [],
+            'birthdates': [],
+            'identifiers': [],
+            'source': ['OFAC'],
+            'source_ids': {}
+        }
+
+        for e in entry.iter():
+            if e.tag.endswith('uid'):
+                rec['source_ids']['OFAC'] = e.text
+                break
+
+        for e in entry.iter():
+            if e.tag.endswith('sdnType'):
+                rec['type'] = 'individual' if 'individual' in (e.text or '').lower() else 'entity'
+                break
+
+        parts = []
+
+        for field in ['firstName','lastName']:
+            for e in entry.iter():
+                if e.tag.endswith(field) and e.text:
+                    parts.append(e.text.strip())
+                    break
+
+        rec['name'] = clean(' '.join(parts)) if parts else None
+
+        if not rec['name']:
+            for e in entry.iter():
+                if e.tag.endswith('lastName') and e.text:
+                    rec['name'] = clean(e.text)
+                    break
+
+        for aka in entry.iter():
+            if 'aka' in aka.tag.lower():
+                ap = []
+                for sub in aka.iter():
+                    if sub.tag.endswith('firstName') and sub.text:
+                        ap.append(sub.text.strip())
+                    if sub.tag.endswith('lastName') and sub.text:
+                        ap.append(sub.text.strip())
+                a = clean(' '.join(ap))
+                if a and a != rec['name'] and a not in rec['aliases']:
+                    rec['aliases'].append(a)
+
+        if rec['name']:
+            entities.append(rec)
+
+    return entities
+
+
+# ---------------- MERGE ----------------
+
+def merge(datasets):
+
+    merged = []
+    index = {}
+
+    for ds in datasets:
+        for e in ds:
+
+            key = (
+                norm(e.get('name')),
+                tuple(sorted(e.get('birthdates', [])))
+            )
+
+            if key not in index:
+                index[key] = len(merged)
+                merged.append(e)
+            else:
+
+                ex = merged[index[key]]
+
+                for s in e.get('source', []):
+                    if s not in ex['source']:
+                        ex['source'].append(s)
+
+                for a in e.get('aliases', []):
+                    if a not in ex['aliases']:
+                        ex['aliases'].append(a)
+
+                for b in e.get('birthdates', []):
+                    if b not in ex['birthdates']:
+                        ex['birthdates'].append(b)
+
+                ex['source_ids'].update(e.get('source_ids', {}))
+
+    return merged
+
+
+# ---------------- MAIN ----------------
+
+def main():
+
+    results = {}
+
+    for name, parser in [
+        ('EU', parse_eu),
+        ('UN', parse_un),
+        ('OFAC', parse_ofac),
+        ('UK', parse_uk)
+    ]:
+        try:
+            with open(f'data/{name.lower()}.xml','rb') as f:
+                results[name] = parser(f.read())
+            print(name, len(results[name]))
+        except Exception as e:
+            print(name,"ERROR",e)
+            results[name] = []
+
+    merged = merge(list(results.values()))
+
+    output = {
+        'metadata': {
+            'generated': datetime.utcnow().isoformat()+'Z',
+            'total': len(merged)
+        },
+        'entities': merged
+    }
+
+    with open('data/all.json','w') as f:
+        json.dump(output,f,separators=(',',':'))
+
+    print("Combined:",len(merged))
+
+
+if __name__ == "__main__":
     main()
