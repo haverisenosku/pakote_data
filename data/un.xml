@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-03-10T00:00:09.461Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-03-11T04:50:04.918Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -33715,10 +33715,10 @@ Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Securi
         <VALUE>Haji</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>First Deputy, Council of Ministers under the Taliban regime</VALUE>
-        <VALUE>Foreign Minister under the Taliban regime</VALUE>
-        <VALUE>Governor of Kandahar under the Taliban regime</VALUE>
-        <VALUE>Political Advisor of Mullah Mohammed Omar</VALUE>
+        <VALUE>First Deputy, Council of Ministers under the Taliban regime (1996-2001)  </VALUE>
+        <VALUE>Foreign Minister under the Taliban regime (1996-2001)  </VALUE>
+        <VALUE>Governor of Kandahar under the Taliban regime(1996-2001)  </VALUE>
+        <VALUE>Political Advisor of Mullah Mohammed Omar  </VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -33738,26 +33738,33 @@ Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Securi
         <ALIAS_NAME/>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
         <FROM_YEAR>1955</FROM_YEAR>
         <TO_YEAR>1958</TO_YEAR>
-        <NOTE>Approximately</NOTE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
         <FROM_YEAR>1945</FROM_YEAR>
         <TO_YEAR>1950</TO_YEAR>
-        <NOTE>Approximately</NOTE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Pashmul village, Panjwai District</CITY>
         <STATE_PROVINCE>Kandahar Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>P04581926</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2024-08-07</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kandahar</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>expires 7 Aug. 2034</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -33770,21 +33777,14 @@ Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Securi
       <REFERENCE_NUMBER>TAi.003</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عبد الکبیر محمد جان</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Active in terrorist operations in Eastern Afghanistan. Collects money
-from drug traffickers. Believed to be in Afghanistan/Pakistan border area. Member of the
-Taliban Supreme Council as at 2009. Family is originally from Neka District, Paktia
-Province, Afghanistan. Responsible for attack on Afghan parliamentarians in November
-2007 in Baghlan; owns land in central Baghlan Province. Belongs to Zadran tribe. Review
-pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul.
-2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Active in terrorist operations in Eastern Afghanistan. Collects money from drug traffickers. Member of the Taliban Supreme Council as at 2009. Family is originally from Neka District, Paktia Province, Afghanistan. Responsible for attack on Afghan parliamentarians in November 2007 in Baghlan; owns land in central Baghlan Province. Belongs to Zadran tribe. Height 185cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Maulavi</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Second Deputy, Economic Affairs, Council of Ministers under the Taliban
-regime</VALUE>
-        <VALUE>Governor of Nangarhar Province under the Taliban regime</VALUE>
-        <VALUE>Head of Eastern Zone under the Taliban regime</VALUE>
+        <VALUE>Second Deputy, Economic Affairs, Council of Ministers under the Taliban regime (1996-2001)  </VALUE>
+        <VALUE>Governor of Nangarhar Province under the Taliban regime(1996-2001)  </VALUE>
+        <VALUE>Head of Eastern Zone under the Taliban regime (1996-2001) </VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -33805,19 +33805,36 @@ regime</VALUE>
         <QUALITY>Good</QUALITY>
         <ALIAS_NAME>A. Kabir</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>ABDUL KABIR MUHAMMAD JAN</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1963</YEAR>
       </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1972-01-30</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
-        <CITY>Pul-e-Khumri or Baghlan Jadid District</CITY>
+        <CITY>Nahrin District</CITY>
         <STATE_PROVINCE>Baghlan Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009925</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2022-05-22</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Abdul Kabir Muhammad Jan; expires 22 May 2027</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -34014,15 +34031,12 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.007</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-31</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عبد اللطيف منصور </NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Taliban Shadow Governor for Logar Province as of late 2012. Believed to
-be in Afghanistan/Pakistan border area. Belongs to Sahak tribe (Ghilzai). Review
-pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul.
-2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Taliban Shadow Governor for Logar Province as of late 2012. Belongs to Sahak tribe (Ghilzai). Height 170cm . Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Maulavi</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Minister of Agriculture under the Taliban regime</VALUE>
+        <VALUE>Minister of Agriculture under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -34047,11 +34061,16 @@ pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul.
         <ALIAS_NAME>Wali Mohammad</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Darul Aman, Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1968</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1967-11-12</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Zurmat District</CITY>
@@ -34063,7 +34082,23 @@ pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul.
         <STATE_PROVINCE>Paktia Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009720</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2021-10-12</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <NOTE>Name in Latin script: Abdul Latif Mansoor; expires 12 Oct. 2026</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0010442</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2024-11-13</DATE_OF_ISSUE>
+        <NOTE>2024, expires 13 Nov. 2029</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -34830,12 +34865,12 @@ concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:
       <REFERENCE_NUMBER>TAi.023</REFERENCE_NUMBER>
       <LISTED_ON>2001-02-23</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>فضل محمد مظلوم</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Missing left leg since 1996. Serious injury on his right foot . Height 168 cm . Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Mullah</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Deputy Chief of Army Staff of the Taliban regime</VALUE>
+        <VALUE>Deputy Chief of Army Staff of the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -34858,19 +34893,38 @@ concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:
         <QUALITY>Good</QUALITY>
         <ALIAS_NAME>Fazel Mohammad Mazloom</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>MOHAMMAD FADEL AAKHUND</ALIAS_NAME>
+        <NOTE> name in original script: محمد فاضل آخوند</NOTE>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY>Qatar</COUNTRY>
+        <CITY>Pule Mahmood Khan, PD2, 10011, Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
         <FROM_YEAR>1963</FROM_YEAR>
         <TO_YEAR>1968</TO_YEAR>
       </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1971-10-24</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Uruzgan</CITY>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009726</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2021-10-13</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Mohammad Fadel Aakhund; name in original script: محمد فاضل آخوند ; expires 13 Oct. 2026</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -34884,16 +34938,12 @@ concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:
       <REFERENCE_NUMBER>TAi.024</REFERENCE_NUMBER>
       <LISTED_ON>2001-02-23</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عبدالغنی برادر عبد الاحمد ترک</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Arrested in Feb. 2010 and in custody in Pakistan. Extradition request to
-Afghanistan pending in Lahore High Court, Pakistan as of June 2011. Belongs to Popalzai
-tribe. Senior Taliban military commander and member of Taliban Quetta Council as of May
-2007. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun.
-2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Belongs to Popalzai tribe. Senior Taliban military commander and member of Taliban Quetta Council as of May 2007. Height 173cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Mullah</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Deputy Minister of Defence under the Taliban regime</VALUE>
+        <VALUE>Deputy Minister of Defence under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -34917,18 +34967,39 @@ tribe. Senior Taliban military commander and member of Taliban Quetta Council as
         <NOTE>previously listed as</NOTE>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1968</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1963-09-29</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Yatimak village</CITY>
         <STATE_PROVINCE>Dehrawood District, Uruzgan Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009751</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2021-10-16</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>expires 16 Oct. 2026</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>P04999950</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2025-02-04</DATE_OF_ISSUE>
+        <NOTE>expires 4 Feb. 2035</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -35000,16 +35071,13 @@ resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Counci
       <REFERENCE_NUMBER>TAi.026</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>امیر خان متقی</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Member of the Taliban Supreme Council as at June 2007. Believed to be in
-Afghanistan/Pakistan border area. Belongs to Sulaimankhel tribe. Review pursuant to
-Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Member of the Taliban Supreme Council as of June 2007. Believed to be in Afghanistan/Pakistan border area. Belongs to Sulaimankhel tribe. Height 170 cm.  Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Mullah</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Minister of Education under the Taliban regime</VALUE>
-        <VALUE>Taliban representative in UN-led talks under the Taliban
-regime</VALUE>
+        <VALUE>Minister of Education under the Taliban regime (1996-2001) </VALUE>
+        <VALUE>Taliban representative in UN-led talks under the Taliban regime (1996-2001) </VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -35026,12 +35094,25 @@ regime</VALUE>
         <QUALITY>Good</QUALITY>
         <ALIAS_NAME>Amir Khan Muttaqi</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>AMIR KHAN MUTAQI</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1968</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1970-12-25</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1971</YEAR>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Zurmat District</CITY>
@@ -35043,7 +35124,24 @@ regime</VALUE>
         <STATE_PROVINCE>Helmand Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009716</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2021-09-25</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Amir Khan Mutaqi, name in original script: اميرخان متقي ; expires 25 Sep. 2026</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009803</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2021-12-13</DATE_OF_ISSUE>
+        <NOTE>expires on 13 Dec. 2026</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -35058,16 +35156,13 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.027</REFERENCE_NUMBER>
       <LISTED_ON>2001-02-23</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عبدالسلام حنفی علی مردان قل</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Taliban member responsible for Jawzjan Province in Northern Afghanistan
-until 2008. Involved in drug trafficking. Believed to be in Afghanistan/Pakistan border
-area. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun.
-2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Taliban member responsible for Jawzjan Province in Northern Afghanistan until 2008. Involved in drug trafficking. Height 178 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Mullah</VALUE>
         <VALUE>Maulavi</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Deputy Minister of Education under the Taliban regime</VALUE>
+        <VALUE>Deputy Minister of Education under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -35091,12 +35186,22 @@ area. Review pursuant to Security Council resolution 1822 (2008) was concluded o
         <QUALITY>Good</QUALITY>
         <ALIAS_NAME>Hanafi Saheb</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>ABDUL SALAM HANAFI</ALIAS_NAME>
+        <NOTE>name in original script: عبدالسلام حنفي  </NOTE>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1968</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1969-01-01</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Darzab District</CITY>
@@ -35108,7 +35213,22 @@ area. Review pursuant to Security Council resolution 1822 (2008) was concluded o
         <STATE_PROVINCE>Jawzjan Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D00009723</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0010098</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2023-04-04</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script, Abdul Salam Hanafi, name in original script; عبدالسلام حنفي , expires 4 Apr. 2028</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -35488,21 +35608,15 @@ Taliban regime</VALUE>
       <REFERENCE_NUMBER>TAi.038</REFERENCE_NUMBER>
       <LISTED_ON>2001-02-23</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عبد الباقي بصير أول شاه</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Believed to be in Afghanistan/Pakistan border area. Taliban member
-responsible for Nangarhar Province as at 2008. Until 7 Sep. 2007 he was also listed
-under number TAi.048. Review pursuant to Security Council resolution 1822 (2008) was
-concluded on 1 Jun. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Taliban member responsible for Nangarhar Province as at 2008. Until 7 Sep. 2007 he was also listed under number TAi.048. Height 175 cm.  Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Maulavi</VALUE>
         <VALUE>Mullah</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Governor of Khost and Paktika provinces under the Taliban
-regime</VALUE>
-        <VALUE>Vice-Minister of Information and Culture under the Taliban
-regime</VALUE>
-        <VALUE>Consular Department, Ministry of Foreign Affairs under the Taliban
-regime</VALUE>
+        <VALUE>Governor of Khost and Paktika provinces under the Taliban regime  (1996-2001) </VALUE>
+        <VALUE>Vice-Minister of Information and Culture under the Taliban regime  (1996-2001) </VALUE>
+        <VALUE>Consular Department, Ministry of Foreign Affairs under the Taliban regime  (1996-2001) </VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -35522,14 +35636,24 @@ regime</VALUE>
         <ALIAS_NAME>Abdul Baqi</ALIAS_NAME>
         <NOTE>previously listed as</NOTE>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>ABDUL BAQI HAQQANI</ALIAS_NAME>
+        <NOTE>name in original script: عبدالباقي حقاني </NOTE>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <STREET>Afshar Main road Police District 5</STREET>
+        <CITY>near Kabul Education University, Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
         <FROM_YEAR>1960</FROM_YEAR>
         <TO_YEAR>1962</TO_YEAR>
-        <NOTE>Approximately </NOTE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1967-01-01</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Jalalabad City</CITY>
@@ -35541,7 +35665,16 @@ regime</VALUE>
         <STATE_PROVINCE>Nangarhar Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009724</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2021-10-13</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Abdul Baqi Haqqani; name in original script: عبدالباقي حقاني ; expires on 13 Oct. 2026</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -35734,13 +35867,13 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.043</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>دین محمد حنیف</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Member of Taliban Supreme Council responsible for Takhar and Badakhshan provinces. Believed to be in Afghanistan/Pakistan border area. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Picture available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Member of Taliban Supreme Council responsible for Takhar and Badakhshan provinces. Height 172cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Picture available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Qari</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>a) Minister of Planning under the Taliban regime b) Minister of Higher
-Education under the Taliban regime</VALUE>
+        <VALUE>Minister of Planning under the Taliban regime (1996-2001) </VALUE>
+        <VALUE>Minister of Higher Education under the Taliban regime (1996-2001) </VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -35763,20 +35896,39 @@ Education under the Taliban regime</VALUE>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
         <ALIAS_NAME>Iadena Mohammad</ALIAS_NAME>
-        <DATE_OF_BIRTH>1969-01-01</DATE_OF_BIRTH>
+        <NOTE>born 1 Jan. 1969</NOTE>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>IADENAMOHAMMAD NAZRI MOHAMMAD</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1955</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1964-01-01</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Shakarlab village, Yaftali Pain District</CITY>
         <STATE_PROVINCE>Badakhshan Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009731</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2021-10-13</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Iadenamohammad Nazri Mohammad; expires on 13 Oct. 2026</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
         <NUMBER>OA 454044</NUMBER>
@@ -35845,15 +35997,12 @@ Afghanistan/Pakistan border area. Review pursuant to Security Council resolution
       <REFERENCE_NUMBER>TAi.047</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>قدرت الله جمال</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Member of Taliban Supreme Council and member of Taliban Cultural
-Commission as at 2010. Believed to be in Afghanistan/Pakistan border area. Review
-pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul.
-2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Member of Taliban Supreme Council and member of Taliban Cultural Commission as at 2010. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Maulavi</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Minister of Information under the Taliban regime</VALUE>
+        <VALUE>Minister of Information under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -35872,7 +36021,8 @@ pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul.
         <ALIAS_NAME>Haji Sahib</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
@@ -35883,7 +36033,12 @@ pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul.
         <STATE_PROVINCE>Paktia Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D00010126</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -36195,14 +36350,13 @@ Interior under the Taliban regime</VALUE>
       <REFERENCE_NUMBER>TAi.058</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>نورالدین ترابی محمد قاسم</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Deputy to Mullah Mohammed Omar (TAi.004). Review pursuant to Security
-Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Deputy to Mullah Mohammed Omar (TAi.004). Height 165cm . Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Mullah</VALUE>
         <VALUE>Maulavi</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Minister of Justice under the Taliban regime</VALUE>
+        <VALUE>Minister of Justice under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -36224,8 +36378,13 @@ Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Securi
         <QUALITY>Low</QUALITY>
         <ALIAS_NAME>Haji Karim</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>MULLAH NOORDIN TORABI</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
@@ -36238,6 +36397,10 @@ Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Securi
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1955</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1969-07-30</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Spin Boldak District</CITY>
@@ -36254,7 +36417,15 @@ Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Securi
         <STATE_PROVINCE>Uruzgan Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>P00429243</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2021-12-15</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: MULLAH NOORDIN TORABI; expires 15 Aug. 2031</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -36267,15 +36438,13 @@ Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Securi
       <REFERENCE_NUMBER>TAi.060</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>محمد عیسی آخوند</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Belongs to Nurzai tribe. Review pursuant to Security Council resolution
-1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Belongs to Nurzai tribe. Height 185cm.  Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Alhaj</VALUE>
         <VALUE>Mullah</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Minister of Water, Sanitation and Electricity under the Taliban
-regime</VALUE>
+        <VALUE>Minister of Water, Sanitation and Electricity under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -36289,22 +36458,36 @@ regime</VALUE>
         <VALUE>2011-11-29</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
-        <QUALITY/>
-        <ALIAS_NAME/>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>MOHAMMAD EISA SANI</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1958</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1957-02-22</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Mial area, Spin Boldak District</CITY>
         <STATE_PROVINCE>Kandahar Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0010402</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2024-08-04</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Mohammad Eisa Sani; expires on 4 Aug. 2029</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -36524,7 +36707,7 @@ regime</VALUE>
       <UN_LIST_TYPE>Taliban</UN_LIST_TYPE>
       <REFERENCE_NUMBER>TAi.068</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
-      <NAME_ORIGINAL_SCRIPT>محمد الل�� مطيع</NAME_ORIGINAL_SCRIPT>
+      <NAME_ORIGINAL_SCRIPT>محمد الله مطيع</NAME_ORIGINAL_SCRIPT>
       <COMMENTS1>Lost one leg in 1980s. Interim leader of Taliban Supreme Council from
 February to April 2010. In charge of recruitment activities as of mid-2013. Believed to
 be in Afghanistan/Pakistan border area. Belongs to Isakzai tribe. Review pursuant to
@@ -37115,13 +37298,12 @@ Taliban regime</VALUE>
       <REFERENCE_NUMBER>TAi.082</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-31</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عبد الحق وثيق</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Height 168cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Maulavi</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Deputy Minister of Security (Intelligence) under the Taliban
-regime</VALUE>
+        <VALUE>Deputy Minister of Security (Intelligence) under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -37146,8 +37328,12 @@ regime</VALUE>
         <QUALITY>Good</QUALITY>
         <ALIAS_NAME>Abdul Haq Wasiq</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>ABDULHAQ WASEEQ</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY>Qatar</COUNTRY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
@@ -37157,12 +37343,23 @@ regime</VALUE>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1975</YEAR>
       </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1968-09-20</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Gharib village, Khogyani District</CITY>
         <STATE_PROVINCE>Ghazni Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009755</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2021-10-23</DATE_OF_ISSUE>
+        <NOTE>Name in Latin script: Abdulhaq Waseeq; expires on 23 Oct. 2026</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -37629,16 +37826,16 @@ Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Securi
       <REFERENCE_NUMBER>TAi.093</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>خيرالله خيرخواه</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Belongs to Popalzai tribe. Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Belongs to Popalzai tribe. Height 176 cm.  Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Maulavi</VALUE>
         <VALUE>Mullah</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Governor of Herat Province under the Taliban regime</VALUE>
-        <VALUE>Spokesperson of the Taliban regime</VALUE>
-        <VALUE>Governor of Kabul province under the Taliban regime</VALUE>
-        <VALUE>Minister of Internal Affairs under the Taliban regime</VALUE>
+        <VALUE>Governor of Herat Province under the Taliban regime (1996-2001)</VALUE>
+        <VALUE>Spokesperson of the Taliban regime (1996-2001)</VALUE>
+        <VALUE>Governor of Kabul province under the Taliban regime (1996-2001)</VALUE>
+        <VALUE>Minister of Internal Affairs under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -37663,19 +37860,38 @@ Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Securi
         <QUALITY>Good</QUALITY>
         <ALIAS_NAME>Khirullah Said Wali Khairkhwa, born in Kandahar on 01 Jan.1967</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>KHIRULLAH KHAIRKHWA</ALIAS_NAME>
+        <NOTE>name original script: خيرالله خيرخواه</NOTE>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY>Qatar</COUNTRY>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1963</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1969-06-04</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Poti village, Arghistan district</CITY>
         <STATE_PROVINCE>Kandahar province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport number </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009770</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2021-10-31</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: KHIRULLAH KHAIRKHWA, name in original script: خيرالله خيرخواه , expires 31 Oct. 2026</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -38609,11 +38825,9 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.110</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>نور محمد ثاقب</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Member of Taliban Supreme Council and Head of Taliban Religious
-Committee. Belongs to Ahmadzai tribe. Review pursuant to Security Council resolution
-1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Member of Taliban Supreme Council and Head of Taliban Religious Committee. Belongs to Ahmadzai tribe. Height 175cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <DESIGNATION>
-        <VALUE>Chief Justice of Supreme Court under the Taliban regime</VALUE>
+        <VALUE>Chief Justice of Supreme Court under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -38627,15 +38841,21 @@ Committee. Belongs to Ahmadzai tribe. Review pursuant to Security Council resolu
         <VALUE>2011-11-29</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
-        <QUALITY/>
-        <ALIAS_NAME/>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>NOOR MOHAMMED SAQEB</ALIAS_NAME>
+        <NOTE>name in original script: نور محمد ثاقب</NOTE>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1958</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1963-09-18</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Bagrami District</CITY>
@@ -38647,7 +38867,14 @@ Committee. Belongs to Ahmadzai tribe. Review pursuant to Security Council resolu
         <STATE_PROVINCE>Kabul Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009914</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Noor Mohammed Saqeb; name original script: نورمحمد ثاقب; issued 10 May 2022, expires 10 May 2027</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -38818,13 +39045,12 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.118</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>حمید الله آخوند شیر محمد</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Belongs to Ghilzai tribe. Review pursuant to Security Council resolution
-1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Belongs to Ghilzai tribe. Height: 175cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Mullah</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Head of Ariana Afghan Airlines under the Taliban regime</VALUE>
+        <VALUE>Head of Ariana Afghan Airlines under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -38848,13 +39074,22 @@ regime</VALUE>
         <ALIAS_NAME>Hamidullah Akhund</ALIAS_NAME>
         <NOTE>previously listed as</NOTE>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>SAEED HAMIDULLAH</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
+        <CITY>Kabul</CITY>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
         <FROM_YEAR>1972</FROM_YEAR>
         <TO_YEAR>1973</TO_YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1973-03-22</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Sarpolad village, Washer District</CITY>
@@ -38866,7 +39101,18 @@ regime</VALUE>
         <STATE_PROVINCE>Kandahar Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Uruzgan</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009721</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2021-10-12</DATE_OF_ISSUE>
+        <NOTE>Name in Latin script: Hamidullah Saeed; name in original script: حمیدالله سعید; expires 12 Oct. 2026.</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -38931,14 +39177,13 @@ Emirates</VALUE>
       <REFERENCE_NUMBER>TAi.121</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عزیز الرحمان عبد الاحد</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Belongs to Hotak tribe. Review pursuant to Security Council resolution
+      <COMMENTS1>Belongs to Hotak tribe. Height 169cm. Review pursuant to Security Council resolution
 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Mr</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Third Secretary, Taliban Embassy, Abu Dhabi, United Arab
-Emirates</VALUE>
+        <VALUE>Third Secretary, Taliban Embassy, Abu Dhabi, United Arab Emirates (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -38952,22 +39197,33 @@ Emirates</VALUE>
         <VALUE>2011-11-29</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
-        <QUALITY/>
-        <ALIAS_NAME/>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>AZIZURAHMAN ABDUL AHAD</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
         <YEAR>1972</YEAR>
       </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1971-05-23</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
-        <CITY>Shega District</CITY>
         <STATE_PROVINCE>Kandahar Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>passport P02504168</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <CITY_OF_ISSUE>Dubai</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>United Arab Emirates</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Azizurahman Abdul Ahad; issued 12 Nov 2019, expires 12 Nov 2029</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -39972,13 +40228,9 @@ Pakistan</VALUE>
       <REFERENCE_NUMBER>TAi.144</REFERENCE_NUMBER>
       <LISTED_ON>2007-09-13</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>سراج الدين جلال الدين حقانى</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Heading the Haqqani Network (TAe.012) as of late 2012. Son of Jalaluddin
-Haqqani (TAi.040). Belongs to Sultan Khel section, Zadran tribe of Garda Saray of Paktia
-province, Afghanistan. Believed to be in the Afghanistan/Pakistan border area. Review
-pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul.
-2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Heading the Haqqani Network (TAe.012) as of late 2012. Son of Jalaluddin Haqqani (TAi.040). Belongs to Sultan Khel section, Zadran tribe of Garda Saray of Paktia province, Afghanistan. Height 187cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <DESIGNATION>
-        <VALUE>Na'ib Amir (Deputy Commander)</VALUE>
+        <VALUE>Na'ib Amir (Deputy Commander) (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -40009,20 +40261,13 @@ pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul.
         <QUALITY>Low</QUALITY>
         <ALIAS_NAME>Khalifa</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>ABDUL SATAR ABDULLAH</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <CITY>Kela neighborhood/Danda neighborhood, Miramshah</CITY>
-        <STATE_PROVINCE>North Waziristan</STATE_PROVINCE>
-        <COUNTRY>Pakistan</COUNTRY>
-      </INDIVIDUAL_ADDRESS>
-      <INDIVIDUAL_ADDRESS>
-        <CITY>Manba'ul uloom Madrasa, Miramshah</CITY>
-        <STATE_PROVINCE>North Waziristan</STATE_PROVINCE>
-        <COUNTRY>Pakistan</COUNTRY>
-      </INDIVIDUAL_ADDRESS>
-      <INDIVIDUAL_ADDRESS>
-        <CITY>Dergey Manday Madrasa, Miramshah</CITY>
-        <STATE_PROVINCE>North Waziristan</STATE_PROVINCE>
-        <COUNTRY>Pakistan</COUNTRY>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
@@ -40049,7 +40294,15 @@ pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul.
         <STATE_PROVINCE>Paktia province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>P00032260</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2022-06-30</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Abdul Satar Abdullah; expires 30 Jun. 2032.</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -40175,11 +40428,10 @@ funds for the Taliban. Reportedly deceased as of 2013. INTERPOL-UN Security Coun
       <REFERENCE_NUMBER>TAi.147</REFERENCE_NUMBER>
       <LISTED_ON>2010-07-20</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>كُل آغا اسحاقزی</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Member of a Taliban Council that coordinates the collection of zakat
-(Islamic tax) from Baluchistan Province, Pakistan. Head of Taliban Financial Commission
-as at mid-2013. Associated with Mullah Mohammed Omar (TAi.004). Served as Omar's
-principal finance officer and one of his closest advisors. Belongs to Ishaqzai
-tribe. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Member of a Taliban Council that coordinates the collection of zakat (Islamic tax) from Baluchistan Province, Pakistan. Head of Taliban Financial Commission as at mid-2013. Associated with Mullah Mohammed Omar (TAi.004). Served as Omar's principal finance officer and one of his closest advisors. Belongs to Ishaqzai tribe. Height: 156cm. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <NATIONALITY>
+        <VALUE>Afghanistan</VALUE>
+      </NATIONALITY>
       <LIST_TYPE>
         <VALUE>UN List</VALUE>
       </LIST_TYPE>
@@ -40207,19 +40459,55 @@ tribe. INTERPOL-UN Security Council Special Notice web link:https://www.interpol
         <QUALITY>Low</QUALITY>
         <ALIAS_NAME>Hayadatullah</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>HIDAYATULLAH BADRI</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>HEDAYATULLAH HEDAYAT</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>HEDAYATULLAH BADRI</ALIAS_NAME>
+        <NOTE>name in original script: هدایت الله بدري</NOTE>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY>Pakistan</COUNTRY>
+        <STREET>Ibni-Sina Watt</STREET>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1972</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1976-07-27</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Band-e Temur, Maiwand District</CITY>
         <STATE_PROVINCE>Kandahar Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0010408</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2024-08-26</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Hedayatullah Badri; name in original script: هدایت الله بدري; expires 26 Aug. 2029</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>P03318995</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2020-07-29</DATE_OF_ISSUE>
+        <NOTE>Name in Latin script: Hedayatullah Hedayat, expires 29 Jul.  2025</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -40553,11 +40841,7 @@ Faizullah Khan; Haji Fiazullah</NOTE>
       <REFERENCE_NUMBER>TAi.154</REFERENCE_NUMBER>
       <LISTED_ON>2011-10-04</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>مالک نورزى</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Taliban financier. Owns businesses in Japan and frequently travels to
-Dubai, United Arab Emirates, and Japan. As of 2009, facilitated Taliban activities,
-including through recruitment and the provision of logistical support. Believed to be in
-the Afghanistan/Pakistan border area. Belongs to Noorzai tribe. Brother of Faizullah
-Khan Noorzai (TAi.153). Father’s name is Haji Akhtar Muhammad. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Taliban financier. Owns businesses in Japan and frequently travels to Dubai, United Arab Emirates, and Japan. As of 2009, facilitated Taliban activities, including through recruitment and the provision of logistical support. Belongs to Noorzai tribe. Brother of Faizullah Khan Noorzai (TAi.153). Father’s name is Haji Akhtar Muhammad. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Haji</VALUE>
       </TITLE>
@@ -40621,14 +40905,6 @@ Khan Noorzai (TAi.153). Father’s name is Haji Akhtar Muhammad. INTERPOL-UN Sec
         <COUNTRY>Pakistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-        <NUMBER>FA0157612</NUMBER>
-        <DATE_OF_ISSUE>2009-07-23</DATE_OF_ISSUE>
-        <COUNTRY_OF_ISSUE>Pakistan</COUNTRY_OF_ISSUE>
-        <NOTE>expires on 22 Jul. 2014 , officially cancelled as of 2013 , issued under name
-Allah Muhammad</NOTE>
-      </INDIVIDUAL_DOCUMENT>
-      <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
         <NUMBER>54201-247561-5</NUMBER>
         <COUNTRY_OF_ISSUE>Pakistan</COUNTRY_OF_ISSUE>
@@ -40686,13 +40962,13 @@ Province. Has been involved in the transport of weapons to Afghanistan. INTERPOL
       <REFERENCE_NUMBER>TAi.156</REFERENCE_NUMBER>
       <LISTED_ON>2012-01-06</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>احمد ضیا آغا</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Senior Taliban official with military and financial responsibilities as
-at 2011. Leader of the Taliban’s Military Council as of 2010. In 2008 and 2009, served
-as a Taliban finance officer and distributed money to Taliban commanders in
-Afghanistan/Pakistan border area. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Senior Taliban official with military and financial responsibilities as at 2011. Leader of the Taliban’s Military Council as of 2010. In 2008 and 2009, served as a Taliban finance officer and distributed money to Taliban commanders in Afghanistan/Pakistan border area. Height: 180cm.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Haji</VALUE>
       </TITLE>
+      <NATIONALITY>
+        <VALUE>Afghanistan</VALUE>
+      </NATIONALITY>
       <LIST_TYPE>
         <VALUE>UN List</VALUE>
       </LIST_TYPE>
@@ -40715,19 +40991,37 @@ Afghanistan/Pakistan border area. INTERPOL-UN Security Council Special Notice we
         <QUALITY>Low</QUALITY>
         <ALIAS_NAME>Sia Agha Sayeed</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>NOOR AHMAD AGHA</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
         <YEAR>1974</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1979-06-25</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Maiwand District</CITY>
         <STATE_PROVINCE>Kandahar Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0010409</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2024-08-29</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Noor Ahmad Agha; expires 29 Aug. 2029</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
