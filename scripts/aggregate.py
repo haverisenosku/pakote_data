@@ -410,6 +410,60 @@ def parse_ofac(content):
 
     return entities
 
+def parse_uk(content):
+    entities = []
+    root = etree.fromstring(content)
+
+    for tag, etype in [('INDIVIDUAL', 'individual'), ('ENTITY', 'entity')]:
+        for elem in root.iter(tag):
+
+            rec = {
+                'name': None,
+                'type': etype,
+                'aliases': [],
+                'birthdates': [],
+                'identifiers': [],
+                'source': ['UK'],
+                'source_ids': {'UK': elem.findtext('REFERENCE_NUMBER')}
+            }
+
+            if etype == 'individual':
+                parts = [
+                    elem.findtext(f)
+                    for f in ['FIRST_NAME','SECOND_NAME','THIRD_NAME','FOURTH_NAME']
+                    if elem.findtext(f)
+                ]
+                rec['name'] = clean(' '.join(parts))
+            else:
+                rec['name'] = clean(elem.findtext('FIRST_NAME'))
+
+            for alias in elem.iter('INDIVIDUAL_ALIAS'):
+                a = clean(alias.findtext('ALIAS_NAME'))
+                if a and a != rec['name'] and a not in rec['aliases']:
+                    rec['aliases'].append(a)
+
+            for alias in elem.iter('ENTITY_ALIAS'):
+                a = clean(alias.findtext('ALIAS_NAME'))
+                if a and a != rec['name'] and a not in rec['aliases']:
+                    rec['aliases'].append(a)
+
+            for dob in elem.iter('INDIVIDUAL_DATE_OF_BIRTH'):
+                d = parse_date(dob.findtext('DATE') or dob.findtext('YEAR'))
+                if d and d not in rec['birthdates']:
+                    rec['birthdates'].append(d)
+
+            for doc in elem.iter('INDIVIDUAL_DOCUMENT'):
+                if doc.findtext('NUMBER'):
+                    rec['identifiers'].append({
+                        'type': doc.findtext('TYPE_OF_DOCUMENT'),
+                        'number': doc.findtext('NUMBER'),
+                        'country': doc.findtext('ISSUING_COUNTRY')
+                    })
+
+            if rec['name']:
+                entities.append(rec)
+
+    return entities
 
 # ---------------- MERGE ----------------
 
