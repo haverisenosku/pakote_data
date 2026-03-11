@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-03-11T04:50:04.918Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-03-11T14:34:25.132Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -36888,14 +36888,12 @@ regime</VALUE>
       <LISTED_ON>2001-02-23</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>نجیب الله حقانی هدايت الله</NAME_ORIGINAL_SCRIPT>
       <COMMENTS1>Cousin of Moulavi Noor Jalal. Grandfather’s name is Salam. Taliban member
-responsible for Laghman Province as of late 2010. Believed to be in Afghanistan/Pakistan
-border area. Review pursuant to Security Council resolution 1822 (2008) was concluded on
-1 Jun. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+responsible for Laghman Province as of late 2010. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <TITLE>
         <VALUE>Maulavi</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Deputy Minister of Finance under the Taliban regime</VALUE>
+        <VALUE>Deputy Minister of Finance under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -36915,12 +36913,21 @@ border area. Review pursuant to Security Council resolution 1822 (2008) was conc
         <QUALITY>Good</QUALITY>
         <ALIAS_NAME>Najibullah Haqani</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>NAJEEBULLAH HAYAT</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
         <YEAR>1971</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1972-10-24</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <STREET>Moni village</STREET>
@@ -36930,8 +36937,19 @@ border area. Review pursuant to Security Council resolution 1822 (2008) was conc
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-        <TYPE_OF_DOCUMENT2>Afghan national identification card (tazkira) number 545167</TYPE_OF_DOCUMENT2>
+        <TYPE_OF_DOCUMENT2>Afghan national identification card (tazkira) number </TYPE_OF_DOCUMENT2>
+        <NUMBER>545167</NUMBER>
         <NOTE>issued in 1974</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
+        <NUMBER>D0009871</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2022-02-06</DATE_OF_ISSUE>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Najeebullah Hayat; expires on 6 Feb. 2027</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
