@@ -41,6 +41,12 @@ jobs:
         run: |
           curl -sL "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.xml" -o data/uk.xml
           echo "UK: $(wc -c < data/uk.xml) bytes"
+
+      - name: Download UK XML
+        run: |
+          curl -sL --max-redirs 5 "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.xml" -o data/uk.xml
+          if [ $(wc -c < data/uk.xml) -lt 10000 ]; then echo "UK XML suspiciously small"; cat data/uk.xml; exit 1; fi
+          echo "UK: $(wc -c < data/uk.xml) bytes"
       
       - name: Set up Python
         uses: actions/setup-python@v5
