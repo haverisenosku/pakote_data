@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>11/03/2026</DateGenerated>
+  <DateGenerated>12/03/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -208,6 +208,14 @@
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
       <Address>
+        <AddressLine1>Office number 3</AddressLine1>
+        <AddressLine2>Near Fatima Jinnah Road</AddressLine2>
+        <AddressLine3>Dr. Bano Road</AddressLine3>
+        <AddressLine5>Quetta</AddressLine5>
+        <AddressLine6>Baluchistan Province</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
         <AddressLine1>Branch Office 12</AddressLine1>
         <AddressLine2>Sarafi Market</AddressLine2>
         <AddressLine3>Wesh</AddressLine3>
@@ -249,14 +257,6 @@
         <AddressLine2>Lashkar Gah District</AddressLine2>
         <AddressLine6>Helmand Province</AddressLine6>
         <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Office number 3</AddressLine1>
-        <AddressLine2>Near Fatima Jinnah Road</AddressLine2>
-        <AddressLine3>Dr. Bano Road</AddressLine3>
-        <AddressLine5>Quetta</AddressLine5>
-        <AddressLine6>Baluchistan Province</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
       </Address>
     </Addresses>
     <PhoneNumbers>
@@ -768,7 +768,7 @@
     </Addresses>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0006</UniqueID>
     <OFSIGroupID>7172</OFSIGroupID>
@@ -894,7 +894,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0007</UniqueID>
     <OFSIGroupID>6909</OFSIGroupID>
@@ -1233,7 +1233,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>31/01/2001</DateDesignated>
     <UniqueID>AFG0011</UniqueID>
     <OFSIGroupID>7270</OFSIGroupID>
@@ -2310,7 +2310,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>23/02/2001</DateDesignated>
     <UniqueID>AFG0023</UniqueID>
     <OFSIGroupID>7281</OFSIGroupID>
@@ -2427,7 +2427,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>23/02/2001</DateDesignated>
     <UniqueID>AFG0024</UniqueID>
     <OFSIGroupID>7060</OFSIGroupID>
@@ -2606,7 +2606,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0026</UniqueID>
     <OFSIGroupID>7307</OFSIGroupID>
@@ -2672,11 +2672,11 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Kabul</AddressLine1>
+        <AddressLine6>Kabul</AddressLine6>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
       <Address>
-        <AddressLine6>Kabul</AddressLine6>
+        <AddressLine1>Kabul</AddressLine1>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
     </Addresses>
@@ -2699,12 +2699,12 @@
             <PassportAdditionalInformation>Afghanistan  diplomatic passport issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>D0009716</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009716, issued on 25 Sept. 2021, issued in Kabul, Afghanistan (Name in Latin script: AMIR KHAN MUTAQI, name in original script: اميرخان متقي ; expires 25 Sept. 2026)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>D0009803</PassportNumber>
             <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>D0009716</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009716, issued on 25 Sept. 2021, issued in Kabul, Afghanistan (Name in Latin script: AMIR KHAN MUTAQI, name in original script: اميرخان متقي ; expires 25 Sept. 2026)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -2729,7 +2729,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>23/02/2001</DateDesignated>
     <UniqueID>AFG0027</UniqueID>
     <OFSIGroupID>7162</OFSIGroupID>
@@ -3307,7 +3307,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>23/02/2001</DateDesignated>
     <UniqueID>AFG0034</UniqueID>
     <OFSIGroupID>6904</OFSIGroupID>
@@ -3642,7 +3642,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0038</UniqueID>
     <OFSIGroupID>7164</OFSIGroupID>
@@ -3800,7 +3800,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0040</UniqueID>
     <OFSIGroupID>7209</OFSIGroupID>
@@ -4246,7 +4246,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0046</UniqueID>
     <OFSIGroupID>7527</OFSIGroupID>
@@ -4323,8 +4323,8 @@
       <Individual>
         <DOBs>
           <DOB>dd/mm/1963</DOB>
-          <DOB>30/07/1969</DOB>
           <DOB>dd/mm/1956</DOB>
+          <DOB>30/07/1969</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -4344,11 +4344,11 @@
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Dehrawood District, Uruzgan Province</TownOfBirth>
+            <TownOfBirth>Chora District, Uruzgan Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Chora District, Uruzgan Province</TownOfBirth>
+            <TownOfBirth>Dehrawood District, Uruzgan Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -5023,8 +5023,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>24/10/1972</DOB>
           <DOB>dd/mm/1971</DOB>
+          <DOB>24/10/1972</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -8071,7 +8071,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0094</UniqueID>
     <OFSIGroupID>7055</OFSIGroupID>
@@ -8131,8 +8131,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>23/05/1971</DOB>
           <DOB>dd/mm/1972</DOB>
+          <DOB>23/05/1971</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -10117,7 +10117,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>16/02/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>09/02/2011</DateDesignated>
     <UniqueID>AFG0118</UniqueID>
     <OFSIGroupID>11633</OFSIGroupID>
@@ -10212,14 +10212,14 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1963</DOB>
-          <DOB>dd/mm/1964</DOB>
           <DOB>01/01/1966</DOB>
           <DOB>dd/mm/1958</DOB>
           <DOB>dd/mm/1959</DOB>
           <DOB>dd/mm/1960</DOB>
           <DOB>dd/mm/1961</DOB>
           <DOB>dd/mm/1962</DOB>
+          <DOB>dd/mm/1963</DOB>
+          <DOB>dd/mm/1964</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -10335,37 +10335,33 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Kalay Rangin</AddressLine1>
-        <AddressLine2>Spin Boldak District</AddressLine2>
-        <AddressLine6>Kandahar Province</AddressLine6>
-        <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Boghra Road</AddressLine1>
         <AddressLine2>Miralzei Village</AddressLine2>
         <AddressLine3>Chaman</AddressLine3>
         <AddressLine6>Baluchistan Province</AddressLine6>
         <AddressCountry>Pakistan</AddressCountry>
       </Address>
+      <Address>
+        <AddressLine1>Kalay Rangin</AddressLine1>
+        <AddressLine2>Spin Boldak District</AddressLine2>
+        <AddressLine6>Kandahar Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
     </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1968</DOB>
           <DOB>dd/mm/1969</DOB>
           <DOB>dd/mm/1970</DOB>
           <DOB>dd/mm/1962</DOB>
           <DOB>dd/mm/1966</DOB>
           <DOB>dd/mm/1961</DOB>
+          <DOB>dd/mm/1968</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
         </Nationalities>
         <BirthDetails>
-          <Location>
-            <TownOfBirth>Chaman, Baluchistan Province</TownOfBirth>
-            <CountryOfBirth>Pakistan</CountryOfBirth>
-          </Location>
           <Location>
             <TownOfBirth>Lowy Kariz, Spin Boldak District, Kandahar Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
@@ -10374,12 +10370,16 @@
             <TownOfBirth>Kadanay, Spin Boldak District, Kandahar Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
+          <Location>
+            <TownOfBirth>Chaman, Baluchistan Province</TownOfBirth>
+            <CountryOfBirth>Pakistan</CountryOfBirth>
+          </Location>
         </BirthDetails>
       </Individual>
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>10/03/2026</LastUpdated>
+    <LastUpdated>11/03/2026</LastUpdated>
     <DateDesignated>04/10/2011</DateDesignated>
     <UniqueID>AFG0120</UniqueID>
     <OFSIGroupID>12155</OFSIGroupID>
@@ -11388,8 +11388,8 @@
       <Individual>
         <DOBs>
           <DOB>dd/mm/1971</DOB>
-          <DOB>dd/mm/1970</DOB>
           <DOB>dd/mm/1969</DOB>
+          <DOB>dd/mm/1970</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -17453,10 +17453,10 @@
         <AddressCountry>United Arab Emirates</AddressCountry>
       </Address>
       <Address>
-        <AddressCountry>Afghanistan</AddressCountry>
+        <AddressCountry>Kuwait</AddressCountry>
       </Address>
       <Address>
-        <AddressCountry>Kuwait</AddressCountry>
+        <AddressCountry>Afghanistan</AddressCountry>
       </Address>
     </Addresses>
   </Designation>
@@ -28982,11 +28982,11 @@ Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Basilan, previous location until 2016</AddressLine6>
+        <AddressLine6>Lanao del Sur</AddressLine6>
         <AddressCountry>Philippines</AddressCountry>
       </Address>
       <Address>
-        <AddressLine6>Lanao del Sur</AddressLine6>
+        <AddressLine6>Basilan, previous location until 2016</AddressLine6>
         <AddressCountry>Philippines</AddressCountry>
       </Address>
     </Addresses>
@@ -41673,17 +41673,17 @@ Iraq (possible alternative location as at Aug. 2015) </OtherInformation>
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Desa Gebang</AddressLine1>
-        <AddressLine2>Kecamatan Masaran</AddressLine2>
-        <AddressLine3>Kabupaten Sragen</AddressLine3>
-        <AddressLine4>Jawa Tenagh</AddressLine4>
-        <AddressCountry>Indonesia</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Desa Taman Fajar</AddressLine1>
         <AddressLine2>Kecamatan Probolinggo</AddressLine2>
         <AddressLine3>Kabupaten Lampung Timur</AddressLine3>
         <AddressLine4>Lampung</AddressLine4>
+        <AddressCountry>Indonesia</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Desa Gebang</AddressLine1>
+        <AddressLine2>Kecamatan Masaran</AddressLine2>
+        <AddressLine3>Kabupaten Sragen</AddressLine3>
+        <AddressLine4>Jawa Tenagh</AddressLine4>
         <AddressCountry>Indonesia</AddressCountry>
       </Address>
     </Addresses>
@@ -43815,12 +43815,12 @@ a) United States of America (in detention, Federal Detention Centre - Miami, Reg
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>A5199819</PassportNumber>
-            <PassportAdditionalInformation>Pakistan number</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>CG9153881</PassportNumber>
             <PassportAdditionalInformation>Pakistan number, issue on 02 Nov 2007</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>A5199819</PassportNumber>
+            <PassportAdditionalInformation>Pakistan number</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -43828,11 +43828,11 @@ a) United States of America (in detention, Federal Detention Centre - Miami, Reg
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>34454009709</NationalIdentifierNumber>
+            <NationalIdentifierNumber>6110111883885</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Pakistan</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
           <NationalIdentifier>
-            <NationalIdentifierNumber>6110111883885</NationalIdentifierNumber>
+            <NationalIdentifierNumber>34454009709</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Pakistan</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
@@ -63515,8 +63515,8 @@ We have reasonable grounds to suspect that Rampage Productions (“Rampage”) i
       <Website>www.Rampageproductions.co.uk </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>RAMPAGETRADE@aol.com</EmailAddress>
       <EmailAddress>sales@rampageproductions.co.uk</EmailAddress>
+      <EmailAddress>RAMPAGETRADE@aol.com</EmailAddress>
       <EmailAddress>rampage-productions@hotmail.com</EmailAddress>
     </EmailAddresses>
   </Designation>
@@ -99407,26 +99407,26 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </DOBs>
         <PassportDetails>
           <Passport>
+            <PassportNumber>CK23926</PassportNumber>
+          </Passport>
+          <Passport>
             <PassportNumber>564196270</PassportNumber>
             <PassportAdditionalInformation>Issued 23/12/2019 </PassportAdditionalInformation>
           </Passport>
-          <Passport>
-            <PassportNumber>CK23926</PassportNumber>
-          </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>United Kingdom</Nationality>
           <Nationality>Kenya</Nationality>
+          <Nationality>United Kingdom</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Mombasa</TownOfBirth>
             <CountryOfBirth>Kenya</CountryOfBirth>
           </Location>
           <Location>
+            <TownOfBirth>Mombasa</TownOfBirth>
             <CountryOfBirth>Kenya</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -112270,8 +112270,8 @@ There are reasonable grounds to suspect that ZHU Zhongbiao (“ZHU”) is an inv
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Director of Cambodian Heng Xin Real Estate Company Limited</Position>
           <Position>Director of Jin Bei Group Company Limited</Position>
+          <Position>Director of Cambodian Heng Xin Real Estate Company Limited</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -112694,12 +112694,12 @@ There are reasonable grounds to suspect that QIU Wei Ren (“QIU”) is an invol
             <PassportAdditionalInformation>Cambodia</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>BXJXN</PassportNumber>
-            <PassportAdditionalInformation>Hong Kong</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>K00459432</PassportNumber>
             <PassportAdditionalInformation>Cyprus</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>BXJXN</PassportNumber>
+            <PassportAdditionalInformation>Hong Kong</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -112708,8 +112708,8 @@ There are reasonable grounds to suspect that QIU Wei Ren (“QIU”) is an invol
         </Nationalities>
         <Positions>
           <Position>Director of Prince Vanguard Development Company Limited</Position>
-          <Position>Owner of Sky Sailing Limited</Position>
           <Position>Owner of Unstoppable Bird Limited </Position>
+          <Position>Owner of Sky Sailing Limited</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -127535,16 +127535,16 @@ Pars Aviation Services Company is an involved person within the meaning of the I
 Qods Aeronautics Industries (QAI) is an involved person within the meaning of the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019. Qods Aeronautics Industries (QAI) is or has been   responsible for, providing support for or facilitating a relevant nuclear activity, specifically the development of a nuclear weapon delivery system in, or for use in, Iran.</UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Unit 207</AddressLine1>
-        <AddressLine2>Tarajit Maydane Taymori (or Teimori) Square</AddressLine2>
-        <AddressLine3>Basiri Building</AddressLine3>
-        <AddressLine4>Tarasht</AddressLine4>
+        <AddressLine1>Km 5 Karaj Special Road</AddressLine1>
+        <AddressLine2>P.O. Box 15875-1834</AddressLine2>
         <AddressLine6>Tehran</AddressLine6>
         <AddressCountry>Iran</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Km 5 Karaj Special Road</AddressLine1>
-        <AddressLine2>P.O. Box 15875-1834</AddressLine2>
+        <AddressLine1>Unit 207</AddressLine1>
+        <AddressLine2>Tarajit Maydane Taymori (or Teimori) Square</AddressLine2>
+        <AddressLine3>Basiri Building</AddressLine3>
+        <AddressLine4>Tarasht</AddressLine4>
         <AddressLine6>Tehran</AddressLine6>
         <AddressCountry>Iran</AddressCountry>
       </Address>
@@ -131559,17 +131559,17 @@ National Iranian Oil Company is an involved person under the Iran (Sanctions) (N
         <AddressCountry>Iran</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>National Iranian Oil Company Building 214</AddressLine1>
-        <AddressLine2>Khorramshahr Avenue</AddressLine2>
-        <AddressLine6>Tehran</AddressLine6>
-        <AddressPostalCode>1533743911</AddressPostalCode>
-        <AddressCountry>Iran</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>NIOC Central Building</AddressLine1>
         <AddressLine2>Junction Of Taleghani Avenue And Hafez Avenue</AddressLine2>
         <AddressLine6>Tehran</AddressLine6>
         <AddressPostalCode>15875-1863</AddressPostalCode>
+        <AddressCountry>Iran</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>National Iranian Oil Company Building 214</AddressLine1>
+        <AddressLine2>Khorramshahr Avenue</AddressLine2>
+        <AddressLine6>Tehran</AddressLine6>
+        <AddressPostalCode>1533743911</AddressPostalCode>
         <AddressCountry>Iran</AddressCountry>
       </Address>
     </Addresses>
@@ -133267,9 +133267,9 @@ n, or for use in, Iran; or the development of a nuclear weapon delivery system i
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>SWIFT/BIC - PBIRIRTH </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Iran National ID Number – 10101702747 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Iran Registration No. - 126785 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>SWIFT/BIC - PBIRIRTH </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -134206,8 +134206,8 @@ Melli Agrochemical Company PJS is an involved person under the Iran (Sanctions) 
       <Website>www.melliagrochemical.ir </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@macco.ir </EmailAddress>
       <EmailAddress>sales@macco.ir</EmailAddress>
+      <EmailAddress>info@macco.ir </EmailAddress>
     </EmailAddresses>
   </Designation>
   <Designation>
@@ -134801,8 +134801,8 @@ National Iranian Oil Company Nederland is an involved person under the Iran (San
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+31(10)2250308</PhoneNumber>
       <PhoneNumber>+31(10)2250177</PhoneNumber>
+      <PhoneNumber>+31(10)2250308</PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
       <EmailAddress>niocr@planet.nl </EmailAddress>
@@ -152461,16 +152461,16 @@ ANSARI has facilitated and provided support to hostile activity by the Governmen
             <PassportAdditionalInformation>St Kitts &amp; Nevis</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>L00017629 </PassportNumber>
-            <PassportAdditionalInformation>Cyprus</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>B65348454</PassportNumber>
             <PassportAdditionalInformation>Iran</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>P41219058</PassportNumber>
             <PassportAdditionalInformation>Iran</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>L00017629 </PassportNumber>
+            <PassportAdditionalInformation>Cyprus</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -157897,14 +157897,14 @@ N/A</UKStatementofReasons>
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Beirut</AddressLine6>
-        <AddressCountry>Lebanon</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Fuad Dawod Farm</AddressLine1>
         <AddressLine5>Az Zabadani</AddressLine5>
         <AddressLine6>Damascus</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine6>Beirut</AddressLine6>
+        <AddressCountry>Lebanon</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -216184,10 +216184,10 @@ Petr Olegovich Aven (hereinafter AVEN) is an involved person under the Russia (S
           <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
+          <Position>Former President of Alfa-Bank (Russia)</Position>
           <Position>Former Chairman of the Board AHB Holdings</Position>
           <Position>Former Chairman of the Board Alfa-Bank Russia</Position>
           <Position>Chairman of the Board Alfastrakhovanie</Position>
-          <Position>Former President of Alfa-Bank (Russia)</Position>
           <Position>Member of the supervisory board Alfa Bank Consortium</Position>
         </Positions>
         <Genders>
@@ -259852,7 +259852,7 @@ Vladimir BOGDANOV is the Chief Executive and Deputy Chairman of the Board of Dir
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>09/04/2025</LastUpdated>
+    <LastUpdated>12/03/2026</LastUpdated>
     <DateDesignated>13/04/2022</DateDesignated>
     <UniqueID>RUS1327</UniqueID>
     <OFSIGroupID>15286</OFSIGroupID>
@@ -259898,8 +259898,9 @@ Vladimir BOGDANOV is the Chief Executive and Deputy Chairman of the Board of Dir
     </SanctionsImposedIndicators>
     <OtherInformation>The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
     <UKStatementofReasons>
-Gulbakhor ISMAILOVA is the sister of Alisher USMANOV, an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019. USMANOV was designated by the UK on 3 March 2022. As an immediate family member of USMANOV and obtaining material benefit from USMANOV, Gulbakhor ISMAILOVA is associated with an involved person and therefore ISMAILOVA is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019. 
- The trust services sanctions were imposed on 21/03/2023.</UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect Gulbakhor ISMAILOVA is the sister of Alisher USMANOV, an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019.  USMANOV was designated by the UK on 3 March 2022.  As an immediate family member of USMANOV, Gulbakhor ISMAILOVA is associated with an involved person and therefore ISMAILOVA is an involved person under the Russia (Sanctions)  (EU Exit) Regulations 2019.
+The trust services sanctions were imposed on 21/03/2023.
+</UKStatementofReasons>
     <Addresses>
       <Address>
         <AddressLine1>Apartment 81-83</AddressLine1>
@@ -259915,8 +259916,8 @@ Gulbakhor ISMAILOVA is the sister of Alisher USMANOV, an involved person under t
           <DOB>22/12/1959</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Uzbekistan</Nationality>
           <Nationality>Russia</Nationality>
+          <Nationality>Uzbekistan</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Female</Gender>
@@ -265559,17 +265560,17 @@ The Special Technology Centre LLC (hereafter known as STC LLC) is a Russian enti
  The trust services sanctions were imposed on 21/03/2023.</UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>lit. B, office 53</AddressLine1>
-        <AddressLine2>21 Gzhatskaya street</AddressLine2>
-        <AddressLine6>St Petersburg</AddressLine6>
-        <AddressPostalCode>195220</AddressPostalCode>
-        <AddressCountry>Russia</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>12 Lit. Pom 3 N</AddressLine1>
         <AddressLine2>Apraksin Lane</AddressLine2>
         <AddressLine6>St Petersburg</AddressLine6>
         <AddressPostalCode>191023</AddressPostalCode>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>lit. B, office 53</AddressLine1>
+        <AddressLine2>21 Gzhatskaya street</AddressLine2>
+        <AddressLine6>St Petersburg</AddressLine6>
+        <AddressPostalCode>195220</AddressPostalCode>
         <AddressCountry>Russia</AddressCountry>
       </Address>
     </Addresses>
@@ -266478,16 +266479,16 @@ OGRN - 1061831040688
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+8 (423) 2-220-210</PhoneNumber>
       <PhoneNumber>+8 (423) 2-224-010</PhoneNumber>
+      <PhoneNumber>+8 (423) 2-220-210</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>https://dalzavod.vl.ru</Website>
       <Website>https://csdalzavod.ru</Website>
+      <Website>https://dalzavod.vl.ru</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>ok@csdalzavod.ru</EmailAddress>
       <EmailAddress>dalzavod@dcss.ru</EmailAddress>
+      <EmailAddress>ok@csdalzavod.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -274548,8 +274549,8 @@ Mikhail Vasilyevich Klyukin is an “involved person” under the Russia (Sancti
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Cyprus</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
           <Position>Member of the Supervisory Board Sovcombank</Position>
@@ -278392,8 +278393,8 @@ Svetlana Petrovna Yemelyanova is an “involved person” under the Russia (Sanc
           <DOB>24/04/1972</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Azerbaijan</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
           <Position>Chairman of the Board of Directors of the Kievskaya Ploshchad</Position>
@@ -285476,8 +285477,8 @@ Vitaly Anatolyevich Markelov is an “involved person” under the Russia (Sanct
           <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Executive Director, Gazprom</Position>
           <Position>Deputy Chairman of the Management Board of Gazprom</Position>
+          <Position>Executive Director, Gazprom</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -289628,8 +289629,8 @@ Demetris Ioannides is Managing Director of Cyprus-based corporate services provi
           <DOB>28/09/1943</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>United Kingdom</Nationality>
           <Nationality>Cyprus</Nationality>
+          <Nationality>United Kingdom</Nationality>
         </Nationalities>
         <Positions>
           <Position>Managing Director  Meritservus HC Limited</Position>
@@ -303067,18 +303068,18 @@ Sinno Electronics Co., Limited is an involved person within the meaning of the R
         <AddressCountry>China</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Rm. B22, 1/F, Block B</AddressLine1>
-        <AddressLine2>East Sun Industrial Centre,</AddressLine2>
-        <AddressLine3>16 Shing Yip Street</AddressLine3>
-        <AddressLine4>Kwun Tong</AddressLine4>
+        <AddressLine1>Room 03, Chevalier House</AddressLine1>
+        <AddressLine2>45-51 Chatham Road South</AddressLine2>
+        <AddressLine3>Tsim Sha Tsui</AddressLine3>
         <AddressLine5>Kowloon</AddressLine5>
         <AddressLine6>Hong Kong</AddressLine6>
         <AddressCountry>China</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Room 03, Chevalier House</AddressLine1>
-        <AddressLine2>45-51 Chatham Road South</AddressLine2>
-        <AddressLine3>Tsim Sha Tsui</AddressLine3>
+        <AddressLine1>Rm. B22, 1/F, Block B</AddressLine1>
+        <AddressLine2>East Sun Industrial Centre,</AddressLine2>
+        <AddressLine3>16 Shing Yip Street</AddressLine3>
+        <AddressLine4>Kwun Tong</AddressLine4>
         <AddressLine5>Kowloon</AddressLine5>
         <AddressLine6>Hong Kong</AddressLine6>
         <AddressCountry>China</AddressCountry>
@@ -308447,8 +308448,8 @@ LIMITED LIABILITY COMPANY "BINA GROUP" is an “involved person" under the Russi
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1097746585452</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN: 7706725428</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1097746585452</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -308701,19 +308702,19 @@ HENGSHUI YUANCHEM TRADING LIMITED is an involved person under the Russia (Sancti
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>No. 365 Xinhua Street</AddressLine1>
-        <AddressLine5>Hebei Province</AddressLine5>
-        <AddressLine6>Hengshui City</AddressLine6>
-        <AddressPostalCode>053000</AddressPostalCode>
-        <AddressCountry>China</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>No. 29 Qiantong Road</AddressLine1>
         <AddressLine2>Qiaotou Town</AddressLine2>
         <AddressLine3>Wuyi County</AddressLine3>
         <AddressLine4>Hengshui</AddressLine4>
         <AddressLine5>Hebei Province</AddressLine5>
         <AddressLine6>Hengshui City</AddressLine6>
+        <AddressCountry>China</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>No. 365 Xinhua Street</AddressLine1>
+        <AddressLine5>Hebei Province</AddressLine5>
+        <AddressLine6>Hengshui City</AddressLine6>
+        <AddressPostalCode>053000</AddressPostalCode>
         <AddressCountry>China</AddressCountry>
       </Address>
     </Addresses>
@@ -313845,15 +313846,15 @@ VIRMAVIA OÜ is an involved person under the Russia (Sanctions) (EU Exit) Regu
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+372 58439040</PhoneNumber>
-      <PhoneNumber>+372 712 3519</PhoneNumber>
       <PhoneNumber>+372 602 7990</PhoneNumber>
+      <PhoneNumber>+372 712 3519</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://virmavia.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>accountant@virmavia.com</EmailAddress>
       <EmailAddress>natalia.khirevich@gmail.com</EmailAddress>
+      <EmailAddress>accountant@virmavia.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -314094,8 +314095,8 @@ ELESAR GRUPP is an involved person under the Russia (Sanctions) (EU Exit) Regula
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1207800103301</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN: 7806575286</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1207800103301</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -314647,8 +314648,8 @@ TSK VEKTOR is an involved person under the Russia (Sanctions) (EU Exit) Regulati
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 3849055365</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1153850042246</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 3849055365</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -316366,13 +316367,13 @@ Andrey Naumovich Perla (hereafter Perla) is an “involved person” under the R
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Gurzufskaya 16/102</AddressLine1>
-        <AddressLine6>Yekaterinburg</AddressLine6>
+        <AddressLine1>Maslennikova 41/24</AddressLine1>
+        <AddressLine6>Samara</AddressLine6>
         <AddressCountry>Russia</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Maslennikova 41/24</AddressLine1>
-        <AddressLine6>Samara</AddressLine6>
+        <AddressLine1>Gurzufskaya 16/102</AddressLine1>
+        <AddressLine6>Yekaterinburg</AddressLine6>
         <AddressCountry>Russia</AddressCountry>
       </Address>
     </Addresses>
@@ -316380,13 +316381,13 @@ Andrey Naumovich Perla (hereafter Perla) is an “involved person” under the R
       <PhoneNumber>+79220206444</PhoneNumber>
       <PhoneNumber>+79220279500</PhoneNumber>
       <PhoneNumber>+79783000289</PhoneNumber>
-      <PhoneNumber>+79221630515</PhoneNumber>
       <PhoneNumber>+79193175340</PhoneNumber>
+      <PhoneNumber>+79221630515</PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
       <EmailAddress>perla0606@mail.ru</EmailAddress>
-      <EmailAddress>dvp32@sev.gov.ru</EmailAddress>
       <EmailAddress>andrewperla@gmail.com</EmailAddress>
+      <EmailAddress>dvp32@sev.gov.ru</EmailAddress>
     </EmailAddresses>
     <IndividualDetails>
       <Individual>
@@ -316578,13 +316579,13 @@ Nikolai Aleksandrovich  Tupikin (hereafter Tupikin ) is an “involved person�
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+74991967100</PhoneNumber>
-      <PhoneNumber>+79160353451</PhoneNumber>
       <PhoneNumber>+79104626802</PhoneNumber>
+      <PhoneNumber>+79160353451</PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
       <EmailAddress>nikolay.tupikin@gmail.com</EmailAddress>
-      <EmailAddress>natupikin@mail.ru</EmailAddress>
       <EmailAddress>kurnikoff@yandex.ru</EmailAddress>
+      <EmailAddress>natupikin@mail.ru</EmailAddress>
     </EmailAddresses>
     <IndividualDetails>
       <Individual>
@@ -316674,18 +316675,18 @@ obtaining a benefit from or supporting the Government of Russia
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressLine1>Prospekt Novoyasenevskii</AddressLine1>
+        <AddressLine2>d. 23, k. 1</AddressLine2>
+        <AddressLine6>Moscow</AddressLine6>
+        <AddressPostalCode>117463</AddressPostalCode>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+      <Address>
         <AddressLine1>Per. Bolshoi Kislovskiy</AddressLine1>
         <AddressLine2>d. 1, str. 2</AddressLine2>
         <AddressLine3>Arbat Municipal Okrug</AddressLine3>
         <AddressLine6>Moscow</AddressLine6>
         <AddressPostalCode>125009</AddressPostalCode>
-        <AddressCountry>Russia</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Prospekt Novoyasenevskii</AddressLine1>
-        <AddressLine2>d. 23, k. 1</AddressLine2>
-        <AddressLine6>Moscow</AddressLine6>
-        <AddressPostalCode>117463</AddressPostalCode>
         <AddressCountry>Russia</AddressCountry>
       </Address>
     </Addresses>
@@ -316771,16 +316772,16 @@ obtaining a benefit from or supporting the Government of Russia
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Ulitsa Bolshaya Nikitskaya</AddressLine1>
-        <AddressLine2>d. 12, str. 1</AddressLine2>
+        <AddressLine1>Pereulok Bolshoi Kislovskiy</AddressLine1>
+        <AddressLine2>d. 1, str. 2</AddressLine2>
+        <AddressLine3>Arbat Municipal Okrug</AddressLine3>
         <AddressLine6>Moscow</AddressLine6>
         <AddressPostalCode>125009</AddressPostalCode>
         <AddressCountry>Russia</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Pereulok Bolshoi Kislovskiy</AddressLine1>
-        <AddressLine2>d. 1, str. 2</AddressLine2>
-        <AddressLine3>Arbat Municipal Okrug</AddressLine3>
+        <AddressLine1>Ulitsa Bolshaya Nikitskaya</AddressLine1>
+        <AddressLine2>d. 12, str. 1</AddressLine2>
         <AddressLine6>Moscow</AddressLine6>
         <AddressPostalCode>125009</AddressPostalCode>
         <AddressCountry>Russia</AddressCountry>
@@ -317792,8 +317793,8 @@ ALL-RUSSIAN “YOUNG ARMY” MILITARY PATRIOTIC SOCIAL MOVEMENT (hereafter ‘YU
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 7704366170</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1167700061540</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 7704366170</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -322452,19 +322453,19 @@ SUZHOU PARSUN POWER MACHINE CO., LTD. is or has been involved in destabilising U
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 512 6621 2797</PhoneNumber>
       <PhoneNumber>+86 0512-66936931</PhoneNumber>
+      <PhoneNumber>+86 512 6621 2797</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.parsun.tmall.com</Website>
       <Website>www.parsun-endumax.com</Website>
-      <Website>www.parsunpower.com</Website>
       <Website>www.parsun.com.cn </Website>
+      <Website>www.parsunpower.com</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>ps_bod@parsun.com.cn</EmailAddress>
-      <EmailAddress>sales@parsun.com.cn</EmailAddress>
       <EmailAddress>liuying@parsun.com.cn</EmailAddress>
+      <EmailAddress>sales@parsun.com.cn</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -322931,8 +322932,8 @@ FEDERAL STATE UNITARY ENTERPRISE “MAIN CENTER OF SPECIAL COMMUNICATION” is a
     <PhoneNumbers>
       <PhoneNumber>7 (495) 686-8021</PhoneNumber>
       <PhoneNumber>7 495 7859244</PhoneNumber>
-      <PhoneNumber>8-800-250-60-70   </PhoneNumber>
       <PhoneNumber>7(495)620-46-20</PhoneNumber>
+      <PhoneNumber>8-800-250-60-70   </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.cccb.ru </Website>
@@ -323276,8 +323277,8 @@ LLC KRAFTTEK is an involved person under the Russia (Sanctions) (EU Exit) Regula
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 9681 941805</PhoneNumber>
       <PhoneNumber>+7 (812) 622-89-89 </PhoneNumber>
+      <PhoneNumber>+7 9681 941805</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.crafttech.ru</Website>
@@ -324432,9 +324433,9 @@ NEWAY CNC EQUIPMENT (SUZHOU) CO LTD, is an involved person under the Russia (San
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>+86 512 6239 2186</PhoneNumber>
       <PhoneNumber>+86 512 6239 9980</PhoneNumber>
       <PhoneNumber>+86 512-6607 1116</PhoneNumber>
-      <PhoneNumber>+86 512 6239 2186</PhoneNumber>
       <PhoneNumber>+86 512-6607 6668</PhoneNumber>
     </PhoneNumbers>
     <Websites>
@@ -325547,8 +325548,8 @@ LLC INTERVESP-M is an involved person as it is or has been destabilising Ukraine
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN - 1167746856738 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN - 7706441909 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN - 1167746856738 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -325733,12 +325734,12 @@ EKC.AG is or has been involved in destabilising Ukraine or undermining or threat
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+49 931 666878-29 </PhoneNumber>
       <PhoneNumber>+49 931 666878-0 </PhoneNumber>
+      <PhoneNumber>+49 931 666878-29 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.ek-company.com </Website>
       <Website>www.ekc.ag</Website>
+      <Website>www.ek-company.com </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>info@ekc.ag </EmailAddress>
@@ -325981,8 +325982,8 @@ LLC GRANT-TRADE is or has been involved in destabilising Ukraine or undermining 
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>INN – 7722779734</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>KPP - 772201001</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN – 1127746497328</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>KPP - 772201001</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -327306,8 +327307,8 @@ ACE ELECTRONIC (HK) CO., LTD is or has been involved in destabilising Ukraine or
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86-755-2512-4873</PhoneNumber>
       <PhoneNumber>+852 2638 7801</PhoneNumber>
+      <PhoneNumber>+86-755-2512-4873</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.ace-chip.com</Website>
@@ -327318,8 +327319,8 @@ ACE ELECTRONIC (HK) CO., LTD is or has been involved in destabilising Ukraine or
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>CR: 2756979</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>BR: 69987857</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>CR: 2756979</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -335884,8 +335885,8 @@ CONSUL GROUP LTD is an “ involved person" under the Russia (Sanctions) (EU Exi
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 4852 681630</PhoneNumber>
-      <PhoneNumber>+7 4852 302543</PhoneNumber>
       <PhoneNumber>+7 4852 682817</PhoneNumber>
+      <PhoneNumber>+7 4852 302543</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>http://www.consul-group.ru/</Website>
@@ -336546,10 +336547,10 @@ PIONEER TRADE LLC is or has been involved in obtaining a benefit from or support
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (3852) 55-02-20 </PhoneNumber>
       <PhoneNumber>+7 (3852) 506-555</PhoneNumber>
       <PhoneNumber>+7 (3852) 55-02-00</PhoneNumber>
       <PhoneNumber>+7 (3852) 63-11-51</PhoneNumber>
+      <PhoneNumber>+7 (3852) 55-02-20 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>trade-pioneer.ru </Website>
@@ -336563,8 +336564,8 @@ PIONEER TRADE LLC is or has been involved in obtaining a benefit from or support
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1072225012804</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 2225089570</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1072225012804</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -337387,8 +337388,8 @@ JOINT STOCK COMPANY VOLGOGRAD METALLURGICAL PLANT "RED OCTOBER" is involved in o
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 3442117699 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1113459005175</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 3442117699 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -340778,9 +340779,9 @@ Non-bank Credit Organization Joint-Stock Company “Petersburg Settlement Center
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>+7 (812) 655-74-30</PhoneNumber>
       <PhoneNumber>+7 (812) 655-74-31</PhoneNumber>
       <PhoneNumber>+7 (812) 324-3806</PhoneNumber>
-      <PhoneNumber>+7 (812) 655-74-30</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.spsc.ru</Website>
@@ -358196,8 +358197,8 @@ LLC HARTIS DV is an "involved person" under the Russia (Sanctions) (EU Exit) Reg
       <Website>https://hartisdv.ru/ </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>balakaeva@hartisdv.ru </EmailAddress>
       <EmailAddress>info@hartisdv.ru </EmailAddress>
+      <EmailAddress>balakaeva@hartisdv.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -359028,15 +359029,15 @@ PERGAM-ENGINEERING JSC is an “involved person” under the Russia (Sanctions
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7(495) 775-75-25 </PhoneNumber>
       <PhoneNumber>+7 812 3171120</PhoneNumber>
+      <PhoneNumber>+7(495) 775-75-25 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.pergam.ru/ </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@pergam.ru </EmailAddress>
       <EmailAddress>vip@pergam.ru </EmailAddress>
+      <EmailAddress>info@pergam.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -359298,15 +359299,15 @@ HORSWAY TECH (HK) CO., LIMITED is an "involved person" under the Russia (Sanctio
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Rm 1318, Sunbeam Centre</AddressLine1>
-        <AddressLine2>27 Shing Yip Street</AddressLine2>
-        <AddressLine5>Kwun Tong</AddressLine5>
+        <AddressLine1>Flat/Rm 2003 20/F Hong Kong Plaza</AddressLine1>
+        <AddressLine2>188 Connaught Road West</AddressLine2>
         <AddressLine6>Hong Kong</AddressLine6>
         <AddressCountry>China</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Flat/Rm 2003 20/F Hong Kong Plaza</AddressLine1>
-        <AddressLine2>188 Connaught Road West</AddressLine2>
+        <AddressLine1>Rm 1318, Sunbeam Centre</AddressLine1>
+        <AddressLine2>27 Shing Yip Street</AddressLine2>
+        <AddressLine5>Kwun Tong</AddressLine5>
         <AddressLine6>Hong Kong</AddressLine6>
         <AddressCountry>China</AddressCountry>
       </Address>
@@ -364434,10 +364435,10 @@ The Secretary of State has reasonable grounds to suspect that FARGONA KIMYO ZAVO
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+998 93 501 03 32</PhoneNumber>
-      <PhoneNumber>+998 90 231 31 49</PhoneNumber>
       <PhoneNumber>+998 90 533 64 84</PhoneNumber>
       <PhoneNumber>+998 91 681 82 14</PhoneNumber>
+      <PhoneNumber>+998 93 501 03 32</PhoneNumber>
+      <PhoneNumber>+998 90 231 31 49</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://fergchem.com/</Website>
@@ -364505,8 +364506,8 @@ The Secretary of State has reasonable grounds to suspect that GELION BUSINESS TR
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+998 90 924 66 65</PhoneNumber>
       <PhoneNumber>+998 94 100-80-55</PhoneNumber>
+      <PhoneNumber>+998 90 924 66 65</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://gelion.uz/ </Website>
@@ -371755,16 +371756,16 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 845 230-80-51</PhoneNumber>
-      <PhoneNumber>+7 845 230-81-78</PhoneNumber>
       <PhoneNumber>+7 845 230-81-72</PhoneNumber>
+      <PhoneNumber>+7 845 230-81-78</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.sepo.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>zem@sepo.ru</EmailAddress>
-      <EmailAddress>director@sepo.ru</EmailAddress>
       <EmailAddress>sepo-energo@mail.ru </EmailAddress>
+      <EmailAddress>director@sepo.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -372670,8 +372671,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
       <Website>www.top-alloy.ru </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>office@top-alloy.ru </EmailAddress>
       <EmailAddress>zapros@top-alloy.ru</EmailAddress>
+      <EmailAddress>office@top-alloy.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -373529,8 +373530,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1173668048113</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 3664230952</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1173668048113</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -375597,8 +375598,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1197746016049</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 7751154399</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1197746016049</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -375996,10 +375997,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
       <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
       <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
       <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
+      <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://tochka.com</Website>
@@ -376234,13 +376235,13 @@ JOINT-STOCK COMPANY COMMERCIAL BANK “LANTA-BANK”
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+8 800 100-67-00</PhoneNumber>
       <PhoneNumber>+7 (495) 957-00-00</PhoneNumber>
+      <PhoneNumber>+8 800 100-67-00</PhoneNumber>
     </PhoneNumbers>
     <Websites>
+      <Website>https://lanta.ru</Website>
       <Website>www.lanta.ru</Website>
       <Website>https://www.lanta.ru</Website>
-      <Website>https://lanta.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>mail@lanta.ru</EmailAddress>
@@ -376341,9 +376342,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>8(800)1000 600</PhoneNumber>
-      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
       <PhoneNumber>8(343)355 75 75</PhoneNumber>
       <PhoneNumber>8(495)771 70 95</PhoneNumber>
+      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>http://sinara.ru</Website>
@@ -376351,9 +376352,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Websites>
     <EmailAddresses>
       <EmailAddress>clients@skbbank.ru</EmailAddress>
-      <EmailAddress>orders@delo.ru</EmailAddress>
       <EmailAddress>digital@sinara.ru</EmailAddress>
       <EmailAddress>orders@sinara.ru</EmailAddress>
+      <EmailAddress>orders@delo.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -376442,12 +376443,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
+          <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
+          <Position>Minority shareholder of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>Owner of LLC NATSPROMKOMPLEKT</Position>
           <Position>Co-owner of LLC NATSPROMRESURS</Position>
           <Position>President of LLC UNIMATIC</Position>
-          <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
-          <Position>Minority shareholder of DALIAN UNITECH TRADING CO., LTD.</Position>
+          <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -376534,12 +376535,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Owner of LLC GRAVITAL</Position>
-          <Position>Owner of LLC HUSTLE SHIFT</Position>
-          <Position>Owner of LLC 2D6</Position>
           <Position>Owner of LLC UNIMATIC</Position>
           <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of DALIAN UNITECH TRADING CO., LTD.</Position>
+          <Position>Owner of LLC HUSTLE SHIFT</Position>
+          <Position>Owner of LLC 2D6</Position>
+          <Position>Owner of LLC GRAVITAL</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -376749,10 +376750,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+86 0755-29874500</PhoneNumber>
-      <PhoneNumber>+86 755- 27175156</PhoneNumber>
-      <PhoneNumber>+86 755-29874501</PhoneNumber>
       <PhoneNumber>+86 512-36825901</PhoneNumber>
       <PhoneNumber>+86 755- 23405269</PhoneNumber>
+      <PhoneNumber>+86 755- 27175156</PhoneNumber>
+      <PhoneNumber>+86 755-29874501</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.sowincnc.com/</Website>
@@ -376760,8 +376761,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Websites>
     <EmailAddresses>
       <EmailAddress>market@sowincnc.com</EmailAddress>
-      <EmailAddress>overseas@sowincnc.com</EmailAddress>
       <EmailAddress>hr@sowincnc.com</EmailAddress>
+      <EmailAddress>overseas@sowincnc.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -377929,8 +377930,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 6025018018</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1026000899682</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 6025018018</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -378005,8 +378006,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 1650252110</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1121650019567</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 1650252110</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -378078,8 +378079,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 0264070057</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1150280012211</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 0264070057</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -378148,8 +378149,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 7810733560</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1187847186339</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 7810733560</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -378370,16 +378371,16 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 371 60308992</PhoneNumber>
       <PhoneNumber>+86 371 60973290</PhoneNumber>
+      <PhoneNumber>+86 371 60308992</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>timewaymachine.com</Website>
       <Website>https://www.timewaymachinery.com/</Website>
+      <Website>timewaymachine.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@timewaymachine.com</EmailAddress>
       <EmailAddress>timeway@aliyun.com</EmailAddress>
+      <EmailAddress>info@timewaymachine.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -378900,8 +378901,8 @@ destabilising Ukraine or undermining or threatening the territorial integrity, s
       <Website>www.minospace.cn</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>minospace@minospace.cn</EmailAddress>
       <EmailAddress>maming@minospace.cn</EmailAddress>
+      <EmailAddress>minospace@minospace.cn</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -379443,8 +379444,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Website>www.absolutbank.ru </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>anti.corr@absolutbank.ru </EmailAddress>
       <EmailAddress>info@absolutbank.ru</EmailAddress>
+      <EmailAddress>anti.corr@absolutbank.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -379687,10 +379688,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <PhoneNumber>8 (495) 775-65-55 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>http://vk.com/forabank </Website>
       <Website>https://forabank.ru </Website>
-      <Website>www.forabank.ru </Website>
+      <Website>http://vk.com/forabank </Website>
       <Website>https://www.forabank.ru </Website>
+      <Website>www.forabank.ru </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>broker@forabank.ru </EmailAddress>
@@ -380687,8 +380688,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 7728173890 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027700311760 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 7728173890 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -380876,8 +380877,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1193850025467</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 3810081395</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1193850025467</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -381133,8 +381134,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027810256473 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -381229,8 +381230,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN – 2225008370 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1022201770084</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN – 2225008370 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -381312,8 +381313,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1022601947521</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN - 2635001120 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1022601947521</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -381760,8 +381761,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <DOB>24/12/1965</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Somalia</Nationality>
           <Nationality>Sweden</Nationality>
+          <Nationality>Somalia</Nationality>
         </Nationalities>
       </Individual>
     </IndividualDetails>
@@ -382737,10 +382738,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>11/11/1960</DOB>
           <DOB>11/11/1967</DOB>
           <DOB>11/11/1969</DOB>
           <DOB>01/01/1969</DOB>
-          <DOB>11/11/1960</DOB>
         </DOBs>
         <BirthDetails>
           <Location>
@@ -382829,8 +382830,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1967</DOB>
           <DOB>dd/mm/1962</DOB>
+          <DOB>dd/mm/1967</DOB>
         </DOBs>
         <BirthDetails>
           <Location>
@@ -384221,8 +384222,8 @@ Michael Makuei Leuth has held the position of Minister for Information and Broad
         </Nationalities>
         <Positions>
           <Position>Deputy Chief of General Staff for Logistics</Position>
-          <Position>Inspector General of the Army</Position>
           <Position>Deputy Chief of Defence Staff</Position>
+          <Position>Inspector General of the Army</Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -384396,10 +384397,6 @@ Michael Makuei Leuth has held the position of Minister for Information and Broad
             <PassportAdditionalInformation>South Sudan number</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>DA025963</PassportNumber>
-            <PassportAdditionalInformation>Uganda.</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>003606</PassportNumber>
             <PassportAdditionalInformation>Sudan number</PassportAdditionalInformation>
           </Passport>
@@ -384410,6 +384407,10 @@ Michael Makuei Leuth has held the position of Minister for Information and Broad
           <Passport>
             <PassportNumber>B002606</PassportNumber>
             <PassportAdditionalInformation>Sudan number</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>DA025963</PassportNumber>
+            <PassportAdditionalInformation>Uganda.</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -384511,20 +384512,20 @@ Michael Makuei Leuth has held the position of Minister for Information and Broad
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1958</DOB>
-          <DOB>dd/mm/1959</DOB>
           <DOB>dd/mm/1957</DOB>
+          <DOB>dd/mm/1959</DOB>
+          <DOB>dd/mm/1958</DOB>
         </DOBs>
         <Positions>
           <Position>Deputy Chief of Staff for Operations for the Sudan People’s Liberation Army in Opposition (SPLA-IO)</Position>
         </Positions>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Mayan, Unity State </TownOfBirth>
+            <TownOfBirth>Mayom County, Unity State</TownOfBirth>
             <CountryOfBirth>South Sudan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Mayom County, Unity State</TownOfBirth>
+            <TownOfBirth>Mayan, Unity State </TownOfBirth>
             <CountryOfBirth>South Sudan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -384715,11 +384716,11 @@ Michael Makuei Leuth has held the position of Minister for Information and Broad
         </Positions>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Uror County, Jonglei State</TownOfBirth>
+            <TownOfBirth>Akobo, Jonglei State</TownOfBirth>
             <CountryOfBirth>South Sudan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Akobo, Jonglei State</TownOfBirth>
+            <TownOfBirth>Uror County, Jonglei State</TownOfBirth>
             <CountryOfBirth>South Sudan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -390117,8 +390118,8 @@ There are reasonable grounds to suspect that they are an involved person under t
           <DOB>dd/mm/1946</DOB>
           <DOB>dd/mm/1947</DOB>
           <DOB>dd/mm/1948</DOB>
-          <DOB>dd/mm/1949</DOB>
           <DOB>dd/mm/1950</DOB>
+          <DOB>dd/mm/1949</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Syria</Nationality>
@@ -390269,8 +390270,8 @@ There are reasonable grounds to suspect that they are an involved person under t
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>17/01/1950</DOB>
           <DOB>01/01/1950</DOB>
+          <DOB>17/01/1950</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Syria</Nationality>
@@ -392208,8 +392209,8 @@ There are reasonable grounds to suspect that they are an involved person under t
           <DOB>15/05/1955</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Syria</Nationality>
           <Nationality>France</Nationality>
+          <Nationality>Syria</Nationality>
         </Nationalities>
         <Positions>
           <Position>Former Governor of the Central Bank of Syria| Former Economy and Foreign Trade Minister</Position>
@@ -400033,8 +400034,8 @@ There are reasonable grounds to suspect that they are an involved person under t
           <Nationality>Syria</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Major General</Position>
           <Position>Minister for the Interior</Position>
+          <Position>Major General</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -400688,8 +400689,8 @@ There are reasonable grounds to suspect that they are an involved person under t
         </Nationalities>
         <Positions>
           <Position>Former Head of General Intelligence Directorate (a.k.a. General Security Directorate, State Security)</Position>
-          <Position>State Security</Position>
           <Position>General Security Directorate</Position>
+          <Position>State Security</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -401404,10 +401405,10 @@ There are reasonable grounds to suspect that they are an involved person under t
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>86449</PassportNumber>
+            <PassportNumber>842781</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>842781</PassportNumber>
+            <PassportNumber>86449</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -405287,9 +405288,9 @@ There are reasonable grounds to suspect that they are an involved person under t
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>dd/mm/1956</DOB>
           <DOB>dd/mm/1941</DOB>
           <DOB>dd/mm/1951</DOB>
-          <DOB>dd/mm/1956</DOB>
         </DOBs>
         <Positions>
           <Position>Former Head of Presidential Security</Position>
@@ -407227,8 +407228,8 @@ There are reasonable grounds to suspect that they are an involved person under t
       <Entity>
         <TypeOfEntities>
           <TypeOfEntity>Private Joint Stock Company</TypeOfEntity>
-          <TypeOfEntity>Construction</TypeOfEntity>
           <TypeOfEntity>Joint Venture</TypeOfEntity>
+          <TypeOfEntity>Construction</TypeOfEntity>
         </TypeOfEntities>
       </Entity>
     </EntityDetails>
@@ -407404,8 +407405,8 @@ There are reasonable grounds to suspect that they are an involved person under t
     <EntityDetails>
       <Entity>
         <TypeOfEntities>
-          <TypeOfEntity>Private</TypeOfEntity>
           <TypeOfEntity>Real Estate</TypeOfEntity>
+          <TypeOfEntity>Private</TypeOfEntity>
         </TypeOfEntities>
         <Subsidiaries>
           <Subsidiary>Cham Holdings (parent), Cham Holding Building, Daraa Highway, Ashrafiyat Sahnaya Rif Dimashq, Syria, P.O. Box 9525</Subsidiary>
@@ -407637,8 +407638,8 @@ There are reasonable grounds to suspect that they are an involved person under t
     <EntityDetails>
       <Entity>
         <TypeOfEntities>
-          <TypeOfEntity>Private</TypeOfEntity>
           <TypeOfEntity>Investment</TypeOfEntity>
+          <TypeOfEntity>Private</TypeOfEntity>
         </TypeOfEntities>
         <Subsidiaries>
           <Subsidiary>Cham Holding (parent), Cham Holding Building, Daraa Highway, Ashrafiyat Sahnaya Rif Dimashq, Syria, P.O. Box 9525</Subsidiary>
@@ -408001,12 +408002,6 @@ There are reasonable grounds to suspect that they are an involved person under t
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>PO Box 5966</AddressLine1>
-        <AddressLine2>Abou Bakr Al Seddeq St.</AddressLine2>
-        <AddressLine6>Damascus</AddressLine6>
-        <AddressCountry>Syria</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>PO Box 21120</AddressLine1>
         <AddressLine5>Baramkeh</AddressLine5>
         <AddressLine6>Damascus</AddressLine6>
@@ -408018,13 +408013,19 @@ There are reasonable grounds to suspect that they are an involved person under t
         <AddressLine6>Damascus</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
       </Address>
+      <Address>
+        <AddressLine1>PO Box 5966</AddressLine1>
+        <AddressLine2>Abou Bakr Al Seddeq St.</AddressLine2>
+        <AddressLine6>Damascus</AddressLine6>
+        <AddressCountry>Syria</AddressCountry>
+      </Address>
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+963112212743</PhoneNumber>
-      <PhoneNumber>+963112214650</PhoneNumber>
       <PhoneNumber>+963115110117</PhoneNumber>
       <PhoneNumber>+963112121816</PhoneNumber>
       <PhoneNumber>+963112121834</PhoneNumber>
+      <PhoneNumber>+963112214650</PhoneNumber>
     </PhoneNumbers>
   </Designation>
   <Designation>
@@ -408155,15 +408156,15 @@ There are reasonable grounds to suspect that they are an involved person under t
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>P.O. Box 2230</AddressLine1>
-        <AddressLine5>Al-Hameh</AddressLine5>
-        <AddressLine6>Damascus Countryside</AddressLine6>
-      </Address>
-      <Address>
         <AddressLine1>P.O. Box 2330</AddressLine1>
         <AddressLine2>Al Thawraa Street</AddressLine2>
         <AddressLine6>Damascus</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>P.O. Box 2230</AddressLine1>
+        <AddressLine5>Al-Hameh</AddressLine5>
+        <AddressLine6>Damascus Countryside</AddressLine6>
       </Address>
     </Addresses>
   </Designation>
@@ -408354,12 +408355,12 @@ There are reasonable grounds to suspect that they are an involved person under t
       <PhoneNumber>+963(11)5810719</PhoneNumber>
       <PhoneNumber>113781</PhoneNumber>
       <PhoneNumber>113788</PhoneNumber>
+      <PhoneNumber>+963 011 5810719</PhoneNumber>
+      <PhoneNumber>+963-11-5810718</PhoneNumber>
       <PhoneNumber>434399-434001</PhoneNumber>
       <PhoneNumber>4525965</PhoneNumber>
       <PhoneNumber>4526032</PhoneNumber>
       <PhoneNumber>4529991</PhoneNumber>
-      <PhoneNumber>+963 011 5810719</PhoneNumber>
-      <PhoneNumber>+963-11-5810718</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.metallic-sy.org</Website>
@@ -408461,8 +408462,8 @@ There are reasonable grounds to suspect that they are an involved person under t
     <EntityDetails>
       <Entity>
         <TypeOfEntities>
-          <TypeOfEntity>Partially owned by Riyad Chaliche (member of Assad family)</TypeOfEntity>
           <TypeOfEntity>Partially state-owned</TypeOfEntity>
+          <TypeOfEntity>Partially owned by Riyad Chaliche (member of Assad family)</TypeOfEntity>
         </TypeOfEntities>
       </Entity>
     </EntityDetails>
@@ -408513,11 +408514,11 @@ There are reasonable grounds to suspect that they are an involved person under t
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine5>PO Box 4470</AddressLine5>
-        <AddressCountry>Syria</AddressCountry>
+        <AddressLine6>Damascus</AddressLine6>
       </Address>
       <Address>
-        <AddressLine6>Damascus</AddressLine6>
+        <AddressLine5>PO Box 4470</AddressLine5>
+        <AddressCountry>Syria</AddressCountry>
       </Address>
     </Addresses>
     <EntityDetails>
@@ -408771,13 +408772,13 @@ There are reasonable grounds to suspect that they are an involved person under t
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Dumar Project</AddressLine1>
-        <AddressLine2>Area 11</AddressLine2>
+        <AddressLine5>PO Box 11037</AddressLine5>
         <AddressLine6>Damascus</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
       </Address>
       <Address>
-        <AddressLine5>PO Box 11037</AddressLine5>
+        <AddressLine1>Dumar Project</AddressLine1>
+        <AddressLine2>Area 11</AddressLine2>
         <AddressLine6>Damascus</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
       </Address>
@@ -413849,8 +413850,8 @@ There are reasonable grounds to suspect that they are an involved person under t
           <DOB>17/01/1978</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Syria</Nationality>
           <Nationality>Lebanon</Nationality>
+          <Nationality>Syria</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -415308,8 +415309,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <DOB>18/06/1957</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Syria</Nationality>
           <Nationality>Russia</Nationality>
+          <Nationality>Syria</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -417117,9 +417118,9 @@ Finally, there is reliable evidence that In May 2019 members of the Venezuelan N
         <Positions>
           <Position>hief of Staff of the Commander in Chief of the Venezuelan Armed Forces</Position>
           <Position>Deputy Minister of Monitoring and Inspection of Government Administration</Position>
-          <Position>Former Chief of Staff of CEOFANB</Position>
           <Position>Secretary General of the National Defence Council (SECODENA)</Position>
           <Position>Former Second-in-Command of CEOFANB</Position>
+          <Position>Former Chief of Staff of CEOFANB</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -417351,8 +417352,8 @@ Amoroso has repeatedly undermined democracy in Venezuela, undermined the rule of
         </NationalIdentifierDetails>
         <Positions>
           <Position>Comptroller General</Position>
-          <Position>President of Venezuela’s Moral Council</Position>
           <Position>Former Vice President of the National Constituent Assembly</Position>
+          <Position>President of Venezuela’s Moral Council</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -419178,8 +419179,8 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
       <Individual>
         <DOBs>
           <DOB>dd/mm/1985</DOB>
-          <DOB>dd/mm/1986</DOB>
           <DOB>dd/mm/1984</DOB>
+          <DOB>dd/mm/1986</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Yemen</Nationality>
@@ -419406,15 +419407,15 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1984</DOB>
           <DOB>dd/mm/1979</DOB>
+          <DOB>dd/mm/1984</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Yemen</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Houthi Chief of General Staff</Position>
           <Position>Major General</Position>
+          <Position>Houthi Chief of General Staff</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -419603,12 +419604,12 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
       <Individual>
         <PassportDetails>
           <Passport>
-            <PassportNumber>05274639</PassportNumber>
-            <PassportAdditionalInformation>Yemen number, issued on 7 Oct. 2013 (Expiration date: 7 Oct 2019)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>00481779</PassportNumber>
             <PassportAdditionalInformation>Yemen number , issued on 9 Dec. 2000 (Expiration date: 9 Dec 2006)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>05274639</PassportNumber>
+            <PassportAdditionalInformation>Yemen number, issued on 7 Oct. 2013 (Expiration date: 7 Oct 2019)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -419616,17 +419617,17 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>1388114</NationalIdentifierNumber>
+            <NationalIdentifierNumber>10010057512</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Yemen</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
           <NationalIdentifier>
-            <NationalIdentifierNumber>10010057512</NationalIdentifierNumber>
+            <NationalIdentifierNumber>1388114</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Yemen</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Major General</Position>
           <Position>Judicial Custodian of properties and funds owned by Houthis’ opponents</Position>
+          <Position>Major General</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
