@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>12/03/2026</DateGenerated>
+  <DateGenerated>16/03/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -768,7 +768,7 @@
     </Addresses>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0006</UniqueID>
     <OFSIGroupID>7172</OFSIGroupID>
@@ -788,6 +788,7 @@
     </NonLatinNames>
     <Titles>
       <Title>Mullah</Title>
+      <Title>Haji</Title>
     </Titles>
     <RegimeName>The Afghanistan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
     <IndividualEntityShip>Individual</IndividualEntityShip>
@@ -894,7 +895,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0007</UniqueID>
     <OFSIGroupID>6909</OFSIGroupID>
@@ -904,6 +905,12 @@
         <Name1>Abdul Kabir</Name1>
         <Name6>MOHAMMAD JAN</Name6>
         <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>KABIR</Name1>
+        <Name2>MUHAMMAD JAN</Name2>
+        <Name6>ABDUL</Name6>
+        <NameType>Primary Name Variation</NameType>
       </Name>
       <Name>
         <Name1> ABDUL</Name1>
@@ -916,12 +923,6 @@
         <Name6>A Kabir</Name6>
         <NameType>Alias</NameType>
         <AliasStrength>Good quality a.k.a</AliasStrength>
-      </Name>
-      <Name>
-        <Name1>KABIR</Name1>
-        <Name2>MUHAMMAD JAN</Name2>
-        <Name6>ABDUL</Name6>
-        <NameType>Alias</NameType>
       </Name>
     </Names>
     <NonLatinNames>
@@ -980,7 +981,6 @@
         <Positions>
           <Position>Governor of Nangarhar Province under the previous Taliban regime (1996-2001)</Position>
           <Position>Head of Eastern Zone under the Taliban regime (1996-2001)</Position>
-          <Position>Acting Political Deputy of Prime Minister</Position>
           <Position>Second Deputy, Economic Affairs, Council of Ministers under the previous Taliban regime (1996-2001)</Position>
         </Positions>
         <BirthDetails>
@@ -1233,7 +1233,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>31/01/2001</DateDesignated>
     <UniqueID>AFG0011</UniqueID>
     <OFSIGroupID>7270</OFSIGroupID>
@@ -1308,15 +1308,11 @@
         <PassportDetails>
           <Passport>
             <PassportNumber> D0009720</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009720, issued on 12 Oct. 2021 issued in Kabul, Afghanistan (Name in Latin script: Abdul  Latif Mansoor; expires 12 Oct. 202610)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009720, issued on 12 Oct. 2021 issued in Kabul, Afghanistan (Name in Latin script: ABDUL LATIF MANSOOR; expires 12 Oct. 2026)</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>D0010442</PassportNumber>
             <PassportAdditionalInformation>Afghanistan diplomatic passport D0010442, issued on 13 Nov.  2024, expires 13 Nov. 2029</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>D0009720</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009720, issued on 12 Oct. 2021 issued in Kabul, Afghanistan (Name in Latin script: ABDUL LATIF MANSOOR; expires 12 Oct. 2026)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -1324,7 +1320,6 @@
         </Nationalities>
         <Positions>
           <Position>Minister of Agriculture under the previous Taliban regime  (1996-2001)</Position>
-          <Position>Acting Minister of Energy and Water</Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -2310,7 +2305,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>23/02/2001</DateDesignated>
     <UniqueID>AFG0023</UniqueID>
     <OFSIGroupID>7281</OFSIGroupID>
@@ -2415,7 +2410,6 @@
         </Nationalities>
         <Positions>
           <Position>Deputy Chief of Army Staff of the previous Taliban regime (1996-2001)</Position>
-          <Position>Acting Deputy Minister of National Defense</Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -2427,7 +2421,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>23/02/2001</DateDesignated>
     <UniqueID>AFG0024</UniqueID>
     <OFSIGroupID>7060</OFSIGroupID>
@@ -2504,14 +2498,13 @@
           </Passport>
           <Passport>
             <PassportNumber>D0009751</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009751, issued on 16 Oct. 2021, issued in Kabul, Afghanistan (expires 16 Oct. 2026)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number P04999950, issued on 4 Feb. 2025 (expires 4 Feb. 2035)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Acting Deputy Prime Minister</Position>
           <Position>Deputy Minister of Defence under the previous Taliban regime</Position>
         </Positions>
         <BirthDetails>
@@ -2606,7 +2599,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0026</UniqueID>
     <OFSIGroupID>7307</OFSIGroupID>
@@ -2686,7 +2679,6 @@
           <DOB>dd/mm/1968</DOB>
           <DOB>25/12/1970</DOB>
           <DOB>1971</DOB>
-          <DOB>25/12/1970</DOB>
           <DOB>1971</DOB>
         </DOBs>
         <PassportDetails>
@@ -2702,16 +2694,11 @@
             <PassportNumber>D0009803</PassportNumber>
             <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
           </Passport>
-          <Passport>
-            <PassportNumber>D0009716</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009716, issued on 25 Sept. 2021, issued in Kabul, Afghanistan (Name in Latin script: AMIR KHAN MUTAQI, name in original script: اميرخان متقي ; expires 25 Sept. 2026)</PassportAdditionalInformation>
-          </Passport>
         </PassportDetails>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Acting Minister of Foreign Affairs</Position>
           <Position>Minister of Education under the previous Taliban regime  (1996-2001) </Position>
           <Position>Taliban representative in UN-led talks under the previous Taliban regime (1996-2001)</Position>
         </Positions>
@@ -2729,7 +2716,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>23/02/2001</DateDesignated>
     <UniqueID>AFG0027</UniqueID>
     <OFSIGroupID>7162</OFSIGroupID>
@@ -2743,9 +2730,6 @@
         <Name5>MARDAN</Name5>
         <Name6>QUL</Name6>
         <NameType>Primary Name</NameType>
-      </Name>
-      <Name>
-        <NameType>Primary Name Variation</NameType>
       </Name>
       <Name>
         <Name1>ABDUL</Name1>
@@ -2816,7 +2800,7 @@
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>D000097233</PassportNumber>
+            <PassportNumber>D00009723</PassportNumber>
             <PassportAdditionalInformation> Afghanistan diplomatic passport  </PassportAdditionalInformation>
           </Passport>
           <Passport>
@@ -2828,7 +2812,7 @@
           <Nationality>Afghanistan</Nationality>
         </Nationalities>
         <Positions>
-          <Position> Deputy Minister of Education under the Taliban regime</Position>
+          <Position> Deputy Minister of Education under the Taliban regime (1996-2001)</Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -3307,7 +3291,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>23/02/2001</DateDesignated>
     <UniqueID>AFG0034</UniqueID>
     <OFSIGroupID>6904</OFSIGroupID>
@@ -3381,7 +3365,6 @@
         <DOBs>
           <DOB>dd/mm/1960</DOB>
           <DOB>dd/mm/1961</DOB>
-          <DOB>dd/mm/1962</DOB>
           <DOB>01/01/1967</DOB>
         </DOBs>
         <PassportDetails>
@@ -3396,7 +3379,6 @@
         <Positions>
           <Position>Governor of Khost and Paktika provinces under the Taliban regime  (1996-2001)</Position>
           <Position>Consular Department, Ministry of Foreign Affairs under the Taliban regime (1996- 2001)</Position>
-          <Position>Ministry of Foreign Affairs under the Taliban regime</Position>
           <Position>Vice-Minister of Information and  Culture under the Taliban regime (1996-2001) </Position>
         </Positions>
         <BirthDetails>
@@ -3642,7 +3624,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0038</UniqueID>
     <OFSIGroupID>7164</OFSIGroupID>
@@ -3655,8 +3637,19 @@
         <NameType>Primary Name</NameType>
       </Name>
       <Name>
-        <Name1>ADENAMOHAMMAD </Name1>
+        <Name1>IADENA  </Name1>
+        <Name6>MOHAMMAD </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>IADENAMOHAMMAD </Name1>
         <Name2>NAZRI</Name2>
+        <Name6>MOHAMMAD</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>QARI</Name1>
+        <Name2>DIN</Name2>
         <Name6>MOHAMMAD</Name6>
         <NameType>Primary Name Variation</NameType>
       </Name>
@@ -3712,8 +3705,7 @@
             <PassportAdditionalInformation> Afghanistan diplomatic passport issued on 13 Oct. 2021 in Kabul, Afghanistan (Name in Latin script: Iadenamohammad Nazri  Mohammad; expires on 13 Oct. 2026)</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>OA 454044</PassportNumber>
-            <PassportAdditionalInformation> issued in Afghanistan </PassportAdditionalInformation>
+            <PassportAdditionalInformation> </PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -4246,7 +4238,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0046</UniqueID>
     <OFSIGroupID>7527</OFSIGroupID>
@@ -4288,6 +4280,7 @@
     <Titles>
       <Title>Mullah</Title>
       <Title>Haji</Title>
+      <Title>Maulavi</Title>
     </Titles>
     <RegimeName>The Afghanistan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
     <IndividualEntityShip>Individual</IndividualEntityShip>
@@ -4323,20 +4316,21 @@
       <Individual>
         <DOBs>
           <DOB>dd/mm/1963</DOB>
-          <DOB>dd/mm/1956</DOB>
+          <DOB>1956</DOB>
+          <DOB>1955</DOB>
           <DOB>30/07/1969</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
             <PassportNumber>P00429243</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan, , issued on 15 Dec. 2021, issued in Kabul, Afghanistan (Name in Latin  script: MULLAH NOORDIN TORABI; expires 15 Aug. 2031)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan P00429423, issued on 15 Dec. 2021, issued in Kabul, Afghanistan (Name in Latin  script: MULLAH NOORDIN TORABI; expires 15 Aug. 2031)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Minister of Justice under the Taliban regime</Position>
+          <Position>Minister of Justice under the Taliban regime (1996-2001)</Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -4418,8 +4412,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1958</DOB>
           <DOB>22/02/1957</DOB>
+          <DOB>dd/mm/1958</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -4956,7 +4950,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>23/02/2001</DateDesignated>
     <UniqueID>AFG0055</UniqueID>
     <OFSIGroupID>7170</OFSIGroupID>
@@ -5011,7 +5005,7 @@
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
-    <OtherInformation>Cousin of Moulavi Noor Jalal. Grandfather’s name is Salam. Taliban member responsible for Laghman Province as of late 2010. Believed to be in Afghanistan/ Pakistan border area. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UNNotices-Individuals click here</OtherInformation>
+    <OtherInformation>Cousin of Moulavi Noor Jalal. Grandfather’s name is Salam. Taliban member responsible for Laghman Province as of late 2010. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UNNotices-Individuals click here</OtherInformation>
     <UKStatementofReasons>
 </UKStatementofReasons>
     <Addresses>
@@ -5526,7 +5520,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>31/01/2001</DateDesignated>
     <UniqueID>AFG0062</UniqueID>
     <OFSIGroupID>7539</OFSIGroupID>
@@ -5536,6 +5530,12 @@
         <Name1>ABDUL-HAQ</Name1>
         <Name6>WASSIQ</Name6>
         <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Abdulhaq</Name1>
+        <Name6>Waseeq</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
       </Name>
       <Name>
         <Name1>Abdul</Name1>
@@ -5586,7 +5586,7 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressCountry>Qatar</AddressCountry>
+        <AddressCountry>Afghanistan</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -6253,7 +6253,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0071</UniqueID>
     <OFSIGroupID>7223</OFSIGroupID>
@@ -6265,16 +6265,16 @@
         <NameType>Primary Name</NameType>
       </Name>
       <Name>
-        <Name1>Khirullah</Name1>
-        <Name2>Said</Name2>
-        <Name3>Wali</Name3>
-        <Name6>KHAIRKHWA</Name6>
+        <Name1>Khairullah</Name1>
+        <Name6>Khairkhwa</Name6>
         <NameType>Alias</NameType>
         <AliasStrength>Good quality a.k.a</AliasStrength>
       </Name>
       <Name>
-        <Name1>Khairullah</Name1>
-        <Name6>Khairkhwah</Name6>
+        <Name1>Khirullah</Name1>
+        <Name2>Said</Name2>
+        <Name3>Wali</Name3>
+        <Name6>KHAIRKHWA</Name6>
         <NameType>Alias</NameType>
         <AliasStrength>Good quality a.k.a</AliasStrength>
       </Name>
@@ -7899,7 +7899,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0092</UniqueID>
     <OFSIGroupID>7159</OFSIGroupID>
@@ -7920,6 +7920,12 @@
       <Name>
         <Name1>Janat </Name1>
         <Name6>Gul</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Saeed</Name1>
+        <Name6>Hamidullah</Name6>
         <NameType>Alias</NameType>
         <AliasStrength>Good quality a.k.a</AliasStrength>
       </Name>
@@ -7967,8 +7973,8 @@
       <Individual>
         <DOBs>
           <DOB>dd/mm/1972</DOB>
-          <DOB>22/03/1973</DOB>
           <DOB>dd/mm/1973</DOB>
+          <DOB>22/03/1973</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -7991,11 +7997,11 @@
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Uruzgan</TownOfBirth>
+            <TownOfBirth>Arghandab District, Kandahar Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Arghandab District, Kandahar Province</TownOfBirth>
+            <TownOfBirth>Uruzgan</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -9507,7 +9513,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>13/09/2007</DateDesignated>
     <UniqueID>AFG0112</UniqueID>
     <OFSIGroupID>9158</OFSIGroupID>
@@ -9518,6 +9524,13 @@
         <Name2>JALLALOUDINE</Name2>
         <Name6>HAQQANI</Name6>
         <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Abdul</Name1>
+        <Name2>Satar</Name2>
+        <Name6>Abdullah</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
       </Name>
       <Name>
         <Name1>Saraj</Name1>
@@ -9615,10 +9628,10 @@
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Srana village, Garda Saray district, Paktia province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
+            <TownOfBirth>Srana village, Garda Saray district, Paktia province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
@@ -9901,17 +9914,17 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>27/07/1976</DOB>
           <DOB>dd/mm/1972</DOB>
+          <DOB>27/07/1976</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>P03318995</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan passport, issued on 29 Jul. 2020 (Name in Latin script: Hedayatullah  Hedayat, expires 29 Jul. 2025)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>D0010408</PassportNumber>
             <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>P03318995</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan passport, issued on 29 Jul. 2020 (Name in Latin script: Hedayatullah  Hedayat, expires 29 Jul. 2025)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -10185,14 +10198,14 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Peshawar</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Kayla Village</AddressLine1>
         <AddressLine2>near Miram Shah</AddressLine2>
         <AddressLine5>North Waziristan Agency (NWA),</AddressLine5>
         <AddressLine6>Federally Administered Tribal Areas (FATA)</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine6>Peshawar</AddressLine6>
         <AddressCountry>Pakistan</AddressCountry>
       </Address>
       <Address>
@@ -10335,17 +10348,17 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressLine1>Kalay Rangin</AddressLine1>
+        <AddressLine2>Spin Boldak District</AddressLine2>
+        <AddressLine6>Kandahar Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
         <AddressLine1>Boghra Road</AddressLine1>
         <AddressLine2>Miralzei Village</AddressLine2>
         <AddressLine3>Chaman</AddressLine3>
         <AddressLine6>Baluchistan Province</AddressLine6>
         <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Kalay Rangin</AddressLine1>
-        <AddressLine2>Spin Boldak District</AddressLine2>
-        <AddressLine6>Kandahar Province</AddressLine6>
-        <AddressCountry>Afghanistan</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -10569,7 +10582,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>13/03/2026</LastUpdated>
     <DateDesignated>06/01/2012</DateDesignated>
     <UniqueID>AFG0122</UniqueID>
     <OFSIGroupID>12454</OFSIGroupID>
@@ -10656,6 +10669,7 @@
       <Individual>
         <DOBs>
           <DOB>1974</DOB>
+          <DOB>25/07/1979</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -28402,8 +28416,8 @@ the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Sp
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>19/04/1982</DOB>
           <DOB>18/04/1982</DOB>
+          <DOB>19/04/1982</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -28982,19 +28996,19 @@ Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Lanao del Sur</AddressLine6>
+        <AddressLine6>Basilan, previous location until 2016</AddressLine6>
         <AddressCountry>Philippines</AddressCountry>
       </Address>
       <Address>
-        <AddressLine6>Basilan, previous location until 2016</AddressLine6>
+        <AddressLine6>Lanao del Sur</AddressLine6>
         <AddressCountry>Philippines</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>10/03/1967</DOB>
           <DOB>18/03/1966</DOB>
+          <DOB>10/03/1967</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Philippines</Nationality>
@@ -132197,13 +132211,13 @@ Arvandan Oil &amp; Gas Company is owned or controlled directly or indirectly by 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+(98) 21-88724246</PhoneNumber>
       <PhoneNumber>+(98) 61-32268300</PhoneNumber>
+      <PhoneNumber>+(98) 21-88724246</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>agoc.ir </Website>
-      <Website>www.aogc.ir</Website>
       <Website>www.arvandan.org</Website>
+      <Website>www.aogc.ir</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>info@aogc.ir</EmailAddress>
@@ -132922,9 +132936,9 @@ Machine Sazi Arak is an involved person within the meaning of the Iran (Sanction
     <PhoneNumbers>
       <PhoneNumber>+98-21-44279775-6</PhoneNumber>
       <PhoneNumber>+98-86- 32172908</PhoneNumber>
+      <PhoneNumber>+98-86-32172960-32172955</PhoneNumber>
       <PhoneNumber>+98-86-32172916-32172920</PhoneNumber>
       <PhoneNumber>+98-86-32172920-32172916</PhoneNumber>
-      <PhoneNumber>+98-86-32172960-32172955</PhoneNumber>
       <PhoneNumber>+98-86-33130031-9</PhoneNumber>
     </PhoneNumbers>
     <Websites>
@@ -133267,9 +133281,9 @@ n, or for use in, Iran; or the development of a nuclear weapon delivery system i
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>SWIFT/BIC - PBIRIRTH </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Iran National ID Number – 10101702747 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Iran Registration No. - 126785 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>SWIFT/BIC - PBIRIRTH </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -134206,8 +134220,8 @@ Melli Agrochemical Company PJS is an involved person under the Iran (Sanctions) 
       <Website>www.melliagrochemical.ir </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>sales@macco.ir</EmailAddress>
       <EmailAddress>info@macco.ir </EmailAddress>
+      <EmailAddress>sales@macco.ir</EmailAddress>
     </EmailAddresses>
   </Designation>
   <Designation>
@@ -152457,10 +152471,6 @@ ANSARI has facilitated and provided support to hostile activity by the Governmen
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>RE003666</PassportNumber>
-            <PassportAdditionalInformation>St Kitts &amp; Nevis</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>B65348454</PassportNumber>
             <PassportAdditionalInformation>Iran</PassportAdditionalInformation>
           </Passport>
@@ -152471,6 +152481,10 @@ ANSARI has facilitated and provided support to hostile activity by the Governmen
           <Passport>
             <PassportNumber>L00017629 </PassportNumber>
             <PassportAdditionalInformation>Cyprus</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>RE003666</PassportNumber>
+            <PassportAdditionalInformation>St Kitts &amp; Nevis</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -246319,7 +246333,7 @@ Leonid Viktorovich MIKHELSON is a prominent businessman whose significant busine
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>09/04/2025</LastUpdated>
+    <LastUpdated>16/03/2026</LastUpdated>
     <DateDesignated>06/04/2022</DateDesignated>
     <UniqueID>RUS1127</UniqueID>
     <OFSIGroupID>15075</OFSIGroupID>
@@ -246393,8 +246407,10 @@ Leonid Viktorovich MIKHELSON is a prominent businessman whose significant busine
     </SanctionsImposedIndicators>
     <OtherInformation>The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
     <UKStatementofReasons>
-Viacheslav KANTOR, hereafter KANTOR, is a prominent Russian businessman associated with Vladimir Putin. KANTOR is the Chairman of the Coordinating Board of PJSC ‘Acron’ and its largest shareholder. Acron is a Russian chemical, mineral and fertilizer producer which carries on business in a sector of strategic significance to the Government of Russia, namely the Russian chemicals and extractives sectors. KANTOR therefore owns or controls directly or indirectly and/or works as a director (whether executive or non-executive) trustee, or equivalent of a person other than an individual carrying on business of economic significance to the Government of Russian in sectors of strategic significance to the Government of Russian. Hence KANTOR is involved in gaining a benefit from or supporting the Government of Russia, whose actions are destabilising Ukraine or undermining or destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
- The trust services sanctions were imposed on 21/03/2023.</UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Viatcheslav Vladimirovich KANTOR, hereafter KANTOR, is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground:  
+  
+KANTOR is or has been involved in obtaining a benefit from or supporting the Government of Russia, by owning and/or controlling, directly or indirectly, and/or working as a director (whether executive or non-executive), trustee, or other manager or equivalent of PJSC Acron, an entity carrying on business in sectors of strategic significance to the Government of Russia, namely the Russian chemicals and extractives sectors. The trust services sanctions were imposed on 21/03/2023.
+</UKStatementofReasons>
     <IndividualDetails>
       <Individual>
         <DOBs>
@@ -314760,8 +314776,8 @@ Limited Liability Company Open Systems Development Technology is an involved per
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 5147746464256 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 7706818288</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 5147746464256 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -324433,8 +324449,8 @@ NEWAY CNC EQUIPMENT (SUZHOU) CO LTD, is an involved person under the Russia (San
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 512 6239 2186</PhoneNumber>
       <PhoneNumber>+86 512 6239 9980</PhoneNumber>
+      <PhoneNumber>+86 512 6239 2186</PhoneNumber>
       <PhoneNumber>+86 512-6607 1116</PhoneNumber>
       <PhoneNumber>+86 512-6607 6668</PhoneNumber>
     </PhoneNumbers>
@@ -325734,12 +325750,12 @@ EKC.AG is or has been involved in destabilising Ukraine or undermining or threat
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+49 931 666878-0 </PhoneNumber>
       <PhoneNumber>+49 931 666878-29 </PhoneNumber>
+      <PhoneNumber>+49 931 666878-0 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.ekc.ag</Website>
       <Website>www.ek-company.com </Website>
+      <Website>www.ekc.ag</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>info@ekc.ag </EmailAddress>
@@ -327307,8 +327323,8 @@ ACE ELECTRONIC (HK) CO., LTD is or has been involved in destabilising Ukraine or
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+852 2638 7801</PhoneNumber>
       <PhoneNumber>+86-755-2512-4873</PhoneNumber>
+      <PhoneNumber>+852 2638 7801</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.ace-chip.com</Website>
@@ -327319,8 +327335,8 @@ ACE ELECTRONIC (HK) CO., LTD is or has been involved in destabilising Ukraine or
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>BR: 69987857</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>CR: 2756979</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>BR: 69987857</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -327507,8 +327523,8 @@ LLC IMPEX-DON is an “involved person” under the Russia (Sanctions) (EU Exi
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 (903) 403-46-64 </PhoneNumber>
-      <PhoneNumber>+7 (949) 591-54-68 </PhoneNumber>
       <PhoneNumber>+7 (499) 709-00-00</PhoneNumber>
+      <PhoneNumber>+7 (949) 591-54-68 </PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
       <EmailAddress>info@impeks-don.ru</EmailAddress>
@@ -328103,15 +328119,15 @@ The Secretary of State considers that there are reasonable grounds to suspect th
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>80/1, Moskovskaya Street</AddressLine1>
-        <AddressLine6>Bishkek</AddressLine6>
-        <AddressPostalCode>720021</AddressPostalCode>
-        <AddressCountry>Kyrgyzstan</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>40/4, Togolok Moldo</AddressLine1>
         <AddressLine6>Bishkek</AddressLine6>
         <AddressPostalCode>720001</AddressPostalCode>
+        <AddressCountry>Kyrgyzstan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>80/1, Moskovskaya Street</AddressLine1>
+        <AddressLine6>Bishkek</AddressLine6>
+        <AddressPostalCode>720021</AddressPostalCode>
         <AddressCountry>Kyrgyzstan</AddressCountry>
       </Address>
     </Addresses>
@@ -340779,9 +340795,9 @@ Non-bank Credit Organization Joint-Stock Company “Petersburg Settlement Center
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (812) 655-74-30</PhoneNumber>
       <PhoneNumber>+7 (812) 655-74-31</PhoneNumber>
       <PhoneNumber>+7 (812) 324-3806</PhoneNumber>
+      <PhoneNumber>+7 (812) 655-74-30</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.spsc.ru</Website>
@@ -353275,8 +353291,8 @@ JIN TANG TECHNOLOGY LIMITED is or has been involved in destabilising Ukraine or 
           <TypeOfEntity>Private Limited Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>BRN: 70951102</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>CRN: 2852068</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>BRN: 70951102</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -354767,8 +354783,8 @@ JSC DESIGN BUREAU ‘IKAR’ is an "involved person" under the Russian (Sanction
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 2311085466</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1052306487254</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 2311085466</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -359299,15 +359315,15 @@ HORSWAY TECH (HK) CO., LIMITED is an "involved person" under the Russia (Sanctio
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Flat/Rm 2003 20/F Hong Kong Plaza</AddressLine1>
-        <AddressLine2>188 Connaught Road West</AddressLine2>
+        <AddressLine1>Rm 1318, Sunbeam Centre</AddressLine1>
+        <AddressLine2>27 Shing Yip Street</AddressLine2>
+        <AddressLine5>Kwun Tong</AddressLine5>
         <AddressLine6>Hong Kong</AddressLine6>
         <AddressCountry>China</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Rm 1318, Sunbeam Centre</AddressLine1>
-        <AddressLine2>27 Shing Yip Street</AddressLine2>
-        <AddressLine5>Kwun Tong</AddressLine5>
+        <AddressLine1>Flat/Rm 2003 20/F Hong Kong Plaza</AddressLine1>
+        <AddressLine2>188 Connaught Road West</AddressLine2>
         <AddressLine6>Hong Kong</AddressLine6>
         <AddressCountry>China</AddressCountry>
       </Address>
@@ -364435,10 +364451,10 @@ The Secretary of State has reasonable grounds to suspect that FARGONA KIMYO ZAVO
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+998 90 533 64 84</PhoneNumber>
-      <PhoneNumber>+998 91 681 82 14</PhoneNumber>
       <PhoneNumber>+998 93 501 03 32</PhoneNumber>
       <PhoneNumber>+998 90 231 31 49</PhoneNumber>
+      <PhoneNumber>+998 90 533 64 84</PhoneNumber>
+      <PhoneNumber>+998 91 681 82 14</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://fergchem.com/</Website>
@@ -371756,16 +371772,16 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 845 230-80-51</PhoneNumber>
-      <PhoneNumber>+7 845 230-81-72</PhoneNumber>
       <PhoneNumber>+7 845 230-81-78</PhoneNumber>
+      <PhoneNumber>+7 845 230-81-72</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.sepo.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>zem@sepo.ru</EmailAddress>
-      <EmailAddress>sepo-energo@mail.ru </EmailAddress>
       <EmailAddress>director@sepo.ru</EmailAddress>
+      <EmailAddress>sepo-energo@mail.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -375997,10 +376013,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
-      <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
       <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
       <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
+      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
+      <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://tochka.com</Website>
@@ -376342,9 +376358,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>8(800)1000 600</PhoneNumber>
+      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
       <PhoneNumber>8(343)355 75 75</PhoneNumber>
       <PhoneNumber>8(495)771 70 95</PhoneNumber>
-      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>http://sinara.ru</Website>
@@ -376352,9 +376368,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Websites>
     <EmailAddresses>
       <EmailAddress>clients@skbbank.ru</EmailAddress>
+      <EmailAddress>orders@delo.ru</EmailAddress>
       <EmailAddress>digital@sinara.ru</EmailAddress>
       <EmailAddress>orders@sinara.ru</EmailAddress>
-      <EmailAddress>orders@delo.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -376535,12 +376551,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Owner of LLC UNIMATIC</Position>
-          <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>Owner of LLC HUSTLE SHIFT</Position>
           <Position>Owner of LLC 2D6</Position>
           <Position>Owner of LLC GRAVITAL</Position>
+          <Position>Owner of LLC UNIMATIC</Position>
+          <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -376749,20 +376765,20 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 0755-29874500</PhoneNumber>
       <PhoneNumber>+86 512-36825901</PhoneNumber>
       <PhoneNumber>+86 755- 23405269</PhoneNumber>
       <PhoneNumber>+86 755- 27175156</PhoneNumber>
       <PhoneNumber>+86 755-29874501</PhoneNumber>
+      <PhoneNumber>+86 0755-29874500</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>https://www.sowincnc.com/</Website>
       <Website>http://www.sowin-ks.com/</Website>
+      <Website>https://www.sowincnc.com/</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>market@sowincnc.com</EmailAddress>
       <EmailAddress>hr@sowincnc.com</EmailAddress>
       <EmailAddress>overseas@sowincnc.com</EmailAddress>
+      <EmailAddress>market@sowincnc.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -379444,8 +379460,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Website>www.absolutbank.ru </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@absolutbank.ru</EmailAddress>
       <EmailAddress>anti.corr@absolutbank.ru </EmailAddress>
+      <EmailAddress>info@absolutbank.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -379688,10 +379704,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <PhoneNumber>8 (495) 775-65-55 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
+      <Website>www.forabank.ru </Website>
       <Website>https://forabank.ru </Website>
       <Website>http://vk.com/forabank </Website>
       <Website>https://www.forabank.ru </Website>
-      <Website>www.forabank.ru </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>broker@forabank.ru </EmailAddress>
@@ -381134,8 +381150,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1027810256473 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1027810256473 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -381746,13 +381762,13 @@ The Secretary of State considers that there are reasonable grounds to suspect th
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Mogadishu</AddressLine6>
-        <AddressCountry>Somalia</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine5>Rinkeby</AddressLine5>
         <AddressLine6>Stockholm</AddressLine6>
         <AddressCountry>Sweden</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine6>Mogadishu</AddressLine6>
+        <AddressCountry>Somalia</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -381761,8 +381777,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <DOB>24/12/1965</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Sweden</Nationality>
           <Nationality>Somalia</Nationality>
+          <Nationality>Sweden</Nationality>
         </Nationalities>
       </Individual>
     </IndividualDetails>
@@ -382345,9 +382361,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Individual>
         <DOBs>
           <DOB>dd/mm/1979</DOB>
+          <DOB>dd/mm/1982</DOB>
           <DOB>dd/mm/1980</DOB>
           <DOB>dd/mm/1981</DOB>
-          <DOB>dd/mm/1982</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Somalia</Nationality>
@@ -383417,10 +383433,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1957</DOB>
           <DOB>dd/mm/1958</DOB>
           <DOB>dd/mm/1959</DOB>
           <DOB>dd/mm/1960</DOB>
+          <DOB>dd/mm/1957</DOB>
           <DOB>dd/mm/1961</DOB>
           <DOB>dd/mm/1962</DOB>
         </DOBs>
@@ -384716,11 +384732,11 @@ Michael Makuei Leuth has held the position of Minister for Information and Broad
         </Positions>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Akobo, Jonglei State</TownOfBirth>
+            <TownOfBirth>Uror County, Jonglei State</TownOfBirth>
             <CountryOfBirth>South Sudan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Uror County, Jonglei State</TownOfBirth>
+            <TownOfBirth>Akobo, Jonglei State</TownOfBirth>
             <CountryOfBirth>South Sudan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -386876,9 +386892,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <Nationality>Sudan</Nationality>
         </Nationalities>
         <Positions>
+          <Position>Former Senior RSF Commander</Position>
           <Position>Head of the Sudan Shield Forces</Position>
           <Position>Senior SAF Commander</Position>
-          <Position>Former Senior RSF Commander</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -387706,9 +387722,9 @@ There are reasonable grounds to suspect that they are an involved person under t
           <DOB>dd/mm/1952</DOB>
         </DOBs>
         <Positions>
+          <Position>Minister of Defence</Position>
           <Position>Vice President of the Council of Ministers</Position>
           <Position>Deputy Prime Minister</Position>
-          <Position>Minister of Defence</Position>
         </Positions>
       </Individual>
     </IndividualDetails>
@@ -400688,8 +400704,8 @@ There are reasonable grounds to suspect that they are an involved person under t
           <Nationality>Syria</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Former Head of General Intelligence Directorate (a.k.a. General Security Directorate, State Security)</Position>
           <Position>General Security Directorate</Position>
+          <Position>Former Head of General Intelligence Directorate (a.k.a. General Security Directorate, State Security)</Position>
           <Position>State Security</Position>
         </Positions>
         <Genders>
@@ -405288,9 +405304,9 @@ There are reasonable grounds to suspect that they are an involved person under t
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1956</DOB>
           <DOB>dd/mm/1941</DOB>
           <DOB>dd/mm/1951</DOB>
+          <DOB>dd/mm/1956</DOB>
         </DOBs>
         <Positions>
           <Position>Former Head of Presidential Security</Position>
@@ -408332,13 +408348,6 @@ There are reasonable grounds to suspect that they are an involved person under t
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Industrial Zone</AddressLine1>
-        <AddressLine2>Al-Qadam Road</AddressLine2>
-        <AddressLine5>P.O. Box 35202</AddressLine5>
-        <AddressLine6>Damascus</AddressLine6>
-        <AddressCountry>Syria</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Rural Damascus: Adra</AddressLine1>
         <AddressLine2>Industrial Zone</AddressLine2>
         <AddressLine3>next to Teshreen Mill</AddressLine3>
@@ -408346,8 +408355,20 @@ There are reasonable grounds to suspect that they are an involved person under t
         <AddressLine6>Damascus</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
       </Address>
+      <Address>
+        <AddressLine1>Industrial Zone</AddressLine1>
+        <AddressLine2>Al-Qadam Road</AddressLine2>
+        <AddressLine5>P.O. Box 35202</AddressLine5>
+        <AddressLine6>Damascus</AddressLine6>
+        <AddressCountry>Syria</AddressCountry>
+      </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>+963-11-5810718</PhoneNumber>
+      <PhoneNumber>4525965</PhoneNumber>
+      <PhoneNumber>4526032</PhoneNumber>
+      <PhoneNumber>4529991</PhoneNumber>
+      <PhoneNumber>+963 011 5810719</PhoneNumber>
       <PhoneNumber>+963 11 4474579</PhoneNumber>
       <PhoneNumber>+963 11 5810718</PhoneNumber>
       <PhoneNumber>+963 11 5810719</PhoneNumber>
@@ -408355,20 +408376,15 @@ There are reasonable grounds to suspect that they are an involved person under t
       <PhoneNumber>+963(11)5810719</PhoneNumber>
       <PhoneNumber>113781</PhoneNumber>
       <PhoneNumber>113788</PhoneNumber>
-      <PhoneNumber>+963 011 5810719</PhoneNumber>
-      <PhoneNumber>+963-11-5810718</PhoneNumber>
       <PhoneNumber>434399-434001</PhoneNumber>
-      <PhoneNumber>4525965</PhoneNumber>
-      <PhoneNumber>4526032</PhoneNumber>
-      <PhoneNumber>4529991</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.metallic-sy.org</Website>
       <Website>www.metallic-sy.com</Website>
+      <Website>www.metallic-sy.org</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>shaamco@mail.sy</EmailAddress>
       <EmailAddress>info@metallic-sy.com</EmailAddress>
+      <EmailAddress>shaamco@mail.sy</EmailAddress>
     </EmailAddresses>
   </Designation>
   <Designation>
@@ -413850,8 +413866,8 @@ There are reasonable grounds to suspect that they are an involved person under t
           <DOB>17/01/1978</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Lebanon</Nationality>
           <Nationality>Syria</Nationality>
+          <Nationality>Lebanon</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -419179,8 +419195,8 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
       <Individual>
         <DOBs>
           <DOB>dd/mm/1985</DOB>
-          <DOB>dd/mm/1984</DOB>
           <DOB>dd/mm/1986</DOB>
+          <DOB>dd/mm/1984</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Yemen</Nationality>
