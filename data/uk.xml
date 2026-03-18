@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>16/03/2026</DateGenerated>
+  <DateGenerated>17/03/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -4317,8 +4317,8 @@
         <DOBs>
           <DOB>dd/mm/1963</DOB>
           <DOB>1956</DOB>
-          <DOB>1955</DOB>
           <DOB>30/07/1969</DOB>
+          <DOB>1955</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -4412,8 +4412,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>22/02/1957</DOB>
           <DOB>dd/mm/1958</DOB>
+          <DOB>22/02/1957</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -7655,8 +7655,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1958</DOB>
           <DOB>18/09/1963</DOB>
+          <DOB>dd/mm/1958</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -7675,11 +7675,11 @@
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Bagrami District, Kabul Province</TownOfBirth>
+            <TownOfBirth>Tarakhel area, Deh Sabz District, Kabul Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Tarakhel area, Deh Sabz District, Kabul Province</TownOfBirth>
+            <TownOfBirth>Bagrami District, Kabul Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -9628,14 +9628,14 @@
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <CountryOfBirth>Afghanistan</CountryOfBirth>
-          </Location>
-          <Location>
             <TownOfBirth>Srana village, Garda Saray district, Paktia province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
             <TownOfBirth>Khost province</TownOfBirth>
+            <CountryOfBirth>Afghanistan</CountryOfBirth>
+          </Location>
+          <Location>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -9914,17 +9914,17 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1972</DOB>
           <DOB>27/07/1976</DOB>
+          <DOB>dd/mm/1972</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>D0010408</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>P03318995</PassportNumber>
             <PassportAdditionalInformation>Afghanistan passport, issued on 29 Jul. 2020 (Name in Latin script: Hedayatullah  Hedayat, expires 29 Jul. 2025)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>D0010408</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -10198,14 +10198,14 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressLine6>Peshawar</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
+      </Address>
+      <Address>
         <AddressLine1>Kayla Village</AddressLine1>
         <AddressLine2>near Miram Shah</AddressLine2>
         <AddressLine5>North Waziristan Agency (NWA),</AddressLine5>
         <AddressLine6>Federally Administered Tribal Areas (FATA)</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine6>Peshawar</AddressLine6>
         <AddressCountry>Pakistan</AddressCountry>
       </Address>
       <Address>
@@ -10227,12 +10227,12 @@
         <DOBs>
           <DOB>01/01/1966</DOB>
           <DOB>dd/mm/1958</DOB>
+          <DOB>dd/mm/1964</DOB>
           <DOB>dd/mm/1959</DOB>
           <DOB>dd/mm/1960</DOB>
           <DOB>dd/mm/1961</DOB>
           <DOB>dd/mm/1962</DOB>
           <DOB>dd/mm/1963</DOB>
-          <DOB>dd/mm/1964</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -10476,25 +10476,25 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressLine1>Kalay Rangin</AddressLine1>
+        <AddressLine2>Spin Boldak District</AddressLine2>
+        <AddressLine6>Kandahar province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
         <AddressLine1>Boghra Road</AddressLine1>
         <AddressLine2>Miralzei Village</AddressLine2>
         <AddressLine3>Chaman</AddressLine3>
         <AddressLine6>Baluchistan Province</AddressLine6>
         <AddressCountry>Pakistan</AddressCountry>
       </Address>
-      <Address>
-        <AddressLine1>Kalay Rangin</AddressLine1>
-        <AddressLine2>Spin Boldak District</AddressLine2>
-        <AddressLine6>Kandahar province</AddressLine6>
-        <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
     </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>01/01/1963</DOB>
           <DOB>dd/mm/1957</DOB>
           <DOB>dd/mm/1960</DOB>
-          <DOB>01/01/1963</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -28996,19 +28996,19 @@ Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Basilan, previous location until 2016</AddressLine6>
+        <AddressLine6>Lanao del Sur</AddressLine6>
         <AddressCountry>Philippines</AddressCountry>
       </Address>
       <Address>
-        <AddressLine6>Lanao del Sur</AddressLine6>
+        <AddressLine6>Basilan, previous location until 2016</AddressLine6>
         <AddressCountry>Philippines</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>18/03/1966</DOB>
           <DOB>10/03/1967</DOB>
+          <DOB>18/03/1966</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Philippines</Nationality>
@@ -228374,77 +228374,6 @@ Yuri ANDRESOV is a member of VTB Bank’s Management Board. VTB Bank is a Govern
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>16/10/2025</LastUpdated>
-    <DateDesignated>15/03/2022</DateDesignated>
-    <UniqueID>RUS0846</UniqueID>
-    <OFSIGroupID>14797</OFSIGroupID>
-    <Names>
-      <Name>
-        <Name1>German</Name1>
-        <Name2>Valentinovich</Name2>
-        <Name6>BELOUS</Name6>
-        <NameType>Primary Name</NameType>
-      </Name>
-    </Names>
-    <NonLatinNames>
-      <NonLatinName>
-        <NameNonLatinScript>БЕЛОУС Герман Валентинович</NameNonLatinScript>
-        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
-        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
-      </NonLatinName>
-    </NonLatinNames>
-    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
-    <IndividualEntityShip>Individual</IndividualEntityShip>
-    <DesignationSource>UK</DesignationSource>
-    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
-    <SanctionsImposedIndicators>
-      <AssetFreeze>true</AssetFreeze>
-      <ArmsEmbargo>false</ArmsEmbargo>
-      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
-      <CharteringOfShips>false</CharteringOfShips>
-      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
-      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
-      <Deflag>false</Deflag>
-      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
-      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
-      <TravelBan>true</TravelBan>
-      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
-      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
-      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
-      <TrustServicesSanctions>true</TrustServicesSanctions>
-      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
-    </SanctionsImposedIndicators>
-    <OtherInformation>The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
-    <UKStatementofReasons>
-The Secretary of State considers that there are reasonable grounds to suspect that German Valentinovich BELOUS is an involved person under the Russia (EU Exit) (Sanctions) Regulations 2019 on the basis of the following ground:
- 
-German Valentinovich BELOUS has been involved in obtaining a benefit from or supporting the Government of Russia by working as a director (whether executive or non-executive), trustee, or other manager or equivalent of an entity carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector.
-The trust services sanctions were imposed on 21/03/2023. 
-</UKStatementofReasons>
-    <IndividualDetails>
-      <Individual>
-        <DOBs>
-          <DOB>1977</DOB>
-        </DOBs>
-        <Nationalities>
-          <Nationality>Russia</Nationality>
-        </Nationalities>
-        <Positions>
-          <Position>Deputy Chairman of the Management Board</Position>
-        </Positions>
-        <Genders>
-          <Gender>Male</Gender>
-        </Genders>
-        <BirthDetails>
-          <Location>
-            <TownOfBirth>Moscow</TownOfBirth>
-            <CountryOfBirth>Russia</CountryOfBirth>
-          </Location>
-        </BirthDetails>
-      </Individual>
-    </IndividualDetails>
-  </Designation>
-  <Designation>
     <LastUpdated>09/04/2025</LastUpdated>
     <DateDesignated>15/03/2022</DateDesignated>
     <UniqueID>RUS0847</UniqueID>
@@ -229449,7 +229378,7 @@ Anatolii PECHATNIKOV is a member of VTB Bank’s Management Board. VTB Bank is a
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>09/04/2025</LastUpdated>
+    <LastUpdated>17/03/2026</LastUpdated>
     <DateDesignated>15/03/2022</DateDesignated>
     <UniqueID>RUS0862</UniqueID>
     <OFSIGroupID>14813</OFSIGroupID>
@@ -229459,6 +229388,11 @@ Anatolii PECHATNIKOV is a member of VTB Bank’s Management Board. VTB Bank is a
         <Name2>Dmitrievich</Name2>
         <Name6>PESKOV</Name6>
         <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Nicholas</Name1>
+        <Name6>CHOLES</Name6>
+        <NameType>Alias</NameType>
       </Name>
     </Names>
     <NonLatinNames>
@@ -246333,7 +246267,7 @@ Leonid Viktorovich MIKHELSON is a prominent businessman whose significant busine
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>16/03/2026</LastUpdated>
+    <LastUpdated>17/03/2026</LastUpdated>
     <DateDesignated>06/04/2022</DateDesignated>
     <UniqueID>RUS1127</UniqueID>
     <OFSIGroupID>15075</OFSIGroupID>
@@ -246387,7 +246321,7 @@ Leonid Viktorovich MIKHELSON is a prominent businessman whose significant busine
     <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
     <IndividualEntityShip>Individual</IndividualEntityShip>
     <DesignationSource>UK</DesignationSource>
-    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction|Transport sanctions: see "Other information"</SanctionsImposed>
     <SanctionsImposedIndicators>
       <AssetFreeze>true</AssetFreeze>
       <ArmsEmbargo>false</ArmsEmbargo>
@@ -246398,14 +246332,14 @@ Leonid Viktorovich MIKHELSON is a prominent businessman whose significant busine
       <Deflag>false</Deflag>
       <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
       <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
-      <TravelBan>false</TravelBan>
+      <TravelBan>true</TravelBan>
       <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
       <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
       <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
       <TrustServicesSanctions>true</TrustServicesSanctions>
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
-    <OtherInformation>The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
+    <OtherInformation>Transport sanctions: ships owned, controlled, chartered or operated by the individual are prohibited from entering a port in the UK; may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. An aircraft owned, chartered or operated by the individual is prohibited from overflying or landing in the UK, may be given a movement direction, can be detained or moved to a specified airport, and will be refused permission to register on the CAA Aircraft Register or have its existing registration terminated. Prohibition of technical assistance relating to aircraft and ships: a prohibition on the provision of technical assistance relating to aircraft or ships will prevent a person from directly or indirectly providing technical assistance to, or for the benefit of, the designated person, where that technical assistance relates to an aircraft or ship. The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
     <UKStatementofReasons>
 The Secretary of State has reasonable grounds to suspect that Viatcheslav Vladimirovich KANTOR, hereafter KANTOR, is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground:  
   
@@ -246417,8 +246351,8 @@ KANTOR is or has been involved in obtaining a benefit from or supporting the Gov
           <DOB>08/09/1953</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Israel</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
           <Position>Chairman of the Coordinating Board of PJSC Acron</Position>
@@ -259932,8 +259866,8 @@ The trust services sanctions were imposed on 21/03/2023.
           <DOB>22/12/1959</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Uzbekistan</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Female</Gender>
@@ -328119,15 +328053,15 @@ The Secretary of State considers that there are reasonable grounds to suspect th
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>40/4, Togolok Moldo</AddressLine1>
-        <AddressLine6>Bishkek</AddressLine6>
-        <AddressPostalCode>720001</AddressPostalCode>
-        <AddressCountry>Kyrgyzstan</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>80/1, Moskovskaya Street</AddressLine1>
         <AddressLine6>Bishkek</AddressLine6>
         <AddressPostalCode>720021</AddressPostalCode>
+        <AddressCountry>Kyrgyzstan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>40/4, Togolok Moldo</AddressLine1>
+        <AddressLine6>Bishkek</AddressLine6>
+        <AddressPostalCode>720001</AddressPostalCode>
         <AddressCountry>Kyrgyzstan</AddressCountry>
       </Address>
     </Addresses>
@@ -359820,7 +359754,7 @@ Russia INN - 7730059592 </BusinessRegistrationNumber>
     </EntityDetails>
   </Designation>
   <Designation>
-    <LastUpdated>15/10/2025</LastUpdated>
+    <LastUpdated>17/03/2026</LastUpdated>
     <DateDesignated>15/10/2025</DateDesignated>
     <UniqueID>RUS3080</UniqueID>
     <OFSIGroupID>17185</OFSIGroupID>
@@ -359920,11 +359854,11 @@ JSC BBR BANK is or has been obtaining a benefit from or supporting the Governmen
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>BIC: 044525769 
-TIN: 3900001002 
-KPP: 770401001 
-SWIFT CODE: BADJRUMM 
-Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>BIK (RU): 044525769 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>TIN: 3900001002 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>KPP: 770401001 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>SWIFT CODE: BADJRUMM </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -364451,10 +364385,10 @@ The Secretary of State has reasonable grounds to suspect that FARGONA KIMYO ZAVO
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+998 93 501 03 32</PhoneNumber>
       <PhoneNumber>+998 90 231 31 49</PhoneNumber>
       <PhoneNumber>+998 90 533 64 84</PhoneNumber>
       <PhoneNumber>+998 91 681 82 14</PhoneNumber>
+      <PhoneNumber>+998 93 501 03 32</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://fergchem.com/</Website>
@@ -376013,10 +375947,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
       <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
-      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
       <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
+      <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
+      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://tochka.com</Website>
@@ -376358,9 +376292,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>8(800)1000 600</PhoneNumber>
-      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
       <PhoneNumber>8(343)355 75 75</PhoneNumber>
       <PhoneNumber>8(495)771 70 95</PhoneNumber>
+      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>http://sinara.ru</Website>
@@ -376368,9 +376302,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Websites>
     <EmailAddresses>
       <EmailAddress>clients@skbbank.ru</EmailAddress>
-      <EmailAddress>orders@delo.ru</EmailAddress>
       <EmailAddress>digital@sinara.ru</EmailAddress>
       <EmailAddress>orders@sinara.ru</EmailAddress>
+      <EmailAddress>orders@delo.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -376459,12 +376393,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
           <Position>Minority shareholder of DALIAN UNITECH TRADING CO., LTD.</Position>
+          <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of LLC NATSPROMKOMPLEKT</Position>
           <Position>Co-owner of LLC NATSPROMRESURS</Position>
           <Position>President of LLC UNIMATIC</Position>
-          <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
+          <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -376551,12 +376485,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
+          <Position>Owner of LLC UNIMATIC</Position>
+          <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>Owner of LLC HUSTLE SHIFT</Position>
           <Position>Owner of LLC 2D6</Position>
           <Position>Owner of LLC GRAVITAL</Position>
-          <Position>Owner of LLC UNIMATIC</Position>
-          <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -376843,9 +376777,9 @@ is an &amp;quot;involved person&amp;quot; under the Russian (Sanctions) (EU Exit
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>18260406767</PhoneNumber>
       <PhoneNumber>+86-0517-88297588</PhoneNumber>
       <PhoneNumber>+86-0517-88297770</PhoneNumber>
-      <PhoneNumber>18260406767</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>qzmtt.com</Website>
@@ -376914,8 +376848,8 @@ The Secretary of State considers there are reasonable grounds to suspect that NI
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 574 6276 6276</PhoneNumber>
       <PhoneNumber>+86 62766789</PhoneNumber>
+      <PhoneNumber>+86 574 6276 6276</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.skymaster.com.cn</Website>
@@ -377129,8 +377063,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN - 1227800139071 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN – 7802931751 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN - 1227800139071 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -377870,8 +377804,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 2901259450</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1152901005795</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 2901259450</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -378597,8 +378531,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86-13889429555</PhoneNumber>
       <PhoneNumber>+86-411-88702340</PhoneNumber>
+      <PhoneNumber>+86-13889429555</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.chineselathe.com/</Website>
@@ -379207,7 +379141,7 @@ The Secretary of State considers that there are reasonable grounds to suspect RO
     </Websites>
   </Designation>
   <Designation>
-    <LastUpdated>24/02/2026</LastUpdated>
+    <LastUpdated>17/03/2026</LastUpdated>
     <DateDesignated>24/02/2026</DateDesignated>
     <UniqueID>RUS3459</UniqueID>
     <Names>
@@ -379302,12 +379236,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 777 41 50 </PhoneNumber>
       <PhoneNumber>+7 495 737 33 13 </PhoneNumber>
+      <PhoneNumber>+7 495 777 41 50 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>http://www.tkbbank.ru </Website>
       <Website>www.tkbbank.ru </Website>
+      <Website>http://www.tkbbank.ru </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>info@tkbbank.ru </EmailAddress>
@@ -379318,9 +379252,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>PUBLIC JOINT STOCK COMPANY </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>TIN: 7709129705 
-OGRN: 1027739186970 
-BIC: 044525388 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>TIN: 7709129705 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1027739186970 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>BIK (RU): 044525388 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -379452,16 +379386,16 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 777-71-75 </PhoneNumber>
       <PhoneNumber>+7 495 777-71-71 </PhoneNumber>
+      <PhoneNumber>+7 495 777-71-75 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.absolutbank.com </Website>
       <Website>www.absolutbank.ru </Website>
+      <Website>www.absolutbank.com </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>anti.corr@absolutbank.ru </EmailAddress>
       <EmailAddress>info@absolutbank.ru</EmailAddress>
+      <EmailAddress>anti.corr@absolutbank.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -379634,7 +379568,7 @@ The Secretary of State has reasonable grounds to suspect that IMO 9321718 (‘OR
     </ShipDetails>
   </Designation>
   <Designation>
-    <LastUpdated>24/02/2026</LastUpdated>
+    <LastUpdated>17/03/2026</LastUpdated>
     <DateDesignated>24/02/2026</DateDesignated>
     <UniqueID>RUS3464</UniqueID>
     <Names>
@@ -379704,10 +379638,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <PhoneNumber>8 (495) 775-65-55 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.forabank.ru </Website>
-      <Website>https://forabank.ru </Website>
       <Website>http://vk.com/forabank </Website>
+      <Website>https://forabank.ru </Website>
       <Website>https://www.forabank.ru </Website>
+      <Website>www.forabank.ru </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>broker@forabank.ru </EmailAddress>
@@ -379718,10 +379652,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>JOINT-STOCK COMPANY</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 7704113772 
-OGRN: 1027739553764 
-Russia Licence No. – 1885 
-BIC: 044525341</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>BIK (RU): 044525341</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Russia Licence No. – 1885 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 7704113772 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1027739553764 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -381150,8 +381084,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027810256473 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -386892,9 +386826,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <Nationality>Sudan</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Former Senior RSF Commander</Position>
           <Position>Head of the Sudan Shield Forces</Position>
           <Position>Senior SAF Commander</Position>
+          <Position>Former Senior RSF Commander</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
