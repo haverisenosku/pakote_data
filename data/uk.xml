@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>17/03/2026</DateGenerated>
+  <DateGenerated>26/03/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -112909,6 +112909,741 @@ There are reasonable grounds to suspect that CHEN Zhi (“CHEN”) is an involve
         </BirthDetails>
       </Individual>
     </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/03/2026</LastUpdated>
+    <DateDesignated>26/03/2026</DateDesignated>
+    <UniqueID>GHR0181</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Kuok-Koi</Name1>
+        <Name6>WAN</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Kui</Name1>
+        <Name6>Bung Nga</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Kuok-Kui</Name1>
+        <Name6>Wan</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Guoju</Name1>
+        <Name6>Yin</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>Broken Tooth</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Brokentooth</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>Dragon Head</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>尹國駒 </NameNonLatinScript>
+        <NonLatinScriptType>Chinese</NonLatinScriptType>
+        <NonLatinScriptLanguage>Chinese</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Global Human Rights Sanctions Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that WAN Kuok-Koi (&amp;quot;WAN&amp;quot;) is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following ground: WAN is or has been responsible for, engaging in, facilitating or providing support for human rights abuses. Specifically, WAN is or has been involved in the operation of scam centres in Southeast Asia. The treatment of individuals in these scam centres amounts to a serious abuse of the right not to be subjected to cruel, inhuman or degrading treatment or punishment, and of the right to be free from slavery, not to be held in servitude or required to perform forced or compulsory labour. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>29/07/1955</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>31135083 </PassportNumber>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>China</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Macau</TownOfBirth>
+            <CountryOfBirth>China</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/03/2026</LastUpdated>
+    <DateDesignated>26/03/2026</DateDesignated>
+    <UniqueID>GHR0182</UniqueID>
+    <Names>
+      <Name>
+        <Name6>TIAN XU INTERNATIONAL TECHNOLOGY PLC</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>គ្រឹះស្ថាន ធានសូ៊ាអ ិនខេើខណ្សិនណ្ល ខថកណ្ឡជីម.ក </NameNonLatinScript>
+        <NonLatinScriptType>Khmer</NonLatinScriptType>
+        <NonLatinScriptLanguage>Central Khmer</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Global Human Rights Sanctions Regulations 2020</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Tian Xu International Technology PLC is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following grounds: (1) Tian Xu International Technology PLC is associated with a person who is or has been involved in human rights abuses, namely Prince Group; (2) Tian Xu International Technology PLC is or has been involved in providing financial services, or making available funds, economic resources, goods or technology, to a person who is or has been involved in human rights abuses, namely Prince Group. Prince Group is or has been involved in the operation of scam centres in Cambodia. The treatment of individuals in these scam centres amounts to a serious abuse of the right not to be subjected to cruel, inhumane, or degrading treatment or punishment, and of the right to be free from slavery, not to be held in servitude or required to perform forced or compulsory labour.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>No.48-50</AddressLine1>
+        <AddressLine2>Street 310</AddressLine2>
+        <AddressLine3>Phum 2</AddressLine3>
+        <AddressLine4>Sangkat Beoung KengKang 1</AddressLine4>
+        <AddressLine5>Khan Beoung KengKang</AddressLine5>
+        <AddressLine6>Phnom Penh</AddressLine6>
+        <AddressCountry>Cambodia</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+855 81 681 074 </PhoneNumber>
+      <PhoneNumber>+855 23 988 777 </PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>Coolcashcam.com  </Website>
+    </Websites>
+    <EntityDetails>
+      <Entity>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>00021503 (KH) </BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/03/2026</LastUpdated>
+    <DateDesignated>26/03/2026</DateDesignated>
+    <UniqueID>GHR0183</UniqueID>
+    <Names>
+      <Name>
+        <Name6>BSQUARE TECHNOLOGY CO. LTD.</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Human Rights Sanctions Regulations 2020</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that BSquare Technology Co. Ltd. is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following grounds: (1) BSquare Technology Co. Ltd. is associated with a person who is or has been involved in human rights abuses, namely Prince Group; (2) BSquare Technology Co. Ltd. is or has been involved in providing financial services, or making available funds, economic resources, goods or technology, to a person who is or has been involved in human rights abuses, namely Prince Group. Prince Group is or has been involved in the operation of scam centres in Cambodia. The treatment of individuals in these scam centres amounts to a serious abuse of the right not to be subjected to cruel, inhumane, or degrading treatment or punishment, and of the right to be free from slavery, not to be held in servitude or required to perform forced or
+ 
+compulsory labour.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>No.48-50</AddressLine1>
+        <AddressLine2>Street 310</AddressLine2>
+        <AddressLine3>Phum 2</AddressLine3>
+        <AddressLine4>Sangkat Beoung KengKang 1</AddressLine4>
+        <AddressLine5>Khan Beoung KengKang</AddressLine5>
+        <AddressLine6>Phnom Penh</AddressLine6>
+        <AddressCountry>Cambodia</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+855 81 681 074 </PhoneNumber>
+    </PhoneNumbers>
+    <EntityDetails>
+      <Entity>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>00073994 (KH) </BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/03/2026</LastUpdated>
+    <DateDesignated>26/03/2026</DateDesignated>
+    <UniqueID>GHR0184</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Weizhi </Name1>
+        <Name6>PANG</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Visal</Name1>
+        <Name6>Pang</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Wei Zei</Name1>
+        <Name6>Pang</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Human Rights Sanctions Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that PANG Weizhi (&amp;quot;PANG&amp;quot;) is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following grounds: (1) PANG is associated with a person who is or has been involved in human rights abuses, namely Prince Group; (2) PANG is or has been involved in providing financial services, or making available funds, economic resources, goods or technology, to a person who is or has been involved in human rights abuses, namely Prince Group. Prince Group has been involved in the operation of scam centres in Cambodia. The treatment of individuals in these scam centres amounts to a serious abuse of the right not to be subjected to cruel, inhumane, or degrading treatment or punishment, and of the right to be free from slavery, not to be held in servitude or required to perform forced or compulsory labour.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>19 Street 146</AddressLine1>
+        <AddressLine2>Tumnob Toek</AddressLine2>
+        <AddressLine3>Chamkamorn District</AddressLine3>
+        <AddressLine6>Phnom Penh</AddressLine6>
+        <AddressCountry>Cambodia</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+855 10600000 </PhoneNumber>
+    </PhoneNumbers>
+    <EmailAddresses>
+      <EmailAddress>kserey87@gmail.com </EmailAddress>
+    </EmailAddresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>20/02/1978</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>N01124709 </PassportNumber>
+            <PassportAdditionalInformation>Cambodia</PassportAdditionalInformation>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Cambodia</Nationality>
+          <Nationality>China</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Director of Tian Xu International Technology Plc  </Position>
+          <Position>Director of U-Life KH Super App Company Limited </Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Zhejiang </TownOfBirth>
+            <CountryOfBirth>China</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/03/2026</LastUpdated>
+    <DateDesignated>26/03/2026</DateDesignated>
+    <UniqueID>GHR0185</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Soklim </Name1>
+        <Name6>EANG</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>អៀង សុខលីម </NameNonLatinScript>
+        <NonLatinScriptType>Khmer</NonLatinScriptType>
+        <NonLatinScriptLanguage>Central Khmer</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Global Human Rights Sanctions Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that EANG Soklim (&amp;quot;EANG&amp;quot;) is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following grounds: (1) EANG is associated with persons who are or have been involved in human rights abuses, namely CAMBODIAN HENG XIN REAL ESTATE, which is involved in the development and operation of a scam centre in Cambodia involving the use of forced labour; (2) EANG is or has been responsible for, engaging in, facilitating or providing support for human rights abuses, specifically serious abuses of the right not to be subjected to cruel, inhuman or degrading treatment or punishment, and of the right to be free from slavery, not to be held in servitude or required to perform forced or compulsory labour, through his involvement in the development and operation of a scam centre in Cambodia.  
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Svay Teab</AddressLine1>
+        <AddressLine2>Angk Popel</AddressLine2>
+        <AddressLine6>Kong Pisei</AddressLine6>
+        <AddressPostalCode>Kampong Speu 5301</AddressPostalCode>
+        <AddressCountry>Cambodia</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+855 66631111 </PhoneNumber>
+    </PhoneNumbers>
+    <EmailAddresses>
+      <EmailAddress>Eangsoklim09@gmail.com</EmailAddress>
+    </EmailAddresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Cambodia</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/03/2026</LastUpdated>
+    <DateDesignated>26/03/2026</DateDesignated>
+    <UniqueID>GHR0186</UniqueID>
+    <Names>
+      <Name>
+        <Name6>LEGEND INNOVATION CO., LTD</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>លេជេន អ៊ិននើវេសិន ឯ.ក </NameNonLatinScript>
+        <NonLatinScriptType>Khmer</NonLatinScriptType>
+        <NonLatinScriptLanguage>Central Khmer</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Global Human Rights Sanctions Regulations 2020</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that LEGEND INNOVATION CO., LTD is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following grounds: (1) LEGEND INNOVATION CO., LTD is associated with persons who are or have been involved in human rights abuses, namely CAMBODIAN HENG XIN REAL ESTATE, which is involved in the development and operation of a scam centre in Cambodia; (2) LEGEND INNOVATION CO., LTD is or has been responsible for, engaging in, facilitating or providing support for human rights abuses, specifically serious abuses of the right not to be subjected to cruel, inhuman or degrading treatment or punishment, and of the right to be free from slavery, not to be held in servitude or required to perform forced or compulsory labour, through its involvement in the development and operation of a scam centre in Cambodia. 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Huione Insurance</AddressLine1>
+        <AddressLine2>Ta Nguon</AddressLine2>
+        <AddressLine3>Kakap</AddressLine3>
+        <AddressLine4>Por Sen Chey</AddressLine4>
+        <AddressLine6>Phnom Penh</AddressLine6>
+        <AddressCountry>Cambodia</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+855 66631111 </PhoneNumber>
+    </PhoneNumbers>
+    <EmailAddresses>
+      <EmailAddress>Eangsoklim09@gmail.com</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <TypeOfEntities>
+          <TypeOfEntity>Private limited company </TypeOfEntity>
+        </TypeOfEntities>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>1000334551/00070350/L001-902305069 (Tax identification number) </BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/03/2026</LastUpdated>
+    <DateDesignated>26/03/2026</DateDesignated>
+    <UniqueID>GHR0187</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Thet</Name1>
+        <Name6>LI</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Tian</Name1>
+        <Name6>Li</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>李添</NameNonLatinScript>
+        <NonLatinScriptType>Chinese</NonLatinScriptType>
+        <NonLatinScriptLanguage>Chinese</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Global Human Rights Sanctions Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that LI Thet (“LI”) is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following grounds: (1) LI is associated with persons who are or have been involved in human rights abuses, namely CHEN Zhi and the Prince Group; (2) LI has provided financial services, or made available funds, economic resources, goods or technology to a person who is or has been involved in human rights abuses, namely CHEN Zhi and the Prince Group. CHEN Zhi and the Prince Group are or have been involved in the operation of scam centres in Cambodia. The treatment of individuals in these scam centres amounts to a serious abuse of the right not to be subjected to cruel, inhumane, or degrading treatment or punishment, and of the right to be free from slavery, not to be held in servitude or required to perform forced or
+ 
+compulsory labour. 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>11 Cuscaden Walk #25-01</AddressLine1>
+        <AddressLine2>Boulevard Vue Singapore</AddressLine2>
+        <AddressLine6>Singapore</AddressLine6>
+        <AddressPostalCode>249697</AddressPostalCode>
+        <AddressCountry>Singapore</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>No Y02</AddressLine1>
+        <AddressLine2>St Y02</AddressLine2>
+        <AddressLine3>Tonle Basac Quarter</AddressLine3>
+        <AddressLine4>Chamkar Morn District</AddressLine4>
+        <AddressLine6>Phnom Penh</AddressLine6>
+        <AddressCountry>Cambodia</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>06/07/1987</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>RV091789</PassportNumber>
+            <PassportAdditionalInformation>Vanuatu</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>N01099997</PassportNumber>
+            <PassportAdditionalInformation>Cambodia</PassportAdditionalInformation>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>St Kitts and Nevis</Nationality>
+          <Nationality>Cyprus</Nationality>
+          <Nationality>St Lucia</Nationality>
+          <Nationality>Vanuatu</Nationality>
+          <Nationality>China</Nationality>
+          <Nationality>Cambodia</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Beijing</TownOfBirth>
+            <CountryOfBirth>China</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/03/2026</LastUpdated>
+    <DateDesignated>26/03/2026</DateDesignated>
+    <UniqueID>GHR0188</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Xiaoyan</Name1>
+        <Name6>WANG</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Human Rights Sanctions Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that WANG Xiaoyan (“WANG”) is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following grounds: (1) WANG is associated with a person who is or has been responsible for, engaging in, facilitating or providing support for human rights abuses, namely her spouse ZHU Zhongbiao; (2) WANG is or has been involved in profiting financially from human rights abuses. Specifically, ZHU is or has been involved in the operation of scam centres in Cambodia, including through the Jin Bei group of companies. The treatment of individuals in these scam centres amounts to a serious abuse of the right not to be subjected to cruel, inhuman or degrading treatment or punishment, and of the right to be free from slavery, not to be held in servitude or required to perform forced or compulsory labour. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>18/03/1987</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Cyprus</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Owner of Fuheng Wang Group Limited (UK) </Position>
+        </Positions>
+        <Genders>
+          <Gender>Female</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>China</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/03/2026</LastUpdated>
+    <DateDesignated>26/03/2026</DateDesignated>
+    <UniqueID>GHR0189</UniqueID>
+    <Names>
+      <Name>
+        <Name1>An Ming</Name1>
+        <Name6>WU</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Xiao'er</Name1>
+        <Name6>Chen</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name1>Shi</Name1>
+        <Name6>Hu </Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name1>Xiaowei</Name1>
+        <Name6>Hu</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Human Rights Sanctions Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that WU An Ming (“WU”) is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following grounds: (1) WU is associated with persons who are or have been involved in human rights abuses, namely CHEN Zhi and the Prince Group; (2) WU has provided financial services, or made available funds, economic resources, goods or technology to a person who is or has been involved in human rights abuses, namely CHEN Zhi. CHEN Zhi and the Prince Group are or have been involved in the operation of scam centres in Cambodia. The treatment of individuals in these scam centres amounts to a serious abuse of the right not to be subjected to cruel, inhumane, or degrading treatment or punishment, and of the right to be free from slavery, not to be held in servitude or required to perform forced or compulsory labour. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>01/05/1982</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>HJ2068539</PassportNumber>
+            <PassportAdditionalInformation>China</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>RE00660066</PassportNumber>
+            <PassportAdditionalInformation>St Kitts and Nevis</PassportAdditionalInformation>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Cambodia</Nationality>
+          <Nationality>China</Nationality>
+          <Nationality>Cyprus</Nationality>
+          <Nationality>St Kitts and Nevis</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>China</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/03/2026</LastUpdated>
+    <DateDesignated>26/03/2026</DateDesignated>
+    <UniqueID>GHR0190</UniqueID>
+    <Names>
+      <Name>
+        <Name6>XINBI COMPANY LIMITED</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Human Rights Sanctions Regulations 2020</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Xinbi is associated with the following Tron crypto addresses: 
+
+TW5tokvhEfrb77z98Rc8HqbkzQJ6sxYtGX
+TBKpozurdWLrbKkxtDqkveeq1dSB8Axj3V</OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Xinbi Company Limited (“Xinbi”) is an involved person within the meaning of the Global Human Rights Sanctions Regulations 2020 on the basis of the following grounds: (1) Xinbi is or has been involved in providing financial services or making available funds, economic resources, goods or technology, knowing or having reasonable cause to suspect that those financial services or funds will or may contribute to human rights abuses, and; (2) Xinbi is or has been involved in profiting financially or otherwise obtaining a benefit from human rights abuses. Xinbi has enabled and profited from the operation of scam centres in Southeast Asia. The treatment of individuals in these scam centres amounts to a serious abuse of the right not to be subjected to cruel, inhumane, or degrading treatment or punishment, and of the right to be free from slavery, not to be held in servitude or required to perform forced or compulsory labour.  
+</UKStatementofReasons>
+    <Websites>
+      <Website>Xinbi.com </Website>
+    </Websites>
+    <EntityDetails>
+      <Entity>
+        <Subsidiaries>
+          <Subsidiary>Xinbi Guarantee </Subsidiary>
+        </Subsidiaries>
+      </Entity>
+    </EntityDetails>
   </Designation>
   <Designation>
     <LastUpdated>23/07/2025</LastUpdated>
@@ -246351,8 +247086,8 @@ KANTOR is or has been involved in obtaining a benefit from or supporting the Gov
           <DOB>08/09/1953</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Israel</Nationality>
           <Nationality>Russia</Nationality>
+          <Nationality>Israel</Nationality>
         </Nationalities>
         <Positions>
           <Position>Chairman of the Coordinating Board of PJSC Acron</Position>
@@ -359855,9 +360590,9 @@ JSC BBR BANK is or has been obtaining a benefit from or supporting the Governmen
       <Entity>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>BIK (RU): 044525769 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN: 3900001002 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP: 770401001 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>SWIFT CODE: BADJRUMM </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
@@ -379638,10 +380373,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <PhoneNumber>8 (495) 775-65-55 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>http://vk.com/forabank </Website>
-      <Website>https://forabank.ru </Website>
       <Website>https://www.forabank.ru </Website>
       <Website>www.forabank.ru </Website>
+      <Website>https://forabank.ru </Website>
+      <Website>http://vk.com/forabank </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>broker@forabank.ru </EmailAddress>
@@ -379652,10 +380387,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>JOINT-STOCK COMPANY</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>BIK (RU): 044525341</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Russia Licence No. – 1885 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 7704113772 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027739553764 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Russia Licence No. – 1885 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>BIK (RU): 044525341</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
