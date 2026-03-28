@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>26/03/2026</DateGenerated>
+  <DateGenerated>27/03/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -44070,6 +44070,181 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
           <Location>
             <TownOfBirth>Mengo</TownOfBirth>
             <CountryOfBirth>Uganda</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>27/03/2026</LastUpdated>
+    <DateDesignated>27/03/2026</DateDesignated>
+    <UniqueID>AQD0389</UniqueID>
+    <UNReferenceNumber>QDi.437</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>SAMI </Name1>
+        <Name2>JASIM</Name2>
+        <Name3>MUHAMMAD </Name3>
+        <Name4>JAATA</Name4>
+        <Name6>AL-JABURI</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Sami</Name1>
+        <Name6>al-Ajuz</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name1>Mustafa</Name1>
+        <Name2>Adnan</Name2>
+        <Name6>al-Aziz</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+      <Name>
+        <Name6>Hamid</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Low quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>ﺳﺎﻣﻲ ﺟﺎﺳم ﻣﺣﻣد ﺟﻌﺎطﺔ اﻟﺟﺑوري </NameNonLatinScript>
+        <NonLatinScriptType>Arabic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Arabic</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <Titles>
+      <Title>Hajji</Title>
+    </Titles>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Assumed multiples roles within ISIL (Da’esh) listed as Al-Qaida in Iraq (QDe.115), including overseeing ISIL’s finances, material affairs and sources of revenue. He was also a member of the so-called Delegated Committee, which is the decision-making body of ISIL (Da’esh). He also participated in several terrorist operations against security forces while ISIL was controlling territory and was involved in the smuggling of oil derivates. Mother’s name: A’ishah Hasan. Gender: Male, Physical description: eye colour: black; hair colour: black; Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.</OtherInformation>
+    <Addresses>
+      <Address>
+        <AddressCountry>Iraq</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>01/07/1974</DOB>
+          <DOB>01/01/1973</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Iraq</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>9080002892</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>National Identification card issued by the Syrian Arab Republic, mother’s name Dahiyah al-Mulhim, DOB: 1 Jan. 1973, POB: Albu Kamal, Syria</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>4118 </NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Turkish Residency Card issued on 15 Jan. 2019</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>Iraq</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Albu Kamal</TownOfBirth>
+            <CountryOfBirth>Syria</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>27/03/2026</LastUpdated>
+    <DateDesignated>27/03/2026</DateDesignated>
+    <UniqueID>AQD0390</UniqueID>
+    <UNReferenceNumber>QDi.438</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name1>ABD EL HAMID</Name1>
+        <Name2>SALIM</Name2>
+        <Name3>IBRAHIM </Name3>
+        <Name4>BRUKAN</Name4>
+        <Name6>AL-KHATOUNI</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>ABU OMAR </Name1>
+        <Name6>AL SARRAF</Name6>
+        <NameType>Alias</NameType>
+        <AliasStrength>Good quality a.k.a</AliasStrength>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>عبد الحميد سالم إبراهيم بروكان الخاتوني</NameNonLatinScript>
+        <NonLatinScriptType>Arabic</NonLatinScriptType>
+      </NonLatinName>
+      <NonLatinName>
+        <NonLatinScriptType>Arabic</NonLatinScriptType>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>true</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Served as a senior leader in ISIL (Da’esh) listed as Al-Qaida in Iraq (QDe.115) as its financial management officer. Mother’s name: Khadija Hattab Ismail. Gender: Male. INTERPOL-UN Security Council Special Notice web link:  https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.</OtherInformation>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>01/09/1970</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Iraq</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>Iraq</CountryOfBirth>
           </Location>
         </BirthDetails>
       </Individual>
@@ -113201,12 +113376,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Cambodia</Nationality>
           <Nationality>China</Nationality>
+          <Nationality>Cambodia</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Director of Tian Xu International Technology Plc  </Position>
           <Position>Director of U-Life KH Super App Company Limited </Position>
+          <Position>Director of Tian Xu International Technology Plc  </Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -113438,12 +113613,12 @@ compulsory labour.
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>St Kitts and Nevis</Nationality>
-          <Nationality>Cyprus</Nationality>
-          <Nationality>St Lucia</Nationality>
           <Nationality>Vanuatu</Nationality>
           <Nationality>China</Nationality>
           <Nationality>Cambodia</Nationality>
+          <Nationality>Cyprus</Nationality>
+          <Nationality>St Lucia</Nationality>
+          <Nationality>St Kitts and Nevis</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -113571,19 +113746,19 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>HJ2068539</PassportNumber>
-            <PassportAdditionalInformation>China</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>RE00660066</PassportNumber>
             <PassportAdditionalInformation>St Kitts and Nevis</PassportAdditionalInformation>
           </Passport>
+          <Passport>
+            <PassportNumber>HJ2068539</PassportNumber>
+            <PassportAdditionalInformation>China</PassportAdditionalInformation>
+          </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Cambodia</Nationality>
+          <Nationality>St Kitts and Nevis</Nationality>
           <Nationality>China</Nationality>
           <Nationality>Cyprus</Nationality>
-          <Nationality>St Kitts and Nevis</Nationality>
+          <Nationality>Cambodia</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
