@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>31/03/2026</DateGenerated>
+  <DateGenerated>14/04/2026</DateGenerated>
   <Designation>
     <LastUpdated>12/01/2022</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -768,7 +768,7 @@
     </Addresses>
   </Designation>
   <Designation>
-    <LastUpdated>13/03/2026</LastUpdated>
+    <LastUpdated>14/04/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0006</UniqueID>
     <OFSIGroupID>7172</OFSIGroupID>
@@ -811,7 +811,7 @@
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
-    <OtherInformation>A close associate of Mullah Mohammed Omar (TAi.004). Member of Taliban Supreme Council as at Dec. 2009. Belongs to Kakar tribe. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/ Notices/View-UN-Notices-Individuals click here</OtherInformation>
+    <OtherInformation>A close associate of Mullah Mohammed Omar (TAi.004). Member of Taliban Supreme Council as at Dec. 2009. Belongs to Baabar tribe. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/ Notices/View-UN-Notices-Individuals click here</OtherInformation>
     <UKStatementofReasons>
 </UKStatementofReasons>
     <Addresses>
@@ -830,9 +830,9 @@
           <DOB>dd/mm/1949</DOB>
           <DOB>dd/mm/1950</DOB>
           <DOB>dd/mm/1955</DOB>
+          <DOB>dd/mm/1958</DOB>
           <DOB>dd/mm/1956</DOB>
           <DOB>dd/mm/1957</DOB>
-          <DOB>dd/mm/1958</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -2421,7 +2421,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>13/03/2026</LastUpdated>
+    <LastUpdated>14/04/2026</LastUpdated>
     <DateDesignated>23/02/2001</DateDesignated>
     <UniqueID>AFG0024</UniqueID>
     <OFSIGroupID>7060</OFSIGroupID>
@@ -2476,7 +2476,7 @@
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
-    <OtherInformation>Belongs to Popalzai tribe. Senior Taliban military commander and member of Taliban Quetta Council as of May 2007. Height 173cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals click here</OtherInformation>
+    <OtherInformation>Belongs to Popalzai tribe. Height 173cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals click here</OtherInformation>
     <UKStatementofReasons>
 </UKStatementofReasons>
     <Addresses>
@@ -2488,17 +2488,17 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1968</DOB>
           <DOB>29/09/1963</DOB>
+          <DOB>dd/mm/1968</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
             <PassportNumber>D0009751</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009751, issued on 16 Oct. 2021, issued in Kabul, Afghanistan  (expires 16 Oct. 2026)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number P04999950, issued on 4 Feb. 2025 (expires 4 Feb. 2035)</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>D0009751</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number P04999950, issued on 4 Feb. 2025 (expires 4 Feb. 2035)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009751, issued on 16 Oct. 2021, issued in Kabul, Afghanistan  (expires 16 Oct. 2026)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -2599,7 +2599,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>13/03/2026</LastUpdated>
+    <LastUpdated>14/04/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0026</UniqueID>
     <OFSIGroupID>7307</OFSIGroupID>
@@ -2660,28 +2660,32 @@
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
-    <OtherInformation>Member of the Taliban Supreme Council as of June 2007.  Belongs to Sulaimankhel tribe. Height 170 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UNNotices-Individuals click here</OtherInformation>
+    <OtherInformation>Member of the Taliban Supreme Council as of June 2007.  Belongs to Sulaimankhel tribe. Height 170 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UNNotices-Individuals click here</OtherInformation>
     <UKStatementofReasons>
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Kabul</AddressLine6>
+        <AddressLine1>Kabul</AddressLine1>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Kabul</AddressLine1>
+        <AddressLine6>Kabul</AddressLine6>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>1971</DOB>
           <DOB>dd/mm/1968</DOB>
           <DOB>25/12/1970</DOB>
           <DOB>1971</DOB>
-          <DOB>1971</DOB>
         </DOBs>
         <PassportDetails>
+          <Passport>
+            <PassportNumber>D0009803</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
+          </Passport>
           <Passport>
             <PassportNumber>D0009716</PassportNumber>
             <PassportAdditionalInformation>Afghanistan  diplomatic passport issued on 25 Sep. 2021, issued in Kabul, Afghanistan (Name in Latin  script: Amir Khan Mutaqi, name in original script: متقي امیرخان ; expires 25 Sep. 2026)</PassportAdditionalInformation>
@@ -2689,10 +2693,6 @@
           <Passport>
             <PassportNumber> D0009803</PassportNumber>
             <PassportAdditionalInformation>Afghanistan  diplomatic passport issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>D0009803</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -4317,8 +4317,8 @@
         <DOBs>
           <DOB>dd/mm/1963</DOB>
           <DOB>1956</DOB>
-          <DOB>30/07/1969</DOB>
           <DOB>1955</DOB>
+          <DOB>30/07/1969</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -7655,8 +7655,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>18/09/1963</DOB>
           <DOB>dd/mm/1958</DOB>
+          <DOB>18/09/1963</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -7675,11 +7675,11 @@
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Tarakhel area, Deh Sabz District, Kabul Province</TownOfBirth>
+            <TownOfBirth>Bagrami District, Kabul Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Bagrami District, Kabul Province</TownOfBirth>
+            <TownOfBirth>Tarakhel area, Deh Sabz District, Kabul Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -9817,7 +9817,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>14/04/2026</LastUpdated>
     <DateDesignated>20/07/2010</DateDesignated>
     <UniqueID>AFG0115</UniqueID>
     <OFSIGroupID>11207</OFSIGroupID>
@@ -9901,7 +9901,7 @@
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
-    <OtherInformation>Member of a Taliban Council that coordinates the collection of zakat (Islamic tax) from Baluchistan Province, Pakistan. Head of Taliban Financial Commission as at mid-2013. Associated with Mullah Mohammed Omar (TAi.004). Served as Omar's principal finance officer and one of his closest advisors. Belongs to Ishaqzai tribe. Height 156cm. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UNNotices-Individuals click here</OtherInformation>
+    <OtherInformation>Head of Taliban Financial Commission as at mid-2013. Associated with Mullah Mohammed Omar (TAi.004). Served as Omar's principal finance officer and one of his closest advisors. Belongs to Ishaqzai tribe. Height 156cm. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UNNotices-Individuals click here</OtherInformation>
     <UKStatementofReasons>
 </UKStatementofReasons>
     <Addresses>
@@ -10198,7 +10198,11 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Peshawar</AddressLine6>
+        <AddressLine1>Near Dergey Manday Madrasa</AddressLine1>
+        <AddressLine2>Dergey Manday Village</AddressLine2>
+        <AddressLine3>near Miram Shah</AddressLine3>
+        <AddressLine5>North Waziristan Agency (NWA)</AddressLine5>
+        <AddressLine6>Federally Administered Tribal Areas (FATA)</AddressLine6>
         <AddressCountry>Pakistan</AddressCountry>
       </Address>
       <Address>
@@ -10209,30 +10213,26 @@
         <AddressCountry>Pakistan</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Near Dergey Manday Madrasa</AddressLine1>
-        <AddressLine2>Dergey Manday Village</AddressLine2>
-        <AddressLine3>near Miram Shah</AddressLine3>
-        <AddressLine5>North Waziristan Agency (NWA)</AddressLine5>
-        <AddressLine6>Federally Administered Tribal Areas (FATA)</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Sarana Zadran Village</AddressLine1>
         <AddressLine6>Paktia Province</AddressLine6>
         <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine6>Peshawar</AddressLine6>
+        <AddressCountry>Pakistan</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>01/01/1966</DOB>
-          <DOB>dd/mm/1958</DOB>
           <DOB>dd/mm/1964</DOB>
-          <DOB>dd/mm/1959</DOB>
           <DOB>dd/mm/1960</DOB>
           <DOB>dd/mm/1961</DOB>
           <DOB>dd/mm/1962</DOB>
           <DOB>dd/mm/1963</DOB>
+          <DOB>01/01/1966</DOB>
+          <DOB>dd/mm/1958</DOB>
+          <DOB>dd/mm/1959</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -44148,20 +44148,20 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>01/07/1974</DOB>
           <DOB>01/01/1973</DOB>
+          <DOB>01/07/1974</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Iraq</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>9080002892</NationalIdentifierNumber>
-            <NationalIdentifierAdditionalInformation>National Identification card issued by the Syrian Arab Republic, mother’s name Dahiyah al-Mulhim, DOB: 1 Jan. 1973, POB: Albu Kamal, Syria</NationalIdentifierAdditionalInformation>
-          </NationalIdentifier>
-          <NationalIdentifier>
             <NationalIdentifierNumber>4118 </NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Turkish Residency Card issued on 15 Jan. 2019</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>9080002892</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>National Identification card issued by the Syrian Arab Republic, mother’s name Dahiyah al-Mulhim, DOB: 1 Jan. 1973, POB: Albu Kamal, Syria</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Genders>
@@ -44169,11 +44169,11 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
         </Genders>
         <BirthDetails>
           <Location>
-            <CountryOfBirth>Iraq</CountryOfBirth>
-          </Location>
-          <Location>
             <TownOfBirth>Albu Kamal</TownOfBirth>
             <CountryOfBirth>Syria</CountryOfBirth>
+          </Location>
+          <Location>
+            <CountryOfBirth>Iraq</CountryOfBirth>
           </Location>
         </BirthDetails>
       </Individual>
@@ -113262,7 +113262,7 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>26/03/2026</LastUpdated>
+    <LastUpdated>14/04/2026</LastUpdated>
     <DateDesignated>26/03/2026</DateDesignated>
     <UniqueID>GHR0182</UniqueID>
     <Names>
@@ -113273,7 +113273,7 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Names>
     <NonLatinNames>
       <NonLatinName>
-        <NameNonLatinScript>គ្រឹះស្ថាន ធានសូ៊ាអ ិនខេើខណ្សិនណ្ល ខថកណ្ឡជីម.ក </NameNonLatinScript>
+        <NameNonLatinScript>ធាន ស៊ូ អ៊ិនធើណេសិនណល ថេកណឡជី ម.ក.</NameNonLatinScript>
         <NonLatinScriptType>Khmer</NonLatinScriptType>
         <NonLatinScriptLanguage>Central Khmer</NonLatinScriptLanguage>
       </NonLatinName>
@@ -113314,7 +113314,6 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+855 81 681 074 </PhoneNumber>
       <PhoneNumber>+855 23 988 777 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
@@ -113458,12 +113457,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>China</Nationality>
           <Nationality>Cambodia</Nationality>
+          <Nationality>China</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Director of U-Life KH Super App Company Limited </Position>
           <Position>Director of Tian Xu International Technology Plc  </Position>
+          <Position>Director of U-Life KH Super App Company Limited </Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -113839,8 +113838,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         <Nationalities>
           <Nationality>St Kitts and Nevis</Nationality>
           <Nationality>China</Nationality>
-          <Nationality>Cyprus</Nationality>
           <Nationality>Cambodia</Nationality>
+          <Nationality>Cyprus</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
