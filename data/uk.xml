@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>14/04/2026</DateGenerated>
+  <DateGenerated>16/04/2026</DateGenerated>
   <Designation>
-    <LastUpdated>12/01/2022</LastUpdated>
+    <LastUpdated>16/04/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
     <UniqueID>AFG0001</UniqueID>
     <OFSIGroupID>12703</OFSIGroupID>
@@ -71,39 +71,10 @@
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
-    <OtherInformation>Pakistan National Tax Number: 1774308; Pakistan National Tax Number: 0980338; Pakistan National Tax Number: 3187777; Afghan Money Service Provider License Number: 044. Haji Khairullah Haji Sattar Money Exchange was used by Taliban leadership to transfer money to Taliban commanders to fund fighters and operations in Afghanistan as of 2011. Active in Kunar Province and is one of the main sources from which Al-Qaida has been receiving financial transfers for 25 years. Associated with Abdul Sattar Abdul Manan (TAi.162) and Khairullah Barakzai Khudai Nazar (TAi.163). INTERPOLUN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-NoticesEntities click here</OtherInformation>
+    <OtherInformation>Afghan Money Service Provider License Number: 044. Haji Khairullah Haji Sattar Money Exchange was used by Taliban leadership to transfer money to Taliban commanders to fund fighters and operations in Afghanistan as of 2011. Active in Kunar Province. Associated with Abdul Sattar Abdul Manan (TAi.162) and Khairullah Barakzai Khudai Nazar (TAi.163). INTERPOL-UN Security Council Special Notice web link:  https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.</OtherInformation>
     <UKStatementofReasons>
 </UKStatementofReasons>
     <Addresses>
-      <Address>
-        <AddressLine1>Branch Office 7</AddressLine1>
-        <AddressLine2>Shop numbers 21 and 22, 2nd Floor</AddressLine2>
-        <AddressLine3>Kandahar City Sarafi Market</AddressLine3>
-        <AddressLine5>Kandahar City</AddressLine5>
-        <AddressLine6>Kandahar Province</AddressLine6>
-        <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Branch Office 8</AddressLine1>
-        <AddressLine2>Gereshk City</AddressLine2>
-        <AddressLine3>Nahr-e Saraj District</AddressLine3>
-        <AddressLine6>Helmand Province</AddressLine6>
-        <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Branch Office 9</AddressLine1>
-        <AddressLine2>Lashkar Gah Bazaar</AddressLine2>
-        <AddressLine3>Lashkar Gah</AddressLine3>
-        <AddressLine4>Lashkar Gah District</AddressLine4>
-        <AddressLine6>Helmand Province</AddressLine6>
-        <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Wazir Mohammad Road</AddressLine1>
-        <AddressLine5>Quetta</AddressLine5>
-        <AddressLine6>Baluchistan Province</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
       <Address>
         <AddressLine1>Ansari Market, 2nd Floor</AddressLine1>
         <AddressLine6>Nimroz Province</AddressLine6>
@@ -123,97 +94,6 @@
         <AddressLine5>Zaranj District</AddressLine5>
         <AddressLine6>Nimroz Province</AddressLine6>
         <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Branch Office 4</AddressLine1>
-        <AddressLine5>Karachi</AddressLine5>
-        <AddressLine6>Sindh Province</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Branch Office 5</AddressLine1>
-        <AddressLine2>Larran Road number 2</AddressLine2>
-        <AddressLine3>Chaman</AddressLine3>
-        <AddressLine6>Baluchistan Province</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Branch Office 6</AddressLine1>
-        <AddressLine2>Shop number 237</AddressLine2>
-        <AddressLine3>Shah Zada Market (also known as Sarai Shahzada)</AddressLine3>
-        <AddressLine4>Puli Khishti area</AddressLine4>
-        <AddressLine5>Police District 1</AddressLine5>
-        <AddressLine6>Kabul</AddressLine6>
-        <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Room number 1</AddressLine1>
-        <AddressLine2>Abdul Sattar Plaza</AddressLine2>
-        <AddressLine3>Hafiz Saleem Street</AddressLine3>
-        <AddressLine4>Munsafi Road</AddressLine4>
-        <AddressLine5>Quetta</AddressLine5>
-        <AddressLine6>Baluchistan Province</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Safi Market</AddressLine1>
-        <AddressLine5>Kandahar City</AddressLine5>
-        <AddressLine6>Kandahar Province</AddressLine6>
-        <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Shop number 3</AddressLine1>
-        <AddressLine2>Dr. Bano Road</AddressLine2>
-        <AddressLine5>Quetta</AddressLine5>
-        <AddressLine6>Baluchistan Province</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Branch Office 16</AddressLine1>
-        <AddressLine6>Zabul</AddressLine6>
-        <AddressCountry>Iran</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Branch Office 2</AddressLine1>
-        <AddressLine5>Peshawar</AddressLine5>
-        <AddressLine6>Khyber Paktunkhwa Province</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Branch Office 3</AddressLine1>
-        <AddressLine2>Moishah Chowk Road</AddressLine2>
-        <AddressLine5>Lahore</AddressLine5>
-        <AddressLine6>Punjab Province</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Kachara Road</AddressLine1>
-        <AddressLine2>Nasrullah Khan Chowk</AddressLine2>
-        <AddressLine5>Quetta</AddressLine5>
-        <AddressLine6>Baluchistan Province</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Khorasan Market</AddressLine1>
-        <AddressLine2>Shahre Naw</AddressLine2>
-        <AddressLine3>District 5</AddressLine3>
-        <AddressLine5>Herat City</AddressLine5>
-        <AddressLine6>Herat Province</AddressLine6>
-        <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>New Sarafi Market, 2nd Floor</AddressLine1>
-        <AddressLine5>Kandahar City</AddressLine5>
-        <AddressLine6>Kandahar Province</AddressLine6>
-        <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Office number 3</AddressLine1>
-        <AddressLine2>Near Fatima Jinnah Road</AddressLine2>
-        <AddressLine3>Dr. Bano Road</AddressLine3>
-        <AddressLine5>Quetta</AddressLine5>
-        <AddressLine6>Baluchistan Province</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
       </Address>
       <Address>
         <AddressLine1>Branch Office 12</AddressLine1>
@@ -239,18 +119,41 @@
         <AddressCountry>Iran</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Chaman Central Bazaar</AddressLine1>
-        <AddressLine2>Chaman</AddressLine2>
-        <AddressLine3>Shah Zada Market (also known as Sarai Shahzada)</AddressLine3>
-        <AddressLine6>Baluchistan Province</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
+        <AddressLine1>Branch Office 16</AddressLine1>
+        <AddressLine6>Zabul</AddressLine6>
+        <AddressCountry>Iran</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Chohar Mir Road</AddressLine1>
-        <AddressLine2>Kandahari Bazaar</AddressLine2>
-        <AddressLine5>Quetta City</AddressLine5>
-        <AddressLine6>Baluchistan Province</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
+        <AddressLine1>Branch Office 6</AddressLine1>
+        <AddressLine2>Shop number 237</AddressLine2>
+        <AddressLine3>Shah Zada Market (also known as Sarai Shahzada)</AddressLine3>
+        <AddressLine4>Puli Khishti area</AddressLine4>
+        <AddressLine5>Police District 1</AddressLine5>
+        <AddressLine6>Kabul</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 7</AddressLine1>
+        <AddressLine2>Shop numbers 21 and 22, 2nd Floor</AddressLine2>
+        <AddressLine3>Kandahar City Sarafi Market</AddressLine3>
+        <AddressLine5>Kandahar City</AddressLine5>
+        <AddressLine6>Kandahar Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 8</AddressLine1>
+        <AddressLine2>Gereshk City</AddressLine2>
+        <AddressLine3>Nahr-e Saraj District</AddressLine3>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Branch Office 9</AddressLine1>
+        <AddressLine2>Lashkar Gah Bazaar</AddressLine2>
+        <AddressLine3>Lashkar Gah</AddressLine3>
+        <AddressLine4>Lashkar Gah District</AddressLine4>
+        <AddressLine6>Helmand Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
       </Address>
       <Address>
         <AddressLine1>Haji Ghulam Nabi Market, 2nd Floor</AddressLine1>
@@ -258,13 +161,33 @@
         <AddressLine6>Helmand Province</AddressLine6>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
+      <Address>
+        <AddressLine1>Khorasan Market</AddressLine1>
+        <AddressLine2>Shahre Naw</AddressLine2>
+        <AddressLine3>District 5</AddressLine3>
+        <AddressLine5>Herat City</AddressLine5>
+        <AddressLine6>Herat Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>New Sarafi Market, 2nd Floor</AddressLine1>
+        <AddressLine5>Kandahar City</AddressLine5>
+        <AddressLine6>Kandahar Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Safi Market</AddressLine1>
+        <AddressLine5>Kandahar City</AddressLine5>
+        <AddressLine6>Kandahar Province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>-103495</PhoneNumber>
       <PhoneNumber>-101823</PhoneNumber>
       <PhoneNumber>-222831</PhoneNumber>
-      <PhoneNumber>-103495</PhoneNumber>
-      <PhoneNumber>-59763</PhoneNumber>
       <PhoneNumber>0202-104748</PhoneNumber>
+      <PhoneNumber>-59763</PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
       <EmailAddress>helmand_exchange_msp@yahoo.com</EmailAddress>
@@ -823,6 +746,7 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>dd/mm/1957</DOB>
           <DOB>dd/mm/1945</DOB>
           <DOB>dd/mm/1946</DOB>
           <DOB>dd/mm/1947</DOB>
@@ -830,9 +754,8 @@
           <DOB>dd/mm/1949</DOB>
           <DOB>dd/mm/1950</DOB>
           <DOB>dd/mm/1955</DOB>
-          <DOB>dd/mm/1958</DOB>
           <DOB>dd/mm/1956</DOB>
-          <DOB>dd/mm/1957</DOB>
+          <DOB>dd/mm/1958</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -2488,17 +2411,17 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>29/09/1963</DOB>
           <DOB>dd/mm/1968</DOB>
+          <DOB>29/09/1963</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
             <PassportNumber>D0009751</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number P04999950, issued on 4 Feb. 2025 (expires 4 Feb. 2035)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009751, issued on 16 Oct. 2021, issued in Kabul, Afghanistan  (expires 16 Oct. 2026)</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>D0009751</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009751, issued on 16 Oct. 2021, issued in Kabul, Afghanistan  (expires 16 Oct. 2026)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number P04999950, issued on 4 Feb. 2025 (expires 4 Feb. 2035)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -2665,27 +2588,23 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Kabul</AddressLine1>
+        <AddressLine6>Kabul</AddressLine6>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
       <Address>
-        <AddressLine6>Kabul</AddressLine6>
+        <AddressLine1>Kabul</AddressLine1>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>1971</DOB>
           <DOB>dd/mm/1968</DOB>
           <DOB>25/12/1970</DOB>
           <DOB>1971</DOB>
+          <DOB>1971</DOB>
         </DOBs>
         <PassportDetails>
-          <Passport>
-            <PassportNumber>D0009803</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
-          </Passport>
           <Passport>
             <PassportNumber>D0009716</PassportNumber>
             <PassportAdditionalInformation>Afghanistan  diplomatic passport issued on 25 Sep. 2021, issued in Kabul, Afghanistan (Name in Latin  script: Amir Khan Mutaqi, name in original script: متقي امیرخان ; expires 25 Sep. 2026)</PassportAdditionalInformation>
@@ -2693,6 +2612,10 @@
           <Passport>
             <PassportNumber> D0009803</PassportNumber>
             <PassportAdditionalInformation>Afghanistan  diplomatic passport issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>D0009803</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -3364,8 +3287,8 @@
       <Individual>
         <DOBs>
           <DOB>dd/mm/1960</DOB>
-          <DOB>dd/mm/1961</DOB>
           <DOB>01/01/1967</DOB>
+          <DOB>dd/mm/1961</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -3378,8 +3301,8 @@
         </Nationalities>
         <Positions>
           <Position>Governor of Khost and Paktika provinces under the Taliban regime  (1996-2001)</Position>
-          <Position>Consular Department, Ministry of Foreign Affairs under the Taliban regime (1996- 2001)</Position>
           <Position>Vice-Minister of Information and  Culture under the Taliban regime (1996-2001) </Position>
+          <Position>Consular Department, Ministry of Foreign Affairs under the Taliban regime (1996- 2001)</Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -4317,8 +4240,8 @@
         <DOBs>
           <DOB>dd/mm/1963</DOB>
           <DOB>1956</DOB>
-          <DOB>1955</DOB>
           <DOB>30/07/1969</DOB>
+          <DOB>1955</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -10130,7 +10053,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>11/03/2026</LastUpdated>
+    <LastUpdated>16/04/2026</LastUpdated>
     <DateDesignated>09/02/2011</DateDesignated>
     <UniqueID>AFG0118</UniqueID>
     <OFSIGroupID>11633</OFSIGroupID>
@@ -10193,46 +10116,27 @@
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
-    <OtherInformation>Senior member of the Haqqani Network (TAe.012), which operates out of North Waziristan in the Federally Administered Tribal Areas of Pakistan. Has previously traveled to, and raised funds in, Dubai, United Arab Emirates. Brother of Jalaluddin Haqqani (TAi.040) and uncle of Sirajuddin Jallaloudine Haqqani (TAi.144). Reportedly deceased as of 2024. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/ Notices/View-UN-Notices-Individuals click here</OtherInformation>
+    <OtherInformation>Has previously travelled to, and raised funds in, Dubai, United Arab Emirates. Brother of Jalaluddin Haqqani (TAi.040) and uncle of Sirajuddin Jallaloudine Haqqani (TAi.144). Reportedly deceased as of 11 December 2024. INTERPOL-UN Security Council Special Notice weblink:  https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.</OtherInformation>
     <UKStatementofReasons>
 </UKStatementofReasons>
     <Addresses>
-      <Address>
-        <AddressLine1>Near Dergey Manday Madrasa</AddressLine1>
-        <AddressLine2>Dergey Manday Village</AddressLine2>
-        <AddressLine3>near Miram Shah</AddressLine3>
-        <AddressLine5>North Waziristan Agency (NWA)</AddressLine5>
-        <AddressLine6>Federally Administered Tribal Areas (FATA)</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Kayla Village</AddressLine1>
-        <AddressLine2>near Miram Shah</AddressLine2>
-        <AddressLine5>North Waziristan Agency (NWA),</AddressLine5>
-        <AddressLine6>Federally Administered Tribal Areas (FATA)</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
       <Address>
         <AddressLine1>Sarana Zadran Village</AddressLine1>
         <AddressLine6>Paktia Province</AddressLine6>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
-      <Address>
-        <AddressLine6>Peshawar</AddressLine6>
-        <AddressCountry>Pakistan</AddressCountry>
-      </Address>
     </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1964</DOB>
+          <DOB>01/01/1966</DOB>
+          <DOB>dd/mm/1958</DOB>
+          <DOB>dd/mm/1959</DOB>
           <DOB>dd/mm/1960</DOB>
           <DOB>dd/mm/1961</DOB>
           <DOB>dd/mm/1962</DOB>
           <DOB>dd/mm/1963</DOB>
-          <DOB>01/01/1966</DOB>
-          <DOB>dd/mm/1958</DOB>
-          <DOB>dd/mm/1959</DOB>
+          <DOB>dd/mm/1964</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -10476,25 +10380,25 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Kalay Rangin</AddressLine1>
-        <AddressLine2>Spin Boldak District</AddressLine2>
-        <AddressLine6>Kandahar province</AddressLine6>
-        <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Boghra Road</AddressLine1>
         <AddressLine2>Miralzei Village</AddressLine2>
         <AddressLine3>Chaman</AddressLine3>
         <AddressLine6>Baluchistan Province</AddressLine6>
         <AddressCountry>Pakistan</AddressCountry>
       </Address>
+      <Address>
+        <AddressLine1>Kalay Rangin</AddressLine1>
+        <AddressLine2>Spin Boldak District</AddressLine2>
+        <AddressLine6>Kandahar province</AddressLine6>
+        <AddressCountry>Afghanistan</AddressCountry>
+      </Address>
     </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>01/01/1963</DOB>
           <DOB>dd/mm/1957</DOB>
           <DOB>dd/mm/1960</DOB>
+          <DOB>01/01/1963</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -11348,7 +11252,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>18/12/2021</LastUpdated>
+    <LastUpdated>16/04/2026</LastUpdated>
     <DateDesignated>05/11/2012</DateDesignated>
     <UniqueID>AFG0130</UniqueID>
     <OFSIGroupID>12810</OFSIGroupID>
@@ -11395,15 +11299,15 @@
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
-    <OtherInformation>Chief of suicide operations for the Haqqani Network (TAe.012) under Sirajuddin Jallaloudine Haqqani (TAi.144) and in charge of all operations in Kabul, Takhar, Kunduz and Baghlan provinces. Oversees training of suicide attackers and provides instructions on how to construct improvised explosives devices (IEDs). Reportedly deceased. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals click here</OtherInformation>
+    <OtherInformation>Chief of suicide operations for the Haqqani Network (TAe.012) under Sirajuddin Jallaloudine Haqqani (TAi.144) and in charge of all operations in Kabul, Takhar, Kunduz and Baghlan provinces. Oversees training of suicide attackers and provides instructions on how to construct improvised explosives devices (IEDs). Reportedly deceased as of 22 September 2018. INTERPOL-UN Security Council Special Notice weblink:  https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.</OtherInformation>
     <UKStatementofReasons>
 </UKStatementofReasons>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1971</DOB>
           <DOB>dd/mm/1969</DOB>
           <DOB>dd/mm/1970</DOB>
+          <DOB>dd/mm/1971</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -17464,13 +17368,13 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressCountry>United Arab Emirates</AddressCountry>
+        <AddressCountry>Afghanistan</AddressCountry>
       </Address>
       <Address>
         <AddressCountry>Kuwait</AddressCountry>
       </Address>
       <Address>
-        <AddressCountry>Afghanistan</AddressCountry>
+        <AddressCountry>United Arab Emirates</AddressCountry>
       </Address>
     </Addresses>
   </Designation>
@@ -24328,8 +24232,8 @@ Address: Reportedly located in Waziristan, Federally Administered Tribal Areas, 
           <DOB>01/08/1983</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>France</Nationality>
           <Nationality>Tunisia</Nationality>
+          <Nationality>France</Nationality>
         </Nationalities>
         <BirthDetails>
           <Location>
@@ -28416,8 +28320,8 @@ the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Sp
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>18/04/1982</DOB>
           <DOB>19/04/1982</DOB>
+          <DOB>18/04/1982</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -28996,11 +28900,11 @@ Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Lanao del Sur</AddressLine6>
+        <AddressLine6>Basilan, previous location until 2016</AddressLine6>
         <AddressCountry>Philippines</AddressCountry>
       </Address>
       <Address>
-        <AddressLine6>Basilan, previous location until 2016</AddressLine6>
+        <AddressLine6>Lanao del Sur</AddressLine6>
         <AddressCountry>Philippines</AddressCountry>
       </Address>
     </Addresses>
@@ -44148,20 +44052,20 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>01/01/1973</DOB>
           <DOB>01/07/1974</DOB>
+          <DOB>01/01/1973</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Iraq</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>4118 </NationalIdentifierNumber>
-            <NationalIdentifierAdditionalInformation>Turkish Residency Card issued on 15 Jan. 2019</NationalIdentifierAdditionalInformation>
-          </NationalIdentifier>
-          <NationalIdentifier>
             <NationalIdentifierNumber>9080002892</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>National Identification card issued by the Syrian Arab Republic, mother’s name Dahiyah al-Mulhim, DOB: 1 Jan. 1973, POB: Albu Kamal, Syria</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>4118 </NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Turkish Residency Card issued on 15 Jan. 2019</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Genders>
@@ -44169,11 +44073,11 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Albu Kamal</TownOfBirth>
-            <CountryOfBirth>Syria</CountryOfBirth>
+            <CountryOfBirth>Iraq</CountryOfBirth>
           </Location>
           <Location>
-            <CountryOfBirth>Iraq</CountryOfBirth>
+            <TownOfBirth>Albu Kamal</TownOfBirth>
+            <CountryOfBirth>Syria</CountryOfBirth>
           </Location>
         </BirthDetails>
       </Individual>
@@ -113328,7 +113232,7 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </EntityDetails>
   </Designation>
   <Designation>
-    <LastUpdated>26/03/2026</LastUpdated>
+    <LastUpdated>16/04/2026</LastUpdated>
     <DateDesignated>26/03/2026</DateDesignated>
     <UniqueID>GHR0183</UniqueID>
     <Names>
@@ -113374,9 +113278,6 @@ compulsory labour.
         <AddressCountry>Cambodia</AddressCountry>
       </Address>
     </Addresses>
-    <PhoneNumbers>
-      <PhoneNumber>+855 81 681 074 </PhoneNumber>
-    </PhoneNumbers>
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
@@ -113837,8 +113738,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </PassportDetails>
         <Nationalities>
           <Nationality>St Kitts and Nevis</Nationality>
-          <Nationality>China</Nationality>
           <Nationality>Cambodia</Nationality>
+          <Nationality>China</Nationality>
           <Nationality>Cyprus</Nationality>
         </Nationalities>
         <Genders>
@@ -360848,8 +360749,8 @@ JSC BBR BANK is or has been obtaining a benefit from or supporting the Governmen
           <BusinessRegistrationNumber>BIK (RU): 044525769 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN: 3900001002 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP: 770401001 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>SWIFT CODE: BADJRUMM </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -374544,8 +374445,8 @@ The Secretary of State has reasonable grounds to suspect that LLC MACHINE-BUILDI
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 6671290740</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1236600076569</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 6671290740</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -376938,10 +376839,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
+      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
       <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
       <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
-      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
+      <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://tochka.com</Website>
@@ -377282,20 +377183,20 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8(800)1000 600</PhoneNumber>
+      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
       <PhoneNumber>8(343)355 75 75</PhoneNumber>
       <PhoneNumber>8(495)771 70 95</PhoneNumber>
-      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
+      <PhoneNumber>8(800)1000 600</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>http://sinara.ru</Website>
       <Website>http://www.sinara.ru</Website>
+      <Website>http://sinara.ru</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>clients@skbbank.ru</EmailAddress>
+      <EmailAddress>orders@delo.ru</EmailAddress>
       <EmailAddress>digital@sinara.ru</EmailAddress>
       <EmailAddress>orders@sinara.ru</EmailAddress>
-      <EmailAddress>orders@delo.ru</EmailAddress>
+      <EmailAddress>clients@skbbank.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -377384,12 +377285,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Minority shareholder of DALIAN UNITECH TRADING CO., LTD.</Position>
-          <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of LLC NATSPROMKOMPLEKT</Position>
           <Position>Co-owner of LLC NATSPROMRESURS</Position>
           <Position>President of LLC UNIMATIC</Position>
           <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
+          <Position>Minority shareholder of DALIAN UNITECH TRADING CO., LTD.</Position>
+          <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -377476,12 +377377,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
+          <Position>Owner of LLC 2D6</Position>
+          <Position>Owner of LLC GRAVITAL</Position>
           <Position>Owner of LLC UNIMATIC</Position>
           <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>Owner of LLC HUSTLE SHIFT</Position>
-          <Position>Owner of LLC 2D6</Position>
-          <Position>Owner of LLC GRAVITAL</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -377690,20 +377591,20 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>+86 755-29874501</PhoneNumber>
+      <PhoneNumber>+86 0755-29874500</PhoneNumber>
       <PhoneNumber>+86 512-36825901</PhoneNumber>
       <PhoneNumber>+86 755- 23405269</PhoneNumber>
       <PhoneNumber>+86 755- 27175156</PhoneNumber>
-      <PhoneNumber>+86 755-29874501</PhoneNumber>
-      <PhoneNumber>+86 0755-29874500</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>http://www.sowin-ks.com/</Website>
       <Website>https://www.sowincnc.com/</Website>
+      <Website>http://www.sowin-ks.com/</Website>
     </Websites>
     <EmailAddresses>
+      <EmailAddress>market@sowincnc.com</EmailAddress>
       <EmailAddress>hr@sowincnc.com</EmailAddress>
       <EmailAddress>overseas@sowincnc.com</EmailAddress>
-      <EmailAddress>market@sowincnc.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -377768,16 +377669,16 @@ is an &amp;quot;involved person&amp;quot; under the Russian (Sanctions) (EU Exit
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>+86-0517-88297770</PhoneNumber>
       <PhoneNumber>18260406767</PhoneNumber>
       <PhoneNumber>+86-0517-88297588</PhoneNumber>
-      <PhoneNumber>+86-0517-88297770</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>qzmtt.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@qzmtt.com</EmailAddress>
       <EmailAddress>samuel@qzmtt.com</EmailAddress>
+      <EmailAddress>info@qzmtt.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -377839,8 +377740,8 @@ The Secretary of State considers there are reasonable grounds to suspect that NI
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 62766789</PhoneNumber>
       <PhoneNumber>+86 574 6276 6276</PhoneNumber>
+      <PhoneNumber>+86 62766789</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.skymaster.com.cn</Website>
@@ -380645,8 +380546,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>INN: 7704113772 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027739553764 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Russia Licence No. – 1885 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>BIK (RU): 044525341</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Russia Licence No. – 1885 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -382075,8 +381976,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1027810256473 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1027810256473 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -382171,8 +382072,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1022201770084</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN – 2225008370 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1022201770084</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -382254,8 +382155,8 @@ involved person&amp;quot; under the Russia (Sanctions) (EU Exit) Regulations 201
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN - 2635001120 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1022601947521</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN - 2635001120 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
