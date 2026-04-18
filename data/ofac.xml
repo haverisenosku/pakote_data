@@ -21687,11 +21687,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143810</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123792</uid>
         <idType>Website</idType>
         <idNumber>transneftfinance.ru</idNumber>
@@ -21700,6 +21695,11 @@
         <uid>123791</uid>
         <idType>Email Address</idType>
         <idNumber>sobolevmi@tnf.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143810</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123843</uid>
@@ -21770,11 +21770,6 @@
         <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
-        <uid>143811</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123794</uid>
         <idType>Website</idType>
         <idNumber>http://en.media.transneft.ru/</idNumber>
@@ -21783,6 +21778,11 @@
         <uid>123793</uid>
         <idType>Email Address</idType>
         <idNumber>transpress.ttn@gmail.com</idNumber>
+      </id>
+      <id>
+        <uid>143811</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21843,6 +21843,16 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>143812</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>123830</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
+      </id>
+      <id>
         <uid>123796</uid>
         <idType>Website</idType>
         <idNumber>pmn.ru</idNumber>
@@ -21851,16 +21861,6 @@
         <uid>123795</uid>
         <idType>Email Address</idType>
         <idNumber>ootorg@pmn.ru</idNumber>
-      </id>
-      <id>
-        <uid>123830</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
-      </id>
-      <id>
-        <uid>143812</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21922,11 +21922,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143813</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123798</uid>
         <idType>Website</idType>
         <idNumber>http://sibnefteprovod.transneft.ru</idNumber>
@@ -21935,6 +21930,11 @@
         <uid>123797</uid>
         <idType>Email Address</idType>
         <idNumber>beschastnyhav@ueso.tmn.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143813</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123831</uid>
@@ -22006,11 +22006,6 @@
         <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
-        <uid>143814</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123800</uid>
         <idType>Website</idType>
         <idNumber>dsdvsto.ru</idNumber>
@@ -22019,6 +22014,11 @@
         <uid>123799</uid>
         <idType>Email Address</idType>
         <idNumber>dsd-it@dsd.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143814</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22080,9 +22080,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>123801</uid>
-        <idType>Website</idType>
-        <idNumber>www.oilnet.ru</idNumber>
+        <uid>143815</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123829</uid>
@@ -22090,9 +22090,9 @@
         <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
-        <uid>143815</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>123801</uid>
+        <idType>Website</idType>
+        <idNumber>www.oilnet.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22153,11 +22153,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143816</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123803</uid>
         <idType>Website</idType>
         <idNumber>www.usmn.ru</idNumber>
@@ -22166,6 +22161,11 @@
         <uid>123802</uid>
         <idType>Email Address</idType>
         <idNumber>nekrasovaov@ufa.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143816</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123827</uid>
@@ -22237,14 +22237,14 @@
         <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
-        <uid>143817</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123804</uid>
         <idType>Email Address</idType>
         <idNumber>nurymbetovage@ak.aktnp.ru</idNumber>
+      </id>
+      <id>
+        <uid>143817</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22317,6 +22317,16 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>143818</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>123846</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
+      </id>
+      <id>
         <uid>123806</uid>
         <idType>Website</idType>
         <idNumber>www.druzhbamn.ru</idNumber>
@@ -22325,16 +22335,6 @@
         <uid>123805</uid>
         <idType>Email Address</idType>
         <idNumber>androsovaeg@brn.transneft.ru</idNumber>
-      </id>
-      <id>
-        <uid>123846</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
-      </id>
-      <id>
-        <uid>143818</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22396,11 +22396,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143819</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123808</uid>
         <idType>Website</idType>
         <idNumber>www.gtp.transneft.ru</idNumber>
@@ -22409,6 +22404,11 @@
         <uid>123807</uid>
         <idType>Email Address</idType>
         <idNumber>agafontsevaa@gtp.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143819</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123833</uid>
@@ -22479,11 +22479,6 @@
         <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
-        <uid>143820</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123810</uid>
         <idType>Website</idType>
         <idNumber>www.nvr.transneft.ru</idNumber>
@@ -22492,6 +22487,11 @@
         <uid>123809</uid>
         <idType>Email Address</idType>
         <idNumber>fogela@nvr.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143820</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22553,9 +22553,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>123811</uid>
-        <idType>Website</idType>
-        <idNumber>cupvsto.ru</idNumber>
+        <uid>143821</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123839</uid>
@@ -22563,9 +22563,9 @@
         <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
-        <uid>143821</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>123811</uid>
+        <idType>Website</idType>
+        <idNumber>cupvsto.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22627,11 +22627,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143822</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123813</uid>
         <idType>Website</idType>
         <idNumber>csib.tomsk.ru</idNumber>
@@ -22640,6 +22635,11 @@
         <uid>123812</uid>
         <idType>Email Address</idType>
         <idNumber>bagamanovmn@tom.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143822</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123840</uid>
@@ -22711,11 +22711,6 @@
         <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
-        <uid>143823</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123815</uid>
         <idType>Website</idType>
         <idNumber>www.severnyemn.ru</idNumber>
@@ -22724,6 +22719,11 @@
         <uid>123814</uid>
         <idType>Email Address</idType>
         <idNumber>post@uht.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143823</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22785,9 +22785,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>123816</uid>
-        <idType>Email Address</idType>
-        <idNumber>babaevii@tno.transneft.ru</idNumber>
+        <uid>143824</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123842</uid>
@@ -22795,9 +22795,9 @@
         <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
-        <uid>143824</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>123816</uid>
+        <idType>Email Address</idType>
+        <idNumber>babaevii@tno.transneft.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22846,14 +22846,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143825</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123818</uid>
         <idType>Email Address</idType>
         <idNumber>alexandrovan@vp.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143825</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123837</uid>
@@ -22925,11 +22925,6 @@
         <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
-        <uid>143826</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123820</uid>
         <idType>Website</idType>
         <idNumber>www.diascan.ru</idNumber>
@@ -22938,6 +22933,11 @@
         <uid>123819</uid>
         <idType>Email Address</idType>
         <idNumber>korotkovaa@ctd.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143826</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -23005,6 +23005,16 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>143827</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>123834</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
+      </id>
+      <id>
         <uid>123822</uid>
         <idType>Website</idType>
         <idNumber>npf-transneft.ru</idNumber>
@@ -23013,16 +23023,6 @@
         <uid>123821</uid>
         <idType>Email Address</idType>
         <idNumber>mail@npf-transneft.ru</idNumber>
-      </id>
-      <id>
-        <uid>123834</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
-      </id>
-      <id>
-        <uid>143827</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -23071,11 +23071,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143828</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123824</uid>
         <idType>Website</idType>
         <idNumber>centermo.ru</idNumber>
@@ -23084,6 +23079,11 @@
         <uid>123823</uid>
         <idType>Email Address</idType>
         <idNumber>chernyshovi@cmo.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143828</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123835</uid>
@@ -23154,11 +23154,6 @@
         <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
-        <uid>143829</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123826</uid>
         <idType>Website</idType>
         <idNumber>www.szmn.ru</idNumber>
@@ -23167,6 +23162,11 @@
         <uid>123825</uid>
         <idType>Email Address</idType>
         <idNumber>hanovat@kaz.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143829</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -23397,11 +23397,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>125598</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
         <uid>125423</uid>
         <idType>Nationality of Registration</idType>
         <idNumber>Russia</idNumber>
@@ -23410,6 +23405,11 @@
         <uid>143951</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>125598</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 4</idNumber>
       </id>
     </idList>
     <akaList>
@@ -23536,14 +23536,14 @@
         <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
-        <uid>125431</uid>
-        <idType>Email Address</idType>
-        <idNumber>office@nnp.surgutneftegas.ru</idNumber>
-      </id>
-      <id>
         <uid>183035</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>125431</uid>
+        <idType>Email Address</idType>
+        <idNumber>office@nnp.surgutneftegas.ru</idNumber>
       </id>
       <id>
         <uid>125433</uid>
@@ -23613,14 +23613,14 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>125436</uid>
-        <idType>Email Address</idType>
-        <idNumber>sovxoz@list.ru</idNumber>
-      </id>
-      <id>
         <uid>125600</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
+        <uid>125436</uid>
+        <idType>Email Address</idType>
+        <idNumber>sovxoz@list.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -23678,6 +23678,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>125601</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
         <uid>125440</uid>
         <idType>Nationality of Registration</idType>
         <idNumber>Russia</idNumber>
@@ -23696,11 +23701,6 @@
         <uid>125438</uid>
         <idType>Email Address</idType>
         <idNumber>kinef@kinef.ru</idNumber>
-      </id>
-      <id>
-        <uid>125601</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
         <uid>183037</uid>
@@ -23845,6 +23845,16 @@
         <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
+        <uid>125445</uid>
+        <idType>Nationality of Registration</idType>
+        <idNumber>Russia</idNumber>
+      </id>
+      <id>
+        <uid>143954</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>125444</uid>
         <idType>Website</idType>
         <idNumber>www.tvernefteproduct.ru</idNumber>
@@ -23858,16 +23868,6 @@
         <uid>183032</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
-        <uid>125445</uid>
-        <idType>Nationality of Registration</idType>
-        <idNumber>Russia</idNumber>
-      </id>
-      <id>
-        <uid>143954</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -23921,6 +23921,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>125446</uid>
+        <idType>Website</idType>
+        <idNumber>www.sngi.ru</idNumber>
+      </id>
+      <id>
         <uid>125447</uid>
         <idType>Nationality of Registration</idType>
         <idNumber>Russia</idNumber>
@@ -23929,11 +23934,6 @@
         <uid>143955</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>125446</uid>
-        <idType>Website</idType>
-        <idNumber>www.sngi.ru</idNumber>
       </id>
       <id>
         <uid>125606</uid>
@@ -23999,11 +23999,6 @@
         <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
-        <uid>125451</uid>
-        <idType>Website</idType>
-        <idNumber>www.kirishiavtoservis.ru</idNumber>
-      </id>
-      <id>
         <uid>125452</uid>
         <idType>Nationality of Registration</idType>
         <idNumber>Russia</idNumber>
@@ -24012,6 +24007,11 @@
         <uid>143956</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>125451</uid>
+        <idType>Website</idType>
+        <idNumber>www.kirishiavtoservis.ru</idNumber>
       </id>
       <id>
         <uid>183029</uid>
@@ -24081,14 +24081,14 @@
         <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
-        <uid>183024</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
         <uid>125453</uid>
         <idType>Website</idType>
         <idNumber>www.sngb.ru</idNumber>
+      </id>
+      <id>
+        <uid>183024</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24218,6 +24218,11 @@
         <idCountry>Switzerland</idCountry>
       </id>
       <id>
+        <uid>144127</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>134566</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -24226,11 +24231,6 @@
         <uid>134567</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
-        <uid>144127</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <addressList>
@@ -27001,6 +27001,11 @@
         <idNumber>01 Mar 2022</idNumber>
       </id>
       <id>
+        <uid>140244</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>13 Jul 1990</idNumber>
+      </id>
+      <id>
         <uid>140242</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>CBRFRUMM</idNumber>
@@ -27009,11 +27014,6 @@
         <uid>140243</uid>
         <idType>Website</idType>
         <idNumber>www.cbr.ru</idNumber>
-      </id>
-      <id>
-        <uid>140244</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>13 Jul 1990</idNumber>
       </id>
     </idList>
     <akaList>
@@ -30071,6 +30071,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>145990</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>1993</idNumber>
+      </id>
+      <id>
         <uid>146676</uid>
         <idType>Executive Order 14024 Directive Information -</idType>
         <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
@@ -30089,11 +30094,6 @@
         <uid>146820</uid>
         <idType>Effective Date (EO 14024 Directive 3):</idType>
         <idNumber>26 Mar 2022</idNumber>
-      </id>
-      <id>
-        <uid>145990</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>1993</idNumber>
       </id>
     </idList>
     <akaList>
@@ -30185,11 +30185,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>146057</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>2004</idNumber>
-      </id>
-      <id>
         <uid>146710</uid>
         <idType>Executive Order 14024 Directive Information -</idType>
         <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
@@ -30208,6 +30203,11 @@
         <uid>146824</uid>
         <idType>Effective Date (EO 14024 Directive 3):</idType>
         <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146057</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>2004</idNumber>
       </id>
     </idList>
     <akaList>
@@ -30318,11 +30318,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>146169</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>18 Sep 2003</idNumber>
-      </id>
-      <id>
         <uid>146168</uid>
         <idType>Target Type</idType>
         <idNumber>Government Entity</idNumber>
@@ -30351,6 +30346,11 @@
         <uid>146167</uid>
         <idType>Website</idType>
         <idNumber>www.rzd.ru</idNumber>
+      </id>
+      <id>
+        <uid>146169</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>18 Sep 2003</idNumber>
       </id>
     </idList>
     <akaList>
