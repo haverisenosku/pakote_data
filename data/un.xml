@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-04-27T23:00:04.377Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-04-28T23:00:04.264Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -32982,6 +32982,255 @@ Commander</VALUE>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
     <INDIVIDUAL>
+      <DATAID>6909557</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>AL-GONEY </FIRST_NAME>
+      <SECOND_NAME>HAMDAN </SECOND_NAME>
+      <THIRD_NAME>DAGALO </THIRD_NAME>
+      <UN_LIST_TYPE>Sudan</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>SDi.011</REFERENCE_NUMBER>
+      <LISTED_ON>2026-04-28</LISTED_ON>
+      <COMMENTS1>Gender: Male  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <DESIGNATION>
+        <VALUE>Procurement Director of the Rapid Support Forces</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Sudan</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE/>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>ALGONEY HAMDAN DAGALO</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>AL-QONI HAMDAN DAGALO</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Dubai</CITY>
+        <COUNTRY>United Arab Emirates</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1990-08-07</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Nayala North</CITY>
+        <COUNTRY>Sudan</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>B00017334 </NUMBER>
+        <ISSUING_COUNTRY>Sudan</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>B00024943</NUMBER>
+        <ISSUING_COUNTRY>Sudan</ISSUING_COUNTRY>
+        <DATE_OF_EXPIRY>2031-09-27</DATE_OF_EXPIRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>AK1586127 </NUMBER>
+        <ISSUING_COUNTRY>Kenya</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>784199014302485</NUMBER>
+        <ISSUING_COUNTRY>United Arab Emirates</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY/>
+      <SORT_KEY_LAST_MOD/>
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6909558</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>ALVARO </FIRST_NAME>
+      <SECOND_NAME>ANDRES </SECOND_NAME>
+      <THIRD_NAME>QUIJANO </THIRD_NAME>
+      <FOURTH_NAME>BECERRA </FOURTH_NAME>
+      <UN_LIST_TYPE>Sudan</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>SDi.012</REFERENCE_NUMBER>
+      <LISTED_ON>2026-04-28</LISTED_ON>
+      <COMMENTS1>Gender: Male  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <DESIGNATION>
+        <VALUE>Founder of International Services Agency (A4SI) </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Colombia</VALUE>
+        <VALUE>Italy</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE/>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY/>
+        <ALIAS_NAME/>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY/>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1967-07-18</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Bogota</CITY>
+        <COUNTRY>Colombia</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>AP628498 </NUMBER>
+        <ISSUING_COUNTRY>Colombia</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>YB7731256</NUMBER>
+        <ISSUING_COUNTRY>Italy</ISSUING_COUNTRY>
+        <DATE_OF_EXPIRY>2031-03-01</DATE_OF_EXPIRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>Cedula No. 80413253 </NUMBER>
+        <ISSUING_COUNTRY>Colombia</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY/>
+      <SORT_KEY_LAST_MOD/>
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6909559</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>CLAUDIA </FIRST_NAME>
+      <SECOND_NAME>VIVIANA </SECOND_NAME>
+      <THIRD_NAME>OLIVEROS </THIRD_NAME>
+      <FOURTH_NAME>FORERO </FOURTH_NAME>
+      <UN_LIST_TYPE>Sudan</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>SDi.013</REFERENCE_NUMBER>
+      <LISTED_ON>2026-04-28</LISTED_ON>
+      <COMMENTS1>Gender: Female. 
+
+ INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <DESIGNATION>
+        <VALUE>Owner and manager of International Services Agency (A4SI) </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Colombia</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE/>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY/>
+        <ALIAS_NAME/>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY/>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1973-01-02</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Bogota</CITY>
+        <COUNTRY>Colombia</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>AZ321704 </NUMBER>
+        <ISSUING_COUNTRY>Colombia</ISSUING_COUNTRY>
+        <DATE_OF_EXPIRY>2032-07-20</DATE_OF_EXPIRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>Cedula No. 52252815 </NUMBER>
+        <ISSUING_COUNTRY>Colombia</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY/>
+      <SORT_KEY_LAST_MOD/>
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6909560</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>MATEO </FIRST_NAME>
+      <SECOND_NAME>ANDRES </SECOND_NAME>
+      <THIRD_NAME>DUQUE </THIRD_NAME>
+      <FOURTH_NAME>BOTERO </FOURTH_NAME>
+      <UN_LIST_TYPE>Sudan</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>SDi.014</REFERENCE_NUMBER>
+      <LISTED_ON>2026-04-28</LISTED_ON>
+      <COMMENTS1>Gender: Male  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <NATIONALITY>
+        <VALUE>Colombia</VALUE>
+        <VALUE>Spain</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE/>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY/>
+        <ALIAS_NAME/>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <STREET>Calle 77 9 76 APT 302</STREET>
+        <CITY>Bogota</CITY>
+        <COUNTRY>Colombia</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1975-04-07</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Bogota</CITY>
+        <COUNTRY>Colombia</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>AS272175</NUMBER>
+        <ISSUING_COUNTRY>Colombia</ISSUING_COUNTRY>
+        <DATE_OF_EXPIRY>2026-03-31</DATE_OF_EXPIRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>XDD789846 </NUMBER>
+        <ISSUING_COUNTRY>Spain</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>BF868819 </NUMBER>
+        <ISSUING_COUNTRY>Colombia</ISSUING_COUNTRY>
+        <DATE_OF_EXPIRY>2035-03-01</DATE_OF_EXPIRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>Cedula No. 79782423 </NUMBER>
+        <ISSUING_COUNTRY>Colombia</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY/>
+      <SORT_KEY_LAST_MOD/>
+    </INDIVIDUAL>
+    <INDIVIDUAL>
       <DATAID>6908032</DATAID>
       <VERSIONNUM>1</VERSIONNUM>
       <FIRST_NAME>Yasin</FIRST_NAME>
@@ -35102,9 +35351,9 @@ ethnicity. INTERPOL-UN Security Council Special Notice web link:https://www.inte
       <REFERENCE_NUMBER>TAi.003</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عبد الکبیر محمد جان</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Active in terrorist operations in Eastern Afghanistan. Collects money from drug traffickers. Member of the Taliban Supreme Council as at 2009. Family is originally from Neka District, Paktia Province, Afghanistan. Responsible for attack on Afghan parliamentarians in November 2007 in Baghlan; owns land in central Baghlan Province. Belongs to Zadran tribe. Height 185cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Active in terrorist operations in Eastern Afghanistan. Collects money from drug traffickers. Member of the Taliban Supreme Council as at 2009. Family is originally from Neka District, Paktia Province, Afghanistan. Responsible for attack on Afghan parliamentarians in November 2007 in Baghlan; owns land in central Baghlan Province. Belongs to Zadran tribe. Height 185 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-47114</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-47114</INTERPOL_LINK>
       <TITLE>
         <VALUE>Maulavi</VALUE>
       </TITLE>
@@ -35128,6 +35377,7 @@ ethnicity. INTERPOL-UN Security Council Special Notice web link:https://www.inte
         <VALUE>2012-08-13</VALUE>
         <VALUE>2013-12-31</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -35159,9 +35409,10 @@ ethnicity. INTERPOL-UN Security Council Special Notice web link:https://www.inte
         <NUMBER>D0009925</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2022-05-22</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2027-05-22</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script: Abdul Kabir Muhammad Jan; expires 22 May 2027</NOTE>
+        <NOTE>Name in Latin script: Abdul Kabir Muhammad Jan</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -35365,9 +35616,9 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.007</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-31</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عبد اللطيف منصور </NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Taliban Shadow Governor for Logar Province as of late 2012. Belongs to Sahak tribe (Ghilzai). Height 170cm . Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Taliban Shadow Governor for Logar Province as of late 2012. Belongs to Sahak tribe (Ghilzai). Height 170 cm . Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25913</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25913</INTERPOL_LINK>
       <TITLE>
         <VALUE>Maulavi</VALUE>
       </TITLE>
@@ -35388,6 +35639,7 @@ regime</VALUE>
         <VALUE>2012-05-18</VALUE>
         <VALUE>2013-04-22</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -35398,7 +35650,8 @@ regime</VALUE>
         <ALIAS_NAME>Wali Mohammad</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <CITY>Darul Aman, Kabul</CITY>
+        <STREET>Darul Aman</STREET>
+        <CITY>Kabul</CITY>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
@@ -35425,8 +35678,10 @@ regime</VALUE>
         <NUMBER>D0009720</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2021-10-12</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2026-10-12</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
-        <NOTE>Name in Latin script: Abdul Latif Mansoor; expires 12 Oct. 2026</NOTE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Abdul Latif Mansoor</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
@@ -35434,7 +35689,7 @@ regime</VALUE>
         <NUMBER>D0010442</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2024-11-13</DATE_OF_ISSUE>
-        <NOTE>2024, expires 13 Nov. 2029</NOTE>
+        <DATE_OF_EXPIRY>2029-11-13</DATE_OF_EXPIRY>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -36224,9 +36479,9 @@ concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:
       <REFERENCE_NUMBER>TAi.023</REFERENCE_NUMBER>
       <LISTED_ON>2001-02-23</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>فضل محمد مظلوم</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Missing left leg since 1996. Serious injury on his right foot . Height 168 cm . Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Missing left leg since 1996. Serious injury on his right foot. Height 168 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-316058</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-316058</INTERPOL_LINK>
       <TITLE>
         <VALUE>Mullah</VALUE>
       </TITLE>
@@ -36246,6 +36501,7 @@ concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:
         <VALUE>2013-12-31</VALUE>
         <VALUE>2016-09-07</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -36261,7 +36517,9 @@ concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:
         <NOTE> name in original script: محمد فاضل آخوند</NOTE>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <CITY>Pule Mahmood Khan, PD2, 10011, Kabul</CITY>
+        <STREET>Pule Mahmood Khan, PD2</STREET>
+        <CITY>Kabul</CITY>
+        <ZIP_CODE>10011</ZIP_CODE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
@@ -36283,9 +36541,10 @@ concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:
         <NUMBER>D0009726</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2021-10-13</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2026-10-13</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script: Mohammad Fadel Aakhund; name in original script: محمد فاضل آخوند ; expires 13 Oct. 2026</NOTE>
+        <NOTE>Name in Latin script: Mohammad Fadel Aakhund; name in original script: محمد فاضل آخوند</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -36528,9 +36787,9 @@ resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Counci
       <REFERENCE_NUMBER>TAi.027</REFERENCE_NUMBER>
       <LISTED_ON>2001-02-23</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عبدالسلام حنفی علی مردان قل</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Taliban member responsible for Jawzjan Province in Northern Afghanistan until 2008. Involved in drug trafficking. Height 178 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Taliban member responsible for Jawzjan Province in Northern Afghanistan until 2008. Involved in drug trafficking. Height 178 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25909</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25909</INTERPOL_LINK>
       <TITLE>
         <VALUE>Mullah</VALUE>
         <VALUE>Maulavi</VALUE>
@@ -36552,6 +36811,7 @@ resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Counci
         <VALUE>2008-02-01</VALUE>
         <VALUE>2011-11-29</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -36564,7 +36824,7 @@ resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Counci
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
         <ALIAS_NAME>ABDUL SALAM HANAFI</ALIAS_NAME>
-        <NOTE>name in original script: عبدالسلام حنفي  </NOTE>
+        <NOTE>name in original script: عبدالسلام حنفي</NOTE>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
         <CITY>Kabul</CITY>
@@ -36600,9 +36860,10 @@ resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Counci
         <NUMBER>D0010098</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2023-04-04</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2028-04-04</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script, Abdul Salam Hanafi, name in original script; عبدالسلام حنفي , expires 4 Apr. 2028</NOTE>
+        <NOTE>Name in Latin script, Abdul Salam Hanafi, name in original script; عبدالسلام حنفي</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -36995,9 +37256,9 @@ Taliban regime</VALUE>
       <REFERENCE_NUMBER>TAi.038</REFERENCE_NUMBER>
       <LISTED_ON>2001-02-23</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عبد الباقي بصير أول شاه</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Taliban member responsible for Nangarhar Province as at 2008. Until 7 Sep. 2007 he was also listed under number TAi.048. Height 175 cm.  Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Taliban member responsible for Nangarhar Province as at 2008. Until 7 Sep. 2007 he was also listed under number TAi.048. Height 175 cm.  Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-47507</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-47507</INTERPOL_LINK>
       <TITLE>
         <VALUE>Maulavi</VALUE>
         <VALUE>Mullah</VALUE>
@@ -37020,6 +37281,7 @@ Taliban regime</VALUE>
         <VALUE>2011-11-29</VALUE>
         <VALUE>2012-08-13</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -37061,9 +37323,10 @@ Taliban regime</VALUE>
         <NUMBER>D0009724</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2021-10-13</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2026-10-13</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script: Abdul Baqi Haqqani; name in original script: عبدالباقي حقاني ; expires on 13 Oct. 2026</NOTE>
+        <NOTE>Name in Latin script: Abdul Baqi Haqqani; name in original script: عبدالباقي حقاني</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -37263,9 +37526,9 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.043</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>دین محمد حنیف</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Member of Taliban Supreme Council responsible for Takhar and Badakhshan provinces. Height 172cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Picture available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Member of Taliban Supreme Council responsible for Takhar and Badakhshan provinces. Height 172 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-47175</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-47175</INTERPOL_LINK>
       <TITLE>
         <VALUE>Qari</VALUE>
       </TITLE>
@@ -37287,6 +37550,7 @@ regime</VALUE>
         <VALUE>2012-10-25</VALUE>
         <VALUE>2016-09-07</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -37324,9 +37588,10 @@ regime</VALUE>
         <NUMBER>D0009731</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2021-10-13</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2026-10-13</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script: Iadenamohammad Nazri Mohammad; expires on 13 Oct. 2026</NOTE>
+        <NOTE>Name in Latin script: Iadenamohammad Nazri Mohammad</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
@@ -37345,17 +37610,15 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.044</REFERENCE_NUMBER>
       <LISTED_ON>2001-02-23</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>حمد الله نعمانى</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Member of the Taliban Supreme Council. Believed to be in
-Afghanistan/Pakistan border area. Review pursuant to Security Council resolution 1822
-(2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Member of the Taliban Supreme Council. Believed to be in Afghanistan/Pakistan border area. Height 174 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25939</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25939</INTERPOL_LINK>
       <TITLE>
         <VALUE>Maulavi</VALUE>
       </TITLE>
       <DESIGNATION>
-        <VALUE>Minister of Higher Education under the Taliban regime</VALUE>
-        <VALUE>Mayor of Kabul City under the Taliban regime</VALUE>
+        <VALUE>Minister of Higher Education under the Taliban regime (1996-2001)</VALUE>
+        <VALUE>Mayor of Kabul City under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
       <NATIONALITY>
         <VALUE>Afghanistan</VALUE>
@@ -37368,10 +37631,11 @@ Afghanistan/Pakistan border area. Review pursuant to Security Council resolution
         <VALUE>2007-09-21</VALUE>
         <VALUE>2008-10-03</VALUE>
         <VALUE>2011-11-29</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
-        <QUALITY/>
-        <ALIAS_NAME/>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>HAMDULLAH NUMANI</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
         <COUNTRY/>
@@ -37380,12 +37644,25 @@ Afghanistan/Pakistan border area. Review pursuant to Security Council resolution
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
         <YEAR>1968</YEAR>
       </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1965-08-28</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Sipayaw village, Andar District</CITY>
         <STATE_PROVINCE>Ghazni Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>D0010694</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2026-04-07</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2031-04-07</DATE_OF_EXPIRY>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: HAMDULLAH NUMANI</NOTE>
+      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -37764,9 +38041,9 @@ Interior under the Taliban regime</VALUE>
       <REFERENCE_NUMBER>TAi.058</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>نورالدین ترابی محمد قاسم</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Deputy to Mullah Mohammed Omar (TAi.004). Height 165cm . Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Deputy to Mullah Mohammed Omar (TAi.004). Height 165 cm . Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25960</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25960</INTERPOL_LINK>
       <TITLE>
         <VALUE>Mullah</VALUE>
         <VALUE>Maulavi</VALUE>
@@ -37786,6 +38063,7 @@ Interior under the Taliban regime</VALUE>
         <VALUE>2010-04-12</VALUE>
         <VALUE>2011-11-29</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -37839,9 +38117,10 @@ Interior under the Taliban regime</VALUE>
         <NUMBER>P00429243</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2021-12-15</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2031-08-15</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script: MULLAH NOORDIN TORABI; expires 15 Aug. 2031</NOTE>
+        <NOTE>Name in Latin script: MULLAH NOORDIN TORABI</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -37855,9 +38134,9 @@ Interior under the Taliban regime</VALUE>
       <REFERENCE_NUMBER>TAi.060</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>محمد عیسی آخوند</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Belongs to Nurzai tribe. Height 185cm.  Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Belongs to Nurzai tribe. Height 185 cm.  Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25957</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25957</INTERPOL_LINK>
       <TITLE>
         <VALUE>Alhaj</VALUE>
         <VALUE>Mullah</VALUE>
@@ -37876,6 +38155,7 @@ Interior under the Taliban regime</VALUE>
         <VALUE>2007-09-21</VALUE>
         <VALUE>2011-11-29</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -37904,9 +38184,10 @@ Interior under the Taliban regime</VALUE>
         <NUMBER>D0010402</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2024-08-04</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2029-08-04</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script: Mohammad Eisa Sani; expires on 4 Aug. 2029</NOTE>
+        <NOTE>Name in Latin script: Mohammad Eisa Sani</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -38321,10 +38602,9 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.071</REFERENCE_NUMBER>
       <LISTED_ON>2001-02-23</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>نجیب الله حقانی هدايت الله</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Cousin of Moulavi Noor Jalal. Grandfather’s name is Salam. Taliban member
-responsible for Laghman Province as of late 2010. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Cousin of Moulavi Noor Jalal. Grandfather’s name is Salam. Taliban member responsible for Laghman Province as of late 2010. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-47312</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-47312</INTERPOL_LINK>
       <TITLE>
         <VALUE>Maulavi</VALUE>
       </TITLE>
@@ -38345,6 +38625,7 @@ responsible for Laghman Province as of late 2010. Review pursuant to Security Co
         <VALUE>2011-11-29</VALUE>
         <VALUE>2014-05-16</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -38384,9 +38665,10 @@ responsible for Laghman Province as of late 2010. Review pursuant to Security Co
         <NUMBER>D0009871</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2022-02-06</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2027-02-06</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script: Najeebullah Hayat; expires on 6 Feb. 2027</NOTE>
+        <NOTE>Name in Latin script: Najeebullah Hayat</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -38765,9 +39047,9 @@ Taliban regime</VALUE>
       <REFERENCE_NUMBER>TAi.082</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-31</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عبد الحق وثيق</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Height 168cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Height 168 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25979</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25979</INTERPOL_LINK>
       <TITLE>
         <VALUE>Maulavi</VALUE>
       </TITLE>
@@ -38789,6 +39071,7 @@ Taliban regime</VALUE>
         <VALUE>2014-02-11</VALUE>
         <VALUE>2016-09-07</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -38828,7 +39111,8 @@ Taliban regime</VALUE>
         <NUMBER>D0009755</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2021-10-23</DATE_OF_ISSUE>
-        <NOTE>Name in Latin script: Abdulhaq Waseeq; expires on 23 Oct. 2026</NOTE>
+        <DATE_OF_EXPIRY>2026-10-23</DATE_OF_EXPIRY>
+        <NOTE>Name in Latin script: Abdulhaq Waseeq</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -39312,9 +39596,9 @@ Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Securi
       <REFERENCE_NUMBER>TAi.093</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>خيرالله خيرخواه</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Belongs to Popalzai tribe. Height 176 cm.  Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Belongs to Popalzai tribe. Height 176 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25973</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25973</INTERPOL_LINK>
       <TITLE>
         <VALUE>Maulavi</VALUE>
         <VALUE>Mullah</VALUE>
@@ -39340,6 +39624,7 @@ Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Securi
         <VALUE>2013-12-31</VALUE>
         <VALUE>2016-09-07</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -39377,9 +39662,10 @@ Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Securi
         <NUMBER>D0009770</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2021-10-31</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2026-10-31</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script: KHIRULLAH KHAIRKHWA, name in original script: خيرالله خيرخواه , expires 31 Oct. 2026</NOTE>
+        <NOTE>Name in Latin script: KHIRULLAH KHAIRKHWA, name in original script: خيرالله خيرخواه</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -40346,9 +40632,9 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.110</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>نور محمد ثاقب</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Member of Taliban Supreme Council and Head of Taliban Religious Committee. Belongs to Ahmadzai tribe. Height 175cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Member of Taliban Supreme Council and Head of Taliban Religious Committee. Belongs to Ahmadzai tribe. Height 175 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-26129</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-26129</INTERPOL_LINK>
       <DESIGNATION>
         <VALUE>Chief Justice of Supreme Court under the Taliban regime (1996-2001)</VALUE>
       </DESIGNATION>
@@ -40363,6 +40649,7 @@ regime</VALUE>
         <VALUE>2007-09-21</VALUE>
         <VALUE>2011-11-29</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -40396,8 +40683,10 @@ regime</VALUE>
         <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
         <NUMBER>D0009914</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2022-05-10</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2027-05-10</DATE_OF_EXPIRY>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script: Noor Mohammed Saqeb; name original script: نورمحمد ثاقب; issued 10 May 2022, expires 10 May 2027</NOTE>
+        <NOTE>Name in Latin script: Noor Mohammed Saqeb; name original script: نورمحمد ثاقب</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -40575,9 +40864,9 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.118</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>حمید الله آخوند شیر محمد</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Belongs to Ghilzai tribe. Height: 175cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Belongs to Ghilzai tribe. Height: 175 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-26140</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-26140</INTERPOL_LINK>
       <TITLE>
         <VALUE>Mullah</VALUE>
       </TITLE>
@@ -40597,6 +40886,7 @@ regime</VALUE>
         <VALUE>2011-11-29</VALUE>
         <VALUE>2012-08-13</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -40644,7 +40934,8 @@ regime</VALUE>
         <NUMBER>D0009721</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2021-10-12</DATE_OF_ISSUE>
-        <NOTE>Name in Latin script: Hamidullah Saeed; name in original script: حمیدالله سعید; expires 12 Oct. 2026.</NOTE>
+        <DATE_OF_EXPIRY>2026-10-12</DATE_OF_EXPIRY>
+        <NOTE>Name in Latin script: Hamidullah Saeed; name in original script: حمیدالله سعید</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -40712,10 +41003,9 @@ Emirates</VALUE>
       <REFERENCE_NUMBER>TAi.121</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عزیز الرحمان عبد الاحد</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Belongs to Hotak tribe. Height 169cm. Review pursuant to Security Council resolution
-1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Belongs to Hotak tribe. Height 169 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 29 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-306385</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-306385</INTERPOL_LINK>
       <TITLE>
         <VALUE>Mr</VALUE>
       </TITLE>
@@ -40733,6 +41023,7 @@ Emirates</VALUE>
         <VALUE>2007-09-21</VALUE>
         <VALUE>2011-11-29</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -40756,11 +41047,13 @@ Emirates</VALUE>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-        <NUMBER>passport P02504168</NUMBER>
+        <NUMBER>P02504168</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2019-11-12</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2029-11-12</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Dubai</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>United Arab Emirates</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script: Azizurahman Abdul Ahad; issued 12 Nov 2019, expires 12 Nov 2029</NOTE>
+        <NOTE>Name in Latin script: Azizurahman Abdul Ahad</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -41800,9 +42093,9 @@ Pakistan</VALUE>
       <REFERENCE_NUMBER>TAi.144</REFERENCE_NUMBER>
       <LISTED_ON>2007-09-13</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>سراج الدين جلال الدين حقانى</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Heading the Haqqani Network (TAe.012) as of late 2012. Son of Jalaluddin Haqqani (TAi.040). Belongs to Sultan Khel section, Zadran tribe of Garda Saray of Paktia province, Afghanistan. Height 187cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Heading the Haqqani Network (TAe.012) as of late 2012. Son of Jalaluddin Haqqani (TAi.040). Belongs to Sultan Khel section, Zadran tribe of Garda Saray of Paktia province, Afghanistan. Height 187 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-44300</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-44300</INTERPOL_LINK>
       <DESIGNATION>
         <VALUE>Na'ib Amir (Deputy Commander) (1996-2001)</VALUE>
       </DESIGNATION>
@@ -41815,6 +42108,7 @@ Pakistan</VALUE>
       <LAST_DAY_UPDATED>
         <VALUE>2013-04-22</VALUE>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -41850,6 +42144,10 @@ Pakistan</VALUE>
         <TO_YEAR>1978</TO_YEAR>
         <NOTE>Approximately</NOTE>
       </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1981-12-30</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Danda, Miramshah</CITY>
         <STATE_PROVINCE>North Waziristan</STATE_PROVINCE>
@@ -41874,9 +42172,20 @@ Pakistan</VALUE>
         <NUMBER>P00032260</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2022-06-30</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2032-06-30</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script: Abdul Satar Abdullah; expires 30 Jun. 2032.</NOTE>
+        <NOTE>Name in Latin script: Abdul Satar Abdullah</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>D0010367</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2024-05-18</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2029-05-18</DATE_OF_EXPIRY>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>Name in Latin script: Sirajuddin Haqqani</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -42544,9 +42853,9 @@ Province. Has been involved in the transport of weapons to Afghanistan. INTERPOL
       <REFERENCE_NUMBER>TAi.156</REFERENCE_NUMBER>
       <LISTED_ON>2012-01-06</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>احمد ضیا آغا</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Senior Taliban official with military and financial responsibilities as at 2011. Leader of the Taliban’s Military Council as of 2010. In 2008 and 2009, served as a Taliban finance officer and distributed money to Taliban commanders in Afghanistan/Pakistan border area. Height: 180cm.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Senior Taliban official with military and financial responsibilities as at 2011. Leader of the Taliban’s Military Council as of 2010. In 2008 and 2009, served as a Taliban finance officer and distributed money to Taliban commanders in Afghanistan/Pakistan border area. Height: 180 cm. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-308182</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-308182</INTERPOL_LINK>
       <TITLE>
         <VALUE>Haji</VALUE>
       </TITLE>
@@ -42558,6 +42867,7 @@ Province. Has been involved in the transport of weapons to Afghanistan. INTERPOL
       </LIST_TYPE>
       <LAST_DAY_UPDATED>
         <VALUE>2026-03-10</VALUE>
+        <VALUE>2026-04-28</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -42602,9 +42912,10 @@ Province. Has been involved in the transport of weapons to Afghanistan. INTERPOL
         <NUMBER>D0010409</NUMBER>
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2024-08-29</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2029-08-29</DATE_OF_EXPIRY>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
-        <NOTE>Name in Latin script: Noor Ahmad Agha; expires 29 Aug. 2029</NOTE>
+        <NOTE>Name in Latin script: Noor Ahmad Agha</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
