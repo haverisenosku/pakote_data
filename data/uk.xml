@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>29/04/2026</DateGenerated>
+  <DateGenerated>05/05/2026</DateGenerated>
   <Designation>
     <LastUpdated>16/04/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -116071,6 +116071,1200 @@ The Secretary of State considers that there are reasonable grounds to suspect Nu
         </Genders>
       </Individual>
     </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0051</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Polina</Name1>
+        <Name2>Alexandrovna</Name2>
+        <Name6>AZARNYKH</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Полина Александровна Азарных</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <Titles>
+      <Title>Mrs</Title>
+    </Titles>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Polina Alexandrovna AZARNYKH is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as she is or has been involved in a relevant activity, namely the instrumentalisation of migration for the purposes of destabilisation. Backed by the Government of Russia, AZARNYKH facilitates the travel of individuals from countries like Egypt, Iraq, the Ivory Coast, Nigeria, Morocco, Syria, and Yemen to Ukraine via Russia for the purpose of destabilising Ukraine as the individuals are deployed to fight for Russia in its war of aggression in Ukraine.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>29/03/1985</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>2004484171</PassportNumber>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>363202590594</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Russian Tax ID</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Female</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0052</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Abid</Name1>
+        <Name2>Kalid</Name2>
+        <Name3>Sharif</Name3>
+        <Name6>ABID</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Khaled</Name1>
+        <Name6>ELAMERI</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Абид Калид Шариф Абид</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Abid Kalid Sharif ABID is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as he is or has been involved in a relevant activity, namely 
+the instrumentalisation of migration for the purposes of destabilisation based on the following grounds:
+Ground 1: as part of a group backed by the Government of Russia, he facilitates the travel of individuals in countries like 
+Iraq, Syria, Somalia and Yemen to Finland via Russia for the purpose of causing the destabilisation of Finland and other European Union Member States.
+Ground 2: as part of a group backed by the Governments of Russia and Belarus, 
+he facilitates 
+the travel of individuals in countries like Iraq and Syria to Poland via Belarus for the purpose of causing the destabilisation of Poland and other European Union Member States.
+Ground 3: as part of a group backed by the Government of Russia, 
+he facilitates the travel 
+of individuals in countries like Bangladesh, Iraq, India and Yemen to Ukraine via Russia for the purpose of causing the destabilisation of Ukraine as the individuals are deployed to fight for Russia in its war of aggression in Ukraine.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>28/05/1974</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Syria</Nationality>
+          <Nationality>Iraq</Nationality>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>591609096100</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Tax ID</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0053</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Elena</Name1>
+        <Name6>SMIRNOVA</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Yelena</Name1>
+        <Name6>SHUVALOVA</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Елена Смирнова</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers there are reasonable grounds to suspect that ELENA SMIRNOVA is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as she is or has been involved in a relevant activity, namely
+ trafficking in persons. Specifically, she engaged in the recruitment of Cuban nationals using deception for the purposes of exploitation. Using social media and other forms of communication, she advertised well paid civilian jobs within Russia but, upon the recruits’ arrival in Russia, they were forced to fight against their will in Russia’s war of aggression in Ukraine. The recruits faced menaces including verbal abuse, threats and imprisonment.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine6>Ryazan Oblast</AddressLine6>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>01/05/1981</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Female</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0054</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Sergei</Name1>
+        <Name2>Vyacheslavovich</Name2>
+        <Name6>MERZLYAKOV</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Сергей Вячеславович Мерзляков</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <Titles>
+      <Title>Mr</Title>
+    </Titles>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Sergei Vyacheslavovich 
+MERZLYAKOV
+ is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as he is or has been involved in a relevant activity, namely the instrumentalisation of migration for the purposes of destabilisation based on the following grounds: Ground 1: as part of a group backed by the Government of Russia, he facilitates the travel of individuals in countries like Iraq, Syria, Somalia and Yemen to Finland via Russia for the purpose of causing the destabilisation of Finland and other European Union Member States. Ground 2: as part of a group backed by the Governments of Russia and Belarus, he facilitates the travel of individuals in countries like Iraq and Syria to Poland via Belarus for the purpose of causing the destabilisation of Poland and other European Union Member States. Ground 3: as part of a group backed by the Government of Russia, he facilitates the travel of individuals in countries like Bangladesh, Iraq, India and Yemen to Ukraine via Russia for the purpose of causing the destabilisation of Ukraine as the individuals are deployed to fight for Russia in its war of aggression in Ukraine.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>13/03/1984</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>5704506954</PassportNumber>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>591604010942</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Tax ID</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Moscow</TownOfBirth>
+            <CountryOfBirth>Russia</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0055</UniqueID>
+    <Names>
+      <Name>
+        <Name6>DREAM HOME TRAVELS AND TOURS LTD</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>DREAM HOME TRAVELS</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>DREAM HOME TRAVELS AND TOURS LIMITED </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that DREAM HOME TRAVELS AND TOURS LTD is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as it is or has been involved in a relevant activity, namely trafficking in persons. Specifically, DREAM HOME TRAVELS AND TOURS LTD engaged in the recruitment of Bangladeshi nationals using deception and then exploited them. It advertised well paid roles within the services sector in Russia but, upon the Bangladeshi nationals’ arrival in Russia, they were forced to fight on the front line of Russia’s war of aggression against Ukraine under coercion. 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>H-86 Bir Uttam Ziaur Rahman Road</AddressLine1>
+        <AddressLine2>Banani</AddressLine2>
+        <AddressLine6>Dhaka</AddressLine6>
+        <AddressCountry>Bangladesh</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>01748195244</PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>dreamhometravels.com</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>dreamhometravels44876@gmail.com</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>0012021</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0056</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Deepak </Name1>
+        <Name2>Kumar </Name2>
+        <Name3>Taraknath </Name3>
+        <Name6>PANDEY </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Tagare </Name1>
+        <Name2>Deepak </Name2>
+        <Name3>Kumar </Name3>
+        <Name6>SHIVSHARNAPPA </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Mr</Title>
+    </Titles>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Deepak Kumar Taraknath PANDEY is an involved person under the Regulations as he is or has been involved in facilitating a relevant activity, namely
+ trafficking in persons. Specifically, he engaged in the recruitment of Indian nationals using deception for the purposes of exploitation. Using social media and other forms of communication, he advertised the provision of student visas in Russia but, upon the recruits’ arrival in Russia, they were forced to fight on the front line of Russia’s war of aggression in Ukraine against their will.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>India</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>India</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>07615692</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>India - Director Identification Number (DIN)</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>India</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0057</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Manjeet </Name1>
+        <Name6>SINGH </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Mr</Title>
+    </Titles>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Manjeet SINGH is an involved person under the Regulations as he is or has been involved in facilitating a relevant activity, namely
+ trafficking in persons. Specifically, he engaged in the recruitment of Indian nationals using deception for the purposes of exploitation. Using social media and other forms of communication, he advertised the provision of student visas in Russia but, upon the recruits’ arrival in Russia, they were forced to fight on the front line of Russia’s war of aggression in Ukraine against their will.
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>India</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>09862846</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>India - Director Identification Number (DIN)</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>India</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0058</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Suyash</Name1>
+        <Name6>MUKUT</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Mr</Title>
+    </Titles>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Suyash MUKUT is an involved person under the Regulations as he is or has been involved in facilitating a relevant activity, namely
+ trafficking in persons. Specifically, he engaged in the recruitment of Indian nationals using deception for the purposes of exploitation. Using social media and other forms of communication, he advertised the provision of student visas in Russia but, upon the recruits’ arrival in Russia, they were forced to fight on the front line of Russia’s war of aggression in Ukraine against their will.
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>India</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>9628865</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation> India - Director Identification Number (DIN)</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>India</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0059</UniqueID>
+    <Names>
+      <Name>
+        <Name6>ADVENTURE VISA SERVICES PRIVATE LIMITED</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>ADVENTURE OVERSEAS CONSULTANCY</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that ADVENTURE VISA SERVICES PRIVATE LIMITED is or has been an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as it has been involved in a relevant activity, namely 
+trafficking in persons. 
+Specifically, engaged in the recruitment of Indian nationals using deception and then exploited them. In its public communications, it advertised the provision of student visas to Russia but, upon the Indian nationals’ arrival in Russia, their passports were seized they were forced to fight on the front line of Russia’s war of aggression against Ukraine against their will.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>2nd Floor B.r Complex</AddressLine1>
+        <AddressLine2>Prem Nagar Road</AddressLine2>
+        <AddressLine5>Ambala</AddressLine5>
+        <AddressLine6>Haryana</AddressLine6>
+        <AddressPostalCode>134003</AddressPostalCode>
+        <AddressCountry>India</AddressCountry>
+      </Address>
+    </Addresses>
+    <Websites>
+      <Website>adventureoverseas.in</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>adventureoverseasconsultancy@gmail.com</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <TypeOfEntities>
+          <TypeOfEntity>Company</TypeOfEntity>
+          <TypeOfEntity>Company</TypeOfEntity>
+          <TypeOfEntity>Company</TypeOfEntity>
+        </TypeOfEntities>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>
+</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>India PAN - AAYCA2604D</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Corporate Identification Number (CIN): U74999HR2023OPC109285</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0060</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Mikhail</Name1>
+        <Name2>Sergeevich</Name2>
+        <Name6>LYAPIN</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Mike</Name1>
+        <Name6>LYAPIN</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Misha</Name1>
+        <Name6>LYAPIN</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Михаил Сергеевич Ляпин</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Mikhail LYAPIN is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as he is or has been involved in a relevant activity, namely 
+trafficking in persons. Specifically, Mikhail LYAPIN engaged in the deception and recruitment of Kenyan nationals into Russia through his associations with Global Face Human Resources and the Russian Embassy but, upon the Kenyan nationals’ arrival in Russia, they were forced to fight on the front line of Russia’s war of aggression against Ukraine under coercion.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Kenya</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>29/07/1984</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>716015051</PassportNumber>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>100123069453</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Russia - INN Number</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Murmansk, Rostra district</TownOfBirth>
+            <CountryOfBirth>Russia</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0061</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Dayana</Name1>
+        <Name2>Echemendia</Name2>
+        <Name6>DIAZ</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Diana</Name1>
+        <Name2>Dana</Name2>
+        <Name6>DIAZ</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Даяна Эчемендия Диас</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers there are reasonable grounds to suspect that DAYANA ECHEMENDIA DIAZ is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as she is or has been involved in a relevant activity, namely
+ trafficking in persons. Specifically, she engaged in the recruitment of Cuban nationals using deception for the purposes of exploitation. Using social media and other forms of communication, she advertised well paid jobs within Russia but, upon the recruits’ arrival in Russia, they were forced to fight against their will in Russia’s war of aggression in Ukraine. The recruits faced menaces including verbal abuse, threats and imprisonment. 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>29/07/1989</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Cuba</Nationality>
+        </Nationalities>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0062</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Faisal</Name1>
+        <Name2>Abdul</Name2>
+        <Name3>Mutallib</Name3>
+        <Name6>KHAN</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Faisal</Name1>
+        <Name2>Abdulmutallib</Name2>
+        <Name6>KHAN</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that FAISAL ABDUL MUTALLIB KHAN is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as he is or has been involved in facilitating a relevant activity, namely
+ trafficking in persons. Specifically, he engaged in the recruitment of Indian nationals using deception for the purposes of exploitation. Using social media and other forms of communication, he advertised well paid jobs within the “Russian security sector” but, upon the recruits’ arrival in Russia, they were forced to fight against their will in Russia’s war of aggression in Ukraine. The recruits faced menaces including verbal abuse, threats and violence. 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>United Arab Emirates</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>21/07/1988</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>India</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>India - DIN</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>10294099</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>India</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0063</UniqueID>
+    <Names>
+      <Name>
+        <Name6>24x7 RAS OVERSEAS FOUNDATION</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that 24x7 RAS OVERSEAS FOUNDATION is or has been an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as it has been involved in a relevant activity, namely 
+trafficking in persons. 
+Specifically, 24x7 RAS OVERSEAS FOUNDATION engaged in the recruitment of Indian nationals using deception and then exploited them. In its public communications, it advertised well paid roles within “the Russian security sector” but, upon the Indian nationals’ arrival in Russia, they were forced to fight on the front line of Russia’s war of aggression against Ukraine under the menaces, namely verbal abuse, threats and physical violence.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>501</AddressLine1>
+        <AddressLine2>Ambadeep Building</AddressLine2>
+        <AddressLine6>New Dehli</AddressLine6>
+        <AddressPostalCode>110001</AddressPostalCode>
+        <AddressCountry>India</AddressCountry>
+      </Address>
+    </Addresses>
+    <EmailAddresses>
+      <EmailAddress>fsvregco02@gmail.com</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <TypeOfEntities>
+          <TypeOfEntity>Company</TypeOfEntity>
+          <TypeOfEntity>Company</TypeOfEntity>
+          <TypeOfEntity>Company</TypeOfEntity>
+        </TypeOfEntities>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>Corporate Identification Number: U80900DL2023NPL410201</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>India PAN - AACCZ1381Q</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0064</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Mohammad</Name1>
+        <Name2>Sufiyan</Name2>
+        <Name3>Dawood</Name3>
+        <Name4>Ahmad</Name4>
+        <Name6>DARAGUR</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Mr</Title>
+    </Titles>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Mohammad Sufiyan Dawood Ahmad DARAGUR is an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as he is associated with a relevant person. Specifically, he is a director of Baba Vlogs Overseas Recruitment Solutions Private Limited, a company which is and has been involved in a relevant activity, namely human trafficking. The entity recruited Indian nationals using coercive means for purposes of exploitation, namely deployment on the front line of Russia’s war in Ukraine. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>India</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>10294100</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Director Identification Number</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>India</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0065</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Rakesh</Name1>
+        <Name2>Taraknath</Name2>
+        <Name6>PANDEY</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Rakesh Taraknath PANDEY is an involved person under the Regulations as he is or has been involved in facilitating a relevant activity, namely
+ trafficking in persons. Specifically, he engaged in the recruitment of Indian nationals using deception for the purposes of exploitation. Using social media and other forms of communication, he advertised the provision of student visas in Russia but, upon the recruits’ arrival in Russia, they were forced to fight on the front line of Russia’s war of aggression in Ukraine against their will. 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine5>MALAD WEST</AddressLine5>
+        <AddressCountry>India</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>India</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>07636845 </NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Director Identification Number</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>India</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0066</UniqueID>
+    <Names>
+      <Name>
+        <Name6>BABA VLOGS OVERSEAS RECRUITMENT SOLUTIONS PRIVATE LIMITED</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>BABAVLOGS</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that BABA VLOGS OVERSEAS RECRUITMENT SOLUTIONS PRIVATE LIMITED is or has been an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as it has been involved in a relevant activity, namely 
+trafficking in persons. 
+Specifically, BABA VLOGS OVERSEAS RECRUITMENT SOLUTIONS PRIVATE LIMITED engaged in the recruitment of Indian nationals using deception and then exploited them. In its public communications, it advertised well paid roles within “the Russian security sector” but, upon the Indian nationals’ arrival in Russia, they were forced to fight on the front line of Russia’s war of aggression against Ukraine under the menaces of penalty, namely verbal abuse, threats and physical violence.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>FNo.9, Sai Ashirwad Chsl</AddressLine1>
+        <AddressLine2>Gaulwada</AddressLine2>
+        <AddressLine3>Parnaka</AddressLine3>
+        <AddressLine4>Mulgaon, in Thane</AddressLine4>
+        <AddressLine6>Bassein (Vasai)</AddressLine6>
+        <AddressPostalCode>401201</AddressPostalCode>
+        <AddressCountry>India</AddressCountry>
+      </Address>
+    </Addresses>
+    <EmailAddresses>
+      <EmailAddress>info@babavlogs.in</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>India CIN: U78100MH2023PTC409367</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>India PAN: AALCB8806B</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>GIM0067</UniqueID>
+    <Names>
+      <Name>
+        <Name6>O.S.D BROS TRAVELS &amp; VISA SERVICES PRIVATE LIMITED</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that O.S.D BROS TRAVELS &amp; VISA SERVICES PRIVATE LIMITED is or has been an involved person under the Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 as it has been involved in a relevant activity, namely 
+trafficking in persons. 
+Specifically, O.S.D BROS TRAVELS &amp; VISA SERVICES PRIVATE LIMITED engaged in the recruitment of Indian nationals using deception and then exploited them. In its public communications, it advertised the provision of student visas to Russia but, upon the Indian nationals’ arrival in Russia, their passports were seized they were forced to fight on the front line of Russia’s war of aggression against Ukraine against their will.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Flt No - Nutan, Society Akashwani</AddressLine1>
+        <AddressLine2>Gate No.7 Malwani</AddressLine2>
+        <AddressLine3>Nr Nirankar Nagar</AddressLine3>
+        <AddressLine4>Malad (W)</AddressLine4>
+        <AddressLine6>Mumbai, Maharashtra</AddressLine6>
+        <AddressPostalCode>400095</AddressPostalCode>
+        <AddressCountry>India</AddressCountry>
+      </Address>
+    </Addresses>
+    <Websites>
+      <Website>osdtravels.com</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>deepak.pandey2309@gmail.com</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>India CIN: U63030MH2016PTC286797</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>India GSTIN: 27AACCO3869L1ZW</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
   </Designation>
   <Designation>
     <LastUpdated>09/04/2025</LastUpdated>
@@ -335715,7 +336909,7 @@ IMO 9198290 (“MD MIRANDA”) is involved in activity whose object or effect is
     </ShipDetails>
   </Designation>
   <Designation>
-    <LastUpdated>09/05/2025</LastUpdated>
+    <LastUpdated>29/04/2026</LastUpdated>
     <DateDesignated>09/05/2025</DateDesignated>
     <UniqueID>RUS2605</UniqueID>
     <Names>
@@ -382371,6 +383565,1380 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3495</UniqueID>
+    <Names>
+      <Name>
+        <Name6>M9 LOGISTICS (HK) LIMITED</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>MNine Global Logistics (HK) Limited</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that M9 LOGISTICS (HK) LIMITED is or has been 
+involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by owning M9 LOGISTICS CO., LTD., which is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by making available goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
+ 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Floor 5</AddressLine1>
+        <AddressLine2>Yau Lee Centre</AddressLine2>
+        <AddressLine3>45 Hoi Yuen Road</AddressLine3>
+        <AddressLine4>Kwun Tong</AddressLine4>
+        <AddressLine5>Kowloon</AddressLine5>
+        <AddressLine6>Hong Kong</AddressLine6>
+        <AddressCountry>China</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+852 6131 1855</PhoneNumber>
+      <PhoneNumber>+852 6745 7255</PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>m9logisitcs.cn</Website>
+      <Website>m9logistics.com</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>sales.hk@m9logistics.com</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <TypeOfEntities>
+          <TypeOfEntity>Limited Liability Company</TypeOfEntity>
+        </TypeOfEntities>
+        <Subsidiaries>
+          <Subsidiary>M9 LOGISTICS CO., LTD.</Subsidiary>
+        </Subsidiaries>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>Business Registration Number - 67092371</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>CR number: 2469563 </BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3496</UniqueID>
+    <Names>
+      <Name>
+        <Name6>ELTECH COMPONENT LLC</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>ELTECH Component</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>ELTECH COMPONENT LLC</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>ELTECH COMPONENT LTD</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>EltechComponent</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>Limited Liability Company Eltech Component</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>LLC ELTECH COMPONENT</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>ООО "ЭЛТЕХ КОМПОНЕНТ"</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that ELTECH COMPONENT LLC  is an “involved person” under the Russian (Sanctions) (EU Exit) Regulations 2019 because it is, or has been, involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by making available economic resources, goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Room 15, Building A</AddressLine1>
+        <AddressLine2>Building 3 Constitution Square</AddressLine2>
+        <AddressLine6>St Petersburg</AddressLine6>
+        <AddressPostalCode>196247</AddressPostalCode>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+7 812 3279090</PhoneNumber>
+      <PhoneNumber>+7 812 6355070</PhoneNumber>
+      <PhoneNumber>+8 800 5050040</PhoneNumber>
+      <PhoneNumber>+ 7 812 6355088</PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>https://www.eltech.spb.ru/</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>info@eltech.spb.ru</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <TypeOfEntities>
+          <TypeOfEntity>Limited Liability Company </TypeOfEntity>
+        </TypeOfEntities>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>INN: 7810540857
+OGRN:  1087847024363</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3497</UniqueID>
+    <Names>
+      <Name>
+        <Name6>SEA 2 SKY CO., LTD</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>บริษัท ซีทูสกาย จำกัด</NameNonLatinScript>
+        <NonLatinScriptType>Thai</NonLatinScriptType>
+        <NonLatinScriptLanguage>Thai</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that SEA 2 SKY CO., LTD is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by making available goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>1055/802-803 State Tower</AddressLine1>
+        <AddressLine2>35th Floor</AddressLine2>
+        <AddressLine3>Silom Road</AddressLine3>
+        <AddressLine4>Silom</AddressLine4>
+        <AddressLine5>Bangrak</AddressLine5>
+        <AddressLine6>Bangkok</AddressLine6>
+        <AddressPostalCode>10500</AddressPostalCode>
+        <AddressCountry>Thailand</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+66021348084</PhoneNumber>
+      <PhoneNumber>+66021348085</PhoneNumber>
+      <PhoneNumber>+660263220615</PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>https://www.sea2sky.co.th/</Website>
+    </Websites>
+    <EntityDetails>
+      <Entity>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>Thai business registry number: 0105554079139</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3498</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Michel</Name1>
+        <Name2>Guy</Name2>
+        <Name3>France</Name3>
+        <Name4>Awana</Name4>
+        <Name6>ATEBA</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Michel Guy France Awana ATEBA is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following grounds: 
+ 
+He is or has been 
+involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by providing support for or promoting actions which destabilise Ukraine or undermine or threaten its territorial integrity or independence. As Director and Chief Executive Officer of Enangue Holding, an entity incorporated in France but headquartered in Cameroon, 
+he has been involved in the recruitment of foreign nationals, largely from Cameroon, to join the Alabuga Start Programme. The Alabuga Start Programme is a recruitment scheme based in Russia which avails itself of deceptive practices to hire individuals, often from economically insecure backgrounds, 
+to work in Russia&amp;#39;s Alabuga Special Economic Zone in the Republic of Tatarstan. These individuals assist in the production of military drones within the Alabuga Special Economic Zone which are then deployed as attack and reconnaissance vehicles in Ukraine. 
+He is or has been working as a director or equivalent of Enangue Holding, 
+an entity incorporated in France but headquartered in Cameroon
+, which has been involved in the recruitment of foreign nationals, largely from Cameroon, on behalf of the Alabuga Start Programme. 
+The Alabuga Start Programme is a Russian recruitment scheme that hires individuals from outside Russia, usually from economically insecure backgrounds, using deceptive practices and puts them to work in Russia&amp;#39;s Alabuga Special Economic Zone in the Republic of Tatarstan. These individuals assist in the production of military drones within the Alabuga Special Economic Zone which are then deployed as attack and reconnaissance vehicles in Ukraine.
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>05/04/1985</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>0921768</PassportNumber>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Cameroon</Nationality>
+          <Nationality>France</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>111507186</NationalIdentifierNumber>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <CountryOfBirth>Cameroon</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3499</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Elmir</Name1>
+        <Name6>SAIFULLIN</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Эльмир Сайфуллин</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Elmir SAIFULLIN is
+ an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019
+ on the basis that
+ he 
+is
+ or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by providing support for or promoting actions which destabilise Ukraine or undermine or threaten its territorial integrity, sovereignty or independence. 
+ 
+Specifically, 
+Elmir SAIFULLIN 
+has been involved in the recruitment of foreign nationals on behalf of Alabuga Start Programme. The Alabuga Start Programme is a Russian recruitment scheme that hires individuals from outside Russia, usually from economically insecure backgrounds, using deceptive practices and puts them to work in Russia&amp;#39;s Alabuga Special Economic Zone in the Republic of Tatarstan. These individuals assist in the production of military drones within the Alabuga Special Economic Zone which are then deployed as attack and reconnaissance vehicles in Ukraine.
+</UKStatementofReasons>
+    <EmailAddresses>
+      <EmailAddress>esaifullin@alabuga.ru </EmailAddress>
+    </EmailAddresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>22/07/1994</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>9220/818121 </PassportNumber>
+            <PassportAdditionalInformation>Russian Passport</PassportAdditionalInformation>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>701748646060 </NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Tax ID</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3500</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Chulpan</Name1>
+        <Name6>ISLAMOVA</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Чулпан Исламова</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Chulpan ISLAMOVA is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019
+ on the basis that
+ she 
+is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by providing support for or promoting actions which destabilise Ukraine or undermine or threaten its territorial integrity, sovereignty or independence.
+Specifically, 
+Chulpan ISLAMOVA has been involved in the recruitment of foreign nationals on behalf of Alabuga Start Programme. The Alabuga Start Programme is a Russian recruitment scheme that hires individuals from outside Russia, usually from economically insecure backgrounds, using deceptive practices and puts them to work in Russia&amp;#39;s Alabuga Special Economic Zone in the Republic of Tatarstan. These individuals assist in the production of military drones within the Alabuga Special Economic Zone which are then deployed as attack and reconnaissance vehicles in Ukraine.
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>07/07/1998</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>9217/372996</PassportNumber>
+            <PassportAdditionalInformation>Russian Passport</PassportAdditionalInformation>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>160403461083 </NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Tax ID</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Female</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3501</UniqueID>
+    <Names>
+      <Name>
+        <Name6>CANOPUS TRADING GROUP CO., LTD </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>CANOPUS TRADING GROUP COMPANY LIMITED </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>คาโนปัส เทรดดิ้ง กรุ๊ป จำกัด </NameNonLatinScript>
+        <NonLatinScriptType>Thai</NonLatinScriptType>
+        <NonLatinScriptLanguage>Thai</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that CANOPUS TRADING GROUP CO., LTD  is an “involved person” under the Russian (Sanctions) (EU Exit) Regulations 2019 because it is, or has been, involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by making available economic resources, goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>400/728, Village No. 12</AddressLine1>
+        <AddressLine2>Nong Prue</AddressLine2>
+        <AddressLine3>Bang Lamung</AddressLine3>
+        <AddressLine6>Chon Buri</AddressLine6>
+        <AddressPostalCode>20150</AddressPostalCode>
+        <AddressCountry>Thailand</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+66992731367 </PhoneNumber>
+      <PhoneNumber>090-970-9725 </PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>https://canopus.in.th/  </Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>info@canopus.in.th </EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>Thai business registry number: 0205566027596</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3502</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Savsan</Name1>
+        <Name2>Ashuraliyevna</Name2>
+        <Name6>YUSUPOVA</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Савсан Ашуралиевна Юсупова </NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Savsan Ashuraliyevna YUSUPOVA is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019
+ on the basis that
+ she 
+is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by providing support for or promoting actions which destabilise Ukraine or undermine or threaten its territorial integrity, sovereignty or independence.
+Specifically, 
+Savsan Ashuraliyevna YUSUPOVA has been involved in the recruitment of foreign nationals on behalf of Alabuga Start Programme. The Alabuga Start Programme is a Russian recruitment scheme that hires individuals from outside Russia, usually from economically insecure backgrounds, using deceptive practices and puts them to work in Russia&amp;#39;s Alabuga Special Economic Zone in the Republic of Tatarstan. These individuals assist in the production of military drones within the Alabuga Special Economic Zone which are then deployed as attack and reconnaissance vehicles in Ukraine.
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>25/03/1998</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>5018/812589 </PassportNumber>
+            <PassportAdditionalInformation>Russian Passport</PassportAdditionalInformation>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>753621402037 </NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Tax ID</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Female</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3503</UniqueID>
+    <Names>
+      <Name>
+        <Name6>TANAQ CO., LTD </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>TNAQ Company Limited </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>บริษัท ทีเอเอ็นเอคิว จำกัด </NameNonLatinScript>
+        <NonLatinScriptType>Thai</NonLatinScriptType>
+        <NonLatinScriptLanguage>Thai</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers there are reasonable grounds to suspect that TANAQ CO., LTD is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by making available goods, technology or funds, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.    
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>9 G Tower, 32nd Floor</AddressLine1>
+        <AddressLine2>Rama 9 Road</AddressLine2>
+        <AddressLine3>Huai Khwang</AddressLine3>
+        <AddressLine6>Bangkok</AddressLine6>
+        <AddressPostalCode>10310</AddressPostalCode>
+        <AddressCountry>Thailand</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+66923368125 </PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>https://www.tanaq.co.th/ </Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>equipment_supply@tanaq.co.th </EmailAddress>
+      <EmailAddress>info@tanaq.co.th </EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>Thai business register number: 0105566092852 </BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3504</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Sergey</Name1>
+        <Name2>Nikolaevich</Name2>
+        <Name6>KASHCHENKO</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Sergey</Name1>
+        <Name2>Nikolaevich</Name2>
+        <Name6>KASCHENKO</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>СЕРГЕЙ НИКОЛАЕВИЧ КАЩЕНКО</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect Sergey Nikolaevich KASHCHENKO 
+is an “involved person” under the Russian (Sanctions) (EU Exit) Regulations 2019 because he is, or has been, involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by working as a director of a person (LLC SNK TRADE) making available goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Tankistov St, 150A</AddressLine1>
+        <AddressLine6>Chelyabinsk</AddressLine6>
+        <AddressPostalCode>454091</AddressPostalCode>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>743807733278</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Tax ID</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Positions>
+          <Position>Owner and director of LLC SNK TRADE</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3505</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Mikhail</Name1>
+        <Name2>Yurievich</Name2>
+        <Name6>VOLOVIK</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Михаил Юрьевич Воловик </NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Mikhail Yurievich VOLOVIK is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by 
+owning or controlling directly or indirectly a person 
+making available goods, technology or funds that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>25/05/1963</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3509</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Egor</Name1>
+        <Name2>Valerevich</Name2>
+        <Name6>NIKITIN</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Egor</Name1>
+        <Name2>Valerievich</Name2>
+        <Name6>NIKITIN </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Yagor</Name1>
+        <Name2>Valerievich</Name2>
+        <Name6>NIKITIN </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Yegor</Name1>
+        <Name2>Valerievich</Name2>
+        <Name6>NIKITIN </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>ЕГОР ВАЛЕРЬЕВИЧ НИКИТИН</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Egor Valerevich NIKITIN is an involved person under the Russian (Sanctions) (EU Exit) Regulations 2019 because he is, or has been, involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by owning or controlling an entity that is or has been making available economic resources, goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.  
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>dd/mm/1977</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Belarus</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>673210242764</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>INN</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Positions>
+          <Position>Owner of LLC Zavod Santeks</Position>
+          <Position>Owner of LLC Shefmontazh</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Minsk</TownOfBirth>
+            <CountryOfBirth>Belarus</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3510</UniqueID>
+    <Names>
+      <Name>
+        <Name6>M9 LOGISTICS CO., LTD</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>Shanghai Shiran International Freight Forwarding Co., Ltd</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>上海石冉国际货运代理有限公司 </NameNonLatinScript>
+        <NonLatinScriptType>Chinese</NonLatinScriptType>
+        <NonLatinScriptLanguage>Chinese</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect
+ that M9 LOGISTICS CO., LTD. is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by making available goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Room 164</AddressLine1>
+        <AddressLine2>Building 5</AddressLine2>
+        <AddressLine3>No. 456 Liangxin Road</AddressLine3>
+        <AddressLine4>Laogang Town</AddressLine4>
+        <AddressLine5>Pudong New Area</AddressLine5>
+        <AddressLine6>Shanghai</AddressLine6>
+        <AddressPostalCode>200135</AddressPostalCode>
+        <AddressCountry>China</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+86 021 52790180</PhoneNumber>
+      <PhoneNumber>+86 021 80125158</PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>m9logistics.com</Website>
+      <Website>m9logisitcs.cn</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>niceluohuan@163.com</EmailAddress>
+      <EmailAddress>de@cn.m9logistics.com</EmailAddress>
+      <EmailAddress>accountant@cn.m9logistics.com</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <TypeOfEntities>
+          <TypeOfEntity>Limited Liability Company </TypeOfEntity>
+        </TypeOfEntities>
+        <ParentCompanies>
+          <ParentCompany>M9 LOGISTICS (HK) LIMITED</ParentCompany>
+        </ParentCompanies>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>310115002630983
+Unified Social Credit Code: 9131011533249393X3</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3511</UniqueID>
+    <Names>
+      <Name>
+        <Name6>LLC SNK TRADE</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>LIMITED LIABILITY COMPANY SNK TRADE</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>ООО СНК ТРЕЙД</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that LLC SNK TRADE is an “involved person” under the Russian (Sanctions) (EU Exit) Regulations 2019 because it is, or has been, involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by making available goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>150A Tankistov St.</AddressLine1>
+        <AddressLine6>Chelyabinsk</AddressLine6>
+        <AddressPostalCode>454091</AddressPostalCode>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+7 (900) 0689514 </PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>snktrade.ru</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>info@snktrade.ru</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <TypeOfEntities>
+          <TypeOfEntity>Limited Liability Company</TypeOfEntity>
+        </TypeOfEntities>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>OGRN: 1177456043907</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 7453309640</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3512</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Anastasia </Name1>
+        <Name6>BARYSHEVA </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Анастасия Барышева </NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Anastasia BARYSHEVA is
+ an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019
+ on the basis that
+ she 
+is
+ or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by providing support for or promoting actions which destabilise Ukraine or undermine or threaten its territorial integrity sovereignty or independence. 
+ 
+Specifically, Anastasia BARYSHEVA has been involved in the recruitment of foreign nationals on behalf of Alabuga Start Programme. The Alabuga Start Programme is a Russian recruitment scheme that hires individuals from outside Russia, usually from economically insecure backgrounds, using deceptive practices and puts them to work in Russia&amp;#39;s Alabuga Special Economic Zone in the Republic of Tatarstan. These individuals assist in the production of military drones within the Alabuga Special Economic Zone which are then deployed as attack and reconnaissance vehicles in Ukraine. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>27/09/1997</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>9217/276222 </PassportNumber>
+            <PassportAdditionalInformation>Russian Passport </PassportAdditionalInformation>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>165721179731 </NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Tax ID</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Genders>
+          <Gender>Female</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3513</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Konstantin </Name1>
+        <Name6>TRIFONOV </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>Константин Трифонов </NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Konstantin TRIFONOV is
+ an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019
+ on the basis that
+ he 
+is
+ or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by providing support for or promoting actions which destabilise Ukraine or undermine or threaten its territorial integrity, sovereignty or independence. 
+ 
+Specifically, 
+Konstantin TRIFONOV 
+has been involved in the recruitment of foreign nationals on behalf of Alabuga Start Programme. The Alabuga Start Programme is a Russian recruitment scheme that hires individuals from outside Russia, usually from economically insecure backgrounds, using deceptive practices and puts them to work in Russia&amp;#39;s Alabuga Special Economic Zone in the Republic of Tatarstan. These individuals assist in the production of military drones within the Alabuga Special Economic Zone which are then deployed as attack and reconnaissance vehicles in Ukraine. 
+</UKStatementofReasons>
+    <PhoneNumbers>
+      <PhoneNumber>+7 (904) 678 16 48 </PhoneNumber>
+    </PhoneNumbers>
+    <EmailAddresses>
+      <EmailAddress>KTrifonov@alabuga.ru</EmailAddress>
+    </EmailAddresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>11/03/1995</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3514</UniqueID>
+    <Names>
+      <Name>
+        <Name6>ENANGUE HOLDING</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that ENANGUE HOLDING is
+ an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019
+ on the basis that
+ it 
+is
+ or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by providing support for or promoting actions which destabilise Ukraine or undermine or threaten its territorial integrity, sovereignty or independence. 
+ 
+Specifically, ENANGUE HOLDING has been involved in the recruitment of foreign nationals, largely from Cameroon, on behalf of Alabuga Start Programme. The Alabuga Start Programme is a Russian recruitment scheme that hires individuals from outside Russia, usually from economically insecure backgrounds, using deceptive practices and puts them to work in Russia&amp;#39;s Alabuga Special Economic Zone in the Republic of Tatarstan. These individuals assist in the production of military drones within the Alabuga Special Economic Zone which are then deployed as attack and reconnaissance vehicles in Ukraine. 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>BP 16634</AddressLine1>
+        <AddressLine2>LIEU DIT OLEZOA</AddressLine2>
+        <AddressLine6>YAOUNDE</AddressLine6>
+        <AddressPostalCode>999999</AddressPostalCode>
+        <AddressCountry>Cameroon</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+237 6 90 49 76 60 </PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>enangueholding.com </Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>contacts@enangueholding.com</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>France SIREN Number - 889 164 687</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>05/05/2026</LastUpdated>
+    <DateDesignated>05/05/2026</DateDesignated>
+    <UniqueID>RUS3515</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Pavel</Name1>
+        <Name2>Valerevich</Name2>
+        <Name6>NIKITIN </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Pavel</Name1>
+        <Name2>Valerievich</Name2>
+        <Name6>NIKITIN </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>ПАВЕЛ ВАЛЕРЬЕВИЧ НИКИТИН</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Trust Services Sanctions|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Pavel Valerevich NIKITIN is an involved person under the Russian (Sanctions) (EU Exit) Regulations 2019 because he is, or has been, involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by owning or controlling entities, LLC RUSTAKT and SANTROSS LLC, that are or have been making available economic resources, goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>dd/mm/1977</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Russia</Nationality>
+        </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>771472440032</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Tax ID</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
+        <Positions>
+          <Position>Owner of LLC RUSTAKT </Position>
+          <Position>Owner of SANTROSS LLC </Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Minsk</TownOfBirth>
+            <CountryOfBirth>Belarus</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
   </Designation>
   <Designation>
     <LastUpdated>14/01/2022</LastUpdated>
