@@ -2480,14 +2480,9 @@
         <idNumber>www.vtb.ru</idNumber>
       </id>
       <id>
-        <uid>151145</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>172703</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+        <uid>146669</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
       <id>
         <uid>146548</uid>
@@ -2505,9 +2500,14 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>146669</uid>
-        <idType>Target Type</idType>
-        <idNumber>Financial Institution</idNumber>
+        <uid>151145</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>172703</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -2790,6 +2790,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>151161</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>146690</uid>
         <idType>Executive Order 14024 Directive Information -</idType>
         <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
@@ -2808,11 +2813,6 @@
         <uid>146962</uid>
         <idType>Effective Date (EO 14024 Directive 3):</idType>
         <idNumber>26 Mar 2022</idNumber>
-      </id>
-      <id>
-        <uid>151161</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>115820</uid>
@@ -2918,21 +2918,6 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>151187</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>172700</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
-        <uid>146596</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>18 Aug 1922</idNumber>
-      </id>
-      <id>
         <uid>146597</uid>
         <idType>Target Type</idType>
         <idNumber>State-Owned Enterprise</idNumber>
@@ -2941,6 +2926,21 @@
         <uid>146598</uid>
         <idType>Target Type</idType>
         <idNumber>Financial Institution</idNumber>
+      </id>
+      <id>
+        <uid>146596</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>18 Aug 1922</idNumber>
+      </id>
+      <id>
+        <uid>151187</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>172700</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
         <uid>115748</uid>
@@ -3099,16 +3099,6 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>151146</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>182491</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
         <uid>182492</uid>
         <idType>Target Type</idType>
         <idNumber>Financial Institution</idNumber>
@@ -3137,6 +3127,16 @@
         <uid>146850</uid>
         <idType>Effective Date (EO 14024 Directive 3):</idType>
         <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>182491</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>151146</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -3221,11 +3221,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>152962</uid>
-        <idType>Target Type</idType>
-        <idNumber>Financial Institution</idNumber>
-      </id>
-      <id>
         <uid>143508</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -3234,6 +3229,11 @@
         <uid>173856</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>152962</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
       <id>
         <uid>115752</uid>
@@ -3356,6 +3356,16 @@
         <idNumber>www.sberbank.com</idNumber>
       </id>
       <id>
+        <uid>151212</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>172698</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
         <uid>172817</uid>
         <idType>Target Type</idType>
         <idNumber>Financial Institution</idNumber>
@@ -3389,16 +3399,6 @@
         <uid>146816</uid>
         <idType>Effective Date (EO 14024 Directive 3):</idType>
         <idNumber>26 Mar 2022</idNumber>
-      </id>
-      <id>
-        <uid>151212</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>172698</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -30404,6 +30404,11 @@
     </programList>
     <idList>
       <id>
+        <uid>166733</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>1963</idNumber>
+      </id>
+      <id>
         <uid>166734</uid>
         <idType>Organization Type:</idType>
         <idNumber>Extraction of crude petroleum</idNumber>
@@ -30432,11 +30437,6 @@
         <uid>166771</uid>
         <idType>Effective Date (EO 14014 Directive 1):</idType>
         <idNumber>15 Dec 2023</idNumber>
-      </id>
-      <id>
-        <uid>166733</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>1963</idNumber>
       </id>
     </idList>
     <akaList>
@@ -30491,11 +30491,6 @@
         <idCountry>United States</idCountry>
       </id>
       <id>
-        <uid>178479</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>178539</uid>
         <idType>Executive Order 14059 information:</idType>
         <idNumber>Prohibition on any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which this target has any interest</idNumber>
@@ -30509,6 +30504,11 @@
         <uid>178541</uid>
         <idType>Executive Order 14059 information:</idType>
         <idNumber>Prohibition on any United States person from investing in or purchasing significant amounts of equity or debt instruments of this target</idNumber>
+      </id>
+      <id>
+        <uid>178479</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <akaList>
