@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-05-20T23:00:04.714Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-05-21T23:00:00.988Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -15655,59 +15655,6 @@ Review pursuant to Security Council resolution 1822 (2008) was concluded on 22 J
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
     <INDIVIDUAL>
-      <DATAID>111449</DATAID>
-      <VERSIONNUM>1</VERSIONNUM>
-      <FIRST_NAME>MAJEED</FIRST_NAME>
-      <SECOND_NAME>ABDUL CHAUDHRY</SECOND_NAME>
-      <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-      <REFERENCE_NUMBER>QDi.054</REFERENCE_NUMBER>
-      <LISTED_ON>2001-12-24</LISTED_ON>
-      <COMMENTS1>Reportedly deceased. Review pursuant to Security Council resolution 1822 (2008) was concluded
-on 1 Jun. 2010.  Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
-      <NATIONALITY>
-        <VALUE>Pakistan</VALUE>
-      </NATIONALITY>
-      <LIST_TYPE>
-        <VALUE>UN List</VALUE>
-      </LIST_TYPE>
-      <LAST_DAY_UPDATED>
-        <VALUE>2019-05-01</VALUE>
-        <VALUE>2022-11-08</VALUE>
-        <VALUE>2023-02-02</VALUE>
-      </LAST_DAY_UPDATED>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Majeed, Abdul</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Majeed Chaudhry Abdul</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Majid, Abdul</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
-      </INDIVIDUAL_ADDRESS>
-      <INDIVIDUAL_DATE_OF_BIRTH>
-        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-        <DATE>1939-04-15</DATE>
-      </INDIVIDUAL_DATE_OF_BIRTH>
-      <INDIVIDUAL_DATE_OF_BIRTH>
-        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-        <YEAR>1938</YEAR>
-      </INDIVIDUAL_DATE_OF_BIRTH>
-      <INDIVIDUAL_PLACE_OF_BIRTH>
-        <COUNTRY/>
-      </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
-      <SORT_KEY/>
-      <SORT_KEY_LAST_MOD/>
-    </INDIVIDUAL>
-    <INDIVIDUAL>
       <DATAID>112032</DATAID>
       <VERSIONNUM>1</VERSIONNUM>
       <FIRST_NAME>MAHMOOD</FIRST_NAME>
@@ -15782,51 +15729,6 @@ on 1 Jun. 2010.  Review pursuant to Security Council resolution 2253 (2015) was 
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
         <YEAR>1945</YEAR>
-      </INDIVIDUAL_DATE_OF_BIRTH>
-      <INDIVIDUAL_PLACE_OF_BIRTH>
-        <COUNTRY/>
-      </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
-      <SORT_KEY/>
-      <SORT_KEY_LAST_MOD/>
-    </INDIVIDUAL>
-    <INDIVIDUAL>
-      <DATAID>113440</DATAID>
-      <VERSIONNUM>1</VERSIONNUM>
-      <FIRST_NAME>MOHAMMED</FIRST_NAME>
-      <SECOND_NAME>TUFAIL</SECOND_NAME>
-      <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-      <REFERENCE_NUMBER>QDi.056</REFERENCE_NUMBER>
-      <LISTED_ON>2001-12-24</LISTED_ON>
-      <COMMENTS1>Served as a director of Ummah Tameer e-Nau (UTN) (QDe.068). Reportedly deceased. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
-      <NATIONALITY>
-        <VALUE>Pakistan</VALUE>
-      </NATIONALITY>
-      <LIST_TYPE>
-        <VALUE>UN List</VALUE>
-      </LIST_TYPE>
-      <LAST_DAY_UPDATED>
-        <VALUE>2011-01-19</VALUE>
-        <VALUE>2019-05-01</VALUE>
-        <VALUE>2022-11-08</VALUE>
-        <VALUE>2023-02-02</VALUE>
-      </LAST_DAY_UPDATED>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Tufail, S.M.</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Tuffail, Sheik Mohammed</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
-      </INDIVIDUAL_ADDRESS>
-      <INDIVIDUAL_DATE_OF_BIRTH>
-        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-        <DATE>1930-05-05</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <COUNTRY/>
@@ -24441,153 +24343,6 @@ Abdul Rosyid Ridho Ba’asyir</NOTE>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
     <INDIVIDUAL>
-      <DATAID>2983746</DATAID>
-      <VERSIONNUM>1</VERSIONNUM>
-      <FIRST_NAME>MUSTAFA</FIRST_NAME>
-      <SECOND_NAME>HAJJI</SECOND_NAME>
-      <THIRD_NAME>MUHAMMAD</THIRD_NAME>
-      <FOURTH_NAME>KHAN</FOURTH_NAME>
-      <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-      <REFERENCE_NUMBER>QDi.306</REFERENCE_NUMBER>
-      <LISTED_ON>2012-03-14</LISTED_ON>
-      <NAME_ORIGINAL_SCRIPT>مصطفى حجي محمد خان</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Al-Qaida (QDe.004) facilitator, courier and operative. As of 2010, facilitated activities for senior Pakistan-based Al-Qaida operatives. Reportedly killed in a drone strike on 1 October 2012 in Waziristan, Pakistan. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
-      <NATIONALITY>
-        <VALUE>Pakistan</VALUE>
-        <VALUE>Saudi Arabia</VALUE>
-      </NATIONALITY>
-      <LIST_TYPE>
-        <VALUE>UN List</VALUE>
-      </LIST_TYPE>
-      <LAST_DAY_UPDATED>
-        <VALUE>2021-11-15</VALUE>
-        <VALUE>2025-03-11</VALUE>
-      </LAST_DAY_UPDATED>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>حسن غول (Hassan Ghul; Hassan Gul; Hasan Gul)</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Khalid Mahmud</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Low</QUALITY>
-        <ALIAS_NAME>Ahmad Shahji</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Low</QUALITY>
-        <ALIAS_NAME>Mustafa Muhammad</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Low</QUALITY>
-        <ALIAS_NAME>Abu Gharib al-Madani</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Low</QUALITY>
-        <ALIAS_NAME>أبو شيماء (Abu-Shaima; Abu- Shayma)</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
-      </INDIVIDUAL_ADDRESS>
-      <INDIVIDUAL_DATE_OF_BIRTH>
-        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-        <NOTE>Between Aug. and Sep. 1977</NOTE>
-      </INDIVIDUAL_DATE_OF_BIRTH>
-      <INDIVIDUAL_DATE_OF_BIRTH>
-        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-        <YEAR>1976</YEAR>
-      </INDIVIDUAL_DATE_OF_BIRTH>
-      <INDIVIDUAL_PLACE_OF_BIRTH>
-        <CITY>Al-Madinah</CITY>
-        <COUNTRY>Saudi Arabia</COUNTRY>
-      </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_PLACE_OF_BIRTH>
-        <CITY>Sangrar</CITY>
-        <STATE_PROVINCE>Sindh Province</STATE_PROVINCE>
-        <COUNTRY>Pakistan</COUNTRY>
-      </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
-      <SORT_KEY/>
-      <SORT_KEY_LAST_MOD/>
-    </INDIVIDUAL>
-    <INDIVIDUAL>
-      <DATAID>2983834</DATAID>
-      <VERSIONNUM>1</VERSIONNUM>
-      <FIRST_NAME>HAFIZ</FIRST_NAME>
-      <SECOND_NAME>ABDUL SALAM</SECOND_NAME>
-      <THIRD_NAME>BHUTTAVI</THIRD_NAME>
-      <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-      <REFERENCE_NUMBER>QDi.307</REFERENCE_NUMBER>
-      <LISTED_ON>2012-03-14</LISTED_ON>
-      <COMMENTS1>Founding member of Lashkar-e-Tayyiba (QDe.118) and deputy to Lashkar-e-Tayyiba leader Hafiz Muhammad Saeed (QDi.263). Confirmed deceased. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
-      <TITLE>
-        <VALUE>Maulavi</VALUE>
-        <VALUE>Mullah</VALUE>
-      </TITLE>
-      <NATIONALITY>
-        <VALUE>Pakistan</VALUE>
-      </NATIONALITY>
-      <LIST_TYPE>
-        <VALUE>UN List</VALUE>
-      </LIST_TYPE>
-      <LAST_DAY_UPDATED>
-        <VALUE>2021-11-15</VALUE>
-        <VALUE>2023-12-19</VALUE>
-      </LAST_DAY_UPDATED>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Hafiz Abdul Salam Bhattvi</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Hafiz Abdusalam Budvi</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Hafiz Abdussalaam Bhutvi</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Abdul Salam Budvi</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Abdul Salam Bhattwi</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Abdul Salam Bhutvi</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Mullah Abdul Salaam Bhattvi</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Molvi Abdursalam Bhattvi</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
-      </INDIVIDUAL_ADDRESS>
-      <INDIVIDUAL_DATE_OF_BIRTH>
-        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-        <YEAR>1940</YEAR>
-      </INDIVIDUAL_DATE_OF_BIRTH>
-      <INDIVIDUAL_PLACE_OF_BIRTH>
-        <CITY>Gujranwala</CITY>
-        <STATE_PROVINCE>Punjab Province</STATE_PROVINCE>
-        <COUNTRY>Pakistan</COUNTRY>
-      </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
-      <SORT_KEY/>
-      <SORT_KEY_LAST_MOD/>
-    </INDIVIDUAL>
-    <INDIVIDUAL>
       <DATAID>2983973</DATAID>
       <VERSIONNUM>1</VERSIONNUM>
       <FIRST_NAME>ZAFAR</FIRST_NAME>
@@ -24803,71 +24558,6 @@ Al-Akhtar Trust International (QDe.121).  Review pursuant to Security Council re
         <COUNTRY/>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT/>
-      <SORT_KEY/>
-      <SORT_KEY_LAST_MOD/>
-    </INDIVIDUAL>
-    <INDIVIDUAL>
-      <DATAID>2999482</DATAID>
-      <VERSIONNUM>1</VERSIONNUM>
-      <FIRST_NAME>AAMIR</FIRST_NAME>
-      <SECOND_NAME>ALI</SECOND_NAME>
-      <THIRD_NAME>CHAUDHRY</THIRD_NAME>
-      <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-      <REFERENCE_NUMBER>QDi.312</REFERENCE_NUMBER>
-      <LISTED_ON>2012-10-18</LISTED_ON>
-      <NAME_ORIGINAL_SCRIPT>عامر علی چوہدری</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Electronics and explosives expert for Tehrik-e Taliban Pakistan (TTP) (QDe.132). Involved in attack planning for TTP. Provided financial and logistical support for TTP and participated in TTP-sponsored militant training. Reportedly deceased. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
-      <NATIONALITY>
-        <VALUE>Pakistan</VALUE>
-      </NATIONALITY>
-      <LIST_TYPE>
-        <VALUE>UN List</VALUE>
-      </LIST_TYPE>
-      <LAST_DAY_UPDATED>
-        <VALUE>2019-05-01</VALUE>
-        <VALUE>2022-11-08</VALUE>
-        <VALUE>2023-02-02</VALUE>
-      </LAST_DAY_UPDATED>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Aamir Ali Chaudary</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Aamir Ali Choudry</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Amir Ali Chaudry</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Low</QUALITY>
-        <ALIAS_NAME>Huzaifa</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
-      </INDIVIDUAL_ADDRESS>
-      <INDIVIDUAL_DATE_OF_BIRTH>
-        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-        <DATE>1986-08-03</DATE>
-      </INDIVIDUAL_DATE_OF_BIRTH>
-      <INDIVIDUAL_PLACE_OF_BIRTH>
-        <COUNTRY/>
-      </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-        <NUMBER>BN 4196361</NUMBER>
-        <ISSUING_COUNTRY>Pakistan</ISSUING_COUNTRY>
-        <DATE_OF_ISSUE>2008-10-28</DATE_OF_ISSUE>
-        <NOTE>expiring 27 Oct. 2013</NOTE>
-      </INDIVIDUAL_DOCUMENT>
-      <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-        <NUMBER>33202-7126636-9</NUMBER>
-        <ISSUING_COUNTRY>Pakistan</ISSUING_COUNTRY>
-      </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -27244,53 +26934,6 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
         <NOTE>expires 28 May 2017, issued under name Wiji Joko Santoso, born 14 Jul. 1975 in
 Rembang, Jawa Tengah, Indonesia</NOTE>
       </INDIVIDUAL_DOCUMENT>
-      <SORT_KEY/>
-      <SORT_KEY_LAST_MOD/>
-    </INDIVIDUAL>
-    <INDIVIDUAL>
-      <DATAID>6908452</DATAID>
-      <VERSIONNUM>1</VERSIONNUM>
-      <FIRST_NAME>MAULANA</FIRST_NAME>
-      <SECOND_NAME>FAZLULLAH</SECOND_NAME>
-      <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-      <REFERENCE_NUMBER>QDi.352</REFERENCE_NUMBER>
-      <LISTED_ON>2015-04-07-04:00</LISTED_ON>
-      <COMMENTS1>Confirmed deceased on 13 June 2018. Commander of Tehrik-e Taliban Pakistan (TTP) (QDe.132) since 7 Nov. 2013. Led the local TTP in Pakistan’s northwest valley of Swat from 2007 to 2009. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019.Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 October 2023.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
-      <LIST_TYPE>
-        <VALUE>UN List</VALUE>
-      </LIST_TYPE>
-      <LAST_DAY_UPDATED>
-        <VALUE>2019-05-01</VALUE>
-        <VALUE>2023-10-30</VALUE>
-        <VALUE>2023-12-19</VALUE>
-      </LAST_DAY_UPDATED>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Mullah Fazlullah</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Fazal Hayat</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Low</QUALITY>
-        <ALIAS_NAME>Mullah Radio</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ADDRESS>
-        <NOTE>Afghanistan / Pakistan border region</NOTE>
-      </INDIVIDUAL_ADDRESS>
-      <INDIVIDUAL_DATE_OF_BIRTH>
-        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-        <YEAR>1974</YEAR>
-      </INDIVIDUAL_DATE_OF_BIRTH>
-      <INDIVIDUAL_PLACE_OF_BIRTH>
-        <CITY>Kuza Bandai village, Swat Valley</CITY>
-        <STATE_PROVINCE>Khyber Pakhtunkhawa Province</STATE_PROVINCE>
-        <COUNTRY>Pakistan</COUNTRY>
-      </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT/>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
@@ -32123,90 +31766,6 @@ Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 O
         <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
         <NUMBER>13601334</NUMBER>
         <ISSUING_COUNTRY>Tunisia</ISSUING_COUNTRY>
-      </INDIVIDUAL_DOCUMENT>
-      <SORT_KEY/>
-      <SORT_KEY_LAST_MOD/>
-    </INDIVIDUAL>
-    <INDIVIDUAL>
-      <DATAID>6908887</DATAID>
-      <VERSIONNUM>1</VERSIONNUM>
-      <FIRST_NAME>ABDUL</FIRST_NAME>
-      <SECOND_NAME>REHMAN</SECOND_NAME>
-      <THIRD_NAME>MAKKI</THIRD_NAME>
-      <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-      <REFERENCE_NUMBER>QDi.433</REFERENCE_NUMBER>
-      <LISTED_ON>2023-01-16</LISTED_ON>
-      <COMMENTS1>He is deputy Amir/Chief of LASHKAR-E-TAYYIBA (LET) (QDe.118) a.k.a JAMAAT-UD-DAWA (JUD) and Head of Political Affairs Wing JUD/LET. He also served as head of LET’s foreign relations department and member of Shura (governing body). He is the brother-in-law of JUD/LET Chief Hafiz Muhammad Saeed (QDi.263).  Father’s name is Hafiz Abdullah Bahwalpuri. Photo is available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
-      <NATIONALITY>
-        <VALUE>Pakistan</VALUE>
-      </NATIONALITY>
-      <LIST_TYPE>
-        <VALUE>UN List</VALUE>
-      </LIST_TYPE>
-      <LAST_DAY_UPDATED>
-        <VALUE/>
-      </LAST_DAY_UPDATED>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Abdur Rehman Makki</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Abdur Rahman Makki</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Abdul Rahman Makki</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Hafiz Abdul Rahman Makki</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Hafiz Abdul Rehman Makki</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Hafiz Abdul Rehman</ALIAS_NAME>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ADDRESS>
-        <STREET>Tayyiba Markaz</STREET>
-        <CITY>Muridke</CITY>
-        <STATE_PROVINCE>Punjab Province</STATE_PROVINCE>
-        <COUNTRY>Pakistan</COUNTRY>
-      </INDIVIDUAL_ADDRESS>
-      <INDIVIDUAL_DATE_OF_BIRTH>
-        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-        <DATE>1954-12-10</DATE>
-      </INDIVIDUAL_DATE_OF_BIRTH>
-      <INDIVIDUAL_PLACE_OF_BIRTH>
-        <CITY>Bahawalpur</CITY>
-        <STATE_PROVINCE>Punjab Province</STATE_PROVINCE>
-        <COUNTRY>Pakistan</COUNTRY>
-      </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-        <NUMBER>CG9153881</NUMBER>
-        <ISSUING_COUNTRY>Pakistan</ISSUING_COUNTRY>
-        <DATE_OF_ISSUE>2007-11-02</DATE_OF_ISSUE>
-      </INDIVIDUAL_DOCUMENT>
-      <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-        <NUMBER>A5199819</NUMBER>
-        <ISSUING_COUNTRY>Pakistan</ISSUING_COUNTRY>
-      </INDIVIDUAL_DOCUMENT>
-      <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-        <NUMBER>6110111883885</NUMBER>
-        <ISSUING_COUNTRY>Pakistan</ISSUING_COUNTRY>
-      </INDIVIDUAL_DOCUMENT>
-      <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-        <NUMBER>34454009709</NUMBER>
-        <ISSUING_COUNTRY>Pakistan</ISSUING_COUNTRY>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -52647,7 +52206,7 @@ Abdelmalek Droukdel (QDi.232). Review pursuant to Security Council resolution 22
       </ENTITY_ALIAS>
       <ENTITY_ALIAS>
         <QUALITY>a.k.a.</QUALITY>
-        <ALIAS_NAME>جماعة أهل السنة للدعوة والجهاد</ALIAS_NAME>
+        <ALIAS_NAME>جماعة أهل السنة للدعو�� والجهاد</ALIAS_NAME>
       </ENTITY_ALIAS>
       <ENTITY_ALIAS>
         <QUALITY>a.k.a.</QUALITY>
