@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-07-07T23:00:02.264Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-07-08T23:00:03.183Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -31994,18 +31994,18 @@ Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 O
       <SORT_KEY_LAST_MOD/>
     </INDIVIDUAL>
     <INDIVIDUAL>
-      <DATAID>6909556</DATAID>
+      <DATAID>6909621</DATAID>
       <VERSIONNUM>1</VERSIONNUM>
-      <FIRST_NAME>HAMIDAH </FIRST_NAME>
-      <SECOND_NAME>NABAGALA </SECOND_NAME>
+      <FIRST_NAME>HAMIDA</FIRST_NAME>
+      <SECOND_NAME>NABAGGALA</SECOND_NAME>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.439</REFERENCE_NUMBER>
       <LISTED_ON>2026-03-30</LISTED_ON>
       <GENDER>Female</GENDER>
       <NAME_ORIGINAL_SCRIPT>حميدة ناباجالا</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Works as a mediator in financing channels for ISIL in Central Africa, has been charged with financing a bombing that occurred in the Ugandan capital, Kampala, in 2021, attempted to coerce her three children in Uganda to send them to ISIL camps in the Democratic Republic of the Congo. Gender: Female.  INTERPOL-UN Security Council Special Notice web link:</COMMENTS1>
-      <HAS_INTERPOL_LINK>NO</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK/>
+      <COMMENTS1>Works as a mediator in financing channels for ISIL in Central Africa, has been charged with financing a bombing that occurred in the Ugandan capital, Kampala, in 2021, attempted to coerce her three children in Uganda to send them to ISIL camps in the Democratic Republic of the Congo. Gender: Female.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2026-23487</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2026-23487</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Uganda</VALUE>
       </NATIONALITY>
@@ -32013,7 +32013,7 @@ Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 O
         <VALUE>UN List</VALUE>
       </LIST_TYPE>
       <LAST_DAY_UPDATED>
-        <VALUE/>
+        <VALUE>2026-07-08</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Low</QUALITY>
@@ -32036,16 +32036,16 @@ Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 O
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-        <DATE>1996-03-09</DATE>
+        <DATE>1989-02-23</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <COUNTRY>Uganda</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-        <NUMBER>A00044599 </NUMBER>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>CF89095102DDAE</NUMBER>
         <ISSUING_COUNTRY>Uganda</ISSUING_COUNTRY>
-        <NOTE>expiry on 19 March 2029</NOTE>
+        <DATE_OF_EXPIRY>2025-03-27</DATE_OF_EXPIRY>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
