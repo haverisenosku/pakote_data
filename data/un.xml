@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-07-15T23:00:05.638Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-07-16T18:49:40.064Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -2433,6 +2433,359 @@ Ngoma camp, Rwanda. INTERPOL-UN Security Council Special Notice web link:https:/
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Camp Kokolo, Kinshasa</CITY>
         <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT/>
+      <SORT_KEY/>
+      <SORT_KEY_LAST_MOD/>
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6909613</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>CORNEILLE </FIRST_NAME>
+      <SECOND_NAME>NANGAA</SECOND_NAME>
+      <THIRD_NAME>YOBELUO </THIRD_NAME>
+      <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CDi.045</REFERENCE_NUMBER>
+      <LISTED_ON>2026-07-14</LISTED_ON>
+      <GENDER>Male</GENDER>
+      <COMMENTS1>Gender: Male. Corneille Nangaa Yobeluo is the leader of the Alliance Fleuve Congo (AFC) (CDe.010), a politico-military movement allied with the United Nations-sanctioned March 23 Movement/Congolese Revolutionary Army (M23/ARC) (CDe.006).   INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <DESIGNATION>
+        <VALUE>Leader of the Alliance Fleuve Congo (AFC) (CDe.010)</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Democratic Republic of the Congo</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE/>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>CORNEILLE NANGAA</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>CORNEILLE YOBELUO</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <STREET> Boulevard Biangala, No. 36 Q, Salongo Sud C</STREET>
+        <CITY>Lemba</CITY>
+        <STATE_PROVINCE>Kinshasa</STATE_PROVINCE>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <STATE_PROVINCE>North Kivu</STATE_PROVINCE>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1970-07-09</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Bagboya</CITY>
+        <STATE_PROVINCE>Haut-Uele</STATE_PROVINCE>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>OP1097934</NUMBER>
+        <ISSUING_COUNTRY>Democratic Republic of the Congo</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>DP0000149 </NUMBER>
+        <ISSUING_COUNTRY>Democratic Republic of the Congo</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>DP0003850</NUMBER>
+        <ISSUING_COUNTRY>Democratic Republic of the Congo</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY/>
+      <SORT_KEY_LAST_MOD/>
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6909614</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>SEBASTIEN</FIRST_NAME>
+      <SECOND_NAME>UWIMBABAZI </SECOND_NAME>
+      <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CDi.046</REFERENCE_NUMBER>
+      <LISTED_ON>2026-07-14</LISTED_ON>
+      <GENDER>Male</GENDER>
+      <COMMENTS1>Gender: Male. Sebastien Uwimbabazi has and continues to engage in or provide support for acts that undermine the peace, stability and security of the DRC.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <DESIGNATION>
+        <VALUE>Brigadier General and Leader of the Democratic Forces for the Liberation of Rwanda (FDLR) (CDe.005) </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Rwanda</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE/>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>GILBERT KIMENYI</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>NYEMBO KIMENYI</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Rutshuru</CITY>
+        <STATE_PROVINCE>North Kivu</STATE_PROVINCE>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1968</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <STREET>Gatoki Cell, Murunda Sector</STREET>
+        <CITY>Rutsiro Commune</CITY>
+        <STATE_PROVINCE>Kibuye Prefecture</STATE_PROVINCE>
+        <COUNTRY>Rwanda</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT/>
+      <SORT_KEY/>
+      <SORT_KEY_LAST_MOD/>
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6909615</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>MUHAMMED </FIRST_NAME>
+      <SECOND_NAME>LUMISA </SECOND_NAME>
+      <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CDi.047</REFERENCE_NUMBER>
+      <LISTED_ON>2026-07-14</LISTED_ON>
+      <GENDER>Male</GENDER>
+      <COMMENTS1>Gender: Male. As one of the commanders of the Allied Democratic Forces (ADF) (CDe.001), MUHAMMED LUMISA is involved in planning, promulgating, and supporting the militia’s activities. He also oversees the group’s external logistics. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <DESIGNATION>
+        <VALUE>Commander, doctor and head of external logistics of the Allied Democratic Forces (ADF) (CDe.001) </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Uganda</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE/>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>LUMISA, MUHAMAD</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>L. KATO</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>LUMINSA</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>LUMWINSA</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>MUKADE</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>MUKAKE</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
+        <FROM_YEAR>1959</FROM_YEAR>
+        <TO_YEAR>1965</TO_YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Kampala District</CITY>
+        <STATE_PROVINCE> Central Region</STATE_PROVINCE>
+        <COUNTRY>Uganda</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT/>
+      <SORT_KEY/>
+      <SORT_KEY_LAST_MOD/>
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6909616</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>CHARLES </FIRST_NAME>
+      <SECOND_NAME>SEMATAMA </SECOND_NAME>
+      <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CDi.048</REFERENCE_NUMBER>
+      <LISTED_ON>2026-07-14</LISTED_ON>
+      <GENDER>Male</GENDER>
+      <COMMENTS1>Gender: Male.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <DESIGNATION>
+        <VALUE>Colonel</VALUE>
+        <VALUE>Commander and military leader of Twirwaneho (CDe.011) </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Democratic Republic of the Congo</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE/>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>SEBANYANA</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <CITY>Hauts Plateaux</CITY>
+        <STATE_PROVINCE>South Kivu</STATE_PROVINCE>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1975</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Kalunyo Village, Kamombo Localities</CITY>
+        <STATE_PROVINCE>South Kivu</STATE_PROVINCE>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT/>
+      <SORT_KEY/>
+      <SORT_KEY_LAST_MOD/>
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6909617</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>JOHN </FIRST_NAME>
+      <SECOND_NAME>IMANI </SECOND_NAME>
+      <THIRD_NAME>NZENZE </THIRD_NAME>
+      <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CDi.049</REFERENCE_NUMBER>
+      <LISTED_ON>2026-07-14</LISTED_ON>
+      <GENDER>Male</GENDER>
+      <COMMENTS1>Gender: Male. As a leader of M23 (CDe.006), JOHN IMANI NZENZE is involved in planning, promulgating and supporting the armed group’s activities. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <DESIGNATION>
+        <VALUE>Colonel</VALUE>
+        <VALUE>M23 intelligence chief (CDe.006) </VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Democratic Republic of the Congo</VALUE>
+        <VALUE>Rwanda</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE/>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY/>
+        <ALIAS_NAME/>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <STATE_PROVINCE>North Kivu</STATE_PROVINCE>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1978-08-06</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <COUNTRY/>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>OP0204168</NUMBER>
+        <ISSUING_COUNTRY>Democratic Republic of the Congo</ISSUING_COUNTRY>
+        <DATE_OF_EXPIRY>2022-07-05</DATE_OF_EXPIRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER> OB0072391</NUMBER>
+        <ISSUING_COUNTRY>Democratic Republic of the Congo</ISSUING_COUNTRY>
+        <DATE_OF_EXPIRY>2014-12-28</DATE_OF_EXPIRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>1 1978 8 0137555 3 27 </NUMBER>
+        <ISSUING_COUNTRY>Rwanda</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <SORT_KEY/>
+      <SORT_KEY_LAST_MOD/>
+    </INDIVIDUAL>
+    <INDIVIDUAL>
+      <DATAID>6909618</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>GUSTAVE </FIRST_NAME>
+      <SECOND_NAME>KUBWAYO </SECOND_NAME>
+      <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CDi.050</REFERENCE_NUMBER>
+      <LISTED_ON>2026-07-14</LISTED_ON>
+      <GENDER>Male</GENDER>
+      <COMMENTS1>Gender: Male. As one of the main Democratic Forces for the Liberation of Rwanda Forces Combattantes Abacunguzi (FDLR-FOCA) (CDe.005) commanders and the new commander of the Commando de Recherche et d'Action en Profondeur (CRAP), GUSTAVE KUBWAYO alias SIRKOOF is involved in planning, promulgating and supporting the armed group’s activities, such as targeting civilians, kidnapping for ransom and illegally exploiting natural resources.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <DESIGNATION>
+        <VALUE>Colonel</VALUE>
+        <VALUE>Commander of FDLR-FOCA (CDe.005)</VALUE>
+      </DESIGNATION>
+      <NATIONALITY>
+        <VALUE>Rwanda</VALUE>
+      </NATIONALITY>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE/>
+      </LAST_DAY_UPDATED>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>SIRKOOF</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>SURCOUF</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>SURKOF</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1969</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Karago municipality</CITY>
+        <STATE_PROVINCE>Gisenyi prefecture</STATE_PROVINCE>
+        <COUNTRY>Rwanda</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Nyabihu District</CITY>
+        <STATE_PROVINCE>Western province</STATE_PROVINCE>
+        <COUNTRY>Rwanda</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT/>
       <SORT_KEY/>
@@ -44470,6 +44823,55 @@ from eastern DRC. Uganda Commercial Impex (UCI) Ltd last filed a return in 2013 
         <STREET>PO BOX 22709</STREET>
         <CITY>Kampala</CITY>
         <COUNTRY>Uganda</COUNTRY>
+      </ENTITY_ADDRESS>
+      <SORT_KEY/>
+      <SORT_KEY_LAST_MOD/>
+    </ENTITY>
+    <ENTITY>
+      <DATAID>6909619</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>ALLIANCE FLEUVE CONGO (AFC) </FIRST_NAME>
+      <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CDe.010</REFERENCE_NUMBER>
+      <LISTED_ON>2026-07-14</LISTED_ON>
+      <COMMENTS1>Established in 2023.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</INTERPOL_LINK>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <ENTITY_ALIAS>
+        <QUALITY/>
+        <ALIAS_NAME/>
+      </ENTITY_ALIAS>
+      <ENTITY_ADDRESS>
+        <STATE_PROVINCE>Eastern</STATE_PROVINCE>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+      </ENTITY_ADDRESS>
+      <SORT_KEY/>
+      <SORT_KEY_LAST_MOD/>
+    </ENTITY>
+    <ENTITY>
+      <DATAID>6909620</DATAID>
+      <VERSIONNUM>1</VERSIONNUM>
+      <FIRST_NAME>TWIRWANEHO</FIRST_NAME>
+      <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+      <REFERENCE_NUMBER>CDe.011</REFERENCE_NUMBER>
+      <LISTED_ON>2026-07-14</LISTED_ON>
+      <COMMENTS1>Congolese armed group. Formed 2008 to early 2010. TWIRWANEHO has been involved in atrocities in the South-Kivu province of the DRC, including the killing of civilians, recruiting children, and activities that threaten the peace and security of the people of the DRC.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
+      <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</INTERPOL_LINK>
+      <LIST_TYPE>
+        <VALUE>UN List</VALUE>
+      </LIST_TYPE>
+      <ENTITY_ALIAS>
+        <QUALITY/>
+        <ALIAS_NAME/>
+      </ENTITY_ALIAS>
+      <ENTITY_ADDRESS>
+        <CITY>Hauts Plateaux</CITY>
+        <STATE_PROVINCE> South Kivu</STATE_PROVINCE>
+        <COUNTRY>Democratic Republic of the Congo</COUNTRY>
       </ENTITY_ADDRESS>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
