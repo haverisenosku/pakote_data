@@ -2460,24 +2460,14 @@
         <idNumber>253400V1H6ART1UQ0N98</idNumber>
       </id>
       <id>
-        <uid>146553</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>17 Oct 1990</idNumber>
+        <uid>151145</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>146548</uid>
-        <idType>BIK (RU)</idType>
-        <idNumber>044030707</idNumber>
-      </id>
-      <id>
-        <uid>146549</uid>
-        <idType>BIK (RU)</idType>
-        <idNumber>044525187</idNumber>
-      </id>
-      <id>
-        <uid>116142</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>172703</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
         <uid>115744</uid>
@@ -2495,19 +2485,29 @@
         <idNumber>www.vtb.ru</idNumber>
       </id>
       <id>
+        <uid>146548</uid>
+        <idType>BIK (RU)</idType>
+        <idNumber>044030707</idNumber>
+      </id>
+      <id>
+        <uid>146549</uid>
+        <idType>BIK (RU)</idType>
+        <idNumber>044525187</idNumber>
+      </id>
+      <id>
+        <uid>116142</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146553</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>17 Oct 1990</idNumber>
+      </id>
+      <id>
         <uid>146669</uid>
         <idType>Target Type</idType>
         <idNumber>Financial Institution</idNumber>
-      </id>
-      <id>
-        <uid>151145</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>172703</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -2790,26 +2790,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>151161</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>115820</uid>
-        <idType>SWIFT/BIC</idType>
-        <idNumber>RUAGRUMM</idNumber>
-      </id>
-      <id>
-        <uid>115747</uid>
-        <idType>Website</idType>
-        <idNumber>http://www.rshb.ru</idNumber>
-      </id>
-      <id>
-        <uid>116141</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>146690</uid>
         <idType>Executive Order 14024 Directive Information -</idType>
         <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
@@ -2828,6 +2808,26 @@
         <uid>146962</uid>
         <idType>Effective Date (EO 14024 Directive 3):</idType>
         <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>115820</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>RUAGRUMM</idNumber>
+      </id>
+      <id>
+        <uid>115747</uid>
+        <idType>Website</idType>
+        <idNumber>http://www.rshb.ru</idNumber>
+      </id>
+      <id>
+        <uid>151161</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>116141</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -2908,14 +2908,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>146597</uid>
-        <idType>Target Type</idType>
-        <idNumber>State-Owned Enterprise</idNumber>
+        <uid>115778</uid>
+        <idType>BIK (RU)</idType>
+        <idNumber>044525060</idNumber>
       </id>
       <id>
-        <uid>146598</uid>
-        <idType>Target Type</idType>
-        <idNumber>Financial Institution</idNumber>
+        <uid>146960</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
         <uid>115748</uid>
@@ -2926,6 +2926,16 @@
         <uid>115791</uid>
         <idType>Website</idType>
         <idNumber>www.veb.ru</idNumber>
+      </id>
+      <id>
+        <uid>146597</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
+      </id>
+      <id>
+        <uid>146598</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
       <id>
         <uid>151187</uid>
@@ -2941,16 +2951,6 @@
         <uid>146596</uid>
         <idType>Organization Established Date</idType>
         <idNumber>18 Aug 1922</idNumber>
-      </id>
-      <id>
-        <uid>115778</uid>
-        <idType>BIK (RU)</idType>
-        <idNumber>044525060</idNumber>
-      </id>
-      <id>
-        <uid>146960</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -3074,14 +3074,9 @@
         <idNumber>253400WSS48YWMBUA688</idNumber>
       </id>
       <id>
-        <uid>116139</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
-        <uid>151146</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>146534</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>31 Jul 1990</idNumber>
       </id>
       <id>
         <uid>115749</uid>
@@ -3092,6 +3087,21 @@
         <uid>115751</uid>
         <idType>Website</idType>
         <idNumber>www.gazprombank.ru</idNumber>
+      </id>
+      <id>
+        <uid>182491</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>116139</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>151146</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>182493</uid>
@@ -3127,16 +3137,6 @@
         <uid>146850</uid>
         <idType>Effective Date (EO 14024 Directive 3):</idType>
         <idNumber>26 Mar 2022</idNumber>
-      </id>
-      <id>
-        <uid>146534</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>31 Jul 1990</idNumber>
-      </id>
-      <id>
-        <uid>182491</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -3221,6 +3221,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>152962</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
+      <id>
         <uid>173856</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
@@ -3244,11 +3249,6 @@
         <uid>116145</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
-        <uid>152962</uid>
-        <idType>Target Type</idType>
-        <idNumber>Financial Institution</idNumber>
       </id>
     </idList>
     <akaList>
@@ -3336,6 +3336,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>116151</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
         <uid>172817</uid>
         <idType>Target Type</idType>
         <idNumber>Financial Institution</idNumber>
@@ -3394,11 +3399,6 @@
         <uid>146546</uid>
         <idType>Website</idType>
         <idNumber>www.sberbank.com</idNumber>
-      </id>
-      <id>
-        <uid>116151</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -3537,6 +3537,26 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>143715</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>116148</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
+      </id>
+      <id>
+        <uid>116149</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
+        <uid>189891</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
         <uid>115776</uid>
         <idType>Website</idType>
         <idNumber>www.rosneft.com</idNumber>
@@ -3550,26 +3570,6 @@
         <uid>115775</uid>
         <idType>Email Address</idType>
         <idNumber>postman@rosneft.ru</idNumber>
-      </id>
-      <id>
-        <uid>116148</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
-      </id>
-      <id>
-        <uid>116149</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
-        <uid>143715</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>189891</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -3634,9 +3634,9 @@
         <idNumber>33556474 (Russia)</idNumber>
       </id>
       <id>
-        <uid>115815</uid>
-        <idType>Email Address</idType>
-        <idNumber>novatek@novatek.ru</idNumber>
+        <uid>116140</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
         <uid>144014</uid>
@@ -3644,9 +3644,9 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>116140</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
+        <uid>115815</uid>
+        <idType>Email Address</idType>
+        <idNumber>novatek@novatek.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -3719,6 +3719,16 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>151214</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>183042</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
         <uid>116137</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -3747,16 +3757,6 @@
         <uid>146841</uid>
         <idType>Effective Date (EO 14024 Directive 3):</idType>
         <idNumber>26 Mar 2022</idNumber>
-      </id>
-      <id>
-        <uid>183042</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
-        <uid>151214</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -3820,16 +3820,6 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>116154</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
-        <uid>183028</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
         <uid>115923</uid>
         <idType>Website</idType>
         <idNumber>www.surgutneftegas.ru</idNumber>
@@ -3838,6 +3828,16 @@
         <uid>115922</uid>
         <idType>Email Address</idType>
         <idNumber>secretary@surgutneftegas.ru</idNumber>
+      </id>
+      <id>
+        <uid>116154</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
+        <uid>183028</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -4043,11 +4043,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>151216</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>116147</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
@@ -4071,6 +4066,11 @@
         <uid>146846</uid>
         <idType>Effective Date (EO 14024 Directive 3):</idType>
         <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>151216</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -4147,14 +4147,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>151210</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>116120</uid>
         <idType>Website</idType>
         <idNumber>www.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>151210</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>116143</uid>
@@ -4270,6 +4270,16 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>143716</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>173863</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
         <uid>152816</uid>
         <idType>Organization Established Date</idType>
         <idNumber>03 Dec 2007</idNumber>
@@ -4278,16 +4288,6 @@
         <uid>116150</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
-        <uid>173863</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
-        <uid>143716</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -4338,11 +4338,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>117517</uid>
-        <idType>Email Address</idType>
-        <idNumber>orenburgneft@rosneft.ru</idNumber>
-      </id>
-      <id>
         <uid>117583</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -4353,14 +4348,19 @@
         <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
-        <uid>190039</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+        <uid>117517</uid>
+        <idType>Email Address</idType>
+        <idNumber>orenburgneft@rosneft.ru</idNumber>
       </id>
       <id>
         <uid>143669</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>190039</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -4415,9 +4415,9 @@
         <idNumber>253400HA6URWT39X2982</idNumber>
       </id>
       <id>
-        <uid>151144</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>146532</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>24 May 1994</idNumber>
       </id>
       <id>
         <uid>117518</uid>
@@ -4430,24 +4430,24 @@
         <idNumber>eximbank.ru</idNumber>
       </id>
       <id>
-        <uid>173866</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
         <uid>146786</uid>
         <idType>Target Type</idType>
         <idNumber>Financial Institution</idNumber>
       </id>
       <id>
-        <uid>146532</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>24 May 1994</idNumber>
-      </id>
-      <id>
         <uid>117570</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>173866</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>151144</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -4527,6 +4527,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>143724</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>117587</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -4537,19 +4542,14 @@
         <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
-        <uid>117520</uid>
-        <idType>Email Address</idType>
-        <idNumber>NVSNGinfo@rosneft.ru</idNumber>
-      </id>
-      <id>
-        <uid>143724</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>188543</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>117520</uid>
+        <idType>Email Address</idType>
+        <idNumber>NVSNGinfo@rosneft.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -4604,14 +4604,14 @@
         <idNumber>krskfo.ru</idNumber>
       </id>
       <id>
-        <uid>117564</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>143723</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>117564</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -4673,21 +4673,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143725</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>117522</uid>
-        <idType>Email Address</idType>
-        <idNumber>vcng@rosneft.ru</idNumber>
-      </id>
-      <id>
-        <uid>188535</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
         <uid>117584</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -4696,6 +4681,21 @@
         <uid>117644</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
+        <uid>143725</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>188535</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>117522</uid>
+        <idType>Email Address</idType>
+        <idNumber>vcng@rosneft.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -4758,24 +4758,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>117565</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>117523</uid>
         <idType>Website</idType>
         <idNumber>exiar.ru</idNumber>
-      </id>
-      <id>
-        <uid>151200</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>173867</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
         <uid>146533</uid>
@@ -4783,9 +4768,24 @@
         <idNumber>13 Oct 2011</idNumber>
       </id>
       <id>
+        <uid>117565</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>151200</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>146788</uid>
         <idType>Target Type</idType>
         <idNumber>Government Entity</idNumber>
+      </id>
+      <id>
+        <uid>173867</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -4859,6 +4859,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>173868</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
         <uid>151171</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -4872,11 +4877,6 @@
         <uid>117566</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
-        <uid>173868</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -4938,16 +4938,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>117525</uid>
-        <idType>Email Address</idType>
-        <idNumber>info@vankoroil.ru</idNumber>
-      </id>
-      <id>
-        <uid>143727</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>117577</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -4956,6 +4946,16 @@
         <uid>117637</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
+        <uid>117525</uid>
+        <idType>Email Address</idType>
+        <idNumber>info@vankoroil.ru</idNumber>
+      </id>
+      <id>
+        <uid>143727</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>188592</uid>
@@ -5016,6 +5016,11 @@
         <idNumber>1027739088410</idNumber>
       </id>
       <id>
+        <uid>143528</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>117526</uid>
         <idType>Website</idType>
         <idNumber>fcpf.ru</idNumber>
@@ -5024,11 +5029,6 @@
         <uid>117559</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
-        <uid>143528</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5090,16 +5090,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143474</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>188609</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
         <uid>117593</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -5113,6 +5103,16 @@
         <uid>117528</uid>
         <idType>Email Address</idType>
         <idNumber>rn_yng@yungjsc.com</idNumber>
+      </id>
+      <id>
+        <uid>143474</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>188609</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5155,6 +5155,11 @@
         <idNumber>1027739326010</idNumber>
       </id>
       <id>
+        <uid>143763</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>117529</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>GLOBRUMM</idNumber>
@@ -5163,11 +5168,6 @@
         <uid>117530</uid>
         <idType>Website</idType>
         <idNumber>globexbank.ru</idNumber>
-      </id>
-      <id>
-        <uid>143763</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>117569</uid>
@@ -5304,14 +5304,14 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>117567</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>117533</uid>
         <idType>Website</idType>
         <idNumber>rdif.ru</idNumber>
+      </id>
+      <id>
+        <uid>117567</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5372,6 +5372,16 @@
     </programList>
     <idList>
       <id>
+        <uid>117585</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
+      </id>
+      <id>
+        <uid>117645</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
         <uid>117534</uid>
         <idType>Website</idType>
         <idNumber>www.anhk.ru</idNumber>
@@ -5385,16 +5395,6 @@
         <uid>143729</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>117585</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
-      </id>
-      <id>
-        <uid>117645</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 4</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5445,9 +5445,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>117572</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>151191</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>173869</uid>
@@ -5455,9 +5455,9 @@
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
-        <uid>151191</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>117572</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5513,11 +5513,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>146130</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>117586</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -5531,6 +5526,11 @@
         <uid>117536</uid>
         <idType>Email Address</idType>
         <idNumber>sekr@nknpz.rosneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>146130</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>188810</uid>
@@ -5578,11 +5578,6 @@
         <idNumber>1027739108649</idNumber>
       </id>
       <id>
-        <uid>117568</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>143731</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -5596,6 +5591,11 @@
         <uid>117539</uid>
         <idType>Website</idType>
         <idNumber>mspbank.ru</idNumber>
+      </id>
+      <id>
+        <uid>117568</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5663,11 +5663,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>117540</uid>
-        <idType>Email Address</idType>
-        <idNumber>knpz@rosneft.ru</idNumber>
-      </id>
-      <id>
         <uid>117588</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -5678,14 +5673,19 @@
         <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
-        <uid>188518</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+        <uid>117540</uid>
+        <idType>Email Address</idType>
+        <idNumber>knpz@rosneft.ru</idNumber>
       </id>
       <id>
         <uid>143732</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>188518</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5745,11 +5745,6 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>117573</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>117541</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>SVIZRUMM</idNumber>
@@ -5758,6 +5753,11 @@
         <uid>117542</uid>
         <idType>Website</idType>
         <idNumber>sviaz-bank.ru</idNumber>
+      </id>
+      <id>
+        <uid>117573</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5813,14 +5813,19 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>117560</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
         <uid>117543</uid>
         <idType>Website</idType>
         <idNumber>vebcapital.ru</idNumber>
       </id>
       <id>
-        <uid>117560</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>173870</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
         <uid>151170</uid>
@@ -5831,11 +5836,6 @@
         <uid>146608</uid>
         <idType>Organization Established Date</idType>
         <idNumber>24 Dec 2009</idNumber>
-      </id>
-      <id>
-        <uid>173870</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5891,21 +5891,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>173871</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
-        <uid>117561</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
-        <uid>117544</uid>
-        <idType>Website</idType>
-        <idNumber>vebeng.ru</idNumber>
-      </id>
-      <id>
         <uid>146610</uid>
         <idType>Organization Established Date</idType>
         <idNumber>11 Mar 2010</idNumber>
@@ -5914,6 +5899,21 @@
         <uid>151167</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>117561</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>173871</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>117544</uid>
+        <idType>Website</idType>
+        <idNumber>vebeng.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5982,14 +5982,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>151160</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>117562</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>117545</uid>
+        <idType>Website</idType>
+        <idNumber>veb-leasing.ru</idNumber>
       </id>
       <id>
         <uid>173872</uid>
@@ -6002,9 +5997,14 @@
         <idNumber>2003</idNumber>
       </id>
       <id>
-        <uid>117545</uid>
-        <idType>Website</idType>
-        <idNumber>veb-leasing.ru</idNumber>
+        <uid>117562</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>151160</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6060,9 +6060,9 @@
     </programList>
     <idList>
       <id>
-        <uid>117546</uid>
-        <idType>Website</idType>
-        <idNumber>rosegroup.ru</idNumber>
+        <uid>143672</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>117574</uid>
@@ -6070,9 +6070,9 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>143672</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>117546</uid>
+        <idType>Website</idType>
+        <idNumber>rosegroup.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6136,9 +6136,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143673</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>117547</uid>
+        <idType>Email Address</idType>
+        <idNumber>sekr@snpz.rosneft.ru</idNumber>
       </id>
       <id>
         <uid>117589</uid>
@@ -6151,9 +6151,9 @@
         <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
-        <uid>117547</uid>
-        <idType>Email Address</idType>
-        <idNumber>sekr@snpz.rosneft.ru</idNumber>
+        <uid>143673</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>188524</uid>
@@ -6228,19 +6228,9 @@
         <idNumber>23 Dec 1991</idNumber>
       </id>
       <id>
-        <uid>117575</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>151130</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>146793</uid>
-        <idType>Target Type</idType>
-        <idNumber>Financial Institution</idNumber>
       </id>
       <id>
         <uid>117548</uid>
@@ -6253,9 +6243,19 @@
         <idNumber>bveb.by</idNumber>
       </id>
       <id>
+        <uid>117575</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
         <uid>173873</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>146793</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6318,11 +6318,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143642</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>117590</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -6341,6 +6336,11 @@
         <uid>117550</uid>
         <idType>Email Address</idType>
         <idNumber>sekr1@anpz.rosneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143642</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6402,6 +6402,11 @@
     </programList>
     <idList>
       <id>
+        <uid>143675</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>117553</uid>
         <idType>Email Address</idType>
         <idNumber>sekr@knpz.rosneft.ru</idNumber>
@@ -6415,11 +6420,6 @@
         <uid>117638</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
-        <uid>143675</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6463,24 +6463,24 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
-        <uid>151173</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>117563</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>173874</uid>
+        <uid>151173</uid>
         <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>146794</uid>
         <idType>Organization Established Date</idType>
         <idNumber>08 Apr 2013</idNumber>
+      </id>
+      <id>
+        <uid>173874</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -6522,6 +6522,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>143677</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>117579</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -6530,11 +6535,6 @@
         <uid>117639</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
-        <uid>143677</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6565,11 +6565,6 @@
     </programList>
     <idList>
       <id>
-        <uid>143678</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>117580</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -6578,6 +6573,11 @@
         <uid>117640</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
+        <uid>143678</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6620,6 +6620,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>143679</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>117591</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -6628,11 +6633,6 @@
         <uid>117651</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
-        <uid>143679</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>117554</uid>
@@ -6699,11 +6699,6 @@
         <idNumber>www.rosneft.com</idNumber>
       </id>
       <id>
-        <uid>143735</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>117581</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -6712,6 +6707,11 @@
         <uid>117641</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
+        <uid>143735</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <addressList>
@@ -6738,6 +6738,11 @@
         <idNumber>C122790</idNumber>
       </id>
       <id>
+        <uid>143680</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>117592</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -6746,11 +6751,6 @@
         <uid>117652</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
-        <uid>143680</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>117556</uid>
@@ -6787,11 +6787,6 @@
     </programList>
     <idList>
       <id>
-        <uid>143532</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>117582</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -6800,6 +6795,11 @@
         <uid>117642</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
+        <uid>143532</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <addressList>
@@ -6836,9 +6836,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118412</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>151180</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>146733</uid>
@@ -6861,9 +6861,9 @@
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
-        <uid>151180</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>118412</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -7018,24 +7018,24 @@
         <idNumber>26 Mar 2022</idNumber>
       </id>
       <id>
-        <uid>173878</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
         <uid>151165</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>118418</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>118149</uid>
         <idType>Website</idType>
         <idNumber>www.sberleasing.ru</idNumber>
+      </id>
+      <id>
+        <uid>173878</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>118418</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -7111,19 +7111,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118819</uid>
-        <idType>SWIFT/BIC</idType>
-        <idNumber>CETBRUMM</idNumber>
-      </id>
-      <id>
-        <uid>118151</uid>
-        <idType>Website</idType>
-        <idNumber>www.cetelem.ru</idNumber>
-      </id>
-      <id>
         <uid>118419</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>151194</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>146748</uid>
@@ -7141,14 +7136,19 @@
         <idNumber>26 Mar 2022</idNumber>
       </id>
       <id>
-        <uid>151194</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>173879</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>118819</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>CETBRUMM</idNumber>
+      </id>
+      <id>
+        <uid>118151</uid>
+        <idType>Website</idType>
+        <idNumber>www.cetelem.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -7373,14 +7373,19 @@
         <idNumber>26 Mar 2022</idNumber>
       </id>
       <id>
-        <uid>173881</uid>
+        <uid>151163</uid>
         <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>118420</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>173881</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
         <uid>118822</uid>
@@ -7396,11 +7401,6 @@
         <uid>146585</uid>
         <idType>Website</idType>
         <idNumber>sbrf.com.ua</idNumber>
-      </id>
-      <id>
-        <uid>151163</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -7487,11 +7487,6 @@
         <idCountry>Austria</idCountry>
       </id>
       <id>
-        <uid>151196</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118155</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>SABRATWW</idNumber>
@@ -7500,6 +7495,11 @@
         <uid>118156</uid>
         <idType>Website</idType>
         <idNumber>www.sberbank.at</idNumber>
+      </id>
+      <id>
+        <uid>151196</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>146747</uid>
@@ -7517,14 +7517,14 @@
         <idNumber>26 Mar 2022</idNumber>
       </id>
       <id>
-        <uid>118409</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>176848</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>118409</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <addressList>
@@ -7756,11 +7756,6 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>173882</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
         <uid>118825</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>SLANBY22</idNumber>
@@ -7769,6 +7764,11 @@
         <uid>118161</uid>
         <idType>Website</idType>
         <idNumber>www.vtb-bank.by</idNumber>
+      </id>
+      <id>
+        <uid>173882</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
         <uid>146663</uid>
@@ -7828,14 +7828,9 @@
         <idNumber>Financial Institution</idNumber>
       </id>
       <id>
-        <uid>118826</uid>
-        <idType>SWIFT/BIC</idType>
-        <idNumber>ARMJAM22</idNumber>
-      </id>
-      <id>
-        <uid>118162</uid>
-        <idType>Website</idType>
-        <idNumber>www.vtb.am</idNumber>
+        <uid>118217</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
         <uid>151152</uid>
@@ -7848,9 +7843,14 @@
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
-        <uid>118217</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>118826</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>ARMJAM22</idNumber>
+      </id>
+      <id>
+        <uid>118162</uid>
+        <idType>Website</idType>
+        <idNumber>www.vtb.am</idNumber>
       </id>
     </idList>
     <akaList>
@@ -7888,26 +7888,6 @@
     </programList>
     <idList>
       <id>
-        <uid>118225</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
-        <uid>173884</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
-        <uid>146665</uid>
-        <idType>Target Type</idType>
-        <idNumber>Financial Institution</idNumber>
-      </id>
-      <id>
-        <uid>151131</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118827</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>VTBAKZKZ</idNumber>
@@ -7916,6 +7896,26 @@
         <uid>118164</uid>
         <idType>Website</idType>
         <idNumber>http://en.vtb-bank.kz/</idNumber>
+      </id>
+      <id>
+        <uid>118225</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146665</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
+      <id>
+        <uid>173884</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>151131</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -7959,16 +7959,6 @@
     </programList>
     <idList>
       <id>
-        <uid>118828</uid>
-        <idType>SWIFT/BIC</idType>
-        <idNumber>VTBAAZ22</idNumber>
-      </id>
-      <id>
-        <uid>118166</uid>
-        <idType>Website</idType>
-        <idNumber>http://en.vtb.az/</idNumber>
-      </id>
-      <id>
         <uid>151150</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -7979,14 +7969,24 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>146662</uid>
-        <idType>Target Type</idType>
-        <idNumber>Financial Institution</idNumber>
+        <uid>118828</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>VTBAAZ22</idNumber>
+      </id>
+      <id>
+        <uid>118166</uid>
+        <idType>Website</idType>
+        <idNumber>http://en.vtb.az/</idNumber>
       </id>
       <id>
         <uid>173885</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>146662</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8037,6 +8037,16 @@
     </programList>
     <idList>
       <id>
+        <uid>118218</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>151128</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>173886</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
@@ -8050,16 +8060,6 @@
         <uid>118167</uid>
         <idType>Website</idType>
         <idNumber>www.vtb.ao</idNumber>
-      </id>
-      <id>
-        <uid>118218</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
-        <uid>151128</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8090,9 +8090,14 @@
     </programList>
     <idList>
       <id>
-        <uid>151147</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>118829</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>UGEBGE22</idNumber>
+      </id>
+      <id>
+        <uid>118168</uid>
+        <idType>Website</idType>
+        <idNumber>www.vtb.com.ge</idNumber>
       </id>
       <id>
         <uid>118214</uid>
@@ -8105,19 +8110,14 @@
         <idNumber>Financial Institution</idNumber>
       </id>
       <id>
-        <uid>118829</uid>
-        <idType>SWIFT/BIC</idType>
-        <idNumber>UGEBGE22</idNumber>
-      </id>
-      <id>
-        <uid>118168</uid>
-        <idType>Website</idType>
-        <idNumber>www.vtb.com.ge</idNumber>
-      </id>
-      <id>
         <uid>173887</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>151147</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8165,16 +8165,6 @@
         <idNumber>FN 117595 i</idNumber>
       </id>
       <id>
-        <uid>118831</uid>
-        <idType>SWIFT/BIC</idType>
-        <idNumber>DOBAATWW</idNumber>
-      </id>
-      <id>
-        <uid>118169</uid>
-        <idType>Website</idType>
-        <idNumber>www.vtb.at</idNumber>
-      </id>
-      <id>
         <uid>143490</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -8183,6 +8173,16 @@
         <uid>118220</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>118831</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>DOBAATWW</idNumber>
+      </id>
+      <id>
+        <uid>118169</uid>
+        <idType>Website</idType>
+        <idNumber>www.vtb.at</idNumber>
       </id>
     </idList>
     <addressList>
@@ -8205,16 +8205,6 @@
     </programList>
     <idList>
       <id>
-        <uid>118219</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
-        <uid>143594</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118849</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>MBBGRSBG</idNumber>
@@ -8223,6 +8213,16 @@
         <uid>118171</uid>
         <idType>Website</idType>
         <idNumber>www.vtbbanka.rs</idNumber>
+      </id>
+      <id>
+        <uid>118219</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>143594</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8266,11 +8266,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118172</uid>
-        <idType>Website</idType>
-        <idNumber>http://vtbcapital.com</idNumber>
-      </id>
-      <id>
         <uid>151143</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -8284,6 +8279,11 @@
         <uid>118227</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>118172</uid>
+        <idType>Website</idType>
+        <idNumber>http://vtbcapital.com</idNumber>
       </id>
       <id>
         <uid>146668</uid>
@@ -8385,14 +8385,14 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>173888</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
         <uid>151137</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>173888</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8442,11 +8442,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>151188</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>173889</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
@@ -8460,6 +8455,11 @@
         <uid>146558</uid>
         <idType>Organization Established Date</idType>
         <idNumber>2011</idNumber>
+      </id>
+      <id>
+        <uid>151188</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8520,14 +8520,14 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>118173</uid>
-        <idType>Website</idType>
-        <idNumber>www.vtbins.ru</idNumber>
-      </id>
-      <id>
         <uid>118209</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>118173</uid>
+        <idType>Website</idType>
+        <idNumber>www.vtbins.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8589,9 +8589,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118215</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>118189</uid>
+        <idType>Website</idType>
+        <idNumber>www.vtbf.ru</idNumber>
       </id>
       <id>
         <uid>151140</uid>
@@ -8599,19 +8599,19 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>146795</uid>
-        <idType>Target Type</idType>
-        <idNumber>Financial Institution</idNumber>
-      </id>
-      <id>
         <uid>173890</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
-        <uid>118189</uid>
-        <idType>Website</idType>
-        <idNumber>www.vtbf.ru</idNumber>
+        <uid>146795</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
+      <id>
+        <uid>118215</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8661,14 +8661,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>146667</uid>
-        <idType>Target Type</idType>
-        <idNumber>Financial Institution</idNumber>
-      </id>
-      <id>
         <uid>118210</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>173891</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
         <uid>151213</uid>
@@ -8676,9 +8676,9 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>173891</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+        <uid>146667</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8758,6 +8758,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>157169</uid>
+        <idType>Organization Type:</idType>
+        <idNumber>Real estate activities on a fee or contract basis</idNumber>
+      </id>
+      <id>
         <uid>173892</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
@@ -8768,19 +8773,14 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>157169</uid>
-        <idType>Organization Type:</idType>
-        <idNumber>Real estate activities on a fee or contract basis</idNumber>
+        <uid>143597</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>157168</uid>
         <idType>Organization Established Date</idType>
         <idNumber>08 Apr 2011</idNumber>
-      </id>
-      <id>
-        <uid>143597</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8824,9 +8824,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>151132</uid>
+        <uid>146796</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>04 Jul 1996</idNumber>
+      </id>
+      <id>
+        <uid>173893</uid>
         <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
         <uid>146673</uid>
@@ -8839,19 +8844,14 @@
         <idNumber>www.odk.ru</idNumber>
       </id>
       <id>
+        <uid>151132</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>118230</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
-        <uid>173893</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
-        <uid>146796</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>04 Jul 1996</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8905,6 +8905,11 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
+        <uid>173894</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
         <uid>151135</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -8913,11 +8918,6 @@
         <uid>118175</uid>
         <idType>Website</idType>
         <idNumber>www.vtbreg.ru</idNumber>
-      </id>
-      <id>
-        <uid>173894</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8972,9 +8972,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143600</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>118176</uid>
+        <idType>Website</idType>
+        <idNumber>www.multicarta.ru</idNumber>
       </id>
       <id>
         <uid>118211</uid>
@@ -8982,9 +8982,9 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>118176</uid>
-        <idType>Website</idType>
-        <idNumber>www.multicarta.ru</idNumber>
+        <uid>143600</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -9040,24 +9040,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118177</uid>
-        <idType>Website</idType>
-        <idNumber>www.vtb-leasing.ru</idNumber>
-      </id>
-      <id>
         <uid>143601</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>157166</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>13 Jun 2002</idNumber>
-      </id>
-      <id>
-        <uid>173895</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+        <uid>118177</uid>
+        <idType>Website</idType>
+        <idNumber>www.vtb-leasing.ru</idNumber>
       </id>
       <id>
         <uid>157167</uid>
@@ -9065,9 +9055,19 @@
         <idNumber>Financial leasing</idNumber>
       </id>
       <id>
+        <uid>157166</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>13 Jun 2002</idNumber>
+      </id>
+      <id>
         <uid>118212</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>173895</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -9133,14 +9133,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118213</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>173896</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>157164</uid>
+        <idType>Organization Type:</idType>
+        <idNumber>Real estate activities on a fee or contract basis</idNumber>
       </id>
       <id>
         <uid>118178</uid>
@@ -9148,19 +9148,19 @@
         <idNumber>www.hals-development.ru</idNumber>
       </id>
       <id>
-        <uid>157165</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>21 Jan 1994</idNumber>
-      </id>
-      <id>
         <uid>143602</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>157164</uid>
-        <idType>Organization Type:</idType>
-        <idNumber>Real estate activities on a fee or contract basis</idNumber>
+        <uid>118213</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>157165</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>21 Jan 1994</idNumber>
       </id>
     </idList>
     <akaList>
@@ -9228,11 +9228,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118426</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>118179</uid>
         <idType>Website</idType>
         <idNumber>www.aukcion-sbrf.ru</idNumber>
@@ -9241,6 +9236,11 @@
         <uid>173897</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>118426</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
         <uid>151127</uid>
@@ -9380,11 +9380,6 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>151164</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118180</uid>
         <idType>Website</idType>
         <idNumber>www.sberbank-ast.ru</idNumber>
@@ -9403,6 +9398,11 @@
         <uid>146854</uid>
         <idType>Effective Date (EO 14024 Directive 2):</idType>
         <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>151164</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>173898</uid>
@@ -9493,14 +9493,14 @@
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
-        <uid>151181</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118433</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>151181</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>146734</uid>
@@ -9841,6 +9841,16 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
+        <uid>118181</uid>
+        <idType>Website</idType>
+        <idNumber>www.npfsberbanka.ru</idNumber>
+      </id>
+      <id>
+        <uid>173901</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
         <uid>146732</uid>
         <idType>Executive Order 14024 Directive Information -</idType>
         <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
@@ -9854,16 +9864,6 @@
         <uid>146858</uid>
         <idType>Effective Date (EO 14024 Directive 2):</idType>
         <idNumber>26 Mar 2022</idNumber>
-      </id>
-      <id>
-        <uid>118181</uid>
-        <idType>Website</idType>
-        <idNumber>www.npfsberbanka.ru</idNumber>
-      </id>
-      <id>
-        <uid>173901</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -9937,11 +9937,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>173902</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
         <uid>146707</uid>
         <idType>Executive Order 14024 Directive Information -</idType>
         <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
@@ -9965,6 +9960,11 @@
         <uid>151154</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>173902</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -10063,9 +10063,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>151184</uid>
+        <uid>173903</uid>
         <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
         <uid>118427</uid>
@@ -10088,9 +10088,9 @@
         <idNumber>26 Mar 2022</idNumber>
       </id>
       <id>
-        <uid>173903</uid>
+        <uid>151184</uid>
         <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -10152,14 +10152,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118432</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>143498</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>118432</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -10209,14 +10209,14 @@
         <idCountry>Luxembourg</idCountry>
       </id>
       <id>
-        <uid>151198</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118423</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>151198</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>173904</uid>
@@ -10280,14 +10280,14 @@
         <idNumber>7708784387</idNumber>
       </id>
       <id>
-        <uid>118232</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
         <uid>143499</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>118232</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
       <id>
         <uid>118231</uid>
@@ -10354,9 +10354,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118234</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
+        <uid>151169</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>149091</uid>
@@ -10364,14 +10364,14 @@
         <idNumber>12 Feb 2009</idNumber>
       </id>
       <id>
+        <uid>118234</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
         <uid>173905</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
-        <uid>151169</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -10446,14 +10446,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>173906</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
         <uid>143501</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>118238</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
       </id>
       <id>
         <uid>152844</uid>
@@ -10461,9 +10461,9 @@
         <idNumber>State-Owned Enterprise</idNumber>
       </id>
       <id>
-        <uid>173906</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+        <uid>118238</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
     </idList>
     <akaList>
@@ -10534,6 +10534,11 @@
         <idNumber>Subject to Directive 3</idNumber>
       </id>
       <id>
+        <uid>143502</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>118240</uid>
         <idType>Website</idType>
         <idNumber>http://www.tpe.ru</idNumber>
@@ -10542,11 +10547,6 @@
         <uid>118239</uid>
         <idType>Email Address</idType>
         <idNumber>inform@tpe.ru</idNumber>
-      </id>
-      <id>
-        <uid>143502</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -10631,14 +10631,14 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>173907</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
-      </id>
-      <id>
         <uid>118242</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
+        <uid>173907</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
         <uid>149092</uid>
@@ -10726,6 +10726,11 @@
         <idNumber>Subject to Directive 3</idNumber>
       </id>
       <id>
+        <uid>143543</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>118244</uid>
         <idType>Website</idType>
         <idNumber>www.avia-equipment.ru</idNumber>
@@ -10734,11 +10739,6 @@
         <uid>118243</uid>
         <idType>Email Address</idType>
         <idNumber>mailbox@avia-equipment.ru</idNumber>
-      </id>
-      <id>
-        <uid>143543</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -10895,11 +10895,6 @@
         <idNumber>7702715348</idNumber>
       </id>
       <id>
-        <uid>118247</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
         <uid>143545</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -10913,6 +10908,11 @@
         <uid>118248</uid>
         <idType>Email Address</idType>
         <idNumber>n.dobrynina@rt-stanko.ru</idNumber>
+      </id>
+      <id>
+        <uid>118247</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
     </idList>
     <akaList>
@@ -10976,14 +10976,14 @@
         <idNumber>7734613934</idNumber>
       </id>
       <id>
-        <uid>143546</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118250</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
+        <uid>143546</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -11071,14 +11071,14 @@
         <idNumber>7704730729</idNumber>
       </id>
       <id>
-        <uid>118253</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
         <uid>143547</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>118253</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
       <id>
         <uid>118252</uid>
@@ -11237,14 +11237,14 @@
         <idNumber>Subject to Directive 3</idNumber>
       </id>
       <id>
-        <uid>143549</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>173909</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>143549</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>152758</uid>
@@ -11307,14 +11307,14 @@
         <idNumber>7705422452</idNumber>
       </id>
       <id>
-        <uid>143550</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118259</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
+        <uid>143550</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -11366,11 +11366,6 @@
         <idNumber>7718218951</idNumber>
       </id>
       <id>
-        <uid>118260</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
         <uid>143551</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -11384,6 +11379,11 @@
         <uid>118261</uid>
         <idType>Email Address</idType>
         <idNumber>oboronprom@oboronprom.ru</idNumber>
+      </id>
+      <id>
+        <uid>118260</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
     </idList>
     <akaList>
@@ -11458,9 +11458,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118266</uid>
-        <idType>Website</idType>
-        <idNumber>www.roe.ru</idNumber>
+        <uid>118265</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
       <id>
         <uid>151207</uid>
@@ -11468,9 +11468,9 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>118265</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
+        <uid>118266</uid>
+        <idType>Website</idType>
+        <idNumber>www.roe.ru</idNumber>
       </id>
       <id>
         <uid>173910</uid>
@@ -11533,9 +11533,9 @@
         <idNumber>7704730655</idNumber>
       </id>
       <id>
-        <uid>143552</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>118267</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
       <id>
         <uid>118268</uid>
@@ -11543,9 +11543,9 @@
         <idNumber>http://con-sirius.ru</idNumber>
       </id>
       <id>
-        <uid>118267</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
+        <uid>143552</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -11601,29 +11601,19 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118273</uid>
-        <idType>BIK (RU)</idType>
-        <idNumber>044583162</idNumber>
-      </id>
-      <id>
-        <uid>118271</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
         <uid>151159</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>146545</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>1993</idNumber>
-      </id>
-      <id>
         <uid>173911</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>146545</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>1993</idNumber>
       </id>
       <id>
         <uid>118272</uid>
@@ -11634,6 +11624,16 @@
         <uid>118270</uid>
         <idType>Website</idType>
         <idNumber>http://www.novikom.ru</idNumber>
+      </id>
+      <id>
+        <uid>118273</uid>
+        <idType>BIK (RU)</idType>
+        <idNumber>044583162</idNumber>
+      </id>
+      <id>
+        <uid>118271</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
     </idList>
     <akaList>
@@ -11703,11 +11703,6 @@
         <idNumber>7704759968</idNumber>
       </id>
       <id>
-        <uid>118275</uid>
-        <idType>Website</idType>
-        <idNumber>http://rtguard.ru/</idNumber>
-      </id>
-      <id>
         <uid>118274</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
@@ -11716,6 +11711,11 @@
         <uid>143647</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>118275</uid>
+        <idType>Website</idType>
+        <idNumber>http://rtguard.ru/</idNumber>
       </id>
     </idList>
     <akaList>
@@ -11785,14 +11785,14 @@
         <idNumber>7704833788</idNumber>
       </id>
       <id>
-        <uid>143565</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118276</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
+        <uid>143565</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -11835,11 +11835,6 @@
     </programList>
     <idList>
       <id>
-        <uid>118277</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
         <uid>143684</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -11853,6 +11848,11 @@
         <uid>118278</uid>
         <idType>Email Address</idType>
         <idNumber>info@opkrt.ru</idNumber>
+      </id>
+      <id>
+        <uid>118277</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
     </idList>
     <akaList>
@@ -11909,19 +11909,19 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>118280</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
         <uid>143554</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>152856</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>28 Jun 2012</idNumber>
-      </id>
-      <id>
-        <uid>118280</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
+        <uid>173912</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
         <uid>152857</uid>
@@ -11929,9 +11929,9 @@
         <idNumber>State-Owned Enterprise</idNumber>
       </id>
       <id>
-        <uid>173912</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+        <uid>152856</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>28 Jun 2012</idNumber>
       </id>
     </idList>
     <akaList>
@@ -11968,6 +11968,11 @@
         <idNumber>7704731673</idNumber>
       </id>
       <id>
+        <uid>143555</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>118282</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
@@ -11976,11 +11981,6 @@
         <uid>118281</uid>
         <idType>Website</idType>
         <idNumber>http://www.concern-orion.ru</idNumber>
-      </id>
-      <id>
-        <uid>143555</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -12076,14 +12076,14 @@
         <idNumber>Subject to Directive 3</idNumber>
       </id>
       <id>
-        <uid>143557</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118284</uid>
         <idType>Website</idType>
         <idNumber>http://www.oao-aps.ru</idNumber>
+      </id>
+      <id>
+        <uid>143557</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -12125,11 +12125,6 @@
         <idNumber>5030056754</idNumber>
       </id>
       <id>
-        <uid>118286</uid>
-        <idType>Website</idType>
-        <idNumber>http://www.90zavod.ru</idNumber>
-      </id>
-      <id>
         <uid>143866</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -12138,6 +12133,11 @@
         <uid>118287</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
+        <uid>118286</uid>
+        <idType>Website</idType>
+        <idNumber>http://www.90zavod.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -12189,16 +12189,6 @@
         <idNumber>7722599844</idNumber>
       </id>
       <id>
-        <uid>118291</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
-        <uid>143558</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118289</uid>
         <idType>Website</idType>
         <idNumber>www.ckbrm.nm.ru</idNumber>
@@ -12212,6 +12202,16 @@
         <uid>118288</uid>
         <idType>Email Address</idType>
         <idNumber>ckbrm@nm.ru</idNumber>
+      </id>
+      <id>
+        <uid>143558</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>118291</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
     </idList>
     <akaList>
@@ -12287,6 +12287,11 @@
         <idNumber>7714303050</idNumber>
       </id>
       <id>
+        <uid>118293</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
         <uid>118292</uid>
         <idType>Email Address</idType>
         <idNumber>9400658@rambler.ru</idNumber>
@@ -12295,11 +12300,6 @@
         <uid>143559</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>118293</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
       </id>
     </idList>
     <akaList>
@@ -12379,11 +12379,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118294</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
         <uid>143560</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -12392,6 +12387,11 @@
         <uid>169657</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>118294</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
     </idList>
     <akaList>
@@ -12438,14 +12438,14 @@
         <idNumber>7715909132</idNumber>
       </id>
       <id>
-        <uid>143576</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118310</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
+        <uid>143576</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>118309</uid>
@@ -12607,14 +12607,14 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>118315</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
         <uid>118314</uid>
         <idType>Email Address</idType>
         <idNumber>it@luch-nsk.ru</idNumber>
+      </id>
+      <id>
+        <uid>118315</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
     </idList>
     <akaList>
@@ -12673,11 +12673,6 @@
         <idNumber>7105515987</idNumber>
       </id>
       <id>
-        <uid>118316</uid>
-        <idType>Website</idType>
-        <idNumber>http://splav.org</idNumber>
-      </id>
-      <id>
         <uid>118317</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
@@ -12686,6 +12681,11 @@
         <uid>143610</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>118316</uid>
+        <idType>Website</idType>
+        <idNumber>http://splav.org</idNumber>
       </id>
     </idList>
     <akaList>
@@ -12750,9 +12750,9 @@
         <idNumber>4345029953</idNumber>
       </id>
       <id>
-        <uid>143611</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>118318</uid>
+        <idType>Email Address</idType>
+        <idNumber>nmz@nmz.kirov.ru</idNumber>
       </id>
       <id>
         <uid>118894</uid>
@@ -12760,9 +12760,9 @@
         <idNumber>Subject to Directive 3</idNumber>
       </id>
       <id>
-        <uid>118318</uid>
-        <idType>Email Address</idType>
-        <idNumber>nmz@nmz.kirov.ru</idNumber>
+        <uid>143611</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -12833,14 +12833,14 @@
         <idNumber>7729663922</idNumber>
       </id>
       <id>
-        <uid>118319</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
         <uid>143612</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>118319</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
     </idList>
     <akaList>
@@ -12904,11 +12904,6 @@
         <idNumber>6621001262</idNumber>
       </id>
       <id>
-        <uid>143613</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118320</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
@@ -12922,6 +12917,11 @@
         <uid>118321</uid>
         <idType>Email Address</idType>
         <idNumber>kcp@uraltc.ru</idNumber>
+      </id>
+      <id>
+        <uid>143613</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -12986,9 +12986,9 @@
         <idNumber>5402546039</idNumber>
       </id>
       <id>
-        <uid>118323</uid>
-        <idType>Email Address</idType>
-        <idNumber>secretar@nzpp.ru</idNumber>
+        <uid>143614</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>118324</uid>
@@ -12996,9 +12996,9 @@
         <idNumber>Subject to Directive 3</idNumber>
       </id>
       <id>
-        <uid>143614</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>118323</uid>
+        <idType>Email Address</idType>
+        <idNumber>secretar@nzpp.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -13063,6 +13063,11 @@
         <idNumber>7704727853</idNumber>
       </id>
       <id>
+        <uid>118326</uid>
+        <idType>Email Address</idType>
+        <idNumber>chernyakova-st@stroytech-rt.ru</idNumber>
+      </id>
+      <id>
         <uid>143615</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -13071,11 +13076,6 @@
         <uid>118325</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
-        <uid>118326</uid>
-        <idType>Email Address</idType>
-        <idNumber>chernyakova-st@stroytech-rt.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -13129,14 +13129,14 @@
         <idNumber>7719024042</idNumber>
       </id>
       <id>
-        <uid>118327</uid>
-        <idType>Website</idType>
-        <idNumber>http://www.mzmayak.ru</idNumber>
-      </id>
-      <id>
         <uid>118328</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
+        <uid>118327</uid>
+        <idType>Website</idType>
+        <idNumber>http://www.mzmayak.ru</idNumber>
       </id>
       <id>
         <uid>143616</uid>
@@ -13269,14 +13269,14 @@
         <idNumber>info@uecrus.com</idNumber>
       </id>
       <id>
-        <uid>118895</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
         <uid>151217</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>118895</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
     </idList>
     <akaList>
@@ -13338,11 +13338,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>151153</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>118335</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
@@ -13351,6 +13346,11 @@
         <uid>173913</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
+      </id>
+      <id>
+        <uid>151153</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -13502,11 +13502,6 @@
         <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
-        <uid>143421</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>119694</uid>
         <idType>Website</idType>
         <idNumber>www.gazprom-transgaz-yugorsk.ru</idNumber>
@@ -13515,6 +13510,11 @@
         <uid>119693</uid>
         <idType>Email Address</idType>
         <idNumber>KANS1@TTG.GAZPROM.RU</idNumber>
+      </id>
+      <id>
+        <uid>143421</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -13573,6 +13573,11 @@
         <idNumber>7701022125</idNumber>
       </id>
       <id>
+        <uid>143422</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>119696</uid>
         <idType>Website</idType>
         <idNumber>niigazeconomika.gazprom.ru</idNumber>
@@ -13586,11 +13591,6 @@
         <uid>119695</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
-        <uid>143422</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -13642,9 +13642,9 @@
         <idNumber>00154312</idNumber>
       </id>
       <id>
-        <uid>143423</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>119824</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
         <uid>119700</uid>
@@ -13657,9 +13657,9 @@
         <idNumber>gfokin@spb.ltg.gazprom.ru</idNumber>
       </id>
       <id>
-        <uid>119824</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 4</idNumber>
+        <uid>143423</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -13711,11 +13711,6 @@
         <idNumber>04864447</idNumber>
       </id>
       <id>
-        <uid>119703</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
         <uid>143424</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -13729,6 +13724,11 @@
         <uid>119702</uid>
         <idType>Email Address</idType>
         <idNumber>ooo@ktg.gazprom.ru</idNumber>
+      </id>
+      <id>
+        <uid>119703</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 4</idNumber>
       </id>
     </idList>
     <akaList>
@@ -13781,14 +13781,14 @@
         <idNumber>3808069915</idNumber>
       </id>
       <id>
-        <uid>143425</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>119817</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
+        <uid>143425</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -13846,14 +13846,14 @@
         <idNumber>1027739841370</idNumber>
       </id>
       <id>
-        <uid>119782</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
         <uid>143426</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>119782</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
         <uid>119784</uid>
@@ -13990,6 +13990,11 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
+        <uid>119788</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
         <uid>119789</uid>
         <idType>Website</idType>
         <idNumber>gazsvyaz.ru</idNumber>
@@ -13998,11 +14003,6 @@
         <uid>119790</uid>
         <idType>Email Address</idType>
         <idNumber>a.nosonov@gazprom.ru</idNumber>
-      </id>
-      <id>
-        <uid>119788</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 4</idNumber>
       </id>
     </idList>
     <akaList>
@@ -14054,16 +14054,6 @@
         <idNumber>5003021311</idNumber>
       </id>
       <id>
-        <uid>119791</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
-        <uid>143429</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>119793</uid>
         <idType>Website</idType>
         <idNumber>mrg.gazprom.ru</idNumber>
@@ -14072,6 +14062,16 @@
         <uid>119792</uid>
         <idType>Email Address</idType>
         <idNumber>k.seleznev@mrg.gazprom.ru</idNumber>
+      </id>
+      <id>
+        <uid>119791</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
+        <uid>143429</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -17094,11 +17094,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143778</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>120468</uid>
         <idType>Website</idType>
         <idNumber>http://sgmsk.ru/about/raskrytie-informacii/oao-sg-msk</idNumber>
@@ -17107,6 +17102,11 @@
         <uid>120467</uid>
         <idType>Email Address</idType>
         <idNumber>root@oasopsk.kazan.ru</idNumber>
+      </id>
+      <id>
+        <uid>143778</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>120885</uid>
@@ -17371,14 +17371,14 @@
     </programList>
     <idList>
       <id>
-        <uid>120852</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>143911</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>120852</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <addressList>
@@ -17400,14 +17400,14 @@
     </programList>
     <idList>
       <id>
-        <uid>143912</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>120858</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>143912</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <addressList>
@@ -17429,14 +17429,14 @@
     </programList>
     <idList>
       <id>
-        <uid>120888</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>143913</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>120888</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -17466,14 +17466,14 @@
     </programList>
     <idList>
       <id>
-        <uid>143914</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>120866</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>143914</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <addressList>
@@ -17496,14 +17496,14 @@
     </programList>
     <idList>
       <id>
-        <uid>120869</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>143915</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>120869</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -17554,14 +17554,14 @@
         <idNumber>7706694089</idNumber>
       </id>
       <id>
-        <uid>143916</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>120871</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>143916</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -17605,14 +17605,14 @@
     </programList>
     <idList>
       <id>
-        <uid>120875</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>143917</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>120875</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -17673,6 +17673,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>120850</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
         <uid>151133</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
@@ -17686,11 +17691,6 @@
         <uid>120489</uid>
         <idType>Website</idType>
         <idNumber>http://www.bmbank.com.ua</idNumber>
-      </id>
-      <id>
-        <uid>120850</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -17744,14 +17744,14 @@
         <idNumber>84130506</idNumber>
       </id>
       <id>
-        <uid>120848</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>143780</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>120848</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -17822,14 +17822,14 @@
         <idNumber>7707782490</idNumber>
       </id>
       <id>
-        <uid>143877</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>120881</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>143877</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -17909,14 +17909,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>120882</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>143875</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>120882</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -17986,14 +17986,14 @@
         <idNumber>7702768727</idNumber>
       </id>
       <id>
-        <uid>143781</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>120854</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>143781</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -18048,14 +18048,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>120883</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>143782</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>120883</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -18108,14 +18108,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143869</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>120884</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>143869</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24218,11 +24218,6 @@
         <idCountry>Switzerland</idCountry>
       </id>
       <id>
-        <uid>144127</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>134566</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -24231,6 +24226,11 @@
         <uid>134567</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
+      </id>
+      <id>
+        <uid>144127</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <addressList>
@@ -24273,14 +24273,14 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>199714</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>137439</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>199714</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24346,6 +24346,11 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
+        <uid>199692</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
         <uid>137440</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
@@ -24354,11 +24359,6 @@
         <uid>135957</uid>
         <idType>Gender</idType>
         <idNumber>Female</idNumber>
-      </id>
-      <id>
-        <uid>199692</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24426,9 +24426,9 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
-        <uid>135966</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>199715</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>137441</uid>
@@ -24436,9 +24436,9 @@
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
-        <uid>199715</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>135966</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24531,14 +24531,14 @@
         <idNumber>Female</idNumber>
       </id>
       <id>
-        <uid>137438</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>199703</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>137438</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24605,9 +24605,9 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
-        <uid>199705</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>137442</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>135988</uid>
@@ -24615,9 +24615,9 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>137442</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>199705</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24675,14 +24675,14 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>137443</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>136018</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>137443</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>199724</uid>
@@ -24740,14 +24740,14 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>137444</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>199689</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>137444</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24822,9 +24822,9 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>136013</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>137447</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>199725</uid>
@@ -24832,9 +24832,9 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>137447</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>136013</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -24934,9 +24934,9 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>199709</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>137445</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>136025</uid>
@@ -24944,9 +24944,9 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>137445</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>199709</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25090,6 +25090,11 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
+        <uid>137900</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
+      </id>
+      <id>
         <uid>199707</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -25098,11 +25103,6 @@
         <uid>139958</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
-        <uid>137900</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
       </id>
     </idList>
     <akaList>
@@ -25221,14 +25221,14 @@
     </programList>
     <idList>
       <id>
-        <uid>137909</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199706</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>137909</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>139956</uid>
@@ -25276,11 +25276,6 @@
     </programList>
     <idList>
       <id>
-        <uid>199716</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>139940</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
@@ -25289,6 +25284,11 @@
         <uid>138121</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>199716</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25441,14 +25441,14 @@
     </programList>
     <idList>
       <id>
-        <uid>199710</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>138133</uid>
         <idType>Gender</idType>
         <idNumber>Female</idNumber>
+      </id>
+      <id>
+        <uid>199710</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>139944</uid>
@@ -25496,9 +25496,9 @@
     </programList>
     <idList>
       <id>
-        <uid>199700</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>139945</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>138137</uid>
@@ -25506,9 +25506,9 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>139945</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>199700</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25615,14 +25615,14 @@
     </programList>
     <idList>
       <id>
-        <uid>199686</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>139947</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>199686</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>138145</uid>
@@ -25679,6 +25679,11 @@
     </programList>
     <idList>
       <id>
+        <uid>138149</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
+      </id>
+      <id>
         <uid>139948</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
@@ -25687,11 +25692,6 @@
         <uid>199691</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
-        <uid>138149</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25744,14 +25744,14 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>139949</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>199717</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>139949</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25794,9 +25794,9 @@
     </programList>
     <idList>
       <id>
-        <uid>199694</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>139950</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>138158</uid>
@@ -25804,9 +25804,9 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>139950</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>199694</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -25865,9 +25865,9 @@
     </programList>
     <idList>
       <id>
-        <uid>199696</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>139951</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>138162</uid>
@@ -25875,9 +25875,9 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>139951</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>199696</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25925,14 +25925,14 @@
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
-        <uid>138166</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199697</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>138166</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25975,9 +25975,9 @@
     </programList>
     <idList>
       <id>
-        <uid>199687</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>138170</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>139953</uid>
@@ -25985,9 +25985,9 @@
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
-        <uid>138170</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>199687</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -26030,9 +26030,9 @@
     </programList>
     <idList>
       <id>
-        <uid>139954</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>138174</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>199718</uid>
@@ -26040,9 +26040,9 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>138174</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>139954</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -28782,14 +28782,14 @@
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
-        <uid>139109</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199702</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>139109</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <akaList>
@@ -28858,14 +28858,14 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>139113</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>139963</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>139113</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <akaList>
@@ -28922,14 +28922,14 @@
     </programList>
     <idList>
       <id>
-        <uid>139119</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199711</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>139119</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>139959</uid>
@@ -28984,6 +28984,11 @@
     </programList>
     <idList>
       <id>
+        <uid>199722</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
         <uid>139962</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
@@ -28992,11 +28997,6 @@
         <uid>139121</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
-      </id>
-      <id>
-        <uid>199722</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -29038,14 +29038,14 @@
     </programList>
     <idList>
       <id>
-        <uid>199712</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>139196</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>199712</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>139960</uid>
@@ -31817,14 +31817,14 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>145527</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>142022</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>145527</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -31870,9 +31870,9 @@
     </programList>
     <idList>
       <id>
-        <uid>142035</uid>
-        <idType>Gender</idType>
-        <idNumber>Female</idNumber>
+        <uid>145529</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>199708</uid>
@@ -31880,9 +31880,9 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>145529</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>142035</uid>
+        <idType>Gender</idType>
+        <idNumber>Female</idNumber>
       </id>
     </idList>
     <addressList>
@@ -31928,14 +31928,14 @@
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
-        <uid>199713</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>142040</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>199713</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -32034,11 +32034,6 @@
     </programList>
     <idList>
       <id>
-        <uid>142055</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199721</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -32047,6 +32042,11 @@
         <uid>145547</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>142055</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -32851,6 +32851,11 @@
         <idNumber>www.rzd.ru</idNumber>
       </id>
       <id>
+        <uid>146169</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>18 Sep 2003</idNumber>
+      </id>
+      <id>
         <uid>146168</uid>
         <idType>Target Type</idType>
         <idNumber>Government Entity</idNumber>
@@ -32874,11 +32879,6 @@
         <uid>146838</uid>
         <idType>Effective Date (EO 14024 Directive 3):</idType>
         <idNumber>26 Mar 2022</idNumber>
-      </id>
-      <id>
-        <uid>146169</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>18 Sep 2003</idNumber>
       </id>
     </idList>
     <akaList>
@@ -32932,6 +32932,11 @@
     </programList>
     <idList>
       <id>
+        <uid>166733</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>1963</idNumber>
+      </id>
+      <id>
         <uid>166734</uid>
         <idType>Organization Type:</idType>
         <idNumber>Extraction of crude petroleum</idNumber>
@@ -32960,11 +32965,6 @@
         <uid>166771</uid>
         <idType>Effective Date (EO 14014 Directive 1):</idType>
         <idNumber>15 Dec 2023</idNumber>
-      </id>
-      <id>
-        <uid>166733</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>1963</idNumber>
       </id>
     </idList>
     <akaList>
