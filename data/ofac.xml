@@ -284,14 +284,14 @@
     </programList>
     <idList>
       <id>
-        <uid>166818</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</idNumber>
-      </id>
-      <id>
         <uid>166816</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>166818</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</idNumber>
       </id>
     </idList>
     <akaList>
@@ -32932,11 +32932,6 @@
     </programList>
     <idList>
       <id>
-        <uid>166733</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>1963</idNumber>
-      </id>
-      <id>
         <uid>166734</uid>
         <idType>Organization Type:</idType>
         <idNumber>Extraction of crude petroleum</idNumber>
@@ -32965,6 +32960,11 @@
         <uid>166771</uid>
         <idType>Effective Date (EO 14014 Directive 1):</idType>
         <idNumber>15 Dec 2023</idNumber>
+      </id>
+      <id>
+        <uid>166733</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>1963</idNumber>
       </id>
     </idList>
     <akaList>
