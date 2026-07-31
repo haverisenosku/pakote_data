@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-07-29T23:00:03.470Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-07-31T01:28:53.315Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -37543,13 +37543,15 @@ regime</VALUE>
         <VALUE>2008-10-03</VALUE>
         <VALUE>2011-11-29</VALUE>
         <VALUE>2026-04-28</VALUE>
+        <VALUE>2026-07-30</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
         <ALIAS_NAME>HAMDULLAH NUMANI</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY/>
+        <CITY>Kabul</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
@@ -37562,6 +37564,10 @@ regime</VALUE>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Sipayaw village, Andar District</CITY>
         <STATE_PROVINCE>Ghazni Province</STATE_PROVINCE>
+        <COUNTRY>Afghanistan</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <STATE_PROVINCE>Ghazni</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT>
@@ -38983,6 +38989,7 @@ Taliban regime</VALUE>
         <VALUE>2016-09-07</VALUE>
         <VALUE>2026-03-10</VALUE>
         <VALUE>2026-04-28</VALUE>
+        <VALUE>2026-07-30</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -39016,6 +39023,10 @@ Taliban regime</VALUE>
         <STATE_PROVINCE>Ghazni Province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Ghazni</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
         <TYPE_OF_DOCUMENT2>diplomatic passport </TYPE_OF_DOCUMENT2>
@@ -39024,6 +39035,14 @@ Taliban regime</VALUE>
         <DATE_OF_ISSUE>2021-10-23</DATE_OF_ISSUE>
         <DATE_OF_EXPIRY>2026-10-23</DATE_OF_EXPIRY>
         <NOTE>Name in Latin script: Abdulhaq Waseeq</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>D0010689</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2026-03-29</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2031-03-29</DATE_OF_EXPIRY>
+        <NOTE>Name in Latin script: Abdulhaq Waseeq, name in original script: عبد الحق وثيق</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -40543,7 +40562,7 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.110</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>نور محمد ثاقب</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Member of Taliban Supreme Council and Head of Taliban Religious Committee. Belongs to Ahmadzai tribe. Height 175 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-26129</COMMENTS1>
+      <COMMENTS1>Member of Taliban Supreme Council and Head of Taliban Religious Committee. Belongs to Ahmadzai tribe. Height 175 cm or 180 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-26129</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
       <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-26129</INTERPOL_LINK>
       <DESIGNATION>
@@ -40561,6 +40580,7 @@ regime</VALUE>
         <VALUE>2011-11-29</VALUE>
         <VALUE>2026-03-10</VALUE>
         <VALUE>2026-04-28</VALUE>
+        <VALUE>2026-07-30</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -40579,6 +40599,10 @@ regime</VALUE>
         <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
         <DATE>1963-09-18</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1962-10-19</DATE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Bagrami District</CITY>
         <STATE_PROVINCE>Kabul Province</STATE_PROVINCE>
@@ -40587,6 +40611,10 @@ regime</VALUE>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Tarakhel area, Deh Sabz District</CITY>
         <STATE_PROVINCE>Kabul Province</STATE_PROVINCE>
+        <COUNTRY>Afghanistan</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Kabul</CITY>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT>
@@ -40598,6 +40626,20 @@ regime</VALUE>
         <DATE_OF_EXPIRY>2027-05-10</DATE_OF_EXPIRY>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
         <NOTE>Name in Latin script: Noor Mohammed Saqeb; name original script: نورمحمد ثاقب</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>P09305451</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2025-04-29</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2030-04-29</DATE_OF_EXPIRY>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
+        <NOTE>DOB 19 Oct. 1962 180 cm Name in Latin script: Noor Mohammed Saqeb; name original script: نورمحمد ثاقب</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>544311 </NUMBER>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -42004,7 +42046,7 @@ Pakistan</VALUE>
       <REFERENCE_NUMBER>TAi.144</REFERENCE_NUMBER>
       <LISTED_ON>2007-09-13</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>سراج الدين جلال الدين حقانى</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Heading the Haqqani Network (TAe.012) as of late 2012. Son of Jalaluddin Haqqani (TAi.040). Belongs to Sultan Khel section, Zadran tribe of Garda Saray of Paktia province, Afghanistan. Height 187 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-44300</COMMENTS1>
+      <COMMENTS1>Heading the Haqqani Network (TAe.012) as of late 2012. Son of Jalaluddin Haqqani (TAi.040). Belongs to Sultan Khel section, Zadran tribe of Garda Saray of Paktia province, Afghanistan. Height 187 cm or 180cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-44300</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
       <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-44300</INTERPOL_LINK>
       <DESIGNATION>
@@ -42020,6 +42062,7 @@ Pakistan</VALUE>
         <VALUE>2013-04-22</VALUE>
         <VALUE>2026-03-10</VALUE>
         <VALUE>2026-04-28</VALUE>
+        <VALUE>2026-07-30</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -42078,6 +42121,10 @@ Pakistan</VALUE>
         <STATE_PROVINCE>Paktia province</STATE_PROVINCE>
         <COUNTRY>Afghanistan</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Paktia</CITY>
+        <COUNTRY>Afghanistan</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
         <NUMBER>P00032260</NUMBER>
@@ -42097,6 +42144,13 @@ Pakistan</VALUE>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
         <NOTE>Name in Latin script: Sirajuddin Haqqani</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>P05076602</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2026-05-05</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2036-05-05</DATE_OF_EXPIRY>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -42241,6 +42295,7 @@ funds for the Taliban. Reportedly deceased as of 2013. INTERPOL-UN Security Coun
         <VALUE>2013-12-31</VALUE>
         <VALUE>2026-03-10</VALUE>
         <VALUE>2026-04-13</VALUE>
+        <VALUE>2026-07-30</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -42310,6 +42365,15 @@ funds for the Taliban. Reportedly deceased as of 2013. INTERPOL-UN Security Coun
         <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2020-07-29</DATE_OF_ISSUE>
         <NOTE>Name in Latin script: Hedayatullah Hedayat, expires 29 Jul.  2025</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>D0010006</NUMBER>
+        <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2022-09-28</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2027-09-28</DATE_OF_EXPIRY>
+        <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
