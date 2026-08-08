@@ -32988,11 +32988,6 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>199886</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
         <uid>199884</uid>
         <idType>Website</idType>
         <idNumber>www.uk-odk.ru</idNumber>
@@ -33006,6 +33001,11 @@
         <uid>152769</uid>
         <idType>Organization Established Date</idType>
         <idNumber>22 Nov 2007</idNumber>
+      </id>
+      <id>
+        <uid>199886</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
       </id>
     </idList>
     <akaList>
