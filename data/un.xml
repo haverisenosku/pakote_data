@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-08-12T23:00:04.336Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-08-13T23:00:02.056Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -14769,9 +14769,9 @@ Place of issue: Essouck, Mali</NOTE>
       <REFERENCE_NUMBER>QDi.001</REFERENCE_NUMBER>
       <LISTED_ON>2001-01-25</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>محمد صلاح الدين عبدالحليم زيدان</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Responsible for Usama bin Laden’s (deceased) security. Hair: Dark. Eyes: Dark. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Responsible for Usama bin Laden’s (deceased) security. Hair: Dark. Eyes: Dark. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-312380</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-312380</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Egypt</VALUE>
       </NATIONALITY>
@@ -14785,6 +14785,7 @@ Place of issue: Essouck, Mali</NOTE>
         <VALUE>2019-03-29</VALUE>
         <VALUE>2019-05-01</VALUE>
         <VALUE>2022-11-08</VALUE>
+        <VALUE>2026-08-13</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2010-06-15</VALUE>
@@ -14813,6 +14814,27 @@ Arabic: سيف العدل </NOTE>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Low</QUALITY>
         <ALIAS_NAME>Seif al Adel</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>SALEM AL-SHARIF</ALIAS_NAME>
+        <NOTE>سالم الشريف</NOTE>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>HAZEM AL-MADANI</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>ABER SABIL</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>MUHANNAD SALEM</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Low</QUALITY>
+        <ALIAS_NAME>ABU KHALED AL-SAN’ANI</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
         <COUNTRY/>
@@ -22581,9 +22603,9 @@ province, Algeria</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.261</REFERENCE_NUMBER>
       <LISTED_ON>2008-10-27</LISTED_ON>
-      <COMMENTS1>Associated with the Islamic Jihad Union (IJU), also known as the Islamic Jihad Group (QDe.119). Deported from Germany to Türkiye in February 2019. Ongoing judicial process as of November 2023 INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Associated with the Islamic Jihad Union (IJU), also known as the Islamic Jihad Group (QDe.119). Deported from Germany to Türkiye in February 2019. Ongoing judicial process as of November 2023. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-44887</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2007-44887</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Türkiye</VALUE>
       </NATIONALITY>
@@ -22595,6 +22617,7 @@ province, Algeria</NOTE>
         <VALUE>2019-12-06</VALUE>
         <VALUE>2023-10-30</VALUE>
         <VALUE>2023-12-14</VALUE>
+        <VALUE>2026-08-13</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2019-12-04</VALUE>
@@ -22612,6 +22635,15 @@ province, Algeria</NOTE>
         <NOTE>previous address</NOTE>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_ADDRESS>
+        <STREET>Atalar Neighborhood Aslı Street 24/5</STREET>
+        <CITY>34860 Kartal</CITY>
+        <STATE_PROVINCE>Istanbul </STATE_PROVINCE>
+        <COUNTRY>Türkiye</COUNTRY>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <STREET>Atalar Mahallesi</STREET>
+        <CITY>Atalar mahallesi aslı sokak no 24/5</CITY>
+        <STATE_PROVINCE>34862 Kartal İstanbul</STATE_PROVINCE>
         <COUNTRY>Türkiye</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
@@ -27008,14 +27040,15 @@ Abdul Rosyid Ridho Ba’asyir</NOTE>
       <VERSIONNUM>1</VERSIONNUM>
       <FIRST_NAME>SHAFI</FIRST_NAME>
       <SECOND_NAME>SULTAN</SECOND_NAME>
-      <THIRD_NAME>MOHAMMED</THIRD_NAME>
+      <THIRD_NAME>MOHAMMED SULTAN</THIRD_NAME>
       <FOURTH_NAME>AL-AJMI</FOURTH_NAME>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.338</REFERENCE_NUMBER>
       <LISTED_ON>2014-09-23</LISTED_ON>
-      <COMMENTS1>Fundraiser for Al-Nusrah Front for the People of the Levant (formerly listed). In November 2023, he was released from prison in Kuwait as part of the Special Amiri Decree Pardon No. 225/2023 INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <NAME_ORIGINAL_SCRIPT>شافي سلطان محمد سلطان العجمي</NAME_ORIGINAL_SCRIPT>
+      <COMMENTS1>Fundraiser for Al-Nusrah Front for the People of the Levant (formerly listed). In November 2023, he was released from prison in Kuwait as part of the Special Amiri Decree Pardon No. 225/2023. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2014-58611</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2014-58611</INTERPOL_LINK>
       <TITLE>
         <VALUE>Doctor</VALUE>
       </TITLE>
@@ -27028,6 +27061,7 @@ Abdul Rosyid Ridho Ba’asyir</NOTE>
       <LAST_DAY_UPDATED>
         <VALUE>2020-11-24</VALUE>
         <VALUE>2025-08-22</VALUE>
+        <VALUE>2026-08-13</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2020-11-24</VALUE>
@@ -27045,6 +27079,10 @@ Abdul Rosyid Ridho Ba’asyir</NOTE>
         <QUALITY>Low</QUALITY>
         <ALIAS_NAME>Shaykh Abu-Sultan</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>SHAFI S. M. S. ALAJMI</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
         <STREET>Area 3, Street 327, Building 41</STREET>
         <CITY>Al-Uqaylah</CITY>
@@ -27060,7 +27098,26 @@ Abdul Rosyid Ridho Ba’asyir</NOTE>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-        <NUMBER>0216155930</NUMBER>
+        <NUMBER>03111298</NUMBER>
+        <ISSUING_COUNTRY>Kuwait</ISSUING_COUNTRY>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>003111298</NUMBER>
+        <ISSUING_COUNTRY>Kuwait</ISSUING_COUNTRY>
+        <DATE_OF_ISSUE>2010-09-16</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2020-09-15</DATE_OF_EXPIRY>
+        <COUNTRY_OF_ISSUE>Kuwait</COUNTRY_OF_ISSUE>
+        <NOTE>in the name of Shafi S M S Alajmi, Arabic script شافي سلطان محمد سلطان العجمي</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>0216155930 </NUMBER>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+        <NUMBER>273010101204</NUMBER>
+        <ISSUING_COUNTRY>Kuwait</ISSUING_COUNTRY>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -51535,15 +51592,16 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDe.068</REFERENCE_NUMBER>
       <LISTED_ON>2001-12-24</LISTED_ON>
-      <COMMENTS1>Its directors included Mahmood Sultan Bashir-Ud-Din (QDi.055), Majeed Abdul Chaudhry (QDi.054) and Mohammed Tufail (QDi.056). Banned in Pakistan INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
+      <COMMENTS1>Its directors included Mahmood Sultan Bashir-Ud-Din (QDi.055). Banned in Pakistan INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2008-18090</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2008-18090</INTERPOL_LINK>
       <LIST_TYPE>
         <VALUE>UN List</VALUE>
       </LIST_TYPE>
       <LAST_DAY_UPDATED>
         <VALUE>2011-12-13</VALUE>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-08-13</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2010-06-21</VALUE>
