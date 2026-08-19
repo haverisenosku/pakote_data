@@ -32998,14 +32998,14 @@
         <idNumber>info@uecrus.com</idNumber>
       </id>
       <id>
-        <uid>152769</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>22 Nov 2007</idNumber>
-      </id>
-      <id>
         <uid>199886</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
+        <uid>152769</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>22 Nov 2007</idNumber>
       </id>
     </idList>
     <akaList>
@@ -33060,11 +33060,6 @@
     </programList>
     <idList>
       <id>
-        <uid>166733</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>1963</idNumber>
-      </id>
-      <id>
         <uid>166734</uid>
         <idType>Organization Type:</idType>
         <idNumber>Extraction of crude petroleum</idNumber>
@@ -33093,6 +33088,11 @@
         <uid>166771</uid>
         <idType>Effective Date (EO 14014 Directive 1):</idType>
         <idNumber>15 Dec 2023</idNumber>
+      </id>
+      <id>
+        <uid>166733</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>1963</idNumber>
       </id>
     </idList>
     <akaList>

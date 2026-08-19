@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-08-17T23:00:05.529Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-08-18T23:00:05.292Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -17544,11 +17544,12 @@ Feb. 2001</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.087</REFERENCE_NUMBER>
       <LISTED_ON>2003-01-28</LISTED_ON>
-      <COMMENTS1>Senior leader of Jemaah Islamiyah (QDe.092). Brother of Gun Gun Rusman Gunawan (QDi.218). In custody of the United States of America, as of July 2007 INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Senior leader of Jemaah Islamiyah (QDe.092). Brother of Gun Gun Rusman Gunawan (QDi.218). In custody of the United States of America, as of July 2007 INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2002-40158</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2002-40158</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Indonesia</VALUE>
+        <VALUE>Malaysia</VALUE>
       </NATIONALITY>
       <LIST_TYPE>
         <VALUE>UN List</VALUE>
@@ -17559,6 +17560,7 @@ Feb. 2001</NOTE>
         <VALUE>2011-05-16</VALUE>
         <VALUE>2019-12-06</VALUE>
         <VALUE>2022-11-08</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2010-04-13</VALUE>
@@ -17584,7 +17586,8 @@ Feb. 2001</NOTE>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
-        <ALIAS_NAME>Encep Nurjaman (birth name)</ALIAS_NAME>
+        <ALIAS_NAME>ENCEP NURJAMAN</ALIAS_NAME>
+        <NOTE>birth name</NOTE>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -17605,9 +17608,17 @@ Feb. 2001</NOTE>
         <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
         <DATE>1964-04-04</DATE>
       </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <YEAR>1966</YEAR>
+      </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>Cianjur</CITY>
         <STATE_PROVINCE>West Java</STATE_PROVINCE>
+        <COUNTRY>Indonesia</COUNTRY>
+      </INDIVIDUAL_PLACE_OF_BIRTH>
+      <INDIVIDUAL_PLACE_OF_BIRTH>
+        <CITY>Sukamanah, West Java</CITY>
         <COUNTRY>Indonesia</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT/>
@@ -17841,9 +17852,9 @@ Feb. 2001</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.114</REFERENCE_NUMBER>
       <LISTED_ON>2003-09-09</LISTED_ON>
-      <COMMENTS1>In detention in the Philippines as at May 2011 INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>A member of the Abu Sayyaf Group (QDe.001). In detention in the Philippines as at May 2011 INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-22291</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-22291</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Philippines</VALUE>
       </NATIONALITY>
@@ -17855,6 +17866,7 @@ Feb. 2001</NOTE>
         <VALUE>2011-12-13</VALUE>
         <VALUE>2019-12-06</VALUE>
         <VALUE>2022-11-08</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2010-05-25</VALUE>
@@ -20530,9 +20542,9 @@ province, Algeria</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.204</REFERENCE_NUMBER>
       <LISTED_ON>2005-12-06</LISTED_ON>
-      <COMMENTS1>Senior leader of Abu Sayyaf Group (ASG) (QDe.001). Leader of local affiliates of the Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (AQI) (QDe.115), in the southern Philippines as of May 2017. Reportedly deceased in 2017. Physical description: eye colour: brown; hair colour: brown; height: 5 feet 6 inches – 168 cm; weight: 120 pounds – 54 kg; build: slim; complexion: light-skinned; has facial birthmarks. Wanted by the Philippines authorities for terrorist offences and by authorities of the United States of America for involvement in terrorist acts. Photos included in INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Senior leader of Abu Sayyaf Group (ASG) (QDe.001). Leader of local affiliates of the Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (AQI) (QDe.115), in the southern Philippines as of May 2017. Killed in Marawi City, Philippines on 15 October 2017. Physical description: eye colour: brown; hair colour: brown; height: 5 feet 6 inches – 168 cm; weight: 120 pounds – 54 kg; build: slim; complexion: light-skinned; has facial birthmarks. Wanted by the Philippines authorities for terrorist offences and by authorities of the United States of America for involvement in terrorist acts. Photos included in INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2016-35239</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2016-35239</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Philippines</VALUE>
       </NATIONALITY>
@@ -20544,6 +20556,7 @@ province, Algeria</NOTE>
         <VALUE>2019-12-06</VALUE>
         <VALUE>2022-11-08</VALUE>
         <VALUE>2023-02-02</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2010-06-08</VALUE>
@@ -22379,9 +22392,9 @@ province, Algeria</NOTE>
       <REFERENCE_NUMBER>QDi.249</REFERENCE_NUMBER>
       <LISTED_ON>2008-07-03</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>يحيى جوادي</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Reportedly deceased as of February 2022. Belonged to the leadership of the Organization of Al-Qaida in the Islamic Maghreb (listed under permanent reference number QDe.014). Located in Northern Mali as of Jun. 2008. Mother’s name is Zohra Fares. Father’s name is Mohamed INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Located in Northern Mali as of Jun. 2008. Reportedly killed on 25 February 2022 in Timbuktu, Mali. Belonged to the leadership of the Organization of Al-Qaida in the Islamic Maghreb (listed under permanent reference number QDe.014). Mother’s name is Zohra Fares. Father’s name is Mohamed. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2003-33116</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2003-33116</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Algeria</VALUE>
       </NATIONALITY>
@@ -22393,6 +22406,7 @@ province, Algeria</NOTE>
         <VALUE>2021-11-15</VALUE>
         <VALUE>2022-11-08</VALUE>
         <VALUE>2023-02-02</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
@@ -22562,9 +22576,9 @@ province, Algeria</NOTE>
       <REFERENCE_NUMBER>QDi.252</REFERENCE_NUMBER>
       <LISTED_ON>2008-07-03</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>أحمد دغداغ</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Belongs to the leadership and is the finance chief of the Organization of Al-Qaida in the Islamic Maghreb (QDe.014). Mother’s name is Zakia Chebira. Father’s name is Lakhdar INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Belongs to the leadership and is the finance chief of the Organization of Al-Qaida in the Islamic Maghreb (QDe.014). Mother’s name is Zakia Chebira. Father’s name is Lakhdar. Reportedly died in Algeria in 2020. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2008-27768</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2008-27768</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Algeria</VALUE>
       </NATIONALITY>
@@ -22575,6 +22589,7 @@ province, Algeria</NOTE>
         <VALUE>2009-03-24</VALUE>
         <VALUE>2012-11-15</VALUE>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
@@ -22587,6 +22602,18 @@ province, Algeria</NOTE>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
         <ALIAS_NAME>Abdellillah dit Abdellah Ahmed dit Said</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>ABD EL ILAH</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>ABOU ABDELLAH AHMED</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>SAID DIT MERRIKH</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
         <COUNTRY>Algeria</COUNTRY>
@@ -24105,9 +24132,9 @@ number</TYPE_OF_DOCUMENT2>
       <REFERENCE_NUMBER>QDi.291</REFERENCE_NUMBER>
       <LISTED_ON>2011-03-24</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>إبراهيم حسن طالع العسيري</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Operative and principal bomb maker of Al-Qaida in the Arabian Peninsula (AQAP) (QDe.129). Believed to be hiding in Yemen as at Mar. 2011. Wanted by Saudi Arabia. Reportedly deceased. Also associated with Nasir 'abd-al-Karim 'Abdullah Al-Wahishi (deceased), Qasim Yahya Mahdi al-Rimi (QDi.282), and Anwar Nasser Abdulla Al-Aulaqi (QDi.283) (deceased) INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Operative and principal bomb maker of Al-Qaida in the Arabian Peninsula (AQAP) (QDe.129). Reportedly deceased in 2017. Also associated with Nasir 'abd-al-Karim 'Abdullah Al-Wahishi (deceased), Qasim Yahya Mahdi al-Rimi (QDi.282), and Anwar Nasser Abdulla Al-Aulaqi (QDi.283) (deceased). INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-3367</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-3367</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Saudi Arabia</VALUE>
       </NATIONALITY>
@@ -24121,6 +24148,7 @@ number</TYPE_OF_DOCUMENT2>
         <VALUE>2021-11-15</VALUE>
         <VALUE>2022-11-08</VALUE>
         <VALUE>2023-02-02</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
@@ -24417,9 +24445,9 @@ number</TYPE_OF_DOCUMENT2>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.294</REFERENCE_NUMBER>
       <LISTED_ON>2011-07-19</LISTED_ON>
-      <COMMENTS1>Senior member of Jemaah Islamiyah (QDe.092) involved in planning and funding multiple terrorist attacks in the Philippines and Indonesia. Provided training to Abu Sayyaf Group (QDe.001). Convicted for his role in the 2002 Bali bombings and sentenced to 20 years in prison in Jun. 2012. Remains in custody in Indonesia as at May 2015. Photos included in INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Senior member of Jemaah Islamiyah (QDe.092) involved in planning and funding multiple terrorist attacks in the Philippines and Indonesia. Provided training to Abu Sayyaf Group (QDe.001). Convicted for his role in the 2002 Bali bombings and sentenced to 20 years in prison in Jun. 2012. Released on parole in 2022 and as at late 2025, he operated a business in Surabaya, Indonesia. Photos included in  INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-3367</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-3367</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Indonesia</VALUE>
       </NATIONALITY>
@@ -24430,6 +24458,7 @@ number</TYPE_OF_DOCUMENT2>
         <VALUE>2012-02-23</VALUE>
         <VALUE>2017-09-22</VALUE>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
@@ -24495,9 +24524,9 @@ number</TYPE_OF_DOCUMENT2>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.295</REFERENCE_NUMBER>
       <LISTED_ON>2011-08-12</LISTED_ON>
-      <COMMENTS1>Senior member of Jemaah Islamiyah (QDe.092) directly involved in obtaining funding for terrorist attacks. Sentenced in Indonesia to five years in prison on 29 Jun. 2010. Father’s name is Mohamad Iqbal Abdurrahman (QDi.086) INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Senior member of Jemaah Islamiyah (QDe.092) directly involved in obtaining funding for terrorist attacks. Sentenced in Indonesia to five years in prison on 29 Jun. 2010. Father’s name is Mohamad Iqbal Abdurrahman (QDi.086). INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-290638</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-290638</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Indonesia</VALUE>
       </NATIONALITY>
@@ -24507,6 +24536,7 @@ number</TYPE_OF_DOCUMENT2>
       <LAST_DAY_UPDATED>
         <VALUE>2020-11-24</VALUE>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2020-11-24</VALUE>
@@ -24571,6 +24601,11 @@ number</TYPE_OF_DOCUMENT2>
         <DATE>1979-03-03</DATE>
         <NOTE>from false passport</NOTE>
       </INDIVIDUAL_DATE_OF_BIRTH>
+      <INDIVIDUAL_DATE_OF_BIRTH>
+        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+        <DATE>1980-08-08</DATE>
+        <NOTE>information derived from forged Indonesia passport No.S335026</NOTE>
+      </INDIVIDUAL_DATE_OF_BIRTH>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <CITY>East Lombok</CITY>
         <STATE_PROVINCE>West Nusa Tenggara</STATE_PROVINCE>
@@ -24585,6 +24620,12 @@ number</TYPE_OF_DOCUMENT2>
         <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
         <TYPE_OF_DOCUMENT2>Identification number</TYPE_OF_DOCUMENT2>
         <NUMBER>2181558</NUMBER>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>S335026 </NUMBER>
+        <ISSUING_COUNTRY>Indonesia</ISSUING_COUNTRY>
+        <NOTE>forged Indonesian passport</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -24847,9 +24888,9 @@ al-Samarra’i)</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.300</REFERENCE_NUMBER>
       <LISTED_ON>2012-01-25</LISTED_ON>
-      <COMMENTS1>Associated with Islamic Movement of Uzbekistan (QDe.010). Brother of Yassin Chouka (QDi.301) Arrest warrant issued by the investigating judge of the German Federal Court of Justice on 5 Oct. 2010 INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Associated with Islamic Movement of Uzbekistan (QDe.010). Associated with Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115), between October 2015 and August 2016. Brother of Yassin Chouka (QDi.301). Arrest warrant issued by the investigating judge of the German Federal Court of Justice on 5 Oct. 2010. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-290688</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-290688</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Germany</VALUE>
         <VALUE>Morocco</VALUE>
@@ -24859,6 +24900,7 @@ al-Samarra’i)</NOTE>
       </LIST_TYPE>
       <LAST_DAY_UPDATED>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
@@ -24868,12 +24910,20 @@ al-Samarra’i)</NOTE>
         <QUALITY>Low</QUALITY>
         <ALIAS_NAME>Abu Adam</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
+      <INDIVIDUAL_ALIAS>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>ABU HAMZA</ALIAS_NAME>
+      </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
         <STREET>Ungartenstraße 6</STREET>
         <CITY>Bonn</CITY>
         <ZIP_CODE>53229</ZIP_CODE>
         <COUNTRY>Germany</COUNTRY>
         <NOTE>previous</NOTE>
+      </INDIVIDUAL_ADDRESS>
+      <INDIVIDUAL_ADDRESS>
+        <COUNTRY>Syrian Arab Republic</COUNTRY>
+        <NOTE>as at 2023</NOTE>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
@@ -25055,9 +25105,9 @@ al-Samarra’i)</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.304</REFERENCE_NUMBER>
       <LISTED_ON>2012-03-12</LISTED_ON>
-      <COMMENTS1>Acting emir of Jemmah Anshorut Tauhid (JAT) (QDe.133). Associated with Abu Bakar Ba’asyir (QDi.217), Abdul Rahim Ba’aysir (QDi.293) and Jemaah Islamiyah (QDe.092) INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Acting emir of Jemmah Anshorut Tauhid (JAT) (QDe.133). Associated with Abu Bakar Ba’asyir (QDi.217), Abdul Rahim Ba’aysir (QDi.293) and Jemaah Islamiyah (QDe.092). INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-312423</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2012-312423</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Indonesia</VALUE>
       </NATIONALITY>
@@ -25067,6 +25117,7 @@ al-Samarra’i)</NOTE>
       <LAST_DAY_UPDATED>
         <VALUE>2021-11-15</VALUE>
         <VALUE>2022-05-27</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
@@ -25121,6 +25172,11 @@ al-Samarra’i)</NOTE>
         <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
         <TYPE_OF_DOCUMENT2>Indonesia National Identity Card</TYPE_OF_DOCUMENT2>
         <NUMBER> 353010405480001 </NUMBER>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>C3967156</NUMBER>
+        <ISSUING_COUNTRY>Indonesia</ISSUING_COUNTRY>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -29212,9 +29268,9 @@ Federation for the Republic Karachayevo-Cherkessia</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.375</REFERENCE_NUMBER>
       <LISTED_ON>2015-09-29</LISTED_ON>
-      <COMMENTS1>French-Tunisian foreign terrorist fighter for Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115) INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>French-Tunisian foreign terrorist fighter for Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115). Reportedly killed in Raqqa, Syria on 26 November 2016. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2015-64575</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2015-64575</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>France</VALUE>
         <VALUE>Tunisia</VALUE>
@@ -29225,6 +29281,7 @@ Federation for the Republic Karachayevo-Cherkessia</NOTE>
       <LAST_DAY_UPDATED>
         <VALUE>2016-06-24</VALUE>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
@@ -29278,9 +29335,9 @@ Federation for the Republic Karachayevo-Cherkessia</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.376</REFERENCE_NUMBER>
       <LISTED_ON>2015-09-29</LISTED_ON>
-      <COMMENTS1>Member of Al-Qaida in the Arabian Peninsula (AQAP) (QDe.129). Convicted in absentia to five years in prison in France in 2012. Wanted by French authorities as of 2015 INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Member of Al-Qaida in the Arabian Peninsula (AQAP) (QDe.129). Convicted in absentia to five years in prison in France in 2012. Wanted by French authorities as of 2015. Sentenced to life imprisonment by a French court on 3 October 2024.  INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2015-64577</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2015-64577</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>France</VALUE>
       </NATIONALITY>
@@ -29290,6 +29347,7 @@ Federation for the Republic Karachayevo-Cherkessia</NOTE>
       <LAST_DAY_UPDATED>
         <VALUE>2016-06-24</VALUE>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
@@ -29971,9 +30029,9 @@ Federation for the Republic Karachayevo-Cherkessia</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.389</REFERENCE_NUMBER>
       <LISTED_ON>2016-02-29</LISTED_ON>
-      <COMMENTS1>A leader of the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014). Photo available for inclusion in the INTERPOL-UN Security Council Special Notice INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>A leader of the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014). Father’s name is Omar Mebrak. Mother’s name is Zohra Mebrak. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2016-13643</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2016-13643</INTERPOL_LINK>
       <NATIONALITY>
         <VALUE>Algeria</VALUE>
       </NATIONALITY>
@@ -29982,6 +30040,7 @@ Federation for the Republic Karachayevo-Cherkessia</NOTE>
       </LIST_TYPE>
       <LAST_DAY_UPDATED>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
@@ -51437,9 +51496,9 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDe.015</REFERENCE_NUMBER>
       <LISTED_ON>2001-10-06</LISTED_ON>
-      <COMMENTS1>Headquarters was in Kandahar, Afghanistan as at 2001. Wafa was a component of Al-Qaida (QDe.004) in 2001 INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
+      <COMMENTS1>Headquarters was in Kandahar, Afghanistan as at 2001. Wafa was a component of Al-Qaida (QDe.004) in 2001. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2008-18095</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2008-18095</INTERPOL_LINK>
       <LIST_TYPE>
         <VALUE>UN List</VALUE>
       </LIST_TYPE>
@@ -51448,6 +51507,7 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
         <VALUE>2019-12-06</VALUE>
         <VALUE>2020-09-10</VALUE>
         <VALUE>2022-11-08</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2010-06-21</VALUE>
@@ -51467,11 +51527,6 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
         <QUALITY>a.k.a.</QUALITY>
         <ALIAS_NAME>Wafa Al-Igatha Al-Islamia</ALIAS_NAME>
       </ENTITY_ALIAS>
-      <ENTITY_ADDRESS>
-        <STREET>Jordan House No. 125, Street 54, Phase II Hayatabad, Peshawar</STREET>
-        <COUNTRY>Pakistan</COUNTRY>
-        <NOTE>at time of listing</NOTE>
-      </ENTITY_ADDRESS>
       <ENTITY_ADDRESS>
         <COUNTRY>Kuwait</COUNTRY>
         <NOTE>at time of listing</NOTE>
@@ -51610,7 +51665,7 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDe.068</REFERENCE_NUMBER>
       <LISTED_ON>2001-12-24</LISTED_ON>
-      <COMMENTS1>Its directors included Mahmood Sultan Bashir-Ud-Din (QDi.055). Banned in Pakistan INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2008-18090</COMMENTS1>
+      <COMMENTS1>Its directors included Mahmood Sultan Bashir-Ud-Din (QDi.055). Banned in Pakistan. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2008-18090</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
       <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2008-18090</INTERPOL_LINK>
       <LIST_TYPE>
@@ -51620,6 +51675,7 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
         <VALUE>2011-12-13</VALUE>
         <VALUE>2021-11-15</VALUE>
         <VALUE>2026-08-13</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2010-06-21</VALUE>
@@ -51635,9 +51691,6 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
         <CITY>Kabul</CITY>
         <COUNTRY>Afghanistan</COUNTRY>
       </ENTITY_ADDRESS>
-      <ENTITY_ADDRESS>
-        <COUNTRY>Pakistan</COUNTRY>
-      </ENTITY_ADDRESS>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
     </ENTITY>
@@ -51648,15 +51701,16 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDe.069</REFERENCE_NUMBER>
       <LISTED_ON>2002-01-11</LISTED_ON>
-      <COMMENTS1>Associated with the Revival of Islamic Heritage Society (QDe.070). Abu Bakr al-Jaziri (QDi.058) served as finance chief of ASC INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
+      <COMMENTS1>Associated with the Revival of Islamic Heritage Society (QDe.070). Abu Bakr al-Jaziri (QDi.058) served as finance chief of ASC. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2023-75320</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2023-75320</INTERPOL_LINK>
       <LIST_TYPE>
         <VALUE>UN List</VALUE>
       </LIST_TYPE>
       <LAST_DAY_UPDATED>
         <VALUE>2011-12-13</VALUE>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2010-06-08</VALUE>
@@ -51679,11 +51733,6 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
         <QUALITY>a.k.a.</QUALITY>
         <ALIAS_NAME>Ahya ul Turas</ALIAS_NAME>
       </ENTITY_ALIAS>
-      <ENTITY_ADDRESS>
-        <STREET>Headquarters – G.T. Road (probably Grand Trunk Road), near Pushtoon Garhi Pabbi</STREET>
-        <CITY> Peshawar</CITY>
-        <COUNTRY>Pakistan</COUNTRY>
-      </ENTITY_ADDRESS>
       <ENTITY_ADDRESS>
         <STREET>Cheprahar Hadda, Mia Omar Sabaqah School</STREET>
         <CITY>Jalabad</CITY>
@@ -52068,9 +52117,9 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDe.096</REFERENCE_NUMBER>
       <LISTED_ON>2003-02-03</LISTED_ON>
-      <COMMENTS1>Based primarily in Pakistan’s Punjab region and in the city of Karachi. Active in Pakistan although banned as at 2010 INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
+      <COMMENTS1>Banned in Pakistan as at 2010. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2013-17114</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2013-17114</INTERPOL_LINK>
       <LIST_TYPE>
         <VALUE>UN List</VALUE>
       </LIST_TYPE>
@@ -52078,6 +52127,7 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
         <VALUE>2011-12-13</VALUE>
         <VALUE>2017-11-20</VALUE>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2016-12-23</VALUE>
@@ -52322,9 +52372,9 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDe.104</REFERENCE_NUMBER>
       <LISTED_ON>2004-01-26</LISTED_ON>
-      <COMMENTS1>INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
+      <COMMENTS1>As at late 2025, it was not active and had no structures in Pakistan. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2013-46151</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2013-46151</INTERPOL_LINK>
       <LIST_TYPE>
         <VALUE>UN List</VALUE>
       </LIST_TYPE>
@@ -52332,6 +52382,7 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
         <VALUE>2012-03-21</VALUE>
         <VALUE>2020-11-24</VALUE>
         <VALUE>2022-11-08</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2009-10-19</VALUE>
@@ -53136,9 +53187,9 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDe.119</REFERENCE_NUMBER>
       <LISTED_ON>2005-06-01</LISTED_ON>
-      <COMMENTS1>Founded and led by Najmiddin Kamolitdinovich Jalolov (deceased) and Suhayl Fatilloevich Buranov (deceased). Associated with the Islamic Movement of Uzbekistan (QDe.010) and Emarat Kavkaz (QDe.131). Active in the Afghanistan/Pakistan border area, Central Asia, South Asia region and some European States INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
+      <COMMENTS1>Founded and led by Najmiddin Kamolitdinovich Jalolov (reportedly deceased) and Suhayl Fatilloevich Buranov (reportedly deceased). Its activities are funded and coordinated by Al-Qaida. Associated with the Islamic Movement of Uzbekistan (QDe.010) and Emarat Kavkaz (QDe.131). Active in the Afghanistan/Pakistan border area, Central Asia, South Asia region and some European States. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2013-16764</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2013-16764</INTERPOL_LINK>
       <LIST_TYPE>
         <VALUE>UN List</VALUE>
       </LIST_TYPE>
@@ -53147,6 +53198,7 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
         <VALUE>2008-02-20</VALUE>
         <VALUE>2011-12-13</VALUE>
         <VALUE>2020-11-24</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2010-05-20</VALUE>
@@ -53329,9 +53381,9 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
       <REFERENCE_NUMBER>QDe.129</REFERENCE_NUMBER>
       <LISTED_ON>2010-01-19</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>القاعدة في جزيرة العرب</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>AQAP is a regional affiliate of Al-Qaida (QDe.004) and an armed group operating primarily in Arabian Peninsula. Location: Yemen. Alternative location: Saudi Arabia (2004 – 2006). Formed in Jan. 2009 when Al-Qaida in Yemen combined with Saudi Arabian Al-Qaida operatives. Leader of AQAP is Qasim Mohamed Mahdi Al-Rimi (QDi.282). Ansar al-Shari’a was formed in early 2011 by AQAP and has taken responsibility for multiple attacks in Yemen against both government and civilian targets INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
+      <COMMENTS1>AQAP is a regional affiliate of Al-Qaida (QDe.004) and an armed group operating primarily in Arabian Peninsula. Location: Yemen. Alternative location: Saudi Arabia (2004 – 2006). Formed in Jan. 2009 when Al-Qaida in Yemen combined with Saudi Arabian Al-Qaida operatives. Leader of AQAP is Sa'ad bin Atef al-Awlaki. Ansar al-Shari’a was formed in early 2011 by AQAP and has taken responsibility for multiple attacks in Yemen against both government and civilian targets. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2013-17222</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2013-17222</INTERPOL_LINK>
       <LIST_TYPE>
         <VALUE>UN List</VALUE>
       </LIST_TYPE>
@@ -53340,6 +53392,7 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
         <VALUE>2015-06-15</VALUE>
         <VALUE>2016-06-24</VALUE>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
@@ -53574,14 +53627,15 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
       <LISTED_ON>2012-12-05</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>حركة التوحيد والجهاد في
                                                   غرب إفريقيا</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Associated with The Organization of Al-Qaida in the Islamic Maghreb (QDe.014) and Mokhtar Belmokhtar (QDi.136). Active in the Sahel/Sahara region INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
+      <COMMENTS1>Associated with The Organization of Al-Qaida in the Islamic Maghreb, (QDe.014), Al Mourabitoun (QDe.141), and Mokhtar Belmokhtar (QDi.136). Active in the Sahel/Sahara region. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2013-17116</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
-      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</INTERPOL_LINK>
+      <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2013-17116</INTERPOL_LINK>
       <LIST_TYPE>
         <VALUE>UN List</VALUE>
       </LIST_TYPE>
       <LAST_DAY_UPDATED>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-08-18</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
