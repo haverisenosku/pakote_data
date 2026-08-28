@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-27T17:16:42Z",
+  "updated": "2026-08-28T18:08:55Z",
   "files": {
     "eu": {"file": "eu.xml", "bytes": 25766640},
-    "un": {"file": "un.xml", "bytes": 2176185},
+    "un": {"file": "un.xml", "bytes": 2176514},
     "ofac": {"file": "ofac.xml", "bytes": 1062621},
-    "uk": {"file": "uk.xml", "bytes": 21761245},
-    "all": {"file": "all.json", "bytes": 4581553}
+    "uk": {"file": "uk.xml", "bytes": 21761479},
+    "all": {"file": "all.json", "bytes": 4581677}
   }
 }

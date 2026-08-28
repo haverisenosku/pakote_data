@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-08-26T23:00:04.550Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-08-27T23:00:03.623Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -37552,7 +37552,7 @@ regime</VALUE>
       <REFERENCE_NUMBER>TAi.027</REFERENCE_NUMBER>
       <LISTED_ON>2001-02-23</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>عبدالسلام حنفی علی مردان قل</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Taliban member responsible for Jawzjan Province in Northern Afghanistan until 2008. Involved in drug trafficking. Height 178 cm. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25909</COMMENTS1>
+      <COMMENTS1>Taliban member responsible for Jawzjan Province in Northern Afghanistan until 2008. Involved in drug trafficking. Height 178 cm. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25909</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
       <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-25909</INTERPOL_LINK>
       <TITLE>
@@ -37577,6 +37577,7 @@ regime</VALUE>
         <VALUE>2011-11-29</VALUE>
         <VALUE>2026-03-10</VALUE>
         <VALUE>2026-04-28</VALUE>
+        <VALUE>2026-08-27</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2010-06-01</VALUE>
@@ -37632,6 +37633,13 @@ regime</VALUE>
         <CITY_OF_ISSUE>Kabul</CITY_OF_ISSUE>
         <COUNTRY_OF_ISSUE>Afghanistan</COUNTRY_OF_ISSUE>
         <NOTE>Name in Latin script, Abdul Salam Hanafi, name in original script; عبدالسلام حنفي</NOTE>
+      </INDIVIDUAL_DOCUMENT>
+      <INDIVIDUAL_DOCUMENT>
+        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+        <NUMBER>P03078281</NUMBER>
+        <DATE_OF_ISSUE>2020-02-09</DATE_OF_ISSUE>
+        <DATE_OF_EXPIRY>2030-02-09</DATE_OF_EXPIRY>
+        <CITY_OF_ISSUE>Dubai</CITY_OF_ISSUE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
