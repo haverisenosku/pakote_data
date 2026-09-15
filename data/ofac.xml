@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/XML">
   <publshInformation>
-    <Publish_Date>07/27/2026</Publish_Date>
+    <Publish_Date>09/14/2026</Publish_Date>
     <Record_Count>481</Record_Count>
   </publshInformation>
   <sdnEntry>
@@ -2389,6 +2389,7 @@
     <programList>
       <program>UKRAINE-EO13662</program>
       <program>RUSSIA-EO14024</program>
+      <program>IRAN-EO13902</program>
     </programList>
     <idList>
       <id>
@@ -2451,6 +2452,11 @@
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
+        <uid>201028</uid>
+        <idType>Additional Sanctions Information -</idType>
+        <idNumber>Subject to Secondary Sanctions</idNumber>
+      </id>
+      <id>
         <uid>146548</uid>
         <idType>BIK (RU)</idType>
         <idNumber>044030707</idNumber>
@@ -2474,49 +2480,49 @@
     <akaList>
       <aka>
         <uid>26072</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>JSC VTB BANK</lastName>
       </aka>
       <aka>
         <uid>26073</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>BANK VTB OPEN JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>26075</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>BANK VNESHNEY TORGOVLI OPEN JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>26076</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>BANK VNESHNEY TORGOVLI JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>26077</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>BANK VNESHNEI TORGOVLI RSFSR</lastName>
       </aka>
       <aka>
         <uid>26078</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>BANK VNESHNEY TORGOVLI ROSSIYSKOY FEDERATSII CLOSED JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>26079</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>VNESHTORGBANK ROSSII CLOSED JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>26081</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>BANK VTB OAO</lastName>
       </aka>
@@ -2528,7 +2534,7 @@
       </aka>
       <aka>
         <uid>54896</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>VTB BANK OAO</lastName>
       </aka>
@@ -2552,73 +2558,73 @@
       </aka>
       <aka>
         <uid>54907</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>OAO BANK VTB</lastName>
       </aka>
       <aka>
         <uid>54908</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>VTB BANK OPEN JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>54909</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>BANK VNESHEI TORGOVLI OAO</lastName>
       </aka>
       <aka>
         <uid>54912</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>BANK VNESHNEI TORGOVLI ROSSISKOI FEDERATSII AS A PRIVATE JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>54914</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>OAO VNESHTORGBANK</lastName>
       </aka>
       <aka>
         <uid>54940</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>BANK OF FOREIGN TRADE OF THE RUSSIAN FEDERATION</lastName>
       </aka>
       <aka>
         <uid>54941</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>BANK FOR FOREIGN TRADE OF RSFSR</lastName>
       </aka>
       <aka>
         <uid>54942</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>VNESHTORGBANK OF RSFSR</lastName>
       </aka>
       <aka>
         <uid>54943</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>CJSC BANK FOR FOREIGN TRADE OF THE RUSSIAN FEDERATION</lastName>
       </aka>
       <aka>
         <uid>54944</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>RUSSIAN VNESHTORGBANK</lastName>
       </aka>
       <aka>
         <uid>54945</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>VNESHTORGBANK</lastName>
       </aka>
       <aka>
         <uid>54946</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
         <lastName>OJSC CJSC BANK FOR FOREIGN TRADE</lastName>
       </aka>
@@ -2725,6 +2731,11 @@
         <city>Beijing</city>
         <postalCode>100004</postalCode>
         <country>China</country>
+      </address>
+      <address>
+        <uid>90120</uid>
+        <city>Tehran</city>
+        <country>Iran</country>
       </address>
     </addressList>
   </sdnEntry>
@@ -33060,6 +33071,11 @@
     </programList>
     <idList>
       <id>
+        <uid>166733</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>1963</idNumber>
+      </id>
+      <id>
         <uid>166734</uid>
         <idType>Organization Type:</idType>
         <idNumber>Extraction of crude petroleum</idNumber>
@@ -33088,11 +33104,6 @@
         <uid>166771</uid>
         <idType>Effective Date (EO 14014 Directive 1):</idType>
         <idNumber>15 Dec 2023</idNumber>
-      </id>
-      <id>
-        <uid>166733</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>1963</idNumber>
       </id>
     </idList>
     <akaList>
