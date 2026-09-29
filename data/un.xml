@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-09-28T07:26:55.703Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-09-28T23:00:01.985Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -55146,17 +55146,20 @@ region </STATE_PROVINCE>
     <ENTITY>
       <DATAID>6908877</DATAID>
       <VERSIONNUM>1</VERSIONNUM>
-      <FIRST_NAME>KHATIBA AL-TAWHID WAL-JIHAD (KTJ)</FIRST_NAME>
+      <FIRST_NAME>KHATIBA JAMA`AT AL-TAWHID WAL-JIHAD (KTJ)</FIRST_NAME>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDe.168</REFERENCE_NUMBER>
       <LISTED_ON>2022-03-07</LISTED_ON>
-      <NAME_ORIGINAL_SCRIPT>Катиба ат-Таухид валь-Джихад</NAME_ORIGINAL_SCRIPT>
+      <NAME_ORIGINAL_SCRIPT>Катиба Джамаат ат-Таухид валь-Джихад</NAME_ORIGINAL_SCRIPT>
       <COMMENTS1>Khatiba al-Tawhid wal-Jihad (formerly known as Jannat Oshiklari) is a terrorist organization operating under the umbrella of the international terrorist organization Al-Nusrah Front for the People of the Levant (formerly listed). The group mainly operates in the provinces of Hama, Idlib and Ladhiqiyah, in the Syrian Arab Republic, and also conduct operations in Turkey, Kyrgyzstan, Uzbekistan, Russian Federation, Tajikistan, Kazakhstan, Egypt, Afghanistan, Ukraine. The number of fighters of KTJ is about 500. KTJ also cooperates with such terrorist organizations as Khatiba Imam al-Bukhari (QDe.158) and the Islamic Jihad Group (QDe.119) INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
       <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2022-14891</INTERPOL_LINK>
       <LIST_TYPE>
         <VALUE>UN List</VALUE>
       </LIST_TYPE>
+      <LAST_DAY_UPDATED>
+        <VALUE>2026-09-28</VALUE>
+      </LAST_DAY_UPDATED>
       <ENTITY_ALIAS>
         <QUALITY>a.k.a.</QUALITY>
         <ALIAS_NAME>JANNAT OSHIKLARI</ALIAS_NAME>
@@ -55164,10 +55167,12 @@ region </STATE_PROVINCE>
       <ENTITY_ALIAS>
         <QUALITY>a.k.a.</QUALITY>
         <ALIAS_NAME>Jama`at al-Tawhid wal-Jihad</ALIAS_NAME>
+        <NOTE>جماعة التوحيد والجهاد</NOTE>
       </ENTITY_ALIAS>
       <ENTITY_ALIAS>
-        <QUALITY>f.k.a.</QUALITY>
-        <ALIAS_NAME>JANNAT OSHIKLARI</ALIAS_NAME>
+        <QUALITY>a.k.a.</QUALITY>
+        <ALIAS_NAME>Katiba al-Tawhid wal-Jihad</ALIAS_NAME>
+        <NOTE>كتيبة التوحيد والجهاد</NOTE>
       </ENTITY_ALIAS>
       <ENTITY_ADDRESS>
         <COUNTRY/>
