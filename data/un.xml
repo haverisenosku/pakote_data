@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-09-28T23:00:01.985Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-09-29T23:00:05.384Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -50857,7 +50857,7 @@ September pursuant to paragraph 15 of resolution 2009. INTERPOL-UN Security Coun
       <SORT_KEY_LAST_MOD/>
     </ENTITY>
     <ENTITY>
-      <DATAID>6909568</DATAID>
+      <DATAID>6909645</DATAID>
       <VERSIONNUM>1</VERSIONNUM>
       <FIRST_NAME>AVAX</FIRST_NAME>
       <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
