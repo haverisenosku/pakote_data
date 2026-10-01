@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-09-29T23:00:05.384Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-09-30T23:00:03.103Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -32808,6 +32808,7 @@ Feb. 2020</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.431</REFERENCE_NUMBER>
       <LISTED_ON>2021-12-21</LISTED_ON>
+      <GENDER>Male</GENDER>
       <NAME_ORIGINAL_SCRIPT>ثناء اللہ غفاری</NAME_ORIGINAL_SCRIPT>
       <COMMENTS1>Leader of the Islamic State of Iraq and the Levant - Khorasan (ISIL - K) (QDe.161). Information Technology Expert. Father’s name: Abdul Jabbar. Grandfather’s name: Abdul Ghaffar. Photo is available for inclusion in the INTERPOL-UN Security Council Special Notice INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
@@ -32823,6 +32824,7 @@ Feb. 2020</NOTE>
       </LIST_TYPE>
       <LAST_DAY_UPDATED>
         <VALUE>2024-04-25</VALUE>
+        <VALUE>2026-09-04</VALUE>
       </LAST_DAY_UPDATED>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Good</QUALITY>
@@ -54640,7 +54642,6 @@ region </STATE_PROVINCE>
       <ENTITY_ALIAS>
         <QUALITY>a.k.a.</QUALITY>
         <ALIAS_NAME>Al Kawthar Co.</ALIAS_NAME>
-        <NOTE>in Arabic script: شركة الكوثر</NOTE>
       </ENTITY_ALIAS>
       <ENTITY_ALIAS>
         <QUALITY>a.k.a.</QUALITY>
