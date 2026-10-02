@@ -24163,9 +24163,9 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
-        <uid>137439</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>135984</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>199714</uid>
@@ -24173,9 +24173,9 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>135984</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>137439</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24241,14 +24241,14 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
-        <uid>135957</uid>
-        <idType>Gender</idType>
-        <idNumber>Female</idNumber>
-      </id>
-      <id>
         <uid>137440</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>135957</uid>
+        <idType>Gender</idType>
+        <idNumber>Female</idNumber>
       </id>
       <id>
         <uid>199692</uid>
@@ -24421,6 +24421,11 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
+        <uid>135980</uid>
+        <idType>Gender</idType>
+        <idNumber>Female</idNumber>
+      </id>
+      <id>
         <uid>137438</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
@@ -24429,11 +24434,6 @@
         <uid>199703</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
-        <uid>135980</uid>
-        <idType>Gender</idType>
-        <idNumber>Female</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24500,6 +24500,11 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
+        <uid>199705</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
         <uid>135988</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
@@ -24508,11 +24513,6 @@
         <uid>137442</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
-        <uid>199705</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24570,14 +24570,14 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>199724</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>136018</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>199724</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>137443</uid>
@@ -24635,14 +24635,14 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>199689</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>137444</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>199689</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24717,9 +24717,9 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>136013</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>199725</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>137447</uid>
@@ -24727,9 +24727,9 @@
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
-        <uid>199725</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>136013</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -24776,14 +24776,14 @@
     </programList>
     <idList>
       <id>
-        <uid>199720</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>136202</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>199720</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>137446</uid>
@@ -24829,14 +24829,14 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>136025</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199709</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>136025</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>137445</uid>
@@ -24895,14 +24895,14 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
-        <uid>137853</uid>
-        <idType>Gender</idType>
-        <idNumber>Female</idNumber>
-      </id>
-      <id>
         <uid>139957</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>137853</uid>
+        <idType>Gender</idType>
+        <idNumber>Female</idNumber>
       </id>
       <id>
         <uid>199704</uid>
@@ -24985,14 +24985,14 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
-        <uid>199707</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>139958</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>199707</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>137900</uid>
@@ -25063,14 +25063,14 @@
     </programList>
     <idList>
       <id>
-        <uid>137905</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>139955</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>137905</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>199695</uid>
@@ -25116,11 +25116,6 @@
     </programList>
     <idList>
       <id>
-        <uid>137909</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199706</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -25129,6 +25124,11 @@
         <uid>139956</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>137909</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25171,6 +25171,11 @@
     </programList>
     <idList>
       <id>
+        <uid>138121</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
+      </id>
+      <id>
         <uid>199716</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -25179,11 +25184,6 @@
         <uid>139940</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
-        <uid>138121</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25226,6 +25226,11 @@
     </programList>
     <idList>
       <id>
+        <uid>139942</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
         <uid>138125</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
@@ -25234,11 +25239,6 @@
         <uid>199688</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
-        <uid>139942</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25281,11 +25281,6 @@
     </programList>
     <idList>
       <id>
-        <uid>138129</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199723</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -25294,6 +25289,11 @@
         <uid>139943</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>138129</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25336,6 +25336,11 @@
     </programList>
     <idList>
       <id>
+        <uid>199710</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
         <uid>139944</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
@@ -25344,11 +25349,6 @@
         <uid>138133</uid>
         <idType>Gender</idType>
         <idNumber>Female</idNumber>
-      </id>
-      <id>
-        <uid>199710</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25391,9 +25391,9 @@
     </programList>
     <idList>
       <id>
-        <uid>199700</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>138137</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>139945</uid>
@@ -25401,9 +25401,9 @@
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
-        <uid>138137</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>199700</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25451,14 +25451,14 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>139946</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>199699</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>139946</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <akaList>
@@ -25510,11 +25510,6 @@
     </programList>
     <idList>
       <id>
-        <uid>199686</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>139947</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
@@ -25523,6 +25518,11 @@
         <uid>138145</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>199686</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -25574,11 +25574,6 @@
     </programList>
     <idList>
       <id>
-        <uid>138149</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199691</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -25587,6 +25582,11 @@
         <uid>139948</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>138149</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25634,11 +25634,6 @@
     </programList>
     <idList>
       <id>
-        <uid>138154</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199717</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -25647,6 +25642,11 @@
         <uid>139949</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>138154</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25689,14 +25689,14 @@
     </programList>
     <idList>
       <id>
-        <uid>139950</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>138158</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>139950</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>199694</uid>
@@ -25760,6 +25760,11 @@
     </programList>
     <idList>
       <id>
+        <uid>138162</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
+      </id>
+      <id>
         <uid>199696</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -25768,11 +25773,6 @@
         <uid>139951</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
-        <uid>138162</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25815,14 +25815,14 @@
     </programList>
     <idList>
       <id>
-        <uid>138166</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>139952</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>138166</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>199697</uid>
@@ -25925,11 +25925,6 @@
     </programList>
     <idList>
       <id>
-        <uid>138174</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199718</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -25938,6 +25933,11 @@
         <uid>139954</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>138174</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -28677,14 +28677,14 @@
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
-        <uid>139109</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199702</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>139109</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <akaList>
@@ -28753,14 +28753,14 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>139113</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>139963</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>139113</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <akaList>
@@ -28817,14 +28817,14 @@
     </programList>
     <idList>
       <id>
-        <uid>139119</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>199711</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>139119</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>139959</uid>
@@ -28879,6 +28879,11 @@
     </programList>
     <idList>
       <id>
+        <uid>199722</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
         <uid>139962</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
@@ -28887,11 +28892,6 @@
         <uid>139121</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
-      </id>
-      <id>
-        <uid>199722</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -28933,14 +28933,14 @@
     </programList>
     <idList>
       <id>
-        <uid>199712</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>139196</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>199712</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>139960</uid>
@@ -31765,9 +31765,9 @@
     </programList>
     <idList>
       <id>
-        <uid>142035</uid>
-        <idType>Gender</idType>
-        <idNumber>Female</idNumber>
+        <uid>145529</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>199708</uid>
@@ -31775,9 +31775,9 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>145529</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>142035</uid>
+        <idType>Gender</idType>
+        <idNumber>Female</idNumber>
       </id>
     </idList>
     <addressList>
@@ -31818,14 +31818,14 @@
     </programList>
     <idList>
       <id>
-        <uid>145531</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>142040</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>145531</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>199713</uid>
@@ -31876,9 +31876,9 @@
     </programList>
     <idList>
       <id>
-        <uid>199698</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>145528</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>142044</uid>
@@ -31886,9 +31886,9 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>145528</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>199698</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
