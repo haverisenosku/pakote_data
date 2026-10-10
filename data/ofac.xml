@@ -31818,14 +31818,14 @@
     </programList>
     <idList>
       <id>
-        <uid>145531</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>142040</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>145531</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
         <uid>199713</uid>
@@ -31876,9 +31876,9 @@
     </programList>
     <idList>
       <id>
-        <uid>145528</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>199698</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>142044</uid>
@@ -31886,9 +31886,9 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>199698</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>145528</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -32994,16 +32994,6 @@
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
-        <uid>184328</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>152769</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>22 Nov 2007</idNumber>
-      </id>
-      <id>
         <uid>199884</uid>
         <idType>Website</idType>
         <idNumber>www.uk-odk.ru</idNumber>
@@ -33017,6 +33007,16 @@
         <uid>199886</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
+        <uid>184328</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>152769</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>22 Nov 2007</idNumber>
       </id>
     </idList>
     <akaList>
