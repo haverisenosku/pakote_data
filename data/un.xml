@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-10-10T23:00:02.187Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-10-12T23:00:04.896Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -50756,8 +50756,7 @@ conducted a ship-to-ship transfer of 1,721 metric tons of fuel oil. IMO number: 
       <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
       <REFERENCE_NUMBER>KPe.075</REFERENCE_NUMBER>
       <LISTED_ON>2018-03-30</LISTED_ON>
-      <COMMENTS1>Ship manager and commercial manager of the YUK TUNG, which conducted
-ship-to-ship transfer of refined petroleum product. IMO number: 5987860.</COMMENTS1>
+      <COMMENTS1>Ship manager and commercial manager of the YUK TUNG, which conducted ship-to-ship transfer of refined petroleum product. IMO number: 5987860.</COMMENTS1>
       <HAS_INTERPOL_LINK>NO</HAS_INTERPOL_LINK>
       <INTERPOL_LINK/>
       <LIST_TYPE>

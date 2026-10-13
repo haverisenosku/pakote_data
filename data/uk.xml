@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>08/10/2026</DateGenerated>
+  <DateGenerated>12/10/2026</DateGenerated>
   <Designation>
     <LastUpdated>04/08/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -158402,6 +158402,141 @@ Pouria ZARRINGHALAM is associated with persons who have been involved in activit
     <UKStatementofReasons>
 The Secretary of State considers that there are reasonable grounds to suspect that Islamic Movement of Companions of the Right (“IMCR”) is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following grounds: (1) IMCR is or has been involved in hostile activity by the Government of Iran, namely activity which undermines the security of the United Kingdom or any other country, and; (2) IMCR is or has been involved in hostile activity by the Government of Iran, namely attacks against persons and assets in the United Kingdom or any other country including the sabotage of assets. 
 </UKStatementofReasons>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/10/2026</LastUpdated>
+    <DateDesignated>12/10/2026</DateDesignated>
+    <UniqueID>IRN0282</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Ruhollah</Name1>
+        <Name6>BAZGHANDI</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Rouhollah</Name1>
+        <Name6>AZIMI</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>روح اله بازقندی </NameNonLatinScript>
+        <NonLatinScriptLanguage>Persian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that BAZGHANDI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following grounds: (1) BAZGHANDI has been involved in hostile activity by the Government of Iran by planning or conducting espionage for the Government of Iran; (2) BAZGHANDI has been involved in hostile activity by the Government of Iran, namely threatening, planning or conducting attacks against persons and assets in the United Kingdom or a country other than Iran.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine6>Tehran</AddressLine6>
+        <AddressCountry>Iran</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>20/09/1981</DOB>
+        </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>D10008106</PassportNumber>
+          </Passport>
+        </PassportDetails>
+        <Nationalities>
+          <Nationality>Iran</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Sabzevar</TownOfBirth>
+            <CountryOfBirth>Iran</CountryOfBirth>
+          </Location>
+        </BirthDetails>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/10/2026</LastUpdated>
+    <DateDesignated>12/10/2026</DateDesignated>
+    <UniqueID>IRN0283</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Shahram</Name1>
+        <Name2>Ali</Name2>
+        <Name3>Reza</Name3>
+        <Name4>Tamarzadeh</Name4>
+        <Name6>JAKKI</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Farhad</Name1>
+        <Name2>Ali</Name2>
+        <Name6>TAMARZADEH</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Iran (Sanctions) Regulations 2023</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that JAKKI is an involved person under The Iran (Sanctions) Regulations 2023 on the basis of the following ground: JAKKI is or has been involved in hostile activity by the Government of Iran through engaging in conduct which gives support or assistance to the activity of threatening, planning or conducting attacks against persons in a country other than Iran.  
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>31/05/1972</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Iran</Nationality>
+        </Nationalities>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
   </Designation>
   <Designation>
     <LastUpdated>14/01/2022</LastUpdated>
@@ -402509,7 +402644,7 @@ amely serving as military commandant of occupied Kherson region and directing, f
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>08/10/2026</LastUpdated>
+    <LastUpdated>12/10/2026</LastUpdated>
     <DateDesignated>01/10/2026</DateDesignated>
     <UniqueID>RUS3727</UniqueID>
     <Names>
