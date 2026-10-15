@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-10-13T23:00:01.949Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-10-14T23:00:00.827Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -11548,7 +11548,6 @@ key personnel appointments for the Workers’ Party of Korea and the DPRK’s mi
       <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
       <REFERENCE_NUMBER>KPi.042</REFERENCE_NUMBER>
       <LISTED_ON>2017-06-02</LISTED_ON>
-      <GENDER>Male</GENDER>
       <COMMENTS1>Gender: male.</COMMENTS1>
       <HAS_INTERPOL_LINK>NO</HAS_INTERPOL_LINK>
       <INTERPOL_LINK/>
@@ -12534,8 +12533,7 @@ including acquisition and procurement</VALUE>
       <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
       <REFERENCE_NUMBER>KPi.064</REFERENCE_NUMBER>
       <LISTED_ON>2017-12-22</LISTED_ON>
-      <GENDER>Male</GENDER>
-      <COMMENTS1>In 2016, Ch’oe So’k-min was the deputy representative at the Foreign Trade Bank branch office in that overseas location.  He has been associated with cash transfers from that overseas Foreign Trade Bank office to banks affiliated with North Korean special organizations and Reconnaissance General Bureau operatives located overseas in an effort to evade sanctions. Gender: male.in response to the DPRK test of an ICBM on 28 November 2017</COMMENTS1>
+      <COMMENTS1>In 2016, Ch’oe So’k-min was the deputy representative at the Foreign Trade Bank branch office in that overseas location. He has been associated with cash transfers from that overseas Foreign Trade Bank office to banks affiliated with North Korean special organizations and Reconnaissance General Bureau operatives located overseas in an effort to evade sanctions. Gender: male.</COMMENTS1>
       <HAS_INTERPOL_LINK>NO</HAS_INTERPOL_LINK>
       <INTERPOL_LINK/>
       <DESIGNATION>

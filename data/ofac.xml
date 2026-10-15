@@ -33071,21 +33071,6 @@
     </programList>
     <idList>
       <id>
-        <uid>166770</uid>
-        <idType>Listing Date (EO 14014 Directive 1):</idType>
-        <idNumber>31 Oct 2023</idNumber>
-      </id>
-      <id>
-        <uid>166771</uid>
-        <idType>Effective Date (EO 14014 Directive 1):</idType>
-        <idNumber>15 Dec 2023</idNumber>
-      </id>
-      <id>
-        <uid>166769</uid>
-        <idType>Executive Order 14014 Directive Information:</idType>
-        <idNumber>For more information on directives, please visit the following link: https://ofac.treasury.gov/sanctions-programs-and-country-information/burma#directives</idNumber>
-      </id>
-      <id>
         <uid>166733</uid>
         <idType>Organization Established Date</idType>
         <idNumber>1963</idNumber>
@@ -33104,6 +33089,21 @@
         <uid>166768</uid>
         <idType>Executive Order 14014 Directive Information:</idType>
         <idNumber>Subject to Directive 1 - As of the effective date, the provision, exportation, or reexportation, directly or indirectly, of financial services to or for the benefit of Myanma Oil and Gas Enterprise (MOGE) or its property or interests in property is prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>166769</uid>
+        <idType>Executive Order 14014 Directive Information:</idType>
+        <idNumber>For more information on directives, please visit the following link: https://ofac.treasury.gov/sanctions-programs-and-country-information/burma#directives</idNumber>
+      </id>
+      <id>
+        <uid>166770</uid>
+        <idType>Listing Date (EO 14014 Directive 1):</idType>
+        <idNumber>31 Oct 2023</idNumber>
+      </id>
+      <id>
+        <uid>166771</uid>
+        <idType>Effective Date (EO 14014 Directive 1):</idType>
+        <idNumber>15 Dec 2023</idNumber>
       </id>
     </idList>
     <akaList>
@@ -33158,16 +33158,6 @@
         <idCountry>United States</idCountry>
       </id>
       <id>
-        <uid>178479</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
-        <uid>178539</uid>
-        <idType>Executive Order 14059 information:</idType>
-        <idNumber>Prohibition on any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which this target has any interest</idNumber>
-      </id>
-      <id>
         <uid>178540</uid>
         <idType>Executive Order 14059 information:</idType>
         <idNumber>Prohibition on any United States financial institution from making loans or providing credit to this target</idNumber>
@@ -33176,6 +33166,16 @@
         <uid>178541</uid>
         <idType>Executive Order 14059 information:</idType>
         <idNumber>Prohibition on any United States person from investing in or purchasing significant amounts of equity or debt instruments of this target</idNumber>
+      </id>
+      <id>
+        <uid>178539</uid>
+        <idType>Executive Order 14059 information:</idType>
+        <idNumber>Prohibition on any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which this target has any interest</idNumber>
+      </id>
+      <id>
+        <uid>178479</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <akaList>
