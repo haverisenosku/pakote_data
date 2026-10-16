@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-10-14T23:00:00.827Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-10-15T23:00:00.763Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -10042,16 +10042,6 @@ weapons.</COMMENTS1>
         <COUNTRY/>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>Numéro de passeport </TYPE_OF_DOCUMENT>
-        <NUMBER>PS381420397</NUMBER>
-        <COUNTRY_OF_ISSUE>Democratic People's Republic of Korea</COUNTRY_OF_ISSUE>
-      </INDIVIDUAL_DOCUMENT>
-      <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>Número de pasaporte</TYPE_OF_DOCUMENT>
-        <NUMBER>PS381420397</NUMBER>
-        <COUNTRY_OF_ISSUE>Democratic People's Republic of Korea</COUNTRY_OF_ISSUE>
-      </INDIVIDUAL_DOCUMENT>
-      <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
         <NUMBER>PS381420397</NUMBER>
         <COUNTRY_OF_ISSUE>Democratic People's Republic of Korea</COUNTRY_OF_ISSUE>
@@ -10606,11 +10596,13 @@ Development Administration </VALUE>
       </INDIVIDUAL_DOCUMENT>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-        <NUMBER>381110042 (Expired 25 Jan. 2016)</NUMBER>
+        <NUMBER>381110042 </NUMBER>
+        <NOTE>Expired 25 Jan. 2016</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-        <NUMBER>563210184 (Expires 18 Jun. 2018)</NUMBER>
+        <NUMBER>563210184 </NUMBER>
+        <NOTE>Expires 18 Jun. 2018</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <SORT_KEY/>
       <SORT_KEY_LAST_MOD/>
@@ -17341,7 +17333,7 @@ Feb. 2001</NOTE>
       <REFERENCE_NUMBER>QDi.082</REFERENCE_NUMBER>
       <LISTED_ON>2002-09-30</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>منير المتصدق</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Arrested on 28 Nov. 2001 and found guilty in Germany of being an accessory to murder and of membership in a terrorist organization and sentenced to 15 years of imprisonment on 8 Jan. 2007. Father's name is Brahim Brik. Mother's name is Habiba Abbes INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Arrested on 28 Nov. 2001 and found guilty in Germany of being an accessory to murder and of membership in a terrorist organization and sentenced to 15 years of imprisonment on 8 Jan. 2007. Deported from Germany to Morocco in October 2018. Father's name is Brahim Brik. Mother's name is Habiba Abbes. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
       <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2006-21965</INTERPOL_LINK>
       <NATIONALITY>
@@ -17355,6 +17347,7 @@ Feb. 2001</NOTE>
         <VALUE>2007-09-07</VALUE>
         <VALUE>2010-12-23</VALUE>
         <VALUE>2019-12-06</VALUE>
+        <VALUE>2026-10-15</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2010-05-20</VALUE>
@@ -17365,7 +17358,8 @@ Feb. 2001</NOTE>
         <ALIAS_NAME>Mounir el Moutassadeq</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <NOTE>In prison in Germany</NOTE>
+        <CITY>Marrakesh</CITY>
+        <COUNTRY>Morocco</COUNTRY>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
@@ -32484,7 +32478,7 @@ Feb. 2020</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.427</REFERENCE_NUMBER>
       <LISTED_ON>2020-07-16</LISTED_ON>
-      <COMMENTS1>Leader of Tehrik-e Taliban Pakistan (TTP) (QDe.132) following the death of former TTP leader Maulana Fazlullah (QDi.352) INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Leader of Tehrik-e Taliban Pakistan (TTP) (QDe.132) following the death of former TTP leader Maulana Fazlullah (QDi.352). Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
       <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2020-46491</INTERPOL_LINK>
       <TITLE>
@@ -32499,6 +32493,7 @@ Feb. 2020</NOTE>
       <LAST_DAY_UPDATED>
         <VALUE>2023-10-30</VALUE>
         <VALUE>2023-12-19</VALUE>
+        <VALUE>2026-10-15</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2023-10-30</VALUE>
@@ -53523,7 +53518,7 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
       <REFERENCE_NUMBER>QDe.132</REFERENCE_NUMBER>
       <LISTED_ON>2011-07-29</LISTED_ON>
       <NAME_ORIGINAL_SCRIPT>تحریک طالبان پاکستان</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Tehrik-e Taliban is based in the tribal areas along the Afghanistan/Pakistan border. Formed in 2007, its leader is Maulana Fazlullah (QDi.352) INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
+      <COMMENTS1>Tehrik-e Taliban is based in the tribal areas along the Afghanistan/Pakistan border. Formed in 2007, its leader is Noor Wali Mehsud (QDi.427). INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
       <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities#2013-17264</INTERPOL_LINK>
       <LIST_TYPE>
@@ -53532,6 +53527,7 @@ Listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 
       <LAST_DAY_UPDATED>
         <VALUE>2015-06-15</VALUE>
         <VALUE>2020-11-24</VALUE>
+        <VALUE>2026-10-15</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2020-11-24</VALUE>
