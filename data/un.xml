@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-10-15T23:00:00.763Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-10-16T23:00:03.331Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -9850,16 +9850,6 @@ Committee for Space Technology</VALUE>
         <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>Numéro de passeport </TYPE_OF_DOCUMENT>
-        <NUMBER>381420754</NUMBER>
-        <DATE_OF_ISSUE>2011-12-07</DATE_OF_ISSUE>
-      </INDIVIDUAL_DOCUMENT>
-      <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>Número de pasaporte</TYPE_OF_DOCUMENT>
-        <NUMBER>381420754</NUMBER>
-        <DATE_OF_ISSUE>2011-12-07</DATE_OF_ISSUE>
-      </INDIVIDUAL_DOCUMENT>
-      <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
         <NUMBER>381420754</NUMBER>
         <DATE_OF_ISSUE>2011-12-07</DATE_OF_ISSUE>
@@ -9979,16 +9969,6 @@ of such weapons.</COMMENTS1>
       <INDIVIDUAL_PLACE_OF_BIRTH>
         <COUNTRY/>
       </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>Numéro de passeport </TYPE_OF_DOCUMENT>
-        <NUMBER>645120196</NUMBER>
-        <COUNTRY_OF_ISSUE>Democratic People's Republic of Korea</COUNTRY_OF_ISSUE>
-      </INDIVIDUAL_DOCUMENT>
-      <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>Número de pasaporte</TYPE_OF_DOCUMENT>
-        <NUMBER>645120196</NUMBER>
-        <COUNTRY_OF_ISSUE>Democratic People's Republic of Korea</COUNTRY_OF_ISSUE>
-      </INDIVIDUAL_DOCUMENT>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
         <NUMBER>645120196</NUMBER>
