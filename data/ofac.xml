@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/XML">
   <publshInformation>
-    <Publish_Date>09/14/2026</Publish_Date>
-    <Record_Count>481</Record_Count>
+    <Publish_Date>10/19/2026</Publish_Date>
+    <Record_Count>486</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9640</uid>
@@ -33238,5 +33238,319 @@
         <mainEntry>true</mainEntry>
       </placeOfBirthItem>
     </placeOfBirthList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>58455</uid>
+    <lastName>QIJI CHUANGTAN BEIJING INVESTMENT MANAGEMENT CO LTD</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>PAIPA</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>53201</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110108MA01HHAHXF</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>200709</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>06 Mar 2019</idNumber>
+      </id>
+      <id>
+        <uid>200668</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY (entity). Sec.2(b)(1)(A) - All property and interests in property of this entity are blocked, and all transactions with this entity are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>200669</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS. Sec.2(b)(1)(D) - United States financial institutions are prohibited from making loans or providing credits to this entity totaling more than $10,000,000 in any 12-month period, subject to the exception set forth in PAIPA Section 2(b)(1)(D).</idNumber>
+      </id>
+      <id>
+        <uid>200670</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>FOREIGN EXCHANGE. Sec.2(b)(1)(H) - Transactions in foreign exchange that are subject to the jurisdiction of the United States and in which this entity has any interest are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>200671</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BANKING TRANSACTIONS. Sec.2(b)(1)(I) - Any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of this entity, are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>200672</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON. Sec.2(b)(1)(J) - Any United States person is prohibited from investing in or purchasing significant amounts of equity or debt instruments of this entity.</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>90445</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>MIRACLEPLUS</lastName>
+      </aka>
+      <aka>
+        <uid>90446</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>MENGXI CHUANGTAN BEIJING INVESTMENT MANAGEMENT CO LTD</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>89916</uid>
+        <address1>No. 601, 6th Floor, No. 28 Chengfu Road, Haidian District</address1>
+        <city>Beijing</city>
+        <postalCode>100000</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>58456</uid>
+    <lastName>BEIJING QIJI CHUANGTAN PHASE I VENTURE CAPITAL CENTER LIMITED PARTNERSHIP</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: QIJI CHUANGTAN BEIJING INVESTMENT MANAGEMENT CO LTD)</remarks>
+    <programList>
+      <program>PAIPA</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>53202</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110108MA01QB5K5M</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>200688</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY (entity). Sec.2(b)(1)(A) - All property and interests in property of this entity are blocked, and all transactions with this entity are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>200689</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS. Sec.2(b)(1)(D) - United States financial institutions are prohibited from making loans or providing credits to this entity totaling more than $10,000,000 in any 12-month period, subject to the exception set forth in PAIPA Section 2(b)(1)(D).</idNumber>
+      </id>
+      <id>
+        <uid>200690</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>FOREIGN EXCHANGE. Sec.2(b)(1)(H) - Transactions in foreign exchange that are subject to the jurisdiction of the United States and in which this entity has any interest are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>200691</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BANKING TRANSACTIONS. Sec.2(b)(1)(I) - Any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of this entity, are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>200692</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON. Sec.2(b)(1)(J) - Any United States person is prohibited from investing in or purchasing significant amounts of equity or debt instruments of this entity.</idNumber>
+      </id>
+      <id>
+        <uid>200710</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>Jun 2020</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>90448</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>MIRACLE PLUS RMB FUND I</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>89918</uid>
+        <address1>No. 601, 6th Floor, No. 28 Chengfu Road, Haidian District</address1>
+        <city>Beijing</city>
+        <postalCode>100000</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>58457</uid>
+    <lastName>BEIJING QIJI CHUANGTAN PHASE II VENTURE CAPITAL CENTER LIMITED PARTNERSHIP</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: QIJI CHUANGTAN BEIJING INVESTMENT MANAGEMENT CO LTD)</remarks>
+    <programList>
+      <program>PAIPA</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>53203</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110108MABQAUYK7G</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>200711</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>Oct 2022</idNumber>
+      </id>
+      <id>
+        <uid>200673</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY (entity). Sec.2(b)(1)(A) - All property and interests in property of this entity are blocked, and all transactions with this entity are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>200674</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS. Sec.2(b)(1)(D) - United States financial institutions are prohibited from making loans or providing credits to this entity totaling more than $10,000,000 in any 12-month period, subject to the exception set forth in PAIPA Section 2(b)(1)(D).</idNumber>
+      </id>
+      <id>
+        <uid>200675</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>FOREIGN EXCHANGE. Sec.2(b)(1)(H) - Transactions in foreign exchange that are subject to the jurisdiction of the United States and in which this entity has any interest are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>200676</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BANKING TRANSACTIONS. Sec.2(b)(1)(I) - Any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of this entity, are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>200677</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON. Sec.2(b)(1)(J) - Any United States person is prohibited from investing in or purchasing significant amounts of equity or debt instruments of this entity.</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>90450</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>MIRACLE PLUS RMB FUND II</lastName>
+      </aka>
+      <aka>
+        <uid>90455</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>BEIJING QIJICHUANGTANERQI CHUANGYE INVESTMENT CENTER (LIMITED PARTNERSHIP)</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>89920</uid>
+        <address1>No. 601, 6th Floor, No. 28 Chengfu Road, Haidian District</address1>
+        <city>Beijing</city>
+        <postalCode>100000</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>58458</uid>
+    <lastName>BEIJING QIJI CHUANGTAN ZHIYUAN ENTERPRISE MANAGEMENT CENTER LIMITED PARTNERSHIP</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: QIJI CHUANGTAN BEIJING INVESTMENT MANAGEMENT CO LTD)</remarks>
+    <programList>
+      <program>PAIPA</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>53204</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110108MA01NK6F9X</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>200678</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY (entity). Sec.2(b)(1)(A) - All property and interests in property of this entity are blocked, and all transactions with this entity are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>200679</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS. Sec.2(b)(1)(D) - United States financial institutions are prohibited from making loans or providing credits to this entity totaling more than $10,000,000 in any 12-month period, subject to the exception set forth in PAIPA Section 2(b)(1)(D).</idNumber>
+      </id>
+      <id>
+        <uid>200680</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>FOREIGN EXCHANGE. Sec.2(b)(1)(H) - Transactions in foreign exchange that are subject to the jurisdiction of the United States and in which this entity has any interest are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>200681</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BANKING TRANSACTIONS. Sec.2(b)(1)(I) - Any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of this entity, are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>200682</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON. Sec.2(b)(1)(J) - Any United States person is prohibited from investing in or purchasing significant amounts of equity or debt instruments of this entity.</idNumber>
+      </id>
+      <id>
+        <uid>200712</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>08 Nov 2019</idNumber>
+      </id>
+    </idList>
+    <addressList>
+      <address>
+        <uid>89922</uid>
+        <address1>No. 601, 6th Floor, No. 28 Chengfu Road, Haidian District</address1>
+        <city>Beijing</city>
+        <postalCode>100000</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>58459</uid>
+    <lastName>SHANGHAI ZHISUAN TECHNOLOGY CO LTD</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>PAIPA</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>53205</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91310104MAD3LXU92B</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>200708</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>17 Oct 2023</idNumber>
+      </id>
+      <id>
+        <uid>200683</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY (entity). Sec.2(b)(1)(A) - All property and interests in property of this entity are blocked, and all transactions with this entity are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>200684</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS. Sec.2(b)(1)(D) - United States financial institutions are prohibited from making loans or providing credits to this entity totaling more than $10,000,000 in any 12-month period, subject to the exception set forth in PAIPA Section 2(b)(1)(D).</idNumber>
+      </id>
+      <id>
+        <uid>200685</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>FOREIGN EXCHANGE. Sec.2(b)(1)(H) - Transactions in foreign exchange that are subject to the jurisdiction of the United States and in which this entity has any interest are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>200686</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BANKING TRANSACTIONS. Sec.2(b)(1)(I) - Any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of this entity, are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>200687</uid>
+        <idType>PAIPA Section 2 Information:</idType>
+        <idNumber>BAN ON INVESTMENT IN EQUITY OR DEBT OF SANCTIONED PERSON. Sec.2(b)(1)(J) - Any United States person is prohibited from investing in or purchasing significant amounts of equity or debt instruments of this entity.</idNumber>
+      </id>
+    </idList>
+    <addressList>
+      <address>
+        <uid>89924</uid>
+        <address1>44 Gongwei, Floor 1, Building 27, No. 487, Tianlin Road, Xuhui District</address1>
+        <city>Shanghai</city>
+        <postalCode>200000</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
 </sdnList>
