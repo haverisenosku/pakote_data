@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-10-20T23:00:05.952Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-10-21T23:00:04.843Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -48751,15 +48751,7 @@ industries and support to that country’s military-related sales.</COMMENTS1>
       <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
       <REFERENCE_NUMBER>KPe.011</REFERENCE_NUMBER>
       <LISTED_ON>2012-05-02</LISTED_ON>
-      <COMMENTS1>The Korea Heungjin Trading Company is used by KOMID for trading purposes.
-We suspect it has been involved in supplying missile-related goods to Iran’s Shahid
-Hemmat Industrial Group (SHIG). Heungjin has been associated with KOMID, and, more
-specifically, KOMID’s procurement office. Heungjin has been used to procure an advanced
-digital controller with applications in missile design. KOMID was designated by the
-Committee in April 2009 and is the DPRK’s primary arms dealer and main exporter of goods
-and equipment related to ballistic missiles and conventional weapons. The Security
-Council designated SHIG in resolution 1737 (2006) as an entity involved in Iran’s
-ballistic missile programme.</COMMENTS1>
+      <COMMENTS1>The Korea Heungjin Trading Company is used by KOMID for trading purposes. We suspect it has been involved in supplying missile-related goods to Iran’s Shahid Hemmat Industrial Group (SHIG). Heungjin has been associated with KOMID, and, more specifically, KOMID’s procurement office. Heungjin has been used to procure an advanced digital controller with applications in missile design. KOMID was designated by the Committee in April 2009 and is the DPRK’s primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons. The Security Council designated SHIG in resolution 1737 (2006) as an entity involved in Iran’s ballistic missile programme.</COMMENTS1>
       <HAS_INTERPOL_LINK>NO</HAS_INTERPOL_LINK>
       <INTERPOL_LINK/>
       <LIST_TYPE>
@@ -49751,8 +49743,9 @@ ballistic missile programme.</COMMENTS1>
         <ALIAS_NAME/>
       </ENTITY_ALIAS>
       <ENTITY_ADDRESS>
-        <STREET>Akara Building</STREET>
-        <STATE_PROVINCE>24 de Castro Street, Wickhams Cay I, Road Town, Tortola</STATE_PROVINCE>
+        <STREET>Akara Building, 24 de Castro Street</STREET>
+        <CITY>Wickhams Cay I, Road Town</CITY>
+        <STATE_PROVINCE>Tortola</STATE_PROVINCE>
         <COUNTRY>British Virgin Islands</COUNTRY>
       </ENTITY_ADDRESS>
       <ENTITY_ADDRESS>
