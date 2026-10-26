@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>16/10/2026</DateGenerated>
+  <DateGenerated>26/10/2026</DateGenerated>
   <Designation>
     <LastUpdated>04/08/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -412614,6 +412614,262 @@ Al-Goney has controlled the RSF front company Tradive General Trading, which imp
     </IndividualDetails>
   </Designation>
   <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0047</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Abu</Name1>
+        <Name2>Zaid</Name2>
+        <Name3>Talha</Name3>
+        <Name6>AL-MISBAH</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Abu </Name1>
+        <Name2>Zaid </Name2>
+        <Name3>Talha</Name3>
+        <Name6>AL-MISHAB</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Commander</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Abu Zaid Talha Al-Misbah is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 because he is or has been involved in a relevant activity, namely being responsible for and providing support for the commission of violations of international humanitarian law in Sudan through his role as Commander of the Al-Baraa bin Malik Battalions during the systematic campaign of violence against civilians in Gezira State, including against persons on the basis of their ethnicity or religious beliefs.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Sudan</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Commander of the Al-Baraa bin Malik Battalions</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0048</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Hussein</Name1>
+        <Name2>Abo</Name2>
+        <Name6>Jalak</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Hussein</Name1>
+        <Name2>Abu</Name2>
+        <Name6>Jalak</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Hussein Abo Jalak is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020
+ because he is or has been involved in a relevant activity, namely being responsible for the commission of violations of international humanitarian law in Sudan,
+  through his role as a Rapid Support Forces commander including during the systematic campaign of violence against civilians in El Fasher.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Sudan</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>RSF Commander</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0049</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Awad</Name1>
+        <Name2>Al-Karim</Name2>
+        <Name6>ALI SAEED</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Major General</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Awad Al-Karim Ali Saeed is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 because he is or has been involved in a relevant activity, namely being responsible for and providing support for the commission of  violations of international humanitarian law in Sudan through his role as a Major General of the Sudanese Armed Forces and commander of the 1st Infantry Division in Gezira during the systematic campaign of violence against civilians in Gezira State including against persons on the basis of their ethnicity or religious beliefs. 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Sudan</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Major General of the SAF and Commander of the 1st Infantry Division in Gezira (Al-Jazira) state</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0050</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Abdel</Name1>
+        <Name2>Moneim</Name2>
+        <Name6>ABDEL BASSET</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Abdel-Moneim</Name1>
+        <Name6>ABDEL-BASIT</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Abdel</Name1>
+        <Name2>Basset</Name2>
+        <Name6>ABEL MONEIM</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Major General</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Abdel Moneim ABDEL BASSET is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 because he is or has been involved in a relevant activity, namely being responsible for and providing support for the commission of  violations of international humanitarian law in Sudan through his role as a Major General of the Sudanese Armed Forces during the systematic campaign of violence against civilians in Gezira State including against persons on the basis of their ethnicity or religious beliefs. 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Sudan</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Major General of the SAF</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
     <LastUpdated>16/07/2026</LastUpdated>
     <DateDesignated>16/07/2026</DateDesignated>
     <UniqueID>SUD0051</UniqueID>
@@ -413402,6 +413658,761 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </ParentCompanies>
       </Entity>
     </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0062</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Ibrahim</Name1>
+        <Name2>Gibril</Name2>
+        <Name6>OMER</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Abu</Name1>
+        <Name6>WAFI</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that  Ibrahim Gibril OMER (“Abu Wafi”) is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020
+ 
+because  he is or has been involved in a relevant activity, namely being responsible for and providing support for the commission of  violations of international humanitarian law in Sudan, through his role as Major of the Rapid Support Forces and Commander for the North Darfur section of the Rapid Support Forces, and through his association with Gedo Hamdan Ahmed, an involved person.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Sudan</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Major in the Rapid Support Forces and RSF commander for the North Darfur sector</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0063</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Abdallah </Name1>
+        <Name2>Ali</Name2>
+        <Name6>AHMED</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Abdul-Ila </Name1>
+        <Name2>Ali</Name2>
+        <Name6>AHMED</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Abdulelah</Name1>
+        <Name2>Ali</Name2>
+        <Name3>Ahmed</Name3>
+        <Name6>MOHAMMED</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>عبد الله علي أحمد </NameNonLatinScript>
+        <NonLatinScriptType>Arabic</NonLatinScriptType>
+      </NonLatinName>
+    </NonLatinNames>
+    <Titles>
+      <Title>Major General</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Abdalla Ali AHMED is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020
+ 
+because he is or has been involved in a relevant activity, namely providing support for or promoting the commission of violations of international humanitarian law in Sudan. He continues to be the Director of Gezira State Police and was so during the systematic campaign of violence against civilians in Wad Madani.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Sudan</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Director of the Gezira State Police </Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0064</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Ahmed</Name1>
+        <Name2>Barrir</Name2>
+        <Name3>Haj</Name3>
+        <Name6>AHMED</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Ahmed</Name1>
+        <Name2>Bereir</Name2>
+        <Name6>HAJ-AHMED</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>احمد برير حاج أحمد</NameNonLatinScript>
+        <NonLatinScriptType>Arabic</NonLatinScriptType>
+      </NonLatinName>
+    </NonLatinNames>
+    <Titles>
+      <Title>Brigadier General</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+Ahmed Haj Barrir AHMED is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 because he is or has been involved in a relevant activity, namely he is responsible for or promoting the commission of violations of international humanitarian law in Sudan, namely the deliberate targeting of civilians. He was a Brigadier General in the Sudanese Armed Forces during the time of the Wad Madani massacre in Gezira State.
+ 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Sudan</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Brigadier General</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0065</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Siddiq Ali </Name1>
+        <Name2>Wad</Name2>
+        <Name6>AL-BASHA</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Siddig</Name1>
+        <Name2>Ali</Name2>
+        <Name6>AL-BASHA</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Siddiq</Name1>
+        <Name6>AL-DIHAISH</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>AL-DIHEESH</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name1>Martyr</Name1>
+        <Name6>AL-DIHEESH</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>الصديق على ودالباشا </NameNonLatinScript>
+        <NonLatinScriptType>Arabic</NonLatinScriptType>
+      </NonLatinName>
+      <NonLatinName>
+        <NameNonLatinScript>صديق الدحيش</NameNonLatinScript>
+        <NonLatinScriptType>Arabic</NonLatinScriptType>
+      </NonLatinName>
+    </NonLatinNames>
+    <Titles>
+      <Title>Commander</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Siddiq Ali Wad AL-BASHA is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 since he is or has been involved in a relevant activity. As Commander of the Abdullah Jamaa Battalion, he is responsible for or has provided support for violations of international humanitarian law in Sudan, including the use of violence based on ethnicity, specifically against the Kanabi people, the deliberate targeting of civilians, and rape and other forms of sexual and gender-based violence during the “recapture” of Wad Madani in Gezira State.
+ 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Sudan</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Commander</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0066</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Abbas</Name1>
+        <Name2>Khater</Name2>
+        <Name6>BAKHIT</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Lieutenant Colonel</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Abbas Khater Bakhit (“BAKHIT”) 
+is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020
+ based on the following grounds:
+ 
+ 
+BAKHIT is or has been involved in a relevant activity, namely he has been responsible for or engaged in serious human rights violations or abuses 
+as Lieutenant Colonel of the Rapid Support Forces and Commander overseeing the Al-Mina Al-Bari Detention Centre. In particular, he directed or participated in the torture of detainees during the “take over” of El Fasher in October 2025.
+ 
+ 
+BAKHIT is associated with an involved person, Gedo Hamdan Ahmed (“Ahmed”). Ahmed is 
+Lieutenant General and Deputy Commander of the Rapid Support Forces who has engaged in actions or policies that threaten the peace, security, or stability of Darfur, including acts of violence and human rights abuses. 
+Ahmed was BAKHIT’s superior at the Al-Mina Al-Bari Detention Centre.
+ 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Sudan</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Commander of the RSF</Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0067</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Khademallah</Name1>
+        <Name2>Khashmin</Name2>
+        <Name6>HERIKA</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Khademallah</Name1>
+        <Name2>Khashmin </Name2>
+        <Name6>HERIKA</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Shiraz</Name1>
+        <Name6>KHALID</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Major</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Khademallah Khashmin Herika is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020
+ 
+as she is or has been involved in a relevant activity, namely promoting the commission of violations of international humanitarian law in Sudan. As Major Commander of the “Female Element” of the Rapid Support Forces, she has promoted rape and other forms of sexual and gender-based violence in El Fasher and Garni.
+ 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Nationalities>
+          <Nationality>Sudan</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>RSF Major and Commander of the female element of the RSF </Position>
+        </Positions>
+        <Genders>
+          <Gender>Female</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0068</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Hamdan</Name1>
+        <Name6>AL-KAJLI</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Commander</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers has reasonable grounds to suspect that Hamdan AL-KAJLI 
+is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020
+ 
+based on the following grounds:
+ 
+ 
+he is or has been involved in a relevant activity, namely he is responsible for the commission of violations of international humanitarian law in Sudan, including rape and other forms of sexual and gender-based violence, through his role a Commander of the Rapid Support Forces.
+ 
+he is associated with an involved person, Abdul Rahim Daglo, who is Deputy Leader of the Rapid Support Forces
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0069</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Abdelbagi</Name1>
+        <Name2> Dahab</Name2>
+        <Name6>TALBO</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Colonel</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Abdelbagi Dahab TALBO is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020
+ because is or has been involved in a relevant activity, namely he is 
+responsible for or provided support for the commission of violations of international humanitarian law in Sudan, including 
+rape and other forms of sexual and gender-based violence. He is a Colonel in the Rapid Support Forces who was present at
+ the “takeover” of Zamzam Internally Displaced Persons Camp in April 2025 where there were numerous accounts of conflict-related sexual violence perpetrated by members of the Rapid Support Forces.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0070</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Mustafa</Name1>
+        <Name2>Abdullah</Name2>
+        <Name3>Ahmed</Name3>
+        <Name6>SHENIBAT</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <Titles>
+      <Title>Colonel</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Mustafa Abdullah Ahmed 
+SHENIBAT
+ is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020
+ 
+because he is or has been involved in a relevant activity. He is responsible for or provided support for the commission of violations of international humanitarian law in Sudan, including 
+rape and other forms of sexual and gender-based violence 
+through his role as a Colonel of the Rapid Support Forces during its “takeover” of the Zamzam Internally Displaced Persons Camp in April 2025.
+ 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+    <IndividualDetails>
+      <Individual>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0071</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Al-Nour</Name1>
+        <Name2>Ahmed </Name2>
+        <Name6>ADAM</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>AL-GUBA</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>AL-QUBBA</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>النور أحمد آدم، </NameNonLatinScript>
+        <NonLatinScriptType>Arabic</NonLatinScriptType>
+      </NonLatinName>
+    </NonLatinNames>
+    <Titles>
+      <Title>Major General</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect Al-Nour Ahmed ADAM is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020
+ 
+because he has been involved in a relevant activity, namely he was responsible for the commission of violations of international humanitarian law in Sudan, including violence against persons on the basis of their ethnicity and the deliberate targeting of civilians. As a Major General in the Rapid Support Forces, he played a commanding role issuing direct orders during the “takeover” of El Fasher in October 2025. He has since defected to the Sudanese Armed Forces.
+ 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressCountry>Sudan</AddressCountry>
+      </Address>
+    </Addresses>
+  </Designation>
+  <Designation>
+    <LastUpdated>26/10/2026</LastUpdated>
+    <DateDesignated>26/10/2026</DateDesignated>
+    <UniqueID>SUD0072</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Ali</Name1>
+        <Name6>RIZQALLAH</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Ali</Name1>
+        <Name6>RIZEIGALLAH</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>AL-SAVANA</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>AL-SAVANNA</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>AL-SAVANNAH</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+      <Name>
+        <Name6>EL-SAVANNA</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>علي رزق الله </NameNonLatinScript>
+        <NonLatinScriptType>Arabic</NonLatinScriptType>
+      </NonLatinName>
+    </NonLatinNames>
+    <Titles>
+      <Title>Brigadier General</Title>
+    </Titles>
+    <RegimeName>The Sudan (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that Ali Rizqallah is an involved person under the Sudan (Sanctions) (EU Exit) Regulations 2020 because has been involved in a relevant activity. As a Senior Field Commander of the Rapid Support Forces, he was responsible for violations of international humanitarian law in Sudan including violence against persons based on their ethnicity and the forced displacement of the civilian population. He has recently defected to the Sudanese Armed Forces.
+ 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
   </Designation>
   <Designation>
     <LastUpdated>01/05/2025</LastUpdated>
