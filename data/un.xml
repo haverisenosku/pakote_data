@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-10-24T23:00:07.335Z">
+<CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2026-10-26T23:00:02.307Z">
   <INDIVIDUALS>
     <INDIVIDUAL>
       <DATAID>6907993</DATAID>
@@ -27181,7 +27181,7 @@ Abdul Rosyid Ridho Ba’asyir</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.340</REFERENCE_NUMBER>
       <LISTED_ON>2014-09-23</LISTED_ON>
-      <COMMENTS1>French terrorist fighter who travelled to Syria and joined Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI) (QDe.115). Active in radicalizing and propagating Al-Qaida’s (QDe.004) ideology through the Internet. Incites violent activities against France. French arrest warrant issued on 12 Jun. 2015 by a magistrate of the anti-terrorism division of the Prosecutor’s Office in Paris for her participation in a terrorist criminal association INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>French terrorist fighter who travelled to Syria and joined Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI) (QDe.115). Active in radicalizing and propagating Al-Qaida’s (QDe.004) ideology through the Internet. Incites violent activities against France. Currently detained in France. Gender: Female. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
       <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2014-58638</INTERPOL_LINK>
       <NATIONALITY>
@@ -27193,6 +27193,7 @@ Abdul Rosyid Ridho Ba’asyir</NOTE>
       <LAST_DAY_UPDATED>
         <VALUE>2016-06-24</VALUE>
         <VALUE>2021-11-15</VALUE>
+        <VALUE>2026-10-26</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
@@ -27203,8 +27204,8 @@ Abdul Rosyid Ridho Ba’asyir</NOTE>
         <ALIAS_NAME>Emilie Samra Konig</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <COUNTRY>Syrian Arab Republic</COUNTRY>
-        <NOTE>located in since 2013</NOTE>
+        <COUNTRY>France</COUNTRY>
+        <NOTE>in detention</NOTE>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
@@ -27216,19 +27217,26 @@ Abdul Rosyid Ridho Ba’asyir</NOTE>
       </INDIVIDUAL_PLACE_OF_BIRTH>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-        <NUMBER>French passport number 05AT521433</NUMBER>
+        <NUMBER>05AT521433</NUMBER>
+        <ISSUING_COUNTRY>France</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2005-11-30</DATE_OF_ISSUE>
-        <NOTE>issued by the sous-prefecture of police of Lorient, France</NOTE>
+        <CITY_OF_ISSUE>Lorient</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>France</COUNTRY_OF_ISSUE>
+        <NOTE>issued by the sous-prefecture of police</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-        <NUMBER>French national identity card number 050456101445</NUMBER>
+        <NUMBER>050456101445</NUMBER>
+        <ISSUING_COUNTRY>France</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2005-05-19</DATE_OF_ISSUE>
-        <NOTE>issued by the sous-prefecture of police of Lorient, France</NOTE>
+        <CITY_OF_ISSUE>Lorient</CITY_OF_ISSUE>
+        <COUNTRY_OF_ISSUE>France</COUNTRY_OF_ISSUE>
+        <NOTE>issued by the sous-prefecture of police</NOTE>
       </INDIVIDUAL_DOCUMENT>
       <INDIVIDUAL_DOCUMENT>
         <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-        <NUMBER>French identity card number 0205561020089</NUMBER>
+        <NUMBER>0205561020089</NUMBER>
+        <ISSUING_COUNTRY>France</ISSUING_COUNTRY>
         <DATE_OF_ISSUE>2002-05-30</DATE_OF_ISSUE>
         <NOTE>issued under name Emilie Edwige Konig</NOTE>
       </INDIVIDUAL_DOCUMENT>
@@ -27319,7 +27327,7 @@ Abdul Rosyid Ridho Ba’asyir</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.342</REFERENCE_NUMBER>
       <LISTED_ON>2014-09-23</LISTED_ON>
-      <COMMENTS1>A leader of an armed group linked to Al-Nusrah Front for the People of the Levant (formerly listed) and a key facilitator for a Syrian foreign terrorist fighter network. Active in terrorist propaganda through the Internet INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>A leader of an armed group linked to Al-Qaida (QDe.004) and Al-Nusrah Front for the People of the Levant (formerly listed) and a key facilitator for a network of foreign terrorist fighters travelling to Syria. Active in terrorist propaganda through the Internet. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
       <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2014-58642</INTERPOL_LINK>
       <NATIONALITY>
@@ -27331,6 +27339,7 @@ Abdul Rosyid Ridho Ba’asyir</NOTE>
       <LAST_DAY_UPDATED>
         <VALUE>2019-12-06</VALUE>
         <VALUE>2023-10-30</VALUE>
+        <VALUE>2026-10-26</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2019-12-04</VALUE>
@@ -27342,7 +27351,7 @@ Abdul Rosyid Ridho Ba’asyir</NOTE>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ALIAS>
         <QUALITY>Low</QUALITY>
-        <ALIAS_NAME>Oumar Omsen</ALIAS_NAME>
+        <ALIAS_NAME>Omar Omsen</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
         <COUNTRY>Syrian Arab Republic</COUNTRY>
@@ -29224,7 +29233,7 @@ Federation for the Republic Karachayevo-Cherkessia</NOTE>
       <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
       <REFERENCE_NUMBER>QDi.376</REFERENCE_NUMBER>
       <LISTED_ON>2015-09-29</LISTED_ON>
-      <COMMENTS1>Member of Al-Qaida in the Arabian Peninsula (AQAP) (QDe.129). Convicted in absentia to five years in prison in France in 2012. Wanted by French authorities as of 2015. Sentenced to life imprisonment by a French court on 3 October 2024.  INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+      <COMMENTS1>Member of Al-Qaida in the Arabian Peninsula (AQAP) (QDe.129). Convicted in absentia to five years in prison in France in 2012, and then sentenced to life imprisonment by a French court on 3 October 2024 for his involvement in a terrorist organisation. INTERPOL-UN Security Council Special Notice:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
       <HAS_INTERPOL_LINK>YES</HAS_INTERPOL_LINK>
       <INTERPOL_LINK>https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals#2015-64577</INTERPOL_LINK>
       <NATIONALITY>
@@ -29237,19 +29246,19 @@ Federation for the Republic Karachayevo-Cherkessia</NOTE>
         <VALUE>2016-06-24</VALUE>
         <VALUE>2021-11-15</VALUE>
         <VALUE>2026-08-18</VALUE>
+        <VALUE>2026-10-26</VALUE>
       </LAST_DAY_UPDATED>
       <LAST_REVIEWED_ON>
         <VALUE>2021-11-15</VALUE>
         <VALUE>2025-12-31</VALUE>
       </LAST_REVIEWED_ON>
       <INDIVIDUAL_ALIAS>
-        <QUALITY/>
-        <ALIAS_NAME/>
+        <QUALITY>Good</QUALITY>
+        <ALIAS_NAME>Abou Hamza</ALIAS_NAME>
       </INDIVIDUAL_ALIAS>
       <INDIVIDUAL_ADDRESS>
-        <CITY>Al Mukalla</CITY>
-        <STATE_PROVINCE>Hadramawt province</STATE_PROVINCE>
-        <COUNTRY>Yemen</COUNTRY>
+        <COUNTRY>France</COUNTRY>
+        <NOTE>in custody</NOTE>
       </INDIVIDUAL_ADDRESS>
       <INDIVIDUAL_DATE_OF_BIRTH>
         <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>

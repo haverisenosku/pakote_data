@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>26/10/2026</DateGenerated>
+  <DateGenerated>27/10/2026</DateGenerated>
   <Designation>
     <LastUpdated>04/08/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -5536,9 +5536,9 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>20/09/1968</DOB>
           <DOB>1975</DOB>
           <DOB>dd/mm/1971</DOB>
-          <DOB>20/09/1968</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -9876,21 +9876,21 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>27/07/1976</DOB>
           <DOB>dd/mm/1972</DOB>
+          <DOB>27/07/1976</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>D0010006</PassportNumber>
-            <PassportAdditionalInformation>Issued on 28 Sep. 2022, issued in Kabul, Afghanistan (expires 28 Sep. 2027)</PassportAdditionalInformation>
+            <PassportNumber>D0010408</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>P03318995</PassportNumber>
             <PassportAdditionalInformation>Afghanistan passport, issued on 29 Jul. 2020 (Name in Latin script: Hedayatullah  Hedayat, expires 29 Jul. 2025)</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>D0010408</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)</PassportAdditionalInformation>
+            <PassportNumber>D0010006</PassportNumber>
+            <PassportAdditionalInformation>Issued on 28 Sep. 2022, issued in Kabul, Afghanistan (expires 28 Sep. 2027)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -10173,7 +10173,6 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1963</DOB>
           <DOB>01/01/1966</DOB>
           <DOB>dd/mm/1958</DOB>
           <DOB>dd/mm/1959</DOB>
@@ -10181,6 +10180,7 @@
           <DOB>dd/mm/1961</DOB>
           <DOB>dd/mm/1962</DOB>
           <DOB>dd/mm/1964</DOB>
+          <DOB>dd/mm/1963</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -23989,102 +23989,6 @@ name: Abdul Rahman. Photo and fingerprints available for inclusion in the INTERP
   </Designation>
   <Designation>
     <LastUpdated>18/12/2021</LastUpdated>
-    <DateDesignated>22/02/2017</DateDesignated>
-    <UniqueID>AQD0155</UniqueID>
-    <OFSIGroupID>13446</OFSIGroupID>
-    <UNReferenceNumber>QDi.399</UNReferenceNumber>
-    <Names>
-      <Name>
-        <Name1>BASSAM</Name1>
-        <Name2>AHMAD</Name2>
-        <Name6>AL-HASRI</Name6>
-        <NameType>Primary name</NameType>
-      </Name>
-      <Name>
-        <Name1>Abu</Name1>
-        <Name2>Ahmad</Name2>
-        <Name6>Akhlaq</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Low quality a.k.a</AliasStrength>
-      </Name>
-      <Name>
-        <Name1>Abu</Name1>
-        <Name2>Ahmad</Name2>
-        <Name6>al-Shami</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Low quality a.k.a</AliasStrength>
-      </Name>
-      <Name>
-        <Name1>Bassam</Name1>
-        <Name2>Ahmad</Name2>
-        <Name6>Husari</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Good quality a.k.a</AliasStrength>
-      </Name>
-    </Names>
-    <NonLatinNames>
-      <NonLatinName>
-        <NameNonLatinScript>بسام أحمد الحصري</NameNonLatinScript>
-      </NonLatinName>
-    </NonLatinNames>
-    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
-    <IndividualEntityShip>Individual</IndividualEntityShip>
-    <DesignationSource>UN</DesignationSource>
-    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
-    <SanctionsImposedIndicators>
-      <AssetFreeze>true</AssetFreeze>
-      <ArmsEmbargo>true</ArmsEmbargo>
-      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
-      <CharteringOfShips>false</CharteringOfShips>
-      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
-      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
-      <Deflag>false</Deflag>
-      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
-      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
-      <TravelBan>true</TravelBan>
-      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
-      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
-      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
-      <TrustServicesSanctions>false</TrustServicesSanctions>
-      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
-    </SanctionsImposedIndicators>
-    <OtherInformation>Leader of Al-Nusrah Front for the People of the Levant (QDe.137) for southern Syrian Arab Republic since July 2016. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/6013284. Syrian Arab Republic (Southern. Location as of July 2016)</OtherInformation>
-    <UKStatementofReasons>
-</UKStatementofReasons>
-    <Addresses>
-      <Address>
-        <AddressCountry>Syria</AddressCountry>
-      </Address>
-    </Addresses>
-    <IndividualDetails>
-      <Individual>
-        <DOBs>
-          <DOB>01/01/1969</DOB>
-          <DOB>dd/mm/1971</DOB>
-        </DOBs>
-        <Nationalities>
-          <Nationality>Syria</Nationality>
-          <Nationality>Palestinian</Nationality>
-        </Nationalities>
-        <BirthDetails>
-          <Location>
-            <TownOfBirth>Qalamun, Damascus Province</TownOfBirth>
-            <CountryOfBirth>Syria</CountryOfBirth>
-          </Location>
-          <Location>
-            <TownOfBirth>Tadamon, Rif Dimashq</TownOfBirth>
-            <CountryOfBirth>Syria</CountryOfBirth>
-          </Location>
-          <Location>
-            <TownOfBirth>Ghutah, Damascus Province</TownOfBirth>
-            <CountryOfBirth>Syria</CountryOfBirth>
-          </Location>
-        </BirthDetails>
-      </Individual>
-    </IndividualDetails>
-  </Designation>
-  <Designation>
-    <LastUpdated>18/12/2021</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AQD0156</UniqueID>
     <OFSIGroupID>7099</OFSIGroupID>
@@ -24318,8 +24222,8 @@ name: Abdul Rahman. Photo and fingerprints available for inclusion in the INTERP
           <DOB>13/02/1970</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Algeria</Nationality>
           <Nationality>Palestinian</Nationality>
+          <Nationality>Algeria</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -24555,6 +24459,33 @@ name: Abdul Rahman. Photo and fingerprints available for inclusion in the INTERP
         </DOBs>
         <PassportDetails>
           <Passport>
+            <PassportNumber>C-267185</PassportNumber>
+            <PassportAdditionalInformation>Issued in Karachi in Jul.1996</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>P537849</PassportNumber>
+            <PassportAdditionalInformation>India number P537849 , issued on 30 Jul. 1979, issued in BOMBAY</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>A717288</PassportNumber>
+            <PassportAdditionalInformation>A717288 , issued on 18 Aug. 1985, issued in Dubai (MISUSE)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>G866537</PassportNumber>
+            <PassportAdditionalInformation>Issued on 12 Aug. 1991, issued in Rawalpindi (MISUSE) </PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>H-123259</PassportNumber>
+            <PassportAdditionalInformation>issued in Rawalpindi in Jul. 2001</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>G-869537</PassportNumber>
+            <PassportAdditionalInformation>issued in Rawalpindi</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>KC-285901</PassportNumber>
+          </Passport>
+          <Passport>
             <PassportNumber>A-333602</PassportNumber>
             <PassportAdditionalInformation>India number A-333602, issued on 4 Jun. 1985, issued in Bombay, India (passport subsequently revoked by the Government of India)</PassportAdditionalInformation>
           </Passport>
@@ -24581,33 +24512,6 @@ name: Abdul Rahman. Photo and fingerprints available for inclusion in the INTERP
           <Passport>
             <PassportNumber>V57865</PassportNumber>
             <PassportAdditionalInformation>issued on 3 Oct. 1983, issued in BOMBAY</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>P537849</PassportNumber>
-            <PassportAdditionalInformation>India number P537849 , issued on 30 Jul. 1979, issued in BOMBAY</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>A717288</PassportNumber>
-            <PassportAdditionalInformation>A717288 , issued on 18 Aug. 1985, issued in Dubai (MISUSE)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>G866537</PassportNumber>
-            <PassportAdditionalInformation>Issued on 12 Aug. 1991, issued in Rawalpindi (MISUSE) </PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>H-123259</PassportNumber>
-            <PassportAdditionalInformation>issued in Rawalpindi in Jul. 2001</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>G-869537</PassportNumber>
-            <PassportAdditionalInformation>issued in Rawalpindi</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>KC-285901</PassportNumber>
-          </Passport>
-          <Passport>
-            <PassportNumber>C-267185</PassportNumber>
-            <PassportAdditionalInformation>Issued in Karachi in Jul.1996</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -25002,13 +24906,13 @@ name: Abdul Rahman. Photo and fingerprints available for inclusion in the INTERP
           <DOB>31/12/1979</DOB>
           <DOB>28/09/1973</DOB>
           <DOB>31/12/1979</DOB>
+          <DOB>10/06/1982</DOB>
+          <DOB>31/12/1979</DOB>
           <DOB>22/08/1973</DOB>
           <DOB>26/09/1973</DOB>
           <DOB>31/12/1979</DOB>
           <DOB>26/08/1973</DOB>
           <DOB>31/12/1979</DOB>
-          <DOB>31/12/1979</DOB>
-          <DOB>10/06/1982</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Algeria</Nationality>
@@ -25040,15 +24944,15 @@ name: Abdul Rahman. Photo and fingerprints available for inclusion in the INTERP
             <CountryOfBirth>Algeria</CountryOfBirth>
           </Location>
           <Location>
+            <CountryOfBirth>Morocco</CountryOfBirth>
+          </Location>
+          <Location>
             <TownOfBirth>Maskara</TownOfBirth>
             <CountryOfBirth>Algeria</CountryOfBirth>
           </Location>
           <Location>
             <TownOfBirth>Mehdia, Tiaret Province</TownOfBirth>
             <CountryOfBirth>Algeria</CountryOfBirth>
-          </Location>
-          <Location>
-            <CountryOfBirth>Morocco</CountryOfBirth>
           </Location>
         </BirthDetails>
       </Individual>
@@ -26558,17 +26462,17 @@ name: Abdul Rahman. Photo and fingerprints available for inclusion in the INTERP
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>01/03/1965</DOB>
           <DOB>dd/mm/1955</DOB>
+          <DOB>01/03/1965</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>AT0712501</PassportNumber>
-            <PassportAdditionalInformation>Pakistani number issued on 12 Mar. 2008 (expired 11 Mar 2013)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>A-374184</PassportNumber>
             <PassportAdditionalInformation>Pakistani number</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>AT0712501</PassportNumber>
+            <PassportAdditionalInformation>Pakistani number issued on 12 Mar. 2008 (expired 11 Mar 2013)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -26576,11 +26480,11 @@ name: Abdul Rahman. Photo and fingerprints available for inclusion in the INTERP
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>6110125312507</NationalIdentifierNumber>
-            <NationalIdentifierAdditionalInformation>Pakistani</NationalIdentifierAdditionalInformation>
+            <NationalIdentifierNumber>24492025390</NationalIdentifierNumber>
           </NationalIdentifier>
           <NationalIdentifier>
-            <NationalIdentifierNumber>24492025390</NationalIdentifierNumber>
+            <NationalIdentifierNumber>6110125312507</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Pakistani</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <BirthDetails>
@@ -26866,8 +26770,8 @@ the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Sp
       <Individual>
         <DOBs>
           <DOB>29/05/1966</DOB>
-          <DOB>09/05/1986</DOB>
           <DOB>25/05/1966</DOB>
+          <DOB>09/05/1986</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -26884,10 +26788,10 @@ the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Sp
             <CountryOfBirth>Tunisia</CountryOfBirth>
           </Location>
           <Location>
-            <CountryOfBirth>Morocco</CountryOfBirth>
+            <CountryOfBirth>Egypt</CountryOfBirth>
           </Location>
           <Location>
-            <CountryOfBirth>Egypt</CountryOfBirth>
+            <CountryOfBirth>Morocco</CountryOfBirth>
           </Location>
         </BirthDetails>
       </Individual>
@@ -28509,9 +28413,9 @@ the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Sp
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>31/03/1975</DOB>
           <DOB>15/01/1973</DOB>
           <DOB>15/01/1974</DOB>
+          <DOB>31/03/1975</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -28524,14 +28428,14 @@ the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Sp
         </Nationalities>
         <BirthDetails>
           <Location>
-            <CountryOfBirth>Morocco</CountryOfBirth>
-          </Location>
-          <Location>
             <TownOfBirth>Tunis</TownOfBirth>
             <CountryOfBirth>Tunisia</CountryOfBirth>
           </Location>
           <Location>
             <CountryOfBirth>Algeria</CountryOfBirth>
+          </Location>
+          <Location>
+            <CountryOfBirth>Morocco</CountryOfBirth>
           </Location>
         </BirthDetails>
       </Individual>
@@ -28659,10 +28563,10 @@ the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Sp
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressCountry>Iraq</AddressCountry>
+        <AddressCountry>Syria</AddressCountry>
       </Address>
       <Address>
-        <AddressCountry>Syria</AddressCountry>
+        <AddressCountry>Iraq</AddressCountry>
       </Address>
       <Address>
         <AddressLine1>Moscovskiy Microrayon 6</AddressLine1>
@@ -28879,126 +28783,6 @@ Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN
   </Designation>
   <Designation>
     <LastUpdated>18/12/2021</LastUpdated>
-    <DateDesignated>22/02/2017</DateDesignated>
-    <UniqueID>AQD0209</UniqueID>
-    <OFSIGroupID>13447</OFSIGroupID>
-    <UNReferenceNumber>QDi.400</UNReferenceNumber>
-    <Names>
-      <Name>
-        <Name1>IYAD</Name1>
-        <Name2>NAZMI</Name2>
-        <Name3>SALIH</Name3>
-        <Name6>KHALIL</Name6>
-        <NameType>Primary name</NameType>
-      </Name>
-      <Name>
-        <Name6>Abu-Julaybib</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Low quality a.k.a</AliasStrength>
-      </Name>
-      <Name>
-        <Name1>Abu</Name1>
-        <Name6>al-Darda'</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Low quality a.k.a</AliasStrength>
-      </Name>
-      <Name>
-        <Name1>Iyad</Name1>
-        <Name6>al-Toubasi</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Low quality a.k.a</AliasStrength>
-      </Name>
-      <Name>
-        <Name1>Iyad</Name1>
-        <Name6>al-Tubasi</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Low quality a.k.a</AliasStrength>
-      </Name>
-      <Name>
-        <Name1>Abu-Julaybib</Name1>
-        <Name6>al-Urduni</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Low quality a.k.a</AliasStrength>
-      </Name>
-      <Name>
-        <Name1>Ayyad</Name1>
-        <Name2>Nazmi</Name2>
-        <Name3>Salih</Name3>
-        <Name6>Khalil</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Good quality a.k.a</AliasStrength>
-      </Name>
-      <Name>
-        <Name1>Eyad</Name1>
-        <Name2>Nazmi</Name2>
-        <Name3>Saleh</Name3>
-        <Name6>Khalil</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Good quality a.k.a</AliasStrength>
-      </Name>
-    </Names>
-    <NonLatinNames>
-      <NonLatinName>
-        <NameNonLatinScript>إياد نظمي صالح خليل</NameNonLatinScript>
-      </NonLatinName>
-    </NonLatinNames>
-    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
-    <IndividualEntityShip>Individual</IndividualEntityShip>
-    <DesignationSource>UN</DesignationSource>
-    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
-    <SanctionsImposedIndicators>
-      <AssetFreeze>true</AssetFreeze>
-      <ArmsEmbargo>true</ArmsEmbargo>
-      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
-      <CharteringOfShips>false</CharteringOfShips>
-      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
-      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
-      <Deflag>false</Deflag>
-      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
-      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
-      <TravelBan>true</TravelBan>
-      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
-      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
-      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
-      <TrustServicesSanctions>false</TrustServicesSanctions>
-      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
-    </SanctionsImposedIndicators>
-    <OtherInformation>Leader of Al-Nusrah Front for the People of the Levant (QDe.137) for coastal area of Syrian Arab Republic since March 2016. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/6013286. Coastal area of Syrian Arab Republic. Location as of April 2016.</OtherInformation>
-    <UKStatementofReasons>
-</UKStatementofReasons>
-    <Addresses>
-      <Address>
-        <AddressCountry>Syria</AddressCountry>
-      </Address>
-    </Addresses>
-    <IndividualDetails>
-      <Individual>
-        <DOBs>
-          <DOB>dd/mm/1974</DOB>
-        </DOBs>
-        <PassportDetails>
-          <Passport>
-            <PassportNumber>286062</PassportNumber>
-            <PassportAdditionalInformation>Jordan 286062, expiry date: 04/04/2004 issue date: 05/04/1999</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>654781</PassportNumber>
-            <PassportAdditionalInformation>Jordan 654781 issue date: dd/mm/2009</PassportAdditionalInformation>
-          </Passport>
-        </PassportDetails>
-        <Nationalities>
-          <Nationality>Jordan</Nationality>
-        </Nationalities>
-        <BirthDetails>
-          <Location>
-            <CountryOfBirth>Syria</CountryOfBirth>
-          </Location>
-        </BirthDetails>
-      </Individual>
-    </IndividualDetails>
-  </Designation>
-  <Designation>
-    <LastUpdated>18/12/2021</LastUpdated>
     <DateDesignated>03/01/2014</DateDesignated>
     <UniqueID>AQD0210</UniqueID>
     <OFSIGroupID>9225</OFSIGroupID>
@@ -29198,12 +28982,12 @@ Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Via Plebiscito Number 3</AddressLine1>
+        <AddressLine1>Via Bertesi Number 27</AddressLine1>
         <AddressLine2>Cremona</AddressLine2>
         <AddressCountry>Italy</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Via Bertesi Number 27</AddressLine1>
+        <AddressLine1>Via Plebiscito Number 3</AddressLine1>
         <AddressLine2>Cremona</AddressLine2>
         <AddressCountry>Italy</AddressCountry>
       </Address>
@@ -30554,12 +30338,12 @@ Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>04/04/1960</DOB>
+          <DOB>04/04/1969</DOB>
           <DOB>14/01/1968</DOB>
           <DOB>04/06/1960</DOB>
           <DOB>13/11/1960</DOB>
           <DOB>11/08/1960</DOB>
-          <DOB>04/04/1969</DOB>
-          <DOB>04/04/1960</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Libya</Nationality>
@@ -33273,10 +33057,10 @@ November 2021 INTERPOL-UN Security Council Special Notice web link: https://www.
       <Individual>
         <DOBs>
           <DOB>08/08/1980</DOB>
-          <DOB>03/12/1979</DOB>
-          <DOB>03/03/1979</DOB>
           <DOB>08/08/1980</DOB>
           <DOB>28/05/1984</DOB>
+          <DOB>03/12/1979</DOB>
+          <DOB>03/03/1979</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -33968,6 +33752,11 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressLine5>Asas Village</AddressLine5>
+        <AddressLine6>Abu Ghurayb</AddressLine6>
+        <AddressCountry>Iraq</AddressCountry>
+      </Address>
+      <Address>
         <AddressCountry>Egypt</AddressCountry>
       </Address>
       <Address>
@@ -33976,11 +33765,6 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
       </Address>
       <Address>
         <AddressLine6>Khan Dari</AddressLine6>
-        <AddressCountry>Iraq</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine5>Asas Village</AddressLine5>
-        <AddressLine6>Abu Ghurayb</AddressLine6>
         <AddressCountry>Iraq</AddressCountry>
       </Address>
     </Addresses>
@@ -34933,10 +34717,10 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressCountry>Syria</AddressCountry>
+        <AddressCountry>United Kingdom</AddressCountry>
       </Address>
       <Address>
-        <AddressCountry>United Kingdom</AddressCountry>
+        <AddressCountry>Syria</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -35200,8 +34984,8 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>27/05/1979</DOB>
           <DOB>dd/mm/1973</DOB>
+          <DOB>27/05/1979</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Saudi Arabia</Nationality>
@@ -35214,11 +34998,11 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
         </NationalIdentifierDetails>
         <BirthDetails>
           <Location>
-            <CountryOfBirth>Saudi Arabia</CountryOfBirth>
-          </Location>
-          <Location>
             <TownOfBirth>Shabwa</TownOfBirth>
             <CountryOfBirth>Yemen</CountryOfBirth>
+          </Location>
+          <Location>
+            <CountryOfBirth>Saudi Arabia</CountryOfBirth>
           </Location>
         </BirthDetails>
       </Individual>
@@ -38118,8 +37902,8 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>11/04/1960</DOB>
           <DOB>11/04/1963</DOB>
+          <DOB>11/04/1960</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Egypt</Nationality>
@@ -38279,122 +38063,6 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
           <Location>
             <TownOfBirth>Tunis</TownOfBirth>
             <CountryOfBirth>Tunisia</CountryOfBirth>
-          </Location>
-        </BirthDetails>
-      </Individual>
-    </IndividualDetails>
-  </Designation>
-  <Designation>
-    <LastUpdated>14/08/2026</LastUpdated>
-    <DateDesignated>23/09/2014</DateDesignated>
-    <UniqueID>AQD0314</UniqueID>
-    <OFSIGroupID>13135</OFSIGroupID>
-    <UNReferenceNumber>QDi.338</UNReferenceNumber>
-    <Names>
-      <Name>
-        <Name1>SHAFI</Name1>
-        <Name2>SULTAN</Name2>
-        <Name3>MOHAMMED</Name3>
-        <Name6>AL-AJMI</Name6>
-        <NameType>Primary name</NameType>
-      </Name>
-      <Name>
-        <Name1>Shaykh</Name1>
-        <Name6>Abu-Sultan</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Low quality a.k.a</AliasStrength>
-      </Name>
-      <Name>
-        <Name1>Shafi</Name1>
-        <Name2>S.M.S.</Name2>
-        <Name6>Alajmi</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Good quality a.k.a</AliasStrength>
-      </Name>
-      <Name>
-        <Name1>Shafi</Name1>
-        <Name6>al-Ajmi</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Good quality a.k.a</AliasStrength>
-      </Name>
-      <Name>
-        <Name1>Sheikh</Name1>
-        <Name2>Shafi</Name2>
-        <Name6>al-Ajmi</Name6>
-        <NameType>Alias</NameType>
-        <AliasStrength>Good quality a.k.a</AliasStrength>
-      </Name>
-    </Names>
-    <NonLatinNames>
-      <NonLatinName>
-        <NameNonLatinScript>  ﺷﺎﻓﻲ ﺳﻠﻄﺎن ﻣﺤﻤﺪ ﺳﻠﻄ</NameNonLatinScript>
-        <NonLatinScriptType>Arabic</NonLatinScriptType>
-        <NonLatinScriptLanguage>Arabic</NonLatinScriptLanguage>
-      </NonLatinName>
-    </NonLatinNames>
-    <Titles>
-      <Title>Doctor</Title>
-    </Titles>
-    <RegimeName>Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019</RegimeName>
-    <IndividualEntityShip>Individual</IndividualEntityShip>
-    <DesignationSource>UN</DesignationSource>
-    <SanctionsImposed>Asset freeze|Arms embargo|Travel Ban</SanctionsImposed>
-    <SanctionsImposedIndicators>
-      <AssetFreeze>true</AssetFreeze>
-      <ArmsEmbargo>true</ArmsEmbargo>
-      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
-      <CharteringOfShips>false</CharteringOfShips>
-      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
-      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
-      <Deflag>false</Deflag>
-      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
-      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
-      <TravelBan>true</TravelBan>
-      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
-      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
-      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
-      <TrustServicesSanctions>false</TrustServicesSanctions>
-      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
-    </SanctionsImposedIndicators>
-    <OtherInformation>Fundraiser for Al-Nusrah Front for the People of the Levant (QDe.137).  In November 2023, he was released from prison in Kuwait as part of the Special Amiri Decree Pardon No. 225/2023. Photo available for inclusion 
-in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.  INTERPOL-UN Security Council Special Notice web link:  https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.</OtherInformation>
-    <UKStatementofReasons>
-</UKStatementofReasons>
-    <Addresses>
-      <Address>
-        <AddressLine1>Area 3</AddressLine1>
-        <AddressLine2>Street 327</AddressLine2>
-        <AddressLine3>Building 41</AddressLine3>
-        <AddressLine6>Al-Uqaylah</AddressLine6>
-        <AddressCountry>Kuwait</AddressCountry>
-      </Address>
-    </Addresses>
-    <IndividualDetails>
-      <Individual>
-        <DOBs>
-          <DOB>01/01/1973</DOB>
-        </DOBs>
-        <PassportDetails>
-          <Passport>
-            <PassportNumber>0216155930</PassportNumber>
-          </Passport>
-          <Passport>
-            <PassportNumber>Kuwait 03111298</PassportNumber>
-            <PassportAdditionalInformation>Kuwait 003111298, issued in Kuwait on 16 September 2010, expired 15 September 2020 in the name of Shafi S M S Alajmi, Arabic script   ﺷﺎﻓ ﺳﻠﻄﺎن ﻣﺤﻤﺪ ﺳﻠﻄﺎن اﻟﻌﺠﻤﻲ </PassportAdditionalInformation>
-          </Passport>
-        </PassportDetails>
-        <Nationalities>
-          <Nationality>Kuwait</Nationality>
-        </Nationalities>
-        <NationalIdentifierDetails>
-          <NationalIdentifier>
-            <NationalIdentifierNumber>Kuwait 273010101204</NationalIdentifierNumber>
-          </NationalIdentifier>
-        </NationalIdentifierDetails>
-        <BirthDetails>
-          <Location>
-            <TownOfBirth>Warah</TownOfBirth>
-            <CountryOfBirth>Kuwait</CountryOfBirth>
           </Location>
         </BirthDetails>
       </Individual>
@@ -40437,11 +40105,11 @@ Iraq (possible alternative location as at Aug. 2015) </OtherInformation>
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressLine1>Taman Bukit Ampang</AddressLine1>
+        <AddressLine6>State of Selangor</AddressLine6>
         <AddressCountry>Malaysia</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Taman Bukit Ampang</AddressLine1>
-        <AddressLine6>State of Selangor</AddressLine6>
         <AddressCountry>Malaysia</AddressCountry>
       </Address>
     </Addresses>
@@ -40668,10 +40336,10 @@ Iraq (possible alternative location as at Aug. 2015) </OtherInformation>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>29553654234</NationalIdentifierNumber>
+            <NationalIdentifierNumber>35202-4135948-7</NationalIdentifierNumber>
           </NationalIdentifier>
           <NationalIdentifier>
-            <NationalIdentifierNumber>35202-4135948-7</NationalIdentifierNumber>
+            <NationalIdentifierNumber>29553654234</NationalIdentifierNumber>
           </NationalIdentifier>
         </NationalIdentifierDetails>
       </Individual>
@@ -41209,17 +40877,17 @@ Iraq (possible alternative location as at Aug. 2015) </OtherInformation>
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Desa Gebang</AddressLine1>
-        <AddressLine2>Kecamatan Masaran</AddressLine2>
-        <AddressLine3>Kabupaten Sragen</AddressLine3>
-        <AddressLine4>Jawa Tenagh</AddressLine4>
-        <AddressCountry>Indonesia</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Desa Taman Fajar</AddressLine1>
         <AddressLine2>Kecamatan Probolinggo</AddressLine2>
         <AddressLine3>Kabupaten Lampung Timur</AddressLine3>
         <AddressLine4>Lampung</AddressLine4>
+        <AddressCountry>Indonesia</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Desa Gebang</AddressLine1>
+        <AddressLine2>Kecamatan Masaran</AddressLine2>
+        <AddressLine3>Kabupaten Sragen</AddressLine3>
+        <AddressLine4>Jawa Tenagh</AddressLine4>
         <AddressCountry>Indonesia</AddressCountry>
       </Address>
     </Addresses>
@@ -41689,8 +41357,8 @@ Iraq (possible alternative location as at Aug. 2015) </OtherInformation>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>28/10/1956</DOB>
           <DOB>01/01/1958</DOB>
+          <DOB>28/10/1956</DOB>
           <DOB>31/12/1952</DOB>
         </DOBs>
         <Nationalities>
@@ -41854,19 +41522,19 @@ Iraq (possible alternative location as at Aug. 2015) </OtherInformation>
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressCountry>Syria</AddressCountry>
+      </Address>
+      <Address>
         <AddressLine5>Arsal</AddressLine5>
         <AddressLine6>Bekaa</AddressLine6>
         <AddressCountry>Lebanon</AddressCountry>
-      </Address>
-      <Address>
-        <AddressCountry>Syria</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>01/01/1972</DOB>
           <DOB>17/08/1972</DOB>
+          <DOB>01/01/1972</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -41879,11 +41547,11 @@ Iraq (possible alternative location as at Aug. 2015) </OtherInformation>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>5877002</NationalIdentifierNumber>
-            <NationalIdentifierAdditionalInformation>Syrian Identification Card issued 25 May 2011</NationalIdentifierAdditionalInformation>
+            <NationalIdentifierNumber>13080011550</NationalIdentifierNumber>
           </NationalIdentifier>
           <NationalIdentifier>
-            <NationalIdentifierNumber>13080011550</NationalIdentifierNumber>
+            <NationalIdentifierNumber>5877002</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Syrian Identification Card issued 25 May 2011</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <BirthDetails>
@@ -42551,9 +42219,9 @@ Iraq (possible alternative location as at Aug. 2015) </OtherInformation>
       <Individual>
         <DOBs>
           <DOB>18/12/1969</DOB>
+          <DOB>14/07/1969</DOB>
           <DOB>25/05/1968</DOB>
           <DOB>18/12/1968</DOB>
-          <DOB>14/07/1969</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -45661,8 +45329,8 @@ Aliaksandr Astreika was the former Head of the Department of Internal Affairs of
           <Nationality>Belarus</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Former Head of the Department of Internal Affairs of Brest Oblast Executive Committee </Position>
           <Position>Head of the Internal Affairs Directorate of the Minsk Oblast Executive Committee</Position>
+          <Position>Former Head of the Department of Internal Affairs of Brest Oblast Executive Committee </Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -58165,17 +57833,17 @@ Emerged in northern Uganda in the 1980s. Has engaged in the abduction, killing a
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine5>Tullus</AddressLine5>
-        <AddressLine6>Southern Darfur</AddressLine6>
-        <AddressCountry>Sudan</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine6>Birao</AddressLine6>
         <AddressCountry>Central African Republic</AddressCountry>
       </Address>
       <Address>
         <AddressLine6>Bria</AddressLine6>
         <AddressCountry>Central African Republic</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine5>Tullus</AddressLine5>
+        <AddressLine6>Southern Darfur</AddressLine6>
+        <AddressCountry>Sudan</AddressCountry>
       </Address>
     </Addresses>
     <PhoneNumbers>
@@ -58651,8 +58319,8 @@ Emerged in northern Uganda in the 1980s. Has engaged in the abduction, killing a
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1992</DOB>
           <DOB>dd/mm/1995</DOB>
+          <DOB>dd/mm/1992</DOB>
           <DOB>dd/mm/1993</DOB>
           <DOB>dd/mm/1994</DOB>
         </DOBs>
@@ -58751,8 +58419,8 @@ Emerged in northern Uganda in the 1980s. Has engaged in the abduction, killing a
       <Individual>
         <DOBs>
           <DOB>dd/mm/1992</DOB>
-          <DOB>dd/mm/1991</DOB>
           <DOB>dd/mm/1993</DOB>
+          <DOB>dd/mm/1991</DOB>
         </DOBs>
         <Positions>
           <Position>Deputy, Lord's Resistance Army</Position>
@@ -63090,13 +62758,13 @@ SC Signal is an involved person under the Chemical Weapons (Sanctions) (EU Exit)
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>16A Nagatinskaya Street</AddressLine1>
+        <AddressLine1>8 Bolshaya Olenya Street</AddressLine1>
         <AddressLine2>Sokolniki Municipal District</AddressLine2>
         <AddressLine6>Moscow</AddressLine6>
         <AddressCountry>Russia</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>8 Bolshaya Olenya Street</AddressLine1>
+        <AddressLine1>16A Nagatinskaya Street</AddressLine1>
         <AddressLine2>Sokolniki Municipal District</AddressLine2>
         <AddressLine6>Moscow</AddressLine6>
         <AddressCountry>Russia</AddressCountry>
@@ -63717,18 +63385,18 @@ There are reasonable grounds to suspect that Brian SHERIDAN (“SHERIDAN”) is 
       <EmailAddress>Bandhmanchester@yahoo.co.uk</EmailAddress>
       <EmailAddress>Bhnw28@hotmail.com</EmailAddress>
       <EmailAddress>bhwales@googlemail.com</EmailAddress>
-      <EmailAddress>wycombe828@yahoo.com</EmailAddress>
-      <EmailAddress>general@bloodandhonourworldwide.co.uk</EmailAddress>
       <EmailAddress>bloodandhonour.yorkshire@hotmail.co.uk</EmailAddress>
       <EmailAddress>bloodandhonourcumbria@yahoo.co.uk</EmailAddress>
+      <EmailAddress>wycombe828@yahoo.com</EmailAddress>
+      <EmailAddress>general@bloodandhonourworldwide.co.uk</EmailAddress>
+      <EmailAddress>Westmids28@yahoo.co.uk</EmailAddress>
+      <EmailAddress>www.bloodandhonour.co.uk</EmailAddress>
       <EmailAddress>Hdivision88@yahoo.co.uk</EmailAddress>
       <EmailAddress>highlanderdivision28@hotmail.co.uk</EmailAddress>
       <EmailAddress>southlands28@hotmail.com</EmailAddress>
       <EmailAddress>Ulsterbh@hotmail.co.uk</EmailAddress>
       <EmailAddress>Westcountrybloodandhonour@yahoo.co.uk</EmailAddress>
       <EmailAddress>Westlandbh@hotmail.com</EmailAddress>
-      <EmailAddress>Westmids28@yahoo.co.uk</EmailAddress>
-      <EmailAddress>www.bloodandhonour.co.uk</EmailAddress>
     </EmailAddresses>
   </Designation>
   <Designation>
@@ -66685,9 +66353,9 @@ Muhammad DEIF is an involved person within the meaning of the Counter-Terrorism 
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>dd/mm/1965</DOB>
           <DOB>dd/mm/1963</DOB>
           <DOB>dd/mm/1964</DOB>
-          <DOB>dd/mm/1965</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Palestinian</Nationality>
@@ -75650,10 +75318,10 @@ General Precious Metal has previously been identified by the European Union as a
 Djang Tcheul Hy has been involved together with her husband Kim Yong Nam, her son Kim Su Gwang and her daughter-in-law Kim Kyong Hui in a pattern of deceptive financial practices which could contribute to the DPRK’s nuclear-related, ballistic missile-related or other weapons of mass destruction-related programmes. She was the owner of several bank accounts in the European Union which were opened by her son Kim Su Gwang in her name. She was also involved in several bank transfers from accounts from her daughter-in-law KIM Kyong Hui to bank accounts outside the European Union.</UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressCountry>China</AddressCountry>
+        <AddressCountry>North Korea</AddressCountry>
       </Address>
       <Address>
-        <AddressCountry>North Korea</AddressCountry>
+        <AddressCountry>China</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -81588,8 +81256,8 @@ Research centre which has taken part in the production of the military-grade plu
           <CurrentBelievedFlagOfShip>Dominica</CurrentBelievedFlagOfShip>
         </CurrentBelievedFlagOfShips>
         <PreviousFlags>
-          <PreviousFlag>Italy</PreviousFlag>
           <PreviousFlag>Panama</PreviousFlag>
+          <PreviousFlag>Italy</PreviousFlag>
         </PreviousFlags>
         <TypeOfShipDetails>
           <TypeOfShip>Oil Tanker</TypeOfShip>
@@ -82866,16 +82534,16 @@ Research centre which has taken part in the production of the military-grade plu
         <AddressCountry>North Korea</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Reconnaissance General Bureau Headquarters</AddressLine1>
-        <AddressLine5>Hyongjesan-Guyok</AddressLine5>
-        <AddressLine6>Pyongyang</AddressLine6>
-        <AddressCountry>North Korea</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Rakrang No. 1</AddressLine1>
         <AddressLine2>Rakrang District</AddressLine2>
         <AddressLine3>Mangyongdae District</AddressLine3>
         <AddressLine5>Chilgol-1 dong</AddressLine5>
+        <AddressLine6>Pyongyang</AddressLine6>
+        <AddressCountry>North Korea</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Reconnaissance General Bureau Headquarters</AddressLine1>
+        <AddressLine5>Hyongjesan-Guyok</AddressLine5>
         <AddressLine6>Pyongyang</AddressLine6>
         <AddressCountry>North Korea</AddressCountry>
       </Address>
@@ -84180,12 +83848,12 @@ Research centre which has taken part in the production of the military-grade plu
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine5>Mangyongdae District</AddressLine5>
+        <AddressLine5>Mangungdae-gu</AddressLine5>
         <AddressLine6>Pyongyang</AddressLine6>
         <AddressCountry>North Korea</AddressCountry>
       </Address>
       <Address>
-        <AddressLine5>Mangungdae-gu</AddressLine5>
+        <AddressLine5>Mangyongdae District</AddressLine5>
         <AddressLine6>Pyongyang</AddressLine6>
         <AddressCountry>North Korea</AddressCountry>
       </Address>
@@ -84197,14 +83865,14 @@ Research centre which has taken part in the production of the military-grade plu
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>850-2-18111-8642</PhoneNumber>
       <PhoneNumber>850-2-381-4410</PhoneNumber>
       <PhoneNumber>850 2 18111-3818642</PhoneNumber>
+      <PhoneNumber>850-2-18111-8642</PhoneNumber>
       <PhoneNumber>850-2-18111</PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
-      <EmailAddress>sjc-117@hotmail.com</EmailAddress>
       <EmailAddress>and millim@silibank.com</EmailAddress>
+      <EmailAddress>sjc-117@hotmail.com</EmailAddress>
       <EmailAddress>ryonha@silibank.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
@@ -85642,12 +85310,12 @@ Research centre which has taken part in the production of the military-grade plu
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine5>Hyongjesan-Guyok</AddressLine5>
+        <AddressLine5>Nungrado</AddressLine5>
         <AddressLine6>Pyongyang</AddressLine6>
         <AddressCountry>North Korea</AddressCountry>
       </Address>
       <Address>
-        <AddressLine5>Nungrado</AddressLine5>
+        <AddressLine5>Hyongjesan-Guyok</AddressLine5>
         <AddressLine6>Pyongyang</AddressLine6>
         <AddressCountry>North Korea</AddressCountry>
       </Address>
@@ -87119,8 +86787,8 @@ Research centre which has taken part in the production of the military-grade plu
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>15/04/1957</DOB>
           <DOB>22/02/1958</DOB>
+          <DOB>15/04/1957</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -93592,8 +93260,8 @@ As former Deputy Commander of the 21st Military region, Eric RUHORIMBERE is resp
         </Nationalities>
         <Positions>
           <Position>FDLR Interim President</Position>
-          <Position>Major General of the FDLR-FOCA</Position>
           <Position>1st Vice-President</Position>
+          <Position>Major General of the FDLR-FOCA</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -96028,9 +95696,9 @@ Listed pursuant to paragraphs 7 (b), 7 (e), and 7 (h) of resolution 2293 (2016) 
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1970</DOB>
           <DOB>dd/mm/1968</DOB>
           <DOB>dd/mm/1969</DOB>
+          <DOB>dd/mm/1970</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Rwanda</Nationality>
@@ -96331,12 +95999,12 @@ Paragraph 3 of resolution 2641 (2022): “Decides that the measures referred to 
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>AB850901</PassportNumber>
-            <PassportAdditionalInformation>Expiration date: 2026-12-11</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>AB187304</PassportNumber>
             <PassportAdditionalInformation>Expired 28 Nov. 2016</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>AB850901</PassportNumber>
+            <PassportAdditionalInformation>Expiration date: 2026-12-11</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -96344,8 +96012,8 @@ Paragraph 3 of resolution 2641 (2022): “Decides that the measures referred to 
           <Nationality>Tanzania</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Lieutenant general</Position>
           <Position>Senior leader of the Allied Democratic Forces (ADF)</Position>
+          <Position>Lieutenant general</Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -104138,8 +103806,8 @@ Mansour Othman M Abahussain held the position of Major General and worked in the
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>11/08/1972</DOB>
           <DOB>10/08/1972</DOB>
+          <DOB>11/08/1972</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -115359,9 +115027,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </PassportDetails>
         <Nationalities>
           <Nationality>St Kitts and Nevis</Nationality>
+          <Nationality>Cambodia</Nationality>
           <Nationality>China</Nationality>
           <Nationality>Cyprus</Nationality>
-          <Nationality>Cambodia</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -125756,6 +125424,21 @@ Owned or controlled by MODAFL as a subsidiary of Iranian Aviation Industries Org
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressLine1>No. 27 Shahamat Ave.</AddressLine1>
+        <AddressLine2>Vallie asr Square.</AddressLine2>
+        <AddressLine6>Tehran (HESA Tehran Office)</AddressLine6>
+        <AddressPostalCode>15946</AddressPostalCode>
+        <AddressCountry>Iran</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>P.O. Box 14155 5568</AddressLine1>
+        <AddressLine2>No. 27 Ahahamat Ave.</AddressLine2>
+        <AddressLine3>Vallie Asr Square</AddressLine3>
+        <AddressLine6>Tehran</AddressLine6>
+        <AddressPostalCode>15946</AddressPostalCode>
+        <AddressCountry>Iran</AddressCountry>
+      </Address>
+      <Address>
         <AddressLine1>P.O. Box81465 935</AddressLine1>
         <AddressLine6>Esfahan</AddressLine6>
         <AddressCountry>Iran</AddressCountry>
@@ -125778,21 +125461,6 @@ Owned or controlled by MODAFL as a subsidiary of Iranian Aviation Industries Org
         <AddressLine6>Isfahan</AddressLine6>
         <AddressCountry>Iran</AddressCountry>
       </Address>
-      <Address>
-        <AddressLine1>No. 27 Shahamat Ave.</AddressLine1>
-        <AddressLine2>Vallie asr Square.</AddressLine2>
-        <AddressLine6>Tehran (HESA Tehran Office)</AddressLine6>
-        <AddressPostalCode>15946</AddressPostalCode>
-        <AddressCountry>Iran</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>P.O. Box 14155 5568</AddressLine1>
-        <AddressLine2>No. 27 Ahahamat Ave.</AddressLine2>
-        <AddressLine3>Vallie Asr Square</AddressLine3>
-        <AddressLine6>Tehran</AddressLine6>
-        <AddressPostalCode>15946</AddressPostalCode>
-        <AddressCountry>Iran</AddressCountry>
-      </Address>
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>(98329)324903 (Fax)</PhoneNumber>
@@ -125802,14 +125470,14 @@ Owned or controlled by MODAFL as a subsidiary of Iranian Aviation Industries Org
       <PhoneNumber>98(21)8904388</PhoneNumber>
       <PhoneNumber>98(311)22214219 (Fax)</PhoneNumber>
       <PhoneNumber>98(311)2222204</PhoneNumber>
-      <PhoneNumber>(9831)229737</PhoneNumber>
-      <PhoneNumber>0312 5227368</PhoneNumber>
-      <PhoneNumber>98(311)2222028</PhoneNumber>
-      <PhoneNumber>(9831)229738</PhoneNumber>
       <PhoneNumber>98218807565</PhoneNumber>
       <PhoneNumber>98218828355</PhoneNumber>
       <PhoneNumber>98(311)2220101</PhoneNumber>
       <PhoneNumber>(312)5224910 20</PhoneNumber>
+      <PhoneNumber>(9831)229737</PhoneNumber>
+      <PhoneNumber>0312 5227368</PhoneNumber>
+      <PhoneNumber>98(311)2222028</PhoneNumber>
+      <PhoneNumber>(9831)229738</PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
       <EmailAddress>info@hesaco.com</EmailAddress>
@@ -126182,16 +125850,6 @@ Iran Composites Institute has provided centrifuge components to Iran Centrifuge 
 Wholly owned subsidiary of MODAFL (and therefore a sister organisation to AIO, AvIO and DIO). Its role is to manufacture electronic components for Iranian weapons systems.</UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>P.O. Box 18575-365</AddressLine1>
-        <AddressLine6>Tehran</AddressLine6>
-        <AddressCountry>Iran</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Hossein Abad/Ardakan Road</AddressLine1>
-        <AddressLine6>Shiraz</AddressLine6>
-        <AddressCountry>Iran</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>P.O. Box 71265-1589</AddressLine1>
         <AddressLine6>Shiraz</AddressLine6>
         <AddressCountry>Iran</AddressCountry>
@@ -126205,6 +125863,16 @@ Wholly owned subsidiary of MODAFL (and therefore a sister organisation to AIO, A
       <Address>
         <AddressLine1>PO Box 19575-365</AddressLine1>
         <AddressLine2>Pasdaran Ave.</AddressLine2>
+        <AddressLine6>Tehran</AddressLine6>
+        <AddressCountry>Iran</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Hossein Abad/Ardakan Road</AddressLine1>
+        <AddressLine6>Shiraz</AddressLine6>
+        <AddressCountry>Iran</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>P.O. Box 18575-365</AddressLine1>
         <AddressLine6>Tehran</AddressLine6>
         <AddressCountry>Iran</AddressCountry>
       </Address>
@@ -136640,15 +136308,15 @@ Aghajari Oil &amp; Gas Production Company is an involved person under the Iran (
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Naft Blvd</AddressLine1>
-        <AddressLine2>Omideh</AddressLine2>
-        <AddressLine3>Khouzestan</AddressLine3>
-        <AddressCountry>Iran</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Khuzestan</AddressLine1>
         <AddressLine2>Omidieh</AddressLine2>
         <AddressLine3>Oil Boulevard</AddressLine3>
+        <AddressCountry>Iran</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Naft Blvd</AddressLine1>
+        <AddressLine2>Omideh</AddressLine2>
+        <AddressLine3>Khouzestan</AddressLine3>
         <AddressCountry>Iran</AddressCountry>
       </Address>
     </Addresses>
@@ -137796,9 +137464,9 @@ n, or for use in, Iran; or the development of a nuclear weapon delivery system i
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>Iran National ID Number – 10101702747 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Iran Registration No. - 126785 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>SWIFT/BIC - PBIRIRTH </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Iran National ID Number – 10101702747 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -138735,8 +138403,8 @@ Melli Agrochemical Company PJS is an involved person under the Iran (Sanctions) 
       <Website>www.melliagrochemical.ir </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@macco.ir </EmailAddress>
       <EmailAddress>sales@macco.ir</EmailAddress>
+      <EmailAddress>info@macco.ir </EmailAddress>
     </EmailAddresses>
   </Designation>
   <Designation>
@@ -143032,9 +142700,9 @@ Former Minister of Justice. Former Director of the special investigations office
         <Positions>
           <Position>Deputy Interior Minister (2015-2016)</Position>
           <Position>Supreme Court Judge (2014-2015)</Position>
+          <Position>President of the Tehran Judiciary (2005-2014) </Position>
           <Position>Minister of Justice</Position>
           <Position>Director of the Presidential Inspection Office (appointed July 2016)</Position>
-          <Position>President of the Tehran Judiciary (2005-2014) </Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -143513,9 +143181,9 @@ Former Senior Advisor for Security Affairs to the Chief of the Armed Forces Gene
         <Positions>
           <Position>Adviser to the Chief of Staff of the Armed Forces</Position>
           <Position>Head of Iran's Headquarters in support of the Yemeni People</Position>
+          <Position>Director of the University and the Higher National Defence Research Institute </Position>
           <Position>Former Senior Advisor for Security Affairs to the Chief of the Armed Forces General Staff.</Position>
           <Position>Former Chief of Iran's National Police from early 2005 until early 2015 </Position>
-          <Position>Director of the University and the Higher National Defence Research Institute </Position>
           <Position>Former Head of the Iranian Cyber Police (listed) from January 2011 until early 2015 </Position>
         </Positions>
         <Genders>
@@ -145228,8 +144896,8 @@ Former member of the Supreme Council of Cyber Space. Former President of the Isl
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1963</DOB>
           <DOB>07/04/1964</DOB>
+          <DOB>dd/mm/1963</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Iran</Nationality>
@@ -146378,9 +146046,9 @@ Former Prosecutor General of Tehran until August 2009. As Tehran Prosecutor Gene
         </DOBs>
         <Positions>
           <Position>Former Prosecutor General of Tehran until August 2009</Position>
+          <Position>Former Prosecutor General of Tehran 2003-2009</Position>
           <Position>Former Head of Anti-Smuggling Taskforce </Position>
           <Position>Former Head of Social Security Organisation </Position>
-          <Position>Former Prosecutor General of Tehran 2003-2009</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -156986,6 +156654,10 @@ ANSARI has facilitated and provided support to hostile activity by the Governmen
         </DOBs>
         <PassportDetails>
           <Passport>
+            <PassportNumber>P41219058</PassportNumber>
+            <PassportAdditionalInformation>Iran</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
             <PassportNumber>RE003666</PassportNumber>
             <PassportAdditionalInformation>St Kitts &amp; Nevis</PassportAdditionalInformation>
           </Passport>
@@ -156995,10 +156667,6 @@ ANSARI has facilitated and provided support to hostile activity by the Governmen
           </Passport>
           <Passport>
             <PassportNumber>B65348454</PassportNumber>
-            <PassportAdditionalInformation>Iran</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>P41219058</PassportNumber>
             <PassportAdditionalInformation>Iran</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
@@ -162843,8 +162511,8 @@ N/A</UKStatementofReasons>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1970</DOB>
           <DOB>15/05/1968</DOB>
+          <DOB>dd/mm/1970</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -162857,11 +162525,11 @@ N/A</UKStatementofReasons>
         </Nationalities>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Baghdad</TownOfBirth>
+            <TownOfBirth>Al-Owja</TownOfBirth>
             <CountryOfBirth>Iraq</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Al-Owja</TownOfBirth>
+            <TownOfBirth>Baghdad</TownOfBirth>
             <CountryOfBirth>Iraq</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -163391,13 +163059,13 @@ N/A</UKStatementofReasons>
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressCountry>Yemen</AddressCountry>
+      </Address>
+      <Address>
         <AddressLine1>Al-Shahid Street</AddressLine1>
         <AddressLine5>Al-Mahata Neighbourhood</AddressLine5>
         <AddressLine6>Az Zabadani</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
-      </Address>
-      <Address>
-        <AddressCountry>Yemen</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -185363,12 +185031,12 @@ Senior aid to Igor Strelkov / Girkin who is responsible for actions which underm
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>23/07/1972</DOB>
           <DOB>23/06/1972</DOB>
+          <DOB>23/07/1972</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Ukraine</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -191362,8 +191030,8 @@ PJSC United Aircraft Corporation (UAC) is a Russian state owned enterprise. It c
     <EntityDetails>
       <Entity>
         <TypeOfEntities>
-          <TypeOfEntity>Holding Company</TypeOfEntity>
           <TypeOfEntity>Public Joint Stock Company</TypeOfEntity>
+          <TypeOfEntity>Holding Company</TypeOfEntity>
         </TypeOfEntities>
       </Entity>
     </EntityDetails>
@@ -265598,9 +265266,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Cyprus</Nationality>
           <Nationality>Israel</Nationality>
           <Nationality>Russia</Nationality>
+          <Nationality>Cyprus</Nationality>
         </Nationalities>
         <Positions>
           <Position>Associate of Oleg Deripaska</Position>
@@ -306717,8 +306385,8 @@ ladislav Vladimirovich SVIBLOV is an involved person under the Russia (Sanctions
           <DOB>09/01/1980</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Lithuania</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
@@ -314407,8 +314075,8 @@ Federal State Enterprise Kamensky Combine is an involved person under The Russia
           <ParentCompany>Ministerstvo Promyshlennosti I Torgovli Rossiiskoi Federatsiikii</ParentCompany>
         </ParentCompanies>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>TIN: 6147025090</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1066147003658</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>TIN: 6147025090</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -319925,8 +319593,8 @@ TSK VEKTOR is an involved person under the Russia (Sanctions) (EU Exit) Regulati
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 3849055365</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1153850042246</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 3849055365</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -320037,8 +319705,8 @@ Limited Liability Company Open Systems Development Technology is an involved per
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 5147746464256 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 7706818288</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 5147746464256 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -320496,8 +320164,8 @@ KAZSTANEX LIMITED LIABILITY PARTNERSHIP is an involved person under the Russia (
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+ 7 705 554 0424</PhoneNumber>
-      <PhoneNumber>+7 (775) 554 0454</PhoneNumber>
       <PhoneNumber>+7 (727) 226 2466</PhoneNumber>
+      <PhoneNumber>+7 (775) 554 0454</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://kazstanex.kz/ </Website>
@@ -323070,8 +322738,8 @@ ALL-RUSSIAN “YOUNG ARMY” MILITARY PATRIOTIC SOCIAL MOVEMENT (hereafter ‘YU
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1167700061540</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 7704366170</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1167700061540</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -329715,10 +329383,10 @@ NEWAY CNC EQUIPMENT (SUZHOU) CO LTD, is an involved person under the Russia (San
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 512 6239 2186</PhoneNumber>
       <PhoneNumber>+86 512 6239 9980</PhoneNumber>
       <PhoneNumber>+86 512-6607 1116</PhoneNumber>
       <PhoneNumber>+86 512-6607 6668</PhoneNumber>
+      <PhoneNumber>+86 512 6239 2186</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>http://www.newaycnc.com</Website>
@@ -331012,12 +330680,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+49 931 666878-29 </PhoneNumber>
       <PhoneNumber>+49 931 666878-0 </PhoneNumber>
+      <PhoneNumber>+49 931 666878-29 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.ek-company.com </Website>
       <Website>www.ekc.ag</Website>
+      <Website>www.ek-company.com </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>info@ekc.ag </EmailAddress>
@@ -331301,8 +330969,8 @@ LLC GRANT-TRADE is or has been involved in destabilising Ukraine or undermining 
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>INN – 7722779734</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>OGRN – 1127746497328</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP - 772201001</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN – 1127746497328</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -333422,15 +333090,15 @@ The Secretary of State considers that there are reasonable grounds to suspect th
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>80/1, Moskovskaya Street</AddressLine1>
-        <AddressLine6>Bishkek</AddressLine6>
-        <AddressPostalCode>720021</AddressPostalCode>
-        <AddressCountry>Kyrgyzstan</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>40/4, Togolok Moldo</AddressLine1>
         <AddressLine6>Bishkek</AddressLine6>
         <AddressPostalCode>720001</AddressPostalCode>
+        <AddressCountry>Kyrgyzstan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>80/1, Moskovskaya Street</AddressLine1>
+        <AddressLine6>Bishkek</AddressLine6>
+        <AddressPostalCode>720021</AddressPostalCode>
         <AddressCountry>Kyrgyzstan</AddressCountry>
       </Address>
     </Addresses>
@@ -341769,9 +341437,9 @@ PIONEER TRADE LLC is or has been involved in obtaining a benefit from or support
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 (3852) 506-555</PhoneNumber>
+      <PhoneNumber>+7 (3852) 55-02-20 </PhoneNumber>
       <PhoneNumber>+7 (3852) 55-02-00</PhoneNumber>
       <PhoneNumber>+7 (3852) 63-11-51</PhoneNumber>
-      <PhoneNumber>+7 (3852) 55-02-20 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>trade-pioneer.ru </Website>
@@ -345055,8 +344723,8 @@ JSC METAFRAX CHEMICALS is involved in obtaining a benefit from or supporting the
           <ParentCompany>Joint Stock Company Ruschem</ParentCompany>
         </ParentCompanies>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1025901777571</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 5913001268</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1025901777571</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -345956,8 +345624,8 @@ Non-bank Credit Organization Joint-Stock Company “Petersburg Settlement Center
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 (812) 655-74-31</PhoneNumber>
-      <PhoneNumber>+7 (812) 324-3806</PhoneNumber>
       <PhoneNumber>+7 (812) 655-74-30</PhoneNumber>
+      <PhoneNumber>+7 (812) 324-3806</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.spsc.ru</Website>
@@ -359943,8 +359611,8 @@ JSC DESIGN BUREAU ‘IKAR’ is an "involved person" under the Russian (Sanction
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 2311085466</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1052306487254</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 2311085466</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -362949,8 +362617,8 @@ ABSOLUT TRADE LLC is an "involved person" under the Russia (Sanctions) (EU Exit)
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 234 9939 </PhoneNumber>
       <PhoneNumber>+7 495 234 9939</PhoneNumber>
+      <PhoneNumber>+7 495 234 9939 </PhoneNumber>
       <PhoneNumber>+7 495 287 8456</PhoneNumber>
       <PhoneNumber>7 495 580 7183</PhoneNumber>
     </PhoneNumbers>
@@ -365018,8 +364686,8 @@ JSC BBR BANK is or has been obtaining a benefit from or supporting the Governmen
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 (800) 220-40-00 </PhoneNumber>
       <PhoneNumber>+7 (495) 363-91-62 </PhoneNumber>
+      <PhoneNumber>8 (800) 220-40-00 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.bbr.ru  </Website>
@@ -365030,11 +364698,11 @@ JSC BBR BANK is or has been obtaining a benefit from or supporting the Governmen
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>SWIFT CODE: BADJRUMM </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>BIK (RU): 044525769 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN: 3900001002 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP: 770401001 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>SWIFT CODE: BADJRUMM </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -369562,9 +369230,9 @@ The Secretary of State has reasonable grounds to suspect that FARGONA KIMYO ZAVO
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+998 93 501 03 32</PhoneNumber>
+      <PhoneNumber>+998 91 681 82 14</PhoneNumber>
       <PhoneNumber>+998 90 231 31 49</PhoneNumber>
       <PhoneNumber>+998 90 533 64 84</PhoneNumber>
-      <PhoneNumber>+998 91 681 82 14</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://fergchem.com/</Website>
@@ -376873,16 +376541,16 @@ involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 845 230-80-51</PhoneNumber>
-      <PhoneNumber>+7 845 230-81-72</PhoneNumber>
       <PhoneNumber>+7 845 230-81-78</PhoneNumber>
+      <PhoneNumber>+7 845 230-81-72</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.sepo.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>zem@sepo.ru</EmailAddress>
-      <EmailAddress>sepo-energo@mail.ru </EmailAddress>
       <EmailAddress>director@sepo.ru</EmailAddress>
+      <EmailAddress>sepo-energo@mail.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -381114,10 +380782,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
-      <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
       <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
       <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
+      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
+      <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://tochka.com</Website>
@@ -381459,9 +381127,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>8(800)1000 600</PhoneNumber>
+      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
       <PhoneNumber>8(343)355 75 75</PhoneNumber>
       <PhoneNumber>8(495)771 70 95</PhoneNumber>
-      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>http://sinara.ru</Website>
@@ -381469,9 +381137,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Websites>
     <EmailAddresses>
       <EmailAddress>clients@skbbank.ru</EmailAddress>
+      <EmailAddress>orders@delo.ru</EmailAddress>
       <EmailAddress>digital@sinara.ru</EmailAddress>
       <EmailAddress>orders@sinara.ru</EmailAddress>
-      <EmailAddress>orders@delo.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -381652,12 +381320,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Owner of LLC UNIMATIC</Position>
-          <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>Owner of LLC HUSTLE SHIFT</Position>
           <Position>Owner of LLC 2D6</Position>
           <Position>Owner of LLC GRAVITAL</Position>
+          <Position>Owner of LLC UNIMATIC</Position>
+          <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -384561,8 +384229,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Website>www.absolutbank.ru </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@absolutbank.ru</EmailAddress>
       <EmailAddress>anti.corr@absolutbank.ru </EmailAddress>
+      <EmailAddress>info@absolutbank.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -384820,8 +384488,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>INN: 7704113772 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>OGRN: 1027739553764 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>BIK (RU): 044525341</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1027739553764 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Russia Licence No. – 1885 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
@@ -386787,10 +386455,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 812 3279090</PhoneNumber>
-      <PhoneNumber>+7 812 6355070</PhoneNumber>
       <PhoneNumber>+8 800 5050040</PhoneNumber>
       <PhoneNumber>+ 7 812 6355088</PhoneNumber>
+      <PhoneNumber>+7 812 3279090</PhoneNumber>
+      <PhoneNumber>+7 812 6355070</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.eltech.spb.ru/</Website>
@@ -387616,17 +387284,17 @@ The Secretary of State considers that there are reasonable grounds to suspect
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 021 52790180</PhoneNumber>
       <PhoneNumber>+86 021 80125158</PhoneNumber>
+      <PhoneNumber>+86 021 52790180</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>m9logistics.com</Website>
       <Website>m9logisitcs.cn</Website>
+      <Website>m9logistics.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>niceluohuan@163.com</EmailAddress>
       <EmailAddress>de@cn.m9logistics.com</EmailAddress>
       <EmailAddress>accountant@cn.m9logistics.com</EmailAddress>
+      <EmailAddress>niceluohuan@163.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -387711,8 +387379,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 7453309640</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1177456043907</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 7453309640</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -395134,9 +394802,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>OGRN 1027700565970</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP 997950001 / 770401001</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Correspondent account: 30101810900000000204 in OCC No 1 of the Main Directorate of the Bank of Russia for the Central Federal District,</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>BIC 044525204</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN 7703115760</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Correspondent account: 30101810900000000204 in OCC No 1 of the Main Directorate of the Bank of Russia for the Central Federal District,</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -396599,8 +396267,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1025001414283 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 5010027226 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1025001414283 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -401012,8 +400680,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Website>https://ncmetal.ru/en/</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>lab@ncmetal.ru</EmailAddress>
       <EmailAddress>info@ncmetal.ru </EmailAddress>
+      <EmailAddress>lab@ncmetal.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -401450,10 +401118,10 @@ The Secretary of State considers that there are reasonable grounds to suspect ST
           <TypeOfEntity>JOINT-STOCK COMPANY</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Central Bank of Russia licence: 2790</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN 7704001959
 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -401814,14 +401482,14 @@ JSC TELEPORT BANK is or has been obtaining a benefit from or supporting the Gove
           <TypeOfEntity>JOINT-STOCK COMPANY</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>TIN 7750004175
-</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>KPP 770601001</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>KPP 997950001</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OKPO 09141558</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OKVED 64.19</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>BIK 044525273</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1077711000080</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>TIN 7750004175
+</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>KPP 770601001</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>KPP 997950001</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -407038,13 +406706,13 @@ The Secretary of State considers that there are reasonable grounds to suspect th
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Mogadishu</AddressLine6>
-        <AddressCountry>Somalia</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine5>Rinkeby</AddressLine5>
         <AddressLine6>Stockholm</AddressLine6>
         <AddressCountry>Sweden</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine6>Mogadishu</AddressLine6>
+        <AddressCountry>Somalia</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -407637,9 +407305,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Individual>
         <DOBs>
           <DOB>dd/mm/1979</DOB>
+          <DOB>dd/mm/1982</DOB>
           <DOB>dd/mm/1980</DOB>
           <DOB>dd/mm/1981</DOB>
-          <DOB>dd/mm/1982</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Somalia</Nationality>
@@ -408709,10 +408377,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1957</DOB>
           <DOB>dd/mm/1958</DOB>
           <DOB>dd/mm/1959</DOB>
           <DOB>dd/mm/1960</DOB>
+          <DOB>dd/mm/1957</DOB>
           <DOB>dd/mm/1961</DOB>
           <DOB>dd/mm/1962</DOB>
         </DOBs>
@@ -410008,11 +409676,11 @@ Michael Makuei Leuth has held the position of Minister for Information and Broad
         </Positions>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Akobo, Jonglei State</TownOfBirth>
+            <TownOfBirth>Uror County, Jonglei State</TownOfBirth>
             <CountryOfBirth>South Sudan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Uror County, Jonglei State</TownOfBirth>
+            <TownOfBirth>Akobo, Jonglei State</TownOfBirth>
             <CountryOfBirth>South Sudan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -412177,16 +411845,16 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1972</DOB>
           <DOB>dd/mm/1971</DOB>
+          <DOB>dd/mm/1972</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Sudan</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Head of the Sudan Shield Forces</Position>
-          <Position>Former Senior RSF Commander</Position>
           <Position>Senior SAF Commander</Position>
+          <Position>Former Senior RSF Commander</Position>
+          <Position>Head of the Sudan Shield Forces</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -414974,9 +414642,9 @@ There are reasonable grounds to suspect that they are an involved person under t
           <DOB>dd/mm/1952</DOB>
         </DOBs>
         <Positions>
+          <Position>Minister of Defence</Position>
           <Position>Vice President of the Council of Ministers</Position>
           <Position>Deputy Prime Minister</Position>
-          <Position>Minister of Defence</Position>
         </Positions>
       </Individual>
     </IndividualDetails>
@@ -435494,17 +435162,17 @@ There are reasonable grounds to suspect that they are an involved person under t
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Rural Damascus: Adra</AddressLine1>
-        <AddressLine2>Industrial Zone</AddressLine2>
-        <AddressLine3>next to Teshreen Mill</AddressLine3>
-        <AddressLine5>P.O. Box: 1149</AddressLine5>
+        <AddressLine1>Industrial Zone</AddressLine1>
+        <AddressLine2>Al-Qadam Road</AddressLine2>
+        <AddressLine5>P.O. Box 35202</AddressLine5>
         <AddressLine6>Damascus</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Industrial Zone</AddressLine1>
-        <AddressLine2>Al-Qadam Road</AddressLine2>
-        <AddressLine5>P.O. Box 35202</AddressLine5>
+        <AddressLine1>Rural Damascus: Adra</AddressLine1>
+        <AddressLine2>Industrial Zone</AddressLine2>
+        <AddressLine3>next to Teshreen Mill</AddressLine3>
+        <AddressLine5>P.O. Box: 1149</AddressLine5>
         <AddressLine6>Damascus</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
       </Address>
@@ -435516,21 +435184,21 @@ There are reasonable grounds to suspect that they are an involved person under t
       <PhoneNumber>+963(11)5810718</PhoneNumber>
       <PhoneNumber>+963(11)5810719</PhoneNumber>
       <PhoneNumber>113781</PhoneNumber>
-      <PhoneNumber>+963-11-5810718</PhoneNumber>
-      <PhoneNumber>4529991</PhoneNumber>
-      <PhoneNumber>+963 011 5810719</PhoneNumber>
       <PhoneNumber>113788</PhoneNumber>
       <PhoneNumber>434399-434001</PhoneNumber>
       <PhoneNumber>4525965</PhoneNumber>
       <PhoneNumber>4526032</PhoneNumber>
+      <PhoneNumber>4529991</PhoneNumber>
+      <PhoneNumber>+963 011 5810719</PhoneNumber>
+      <PhoneNumber>+963-11-5810718</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.metallic-sy.org</Website>
       <Website>www.metallic-sy.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@metallic-sy.com</EmailAddress>
       <EmailAddress>shaamco@mail.sy</EmailAddress>
+      <EmailAddress>info@metallic-sy.com</EmailAddress>
     </EmailAddresses>
   </Designation>
   <Designation>
@@ -441012,8 +440680,8 @@ There are reasonable grounds to suspect that they are an involved person under t
           <DOB>17/01/1978</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Syria</Nationality>
           <Nationality>Lebanon</Nationality>
+          <Nationality>Syria</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -444514,8 +444182,8 @@ Amoroso has repeatedly undermined democracy in Venezuela, undermined the rule of
         </NationalIdentifierDetails>
         <Positions>
           <Position>Comptroller General</Position>
-          <Position>Former Vice President of the National Constituent Assembly</Position>
           <Position>President of Venezuela’s Moral Council</Position>
+          <Position>Former Vice President of the National Constituent Assembly</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -446341,8 +446009,8 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
       <Individual>
         <DOBs>
           <DOB>dd/mm/1985</DOB>
-          <DOB>dd/mm/1986</DOB>
           <DOB>dd/mm/1984</DOB>
+          <DOB>dd/mm/1986</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Yemen</Nationality>
@@ -446766,12 +446434,12 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
       <Individual>
         <PassportDetails>
           <Passport>
-            <PassportNumber>05274639</PassportNumber>
-            <PassportAdditionalInformation>Yemen number, issued on 7 Oct. 2013 (Expiration date: 7 Oct 2019)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>00481779</PassportNumber>
             <PassportAdditionalInformation>Yemen number , issued on 9 Dec. 2000 (Expiration date: 9 Dec 2006)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>05274639</PassportNumber>
+            <PassportAdditionalInformation>Yemen number, issued on 7 Oct. 2013 (Expiration date: 7 Oct 2019)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -446779,17 +446447,17 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>1388114</NationalIdentifierNumber>
+            <NationalIdentifierNumber>10010057512</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Yemen</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
           <NationalIdentifier>
-            <NationalIdentifierNumber>10010057512</NationalIdentifierNumber>
+            <NationalIdentifierNumber>1388114</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Yemen</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Major General</Position>
           <Position>Judicial Custodian of properties and funds owned by Houthis’ opponents</Position>
+          <Position>Major General</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
