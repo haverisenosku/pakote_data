@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>27/10/2026</DateGenerated>
+  <DateGenerated>29/10/2026</DateGenerated>
   <Designation>
     <LastUpdated>04/08/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -3291,8 +3291,8 @@
       <Individual>
         <DOBs>
           <DOB>dd/mm/1960</DOB>
-          <DOB>01/01/1967</DOB>
           <DOB>dd/mm/1961</DOB>
+          <DOB>01/01/1967</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -3305,8 +3305,8 @@
         </Nationalities>
         <Positions>
           <Position>Governor of Khost and Paktika provinces under the Taliban regime  (1996-2001)</Position>
-          <Position>Vice-Minister of Information and  Culture under the Taliban regime (1996-2001) </Position>
           <Position>Consular Department, Ministry of Foreign Affairs under the Taliban regime (1996- 2001)</Position>
+          <Position>Vice-Minister of Information and  Culture under the Taliban regime (1996-2001) </Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -4261,8 +4261,8 @@
         <DOBs>
           <DOB>dd/mm/1963</DOB>
           <DOB>1956</DOB>
-          <DOB>30/07/1969</DOB>
           <DOB>1955</DOB>
+          <DOB>30/07/1969</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -4356,8 +4356,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1958</DOB>
           <DOB>22/02/1957</DOB>
+          <DOB>dd/mm/1958</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -6288,8 +6288,8 @@
         <Positions>
           <Position>Governor of Herat Province under the Taliban regime (1996-2001)</Position>
           <Position>Spokesperson of the Taliban regime (1996-2001)</Position>
-          <Position>Minister of Internal Affairs under the Taliban regime (1996-2001)</Position>
           <Position>Governor of Kabul province under the Taliban regime (1996-2001)</Position>
+          <Position>Minister of Internal Affairs under the Taliban regime (1996-2001)</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -9876,21 +9876,21 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>27/07/1976</DOB>
           <DOB>dd/mm/1972</DOB>
+          <DOB>27/07/1976</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>D0010006</PassportNumber>
-            <PassportAdditionalInformation>Issued on 28 Sep. 2022, issued in Kabul, Afghanistan (expires 28 Sep. 2027)</PassportAdditionalInformation>
+            <PassportNumber>D0010408</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>P03318995</PassportNumber>
             <PassportAdditionalInformation>Afghanistan passport, issued on 29 Jul. 2020 (Name in Latin script: Hedayatullah  Hedayat, expires 29 Jul. 2025)</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>D0010408</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)</PassportAdditionalInformation>
+            <PassportNumber>D0010006</PassportNumber>
+            <PassportAdditionalInformation>Issued on 28 Sep. 2022, issued in Kabul, Afghanistan (expires 28 Sep. 2027)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -10179,8 +10179,8 @@
           <DOB>dd/mm/1960</DOB>
           <DOB>dd/mm/1961</DOB>
           <DOB>dd/mm/1962</DOB>
-          <DOB>dd/mm/1964</DOB>
           <DOB>dd/mm/1963</DOB>
+          <DOB>dd/mm/1964</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -28675,19 +28675,19 @@ Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Lanao del Sur</AddressLine6>
+        <AddressLine6>Basilan, previous location until 2016</AddressLine6>
         <AddressCountry>Philippines</AddressCountry>
       </Address>
       <Address>
-        <AddressLine6>Basilan, previous location until 2016</AddressLine6>
+        <AddressLine6>Lanao del Sur</AddressLine6>
         <AddressCountry>Philippines</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>10/03/1967</DOB>
           <DOB>18/03/1966</DOB>
+          <DOB>10/03/1967</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Philippines</Nationality>
@@ -31943,14 +31943,14 @@ concluded on 4 Dec. 2019. Photograph and fingerprints available for inclusion in
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Syrian Arab Republic (as at 2023)</AddressLine1>
-        <AddressCountry>Syria</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Ungartenstrasse 6</AddressLine1>
         <AddressLine6>Bonn</AddressLine6>
         <AddressPostalCode>53229</AddressPostalCode>
         <AddressCountry>Germany</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Syrian Arab Republic (as at 2023)</AddressLine1>
+        <AddressCountry>Syria</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -35149,7 +35149,7 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>27/10/2026</LastUpdated>
+    <LastUpdated>29/10/2026</LastUpdated>
     <DateDesignated>29/09/2015</DateDesignated>
     <UniqueID>AQD0286</UniqueID>
     <OFSIGroupID>13290</OFSIGroupID>
@@ -35193,7 +35193,6 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Al Mukalla</AddressLine1>
         <AddressCountry>France</AddressCountry>
       </Address>
     </Addresses>
@@ -43248,20 +43247,20 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>01/01/1973</DOB>
           <DOB>01/07/1974</DOB>
+          <DOB>01/01/1973</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Iraq</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>4118 </NationalIdentifierNumber>
-            <NationalIdentifierAdditionalInformation>Turkish Residency Card issued on 15 Jan. 2019</NationalIdentifierAdditionalInformation>
-          </NationalIdentifier>
-          <NationalIdentifier>
             <NationalIdentifierNumber>9080002892</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>National Identification card issued by the Syrian Arab Republic, mother’s name Dahiyah al-Mulhim, DOB: 1 Jan. 1973, POB: Albu Kamal, Syria</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>4118 </NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Turkish Residency Card issued on 15 Jan. 2019</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Genders>
@@ -43269,11 +43268,11 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Albu Kamal</TownOfBirth>
-            <CountryOfBirth>Syria</CountryOfBirth>
+            <CountryOfBirth>Iraq</CountryOfBirth>
           </Location>
           <Location>
-            <CountryOfBirth>Iraq</CountryOfBirth>
+            <TownOfBirth>Albu Kamal</TownOfBirth>
+            <CountryOfBirth>Syria</CountryOfBirth>
           </Location>
         </BirthDetails>
       </Individual>
@@ -96767,11 +96766,11 @@ Paragraph 7(h): CHARLES SEMATAMA, by his involvement with the Twirwaneho and the
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Karago municipality, Gisenyi prefecture</TownOfBirth>
+            <TownOfBirth>Nyabihu District, Western province</TownOfBirth>
             <CountryOfBirth>Rwanda</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Nyabihu District, Western province</TownOfBirth>
+            <TownOfBirth>Karago municipality, Gisenyi prefecture</TownOfBirth>
             <CountryOfBirth>Rwanda</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -97019,11 +97018,11 @@ Paragraph 7(h): CHARLES SEMATAMA, by his involvement with the Twirwaneho and the
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Gatoki Cell, Murunda Sector, Rutsiro Commune, Kibuye Prefecture</TownOfBirth>
+            <TownOfBirth>Rutsiro District, Western Province</TownOfBirth>
             <CountryOfBirth>Rwanda</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Rutsiro District, Western Province</TownOfBirth>
+            <TownOfBirth>Gatoki Cell, Murunda Sector, Rutsiro Commune, Kibuye Prefecture</TownOfBirth>
             <CountryOfBirth>Rwanda</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -115641,8 +115640,8 @@ The Secretary of State considers that there are reasonable grounds to suspect Be
           <DOB>10/09/1969</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Israel</Nationality>
           <Nationality>United States</Nationality>
+          <Nationality>Israel</Nationality>
         </Nationalities>
       </Individual>
     </IndividualDetails>
@@ -118800,10 +118799,10 @@ Specifically, engaged in the recruitment of Indian nationals using deception and
           <TypeOfEntity>Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>India PAN - AAYCA2604D</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Corporate Identification Number (CIN): U74999HR2023OPC109285</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>
 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Corporate Identification Number (CIN): U74999HR2023OPC109285</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>India PAN - AAYCA2604D</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -157260,15 +157259,15 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>12/03/1971</DOB>
           <DOB>12/03/1974</DOB>
+          <DOB>12/03/1971</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>L95279398</PassportNumber>
+            <PassportNumber>L18597666</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>L18597666</PassportNumber>
+            <PassportNumber>L95279398</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -157735,8 +157734,8 @@ Fazlolah
           <DOB>23/06/1952</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>United Kingdom</Nationality>
           <Nationality>Iran</Nationality>
+          <Nationality>United Kingdom</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -190728,8 +190727,8 @@ Gennadiy TIMCHENKO is an involved person under the Russia (EU Exit) (Sanctions) 
         </DOBs>
         <Nationalities>
           <Nationality>Russia</Nationality>
-          <Nationality>Armenia</Nationality>
           <Nationality>Finland</Nationality>
+          <Nationality>Armenia</Nationality>
         </Nationalities>
         <Positions>
           <Position>Shareholder in Bank Russia</Position>
@@ -330688,12 +330687,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+49 931 666878-29 </PhoneNumber>
       <PhoneNumber>+49 931 666878-0 </PhoneNumber>
+      <PhoneNumber>+49 931 666878-29 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.ek-company.com </Website>
       <Website>www.ekc.ag</Website>
+      <Website>www.ek-company.com </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>info@ekc.ag </EmailAddress>
@@ -364397,15 +364396,15 @@ The Secretary of State has reasonable grounds to suspect that JSC SOLID BANK is 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 (800) 775-56-06 </PhoneNumber>
       <PhoneNumber>+7 495 924 75 00 </PhoneNumber>
+      <PhoneNumber>8 (800) 775-56-06 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://solidbank.ru </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>bank@solidbank.ru </EmailAddress>
       <EmailAddress>ckp@solidbank.ru </EmailAddress>
+      <EmailAddress>bank@solidbank.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -364694,8 +364693,8 @@ JSC BBR BANK is or has been obtaining a benefit from or supporting the Governmen
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (495) 363-91-62 </PhoneNumber>
       <PhoneNumber>8 (800) 220-40-00 </PhoneNumber>
+      <PhoneNumber>+7 (495) 363-91-62 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.bbr.ru  </Website>
@@ -364706,11 +364705,11 @@ JSC BBR BANK is or has been obtaining a benefit from or supporting the Governmen
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>BIK (RU): 044525769 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>SWIFT CODE: BADJRUMM </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN: 3900001002 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP: 770401001 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>SWIFT CODE: BADJRUMM </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -368848,7 +368847,7 @@ The Secretary of State has reasonable grounds to suspect that LLC NNK-OIL is an 
     </EntityDetails>
   </Designation>
   <Designation>
-    <LastUpdated>18/12/2025</LastUpdated>
+    <LastUpdated>29/10/2026</LastUpdated>
     <DateDesignated>18/12/2025</DateDesignated>
     <UniqueID>RUS3164</UniqueID>
     <OFSIGroupID>17265</OFSIGroupID>
@@ -368881,7 +368880,7 @@ The Secretary of State has reasonable grounds to suspect that LLC NNK-OIL is an 
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
     <UKStatementofReasons>
-The Secretary of State has reasonable grounds to suspect that Chingiz ALIYEV is an involved individual under the Russia (Sanctions) (EU Exit) Regulations 2019 because he is or has been involved in: obtaining a benefit from or supporting the Government of Russia, through working as a director or equivalent of an entity carrying on business in a sector of strategic significance, namely, Litasco Middle East DMCC and Litasco SA, which carry on business in the Russian energy sector.
+The Secretary of State has reasonable grounds to suspect that Chingiz ALIYEV is an involved individual under the Russia (Sanctions) (EU Exit) Regulations 2019 because he has been involved in: obtaining a benefit from or supporting the Government of Russia, through working as a director or equivalent of an entity carrying on business in a sector of strategic significance, namely, Litasco Middle East DMCC and Litasco SA, which carry on business in the Russian energy sector.
 </UKStatementofReasons>
     <Addresses>
       <Address>
@@ -376549,16 +376548,16 @@ involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 845 230-80-51</PhoneNumber>
-      <PhoneNumber>+7 845 230-81-72</PhoneNumber>
       <PhoneNumber>+7 845 230-81-78</PhoneNumber>
+      <PhoneNumber>+7 845 230-81-72</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.sepo.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>zem@sepo.ru</EmailAddress>
-      <EmailAddress>sepo-energo@mail.ru </EmailAddress>
       <EmailAddress>director@sepo.ru</EmailAddress>
+      <EmailAddress>sepo-energo@mail.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -380790,10 +380789,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
+      <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
       <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
       <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
-      <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
+      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://tochka.com</Website>
@@ -381236,12 +381235,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
           <Position>Minority shareholder of DALIAN UNITECH TRADING CO., LTD.</Position>
+          <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of LLC NATSPROMKOMPLEKT</Position>
           <Position>Co-owner of LLC NATSPROMRESURS</Position>
           <Position>President of LLC UNIMATIC</Position>
-          <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
+          <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -381620,9 +381619,9 @@ is an "involved person" under the Russian (Sanctions) (EU Exit) Regulations 2019
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>18260406767</PhoneNumber>
       <PhoneNumber>+86-0517-88297588</PhoneNumber>
       <PhoneNumber>+86-0517-88297770</PhoneNumber>
-      <PhoneNumber>18260406767</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>qzmtt.com</Website>
@@ -381691,8 +381690,8 @@ The Secretary of State considers there are reasonable grounds to suspect that NI
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 574 6276 6276</PhoneNumber>
       <PhoneNumber>+86 62766789</PhoneNumber>
+      <PhoneNumber>+86 574 6276 6276</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.skymaster.com.cn</Website>
@@ -381906,8 +381905,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN - 1227800139071 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN – 7802931751 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN - 1227800139071 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -382647,8 +382646,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 2901259450</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1152901005795</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 2901259450</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -383374,8 +383373,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86-13889429555</PhoneNumber>
       <PhoneNumber>+86-411-88702340</PhoneNumber>
+      <PhoneNumber>+86-13889429555</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.chineselathe.com/</Website>
@@ -384229,12 +384228,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 777-71-75 </PhoneNumber>
       <PhoneNumber>+7 495 777-71-71 </PhoneNumber>
+      <PhoneNumber>+7 495 777-71-75 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.absolutbank.com </Website>
       <Website>www.absolutbank.ru </Website>
+      <Website>www.absolutbank.com </Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>info@absolutbank.ru</EmailAddress>
@@ -385128,8 +385127,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN – 7805349407</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN - 1167847135059</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN – 7805349407</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -385481,8 +385480,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 7728173890 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027700311760 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 7728173890 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -385670,8 +385669,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1193850025467</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 3810081395</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1193850025467</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -385927,8 +385926,8 @@ involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027810256473 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -386994,8 +386993,8 @@ The Secretary of State considers there are reasonable grounds to suspect that TA
       <Website>https://www.tanaq.co.th/ </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@tanaq.co.th </EmailAddress>
       <EmailAddress>equipment_supply@tanaq.co.th </EmailAddress>
+      <EmailAddress>info@tanaq.co.th </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -387387,8 +387386,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 7453309640</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1177456043907</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 7453309640</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -393550,13 +393549,13 @@ RAPIRA GROUP LLC is an involved person under the Russia (Sanctions) (EU Exit) Re
       <Website>Rapira.io</Website>
       <Website>Rapira.org</Website>
       <Website>Rapira24.ru</Website>
-      <Website>Rapira.net</Website>
       <Website>Rapiras.ru</Website>
+      <Website>Rapira.net</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>mail@rapira.org</EmailAddress>
-      <EmailAddress>support@rapira.net</EmailAddress>
       <EmailAddress>support@rapira.org</EmailAddress>
+      <EmailAddress>support@rapira.net</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -393893,8 +393892,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <Websites>
-      <Website>https://www.bitpapa.com</Website>
       <Website>https://www.bitpapa.org</Website>
+      <Website>https://www.bitpapa.com</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>support@bitpapa.com</EmailAddress>
@@ -395090,12 +395089,12 @@ JOINT-STOCK COMPANY COMMERCIAL BANK "VYATICH" is or has been obtaining a benefit
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 491 221 94 07</PhoneNumber>
       <PhoneNumber>+7 (4912) 21-94-07</PhoneNumber>
+      <PhoneNumber>8 491 221 94 07</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>https://ibank2.bankvyatich.ru</Website>
       <Website>https://bankvyatich.ru</Website>
+      <Website>https://ibank2.bankvyatich.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>kredit@bankvyatich.ru</EmailAddress>
@@ -395257,8 +395256,8 @@ involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 47248 30441 </PhoneNumber>
       <PhoneNumber>+ 7 47248 30217</PhoneNumber>
+      <PhoneNumber>+7 47248 30441 </PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
       <EmailAddress>rushol@ngs.ru   </EmailAddress>
@@ -396275,8 +396274,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1025001414283 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 5010027226 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1025001414283 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -401008,17 +401007,17 @@ The Secretary of State considers that there are reasonable grounds to suspect LI
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (495) 215-24-08</PhoneNumber>
       <PhoneNumber>+7 (800) 555-89-21</PhoneNumber>
       <PhoneNumber>+7 (800) 555-89-82</PhoneNumber>
+      <PhoneNumber>+7 (495) 215-24-08</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>https://finance.ozon.ru</Website>
       <Website>https://t.me/ozon_bank_official</Website>
+      <Website>https://finance.ozon.ru</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>infobank@ozon.ru</EmailAddress>
       <EmailAddress>help@finance.ozon.ru</EmailAddress>
+      <EmailAddress>infobank@ozon.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -401126,8 +401125,8 @@ The Secretary of State considers that there are reasonable grounds to suspect ST
           <TypeOfEntity>JOINT-STOCK COMPANY</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Central Bank of Russia licence: 2790</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN 7704001959
 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
@@ -402605,8 +402604,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <DOB>23/05/1977</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Georgia</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
           <Position>International Secretary, Solidarity for Peace </Position>
@@ -412253,19 +412252,19 @@ Al-Goney has controlled the RSF front company Tradive General Trading, which imp
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>B00024943</PassportNumber>
-            <PassportAdditionalInformation>Expires 27 Sep 2031</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>AK1586127</PassportNumber>
           </Passport>
           <Passport>
             <PassportNumber>B00017334</PassportNumber>
           </Passport>
+          <Passport>
+            <PassportNumber>B00024943</PassportNumber>
+            <PassportAdditionalInformation>Expires 27 Sep 2031</PassportAdditionalInformation>
+          </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Sudan</Nationality>
           <Nationality>Kenya</Nationality>
+          <Nationality>Sudan</Nationality>
           <Nationality>Sudan</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
