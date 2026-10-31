@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>29/10/2026</DateGenerated>
+  <DateGenerated>30/10/2026</DateGenerated>
   <Designation>
     <LastUpdated>04/08/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -1156,7 +1156,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>29/04/2026</LastUpdated>
+    <LastUpdated>30/10/2026</LastUpdated>
     <DateDesignated>31/01/2001</DateDesignated>
     <UniqueID>AFG0011</UniqueID>
     <OFSIGroupID>7270</OFSIGroupID>
@@ -1236,6 +1236,10 @@
           <Passport>
             <PassportNumber>D0010442</PassportNumber>
             <PassportAdditionalInformation>Afghanistan diplomatic passport D0010442, issued on 13 Nov. 2024, expires 13 Nov. 2029</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>P05629010</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -2310,22 +2314,22 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1963</DOB>
+          <DOB>dd/mm/1968</DOB>
+          <DOB>24/10/1971</DOB>
           <DOB>dd/mm/1964</DOB>
           <DOB>dd/mm/1965</DOB>
           <DOB>dd/mm/1966</DOB>
           <DOB>dd/mm/1967</DOB>
-          <DOB>dd/mm/1968</DOB>
-          <DOB>24/10/1971</DOB>
+          <DOB>dd/mm/1963</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
             <PassportNumber>D0009726</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009726, issued on 13 Oct. 2021, issued  in Kabul, Afghanistan, expires 13 Oct. 2026 (Name in Latin script: Mohammad Fadel Aakhund; name in original script: محمد آخوند فاضل)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009726, issued on 13 Oct. 2021, issued in Kabul, Afghanistan</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>D0009726</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009726, issued on 13 Oct. 2021, issued in Kabul, Afghanistan</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009726, issued on 13 Oct. 2021, issued  in Kabul, Afghanistan, expires 13 Oct. 2026 (Name in Latin script: Mohammad Fadel Aakhund; name in original script: محمد آخوند فاضل)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -2344,7 +2348,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>14/04/2026</LastUpdated>
+    <LastUpdated>30/10/2026</LastUpdated>
     <DateDesignated>23/02/2001</DateDesignated>
     <UniqueID>AFG0024</UniqueID>
     <OFSIGroupID>7060</OFSIGroupID>
@@ -2399,7 +2403,7 @@
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
-    <OtherInformation>Belongs to Popalzai tribe. Height 173cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals click here</OtherInformation>
+    <OtherInformation>Belongs to Popalzai tribe. Height 173cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</OtherInformation>
     <UKStatementofReasons>
 </UKStatementofReasons>
     <Addresses>
@@ -2411,17 +2415,21 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1968</DOB>
           <DOB>29/09/1963</DOB>
+          <DOB>dd/mm/1968</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
             <PassportNumber>D0009751</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009751, issued on 16 Oct. 2021, issued in Kabul, Afghanistan  (expires 16 Oct. 2026)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number P04999950, issued on 4 Feb. 2025 (expires 4 Feb. 2035)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>P02444826</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>D0009751</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number P04999950, issued on 4 Feb. 2025 (expires 4 Feb. 2035)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009751, issued on 16 Oct. 2021, issued in Kabul, Afghanistan  (expires 16 Oct. 2026)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -2522,7 +2530,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>14/04/2026</LastUpdated>
+    <LastUpdated>30/10/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0026</UniqueID>
     <OFSIGroupID>7307</OFSIGroupID>
@@ -2588,11 +2596,11 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Kabul</AddressLine6>
+        <AddressLine1>Kabul</AddressLine1>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Kabul</AddressLine1>
+        <AddressLine6>Kabul</AddressLine6>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
     </Addresses>
@@ -2606,6 +2614,10 @@
         </DOBs>
         <PassportDetails>
           <Passport>
+            <PassportNumber>D0009803</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
             <PassportNumber>D0009716</PassportNumber>
             <PassportAdditionalInformation>Afghanistan  diplomatic passport issued on 25 Sep. 2021, issued in Kabul, Afghanistan (Name in Latin  script: Amir Khan Mutaqi, name in original script: متقي امیرخان ; expires 25 Sep. 2026)</PassportAdditionalInformation>
           </Passport>
@@ -2614,8 +2626,12 @@
             <PassportAdditionalInformation>Afghanistan  diplomatic passport issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>D0009803</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
+            <PassportNumber>D0010741</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan passport, issued on 5 Aug. 2026, expires on 5 Aug. 2031</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>P02444824</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -3291,8 +3307,8 @@
       <Individual>
         <DOBs>
           <DOB>dd/mm/1960</DOB>
-          <DOB>dd/mm/1961</DOB>
           <DOB>01/01/1967</DOB>
+          <DOB>dd/mm/1961</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -3305,8 +3321,8 @@
         </Nationalities>
         <Positions>
           <Position>Governor of Khost and Paktika provinces under the Taliban regime  (1996-2001)</Position>
-          <Position>Consular Department, Ministry of Foreign Affairs under the Taliban regime (1996- 2001)</Position>
           <Position>Vice-Minister of Information and  Culture under the Taliban regime (1996-2001) </Position>
+          <Position>Consular Department, Ministry of Foreign Affairs under the Taliban regime (1996- 2001)</Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -4261,8 +4277,8 @@
         <DOBs>
           <DOB>dd/mm/1963</DOB>
           <DOB>1956</DOB>
-          <DOB>1955</DOB>
           <DOB>30/07/1969</DOB>
+          <DOB>1955</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -4356,8 +4372,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>22/02/1957</DOB>
           <DOB>dd/mm/1958</DOB>
+          <DOB>22/02/1957</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -4961,8 +4977,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1971</DOB>
           <DOB>24/10/1972</DOB>
+          <DOB>dd/mm/1971</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -5464,7 +5480,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>31/07/2026</LastUpdated>
+    <LastUpdated>30/10/2026</LastUpdated>
     <DateDesignated>31/01/2001</DateDesignated>
     <UniqueID>AFG0062</UniqueID>
     <OFSIGroupID>7539</OFSIGroupID>
@@ -5548,6 +5564,10 @@
           <Passport>
             <PassportNumber>D0010689</PassportNumber>
             <PassportAdditionalInformation>Issued on 29 Mar. 2026, expires 29 Mar. 2031 (Name in Latin script: Abdulhaq Waseeq, name in original script: عبد الحق وثيق)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>P00429350</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -6205,7 +6225,7 @@
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>13/10/2026</LastUpdated>
+    <LastUpdated>30/10/2026</LastUpdated>
     <DateDesignated>25/01/2001</DateDesignated>
     <UniqueID>AFG0071</UniqueID>
     <OFSIGroupID>7223</OFSIGroupID>
@@ -6281,15 +6301,19 @@
             <PassportNumber>D0009770</PassportNumber>
             <PassportAdditionalInformation>a Afghanistan diplomatic passport, issued on 31 Oct. 2021, issued in Kabul, Afghanistan, expires 31 Oct. 2026 (Name in Latin script:  KHIRULLAH KHAIRKHWA, name in original script: , خیرخواه خیرالله )</PassportAdditionalInformation>
           </Passport>
+          <Passport>
+            <PassportNumber>P04411676</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
+          </Passport>
         </PassportDetails>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
         </Nationalities>
         <Positions>
           <Position>Governor of Herat Province under the Taliban regime (1996-2001)</Position>
+          <Position>Minister of Internal Affairs under the Taliban regime (1996-2001)</Position>
           <Position>Spokesperson of the Taliban regime (1996-2001)</Position>
           <Position>Governor of Kabul province under the Taliban regime (1996-2001)</Position>
-          <Position>Minister of Internal Affairs under the Taliban regime (1996-2001)</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -7929,9 +7953,9 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>22/03/1973</DOB>
           <DOB>dd/mm/1972</DOB>
           <DOB>dd/mm/1973</DOB>
-          <DOB>22/03/1973</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -7950,15 +7974,15 @@
         </Genders>
         <BirthDetails>
           <Location>
+            <TownOfBirth>Uruzgan</TownOfBirth>
+            <CountryOfBirth>Afghanistan</CountryOfBirth>
+          </Location>
+          <Location>
             <TownOfBirth>Sarpolad village, Washer District, Helmand Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
             <TownOfBirth>Arghandab District, Kandahar Province</TownOfBirth>
-            <CountryOfBirth>Afghanistan</CountryOfBirth>
-          </Location>
-          <Location>
-            <TownOfBirth>Uruzgan</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -9557,9 +9581,9 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>30/12/1981</DOB>
           <DOB>dd/mm/1977</DOB>
           <DOB>dd/mm/1978</DOB>
+          <DOB>30/12/1981</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -9585,10 +9609,6 @@
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Srana village, Garda Saray district, Paktia province</TownOfBirth>
-            <CountryOfBirth>Afghanistan</CountryOfBirth>
-          </Location>
-          <Location>
             <TownOfBirth>Khost province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
@@ -9598,6 +9618,10 @@
           </Location>
           <Location>
             <TownOfBirth>Neka district, Paktika province</TownOfBirth>
+            <CountryOfBirth>Afghanistan</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Srana village, Garda Saray district, Paktia province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -9881,16 +9905,16 @@
         </DOBs>
         <PassportDetails>
           <Passport>
+            <PassportNumber>D0010006</PassportNumber>
+            <PassportAdditionalInformation>Issued on 28 Sep. 2022, issued in Kabul, Afghanistan (expires 28 Sep. 2027)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
             <PassportNumber>D0010408</PassportNumber>
             <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>P03318995</PassportNumber>
             <PassportAdditionalInformation>Afghanistan passport, issued on 29 Jul. 2020 (Name in Latin script: Hedayatullah  Hedayat, expires 29 Jul. 2025)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>D0010006</PassportNumber>
-            <PassportAdditionalInformation>Issued on 28 Sep. 2022, issued in Kabul, Afghanistan (expires 28 Sep. 2027)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -10173,14 +10197,14 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>dd/mm/1963</DOB>
+          <DOB>dd/mm/1964</DOB>
           <DOB>01/01/1966</DOB>
           <DOB>dd/mm/1958</DOB>
           <DOB>dd/mm/1959</DOB>
           <DOB>dd/mm/1960</DOB>
           <DOB>dd/mm/1961</DOB>
           <DOB>dd/mm/1962</DOB>
-          <DOB>dd/mm/1963</DOB>
-          <DOB>dd/mm/1964</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -11349,9 +11373,9 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>dd/mm/1971</DOB>
           <DOB>dd/mm/1969</DOB>
           <DOB>dd/mm/1970</DOB>
-          <DOB>dd/mm/1971</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -17406,13 +17430,13 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressCountry>United Arab Emirates</AddressCountry>
-      </Address>
-      <Address>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
       <Address>
         <AddressCountry>Kuwait</AddressCountry>
+      </Address>
+      <Address>
+        <AddressCountry>United Arab Emirates</AddressCountry>
       </Address>
     </Addresses>
   </Designation>
@@ -20861,18 +20885,18 @@ in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security 
         <AddressCountry>Turkey</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Südliche Ringstrasse 133</AddressLine1>
-        <AddressLine6>Langen</AddressLine6>
-        <AddressPostalCode>63225</AddressPostalCode>
-        <AddressCountry>Germany</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Ash Street 24/5</AddressLine1>
         <AddressLine2>Atalar Neighbourhood</AddressLine2>
         <AddressLine5>Kartal</AddressLine5>
         <AddressLine6>Istanbul</AddressLine6>
         <AddressPostalCode>34860</AddressPostalCode>
         <AddressCountry>Turkey</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Südliche Ringstrasse 133</AddressLine1>
+        <AddressLine6>Langen</AddressLine6>
+        <AddressPostalCode>63225</AddressPostalCode>
+        <AddressCountry>Germany</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -24122,8 +24146,8 @@ name: Abdul Rahman. Photo and fingerprints available for inclusion in the INTERP
           <DOB>01/08/1983</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Tunisia</Nationality>
           <Nationality>France</Nationality>
+          <Nationality>Tunisia</Nationality>
         </Nationalities>
         <BirthDetails>
           <Location>
@@ -31943,14 +31967,14 @@ concluded on 4 Dec. 2019. Photograph and fingerprints available for inclusion in
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressLine1>Syrian Arab Republic (as at 2023)</AddressLine1>
+        <AddressCountry>Syria</AddressCountry>
+      </Address>
+      <Address>
         <AddressLine1>Ungartenstrasse 6</AddressLine1>
         <AddressLine6>Bonn</AddressLine6>
         <AddressPostalCode>53229</AddressPostalCode>
         <AddressCountry>Germany</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Syrian Arab Republic (as at 2023)</AddressLine1>
-        <AddressCountry>Syria</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -33043,16 +33067,16 @@ November 2021 INTERPOL-UN Security Council Special Notice web link: https://www.
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Jalan Nakula of Witana Harja Complex Block C</AddressLine1>
-        <AddressLine2>Pamulang</AddressLine2>
-        <AddressLine6>Banten</AddressLine6>
-        <AddressCountry>Indonesia</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Jalan M. Saidi</AddressLine1>
         <AddressLine2>RT010 RW 001 Pesanggrahan</AddressLine2>
         <AddressLine3>South Petukangan</AddressLine3>
         <AddressLine6>South Jakarta</AddressLine6>
+        <AddressCountry>Indonesia</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Jalan Nakula of Witana Harja Complex Block C</AddressLine1>
+        <AddressLine2>Pamulang</AddressLine2>
+        <AddressLine6>Banten</AddressLine6>
         <AddressCountry>Indonesia</AddressCountry>
       </Address>
     </Addresses>
@@ -33060,18 +33084,18 @@ November 2021 INTERPOL-UN Security Council Special Notice web link: https://www.
       <Individual>
         <DOBs>
           <DOB>08/08/1980</DOB>
-          <DOB>08/08/1980</DOB>
           <DOB>28/05/1984</DOB>
           <DOB>03/12/1979</DOB>
           <DOB>03/03/1979</DOB>
+          <DOB>08/08/1980</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportAdditionalInformation>(information derived from forged Indonesia passport No.S335026)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>S335026</PassportNumber>
             <PassportAdditionalInformation>Indonesia number S335026 (forged Indonesian passport).</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportAdditionalInformation>(information derived from forged Indonesia passport No.S335026)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -34462,20 +34486,20 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>1966</DOB>
           <DOB>04/04/1964</DOB>
+          <DOB>1966</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Malaysia</Nationality>
           <Nationality>Indonesia</Nationality>
+          <Nationality>Malaysia</Nationality>
         </Nationalities>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Sukamanah, West Java</TownOfBirth>
+            <TownOfBirth>Cianjur, West Java</TownOfBirth>
             <CountryOfBirth>Indonesia</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Cianjur, West Java</TownOfBirth>
+            <TownOfBirth>Sukamanah, West Java</TownOfBirth>
             <CountryOfBirth>Indonesia</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -37909,8 +37933,8 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>11/04/1960</DOB>
           <DOB>11/04/1963</DOB>
+          <DOB>11/04/1960</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Egypt</Nationality>
@@ -43140,8 +43164,8 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>09/05/1993</DOB>
           <DOB>16/03/1993</DOB>
+          <DOB>09/05/1993</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -43154,12 +43178,12 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>Z15105123</NationalIdentifierNumber>
-            <NationalIdentifierAdditionalInformation>Zambia Z15105123, issued on 5. Aug. 2020 (fraudulently acquired under the name Isaac Mupeta, born 9 May 1993 in Lusaka, Zambia, registration number 102523/29/1) </NationalIdentifierAdditionalInformation>
-          </NationalIdentifier>
-          <NationalIdentifier>
             <NationalIdentifierNumber>CM920231090NZA</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>(Uganda)</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>Z15105123</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Zambia Z15105123, issued on 5. Aug. 2020 (fraudulently acquired under the name Isaac Mupeta, born 9 May 1993 in Lusaka, Zambia, registration number 102523/29/1) </NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Genders>
@@ -62765,13 +62789,13 @@ SC Signal is an involved person under the Chemical Weapons (Sanctions) (EU Exit)
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>16A Nagatinskaya Street</AddressLine1>
+        <AddressLine1>8 Bolshaya Olenya Street</AddressLine1>
         <AddressLine2>Sokolniki Municipal District</AddressLine2>
         <AddressLine6>Moscow</AddressLine6>
         <AddressCountry>Russia</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>8 Bolshaya Olenya Street</AddressLine1>
+        <AddressLine1>16A Nagatinskaya Street</AddressLine1>
         <AddressLine2>Sokolniki Municipal District</AddressLine2>
         <AddressLine6>Moscow</AddressLine6>
         <AddressCountry>Russia</AddressCountry>
@@ -96766,11 +96790,11 @@ Paragraph 7(h): CHARLES SEMATAMA, by his involvement with the Twirwaneho and the
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Nyabihu District, Western province</TownOfBirth>
+            <TownOfBirth>Karago municipality, Gisenyi prefecture</TownOfBirth>
             <CountryOfBirth>Rwanda</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Karago municipality, Gisenyi prefecture</TownOfBirth>
+            <TownOfBirth>Nyabihu District, Western province</TownOfBirth>
             <CountryOfBirth>Rwanda</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -97018,11 +97042,11 @@ Paragraph 7(h): CHARLES SEMATAMA, by his involvement with the Twirwaneho and the
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Rutsiro District, Western Province</TownOfBirth>
+            <TownOfBirth>Gatoki Cell, Murunda Sector, Rutsiro Commune, Kibuye Prefecture</TownOfBirth>
             <CountryOfBirth>Rwanda</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Gatoki Cell, Murunda Sector, Rutsiro Commune, Kibuye Prefecture</TownOfBirth>
+            <TownOfBirth>Rutsiro District, Western Province</TownOfBirth>
             <CountryOfBirth>Rwanda</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -115640,8 +115664,8 @@ The Secretary of State considers that there are reasonable grounds to suspect Be
           <DOB>10/09/1969</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>United States</Nationality>
           <Nationality>Israel</Nationality>
+          <Nationality>United States</Nationality>
         </Nationalities>
       </Individual>
     </IndividualDetails>
@@ -118799,10 +118823,10 @@ Specifically, engaged in the recruitment of Indian nationals using deception and
           <TypeOfEntity>Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>India PAN - AAYCA2604D</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Corporate Identification Number (CIN): U74999HR2023OPC109285</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>
 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Corporate Identification Number (CIN): U74999HR2023OPC109285</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>India PAN - AAYCA2604D</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -157734,8 +157758,8 @@ Fazlolah
           <DOB>23/06/1952</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Iran</Nationality>
           <Nationality>United Kingdom</Nationality>
+          <Nationality>Iran</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -265273,9 +265297,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Cyprus</Nationality>
           <Nationality>Israel</Nationality>
           <Nationality>Russia</Nationality>
+          <Nationality>Cyprus</Nationality>
         </Nationalities>
         <Positions>
           <Position>Associate of Oleg Deripaska</Position>
@@ -290429,8 +290453,8 @@ Vitaly Anatolyevich Markelov is an “involved person” under the Russia (Sanct
           <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Deputy Chairman of the Management Board of Gazprom</Position>
           <Position>Executive Director, Gazprom</Position>
+          <Position>Deputy Chairman of the Management Board of Gazprom</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -330687,12 +330711,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+49 931 666878-0 </PhoneNumber>
       <PhoneNumber>+49 931 666878-29 </PhoneNumber>
+      <PhoneNumber>+49 931 666878-0 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.ekc.ag</Website>
       <Website>www.ek-company.com </Website>
+      <Website>www.ekc.ag</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>info@ekc.ag </EmailAddress>
@@ -362470,8 +362494,8 @@ HeliCo Group is an “involved person” under the Russia (Sanctions) (EU Exit) 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (861) 624-35-65</PhoneNumber>
       <PhoneNumber>8-800-500-69-60</PhoneNumber>
+      <PhoneNumber>+7 (861) 624-35-65</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website> HeliCo-russia.ru</Website>
@@ -386462,10 +386486,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 812 3279090</PhoneNumber>
-      <PhoneNumber>+7 812 6355070</PhoneNumber>
       <PhoneNumber>+8 800 5050040</PhoneNumber>
       <PhoneNumber>+ 7 812 6355088</PhoneNumber>
+      <PhoneNumber>+7 812 3279090</PhoneNumber>
+      <PhoneNumber>+7 812 6355070</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.eltech.spb.ru/</Website>
@@ -386993,8 +387017,8 @@ The Secretary of State considers there are reasonable grounds to suspect that TA
       <Website>https://www.tanaq.co.th/ </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>equipment_supply@tanaq.co.th </EmailAddress>
       <EmailAddress>info@tanaq.co.th </EmailAddress>
+      <EmailAddress>equipment_supply@tanaq.co.th </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -387291,17 +387315,17 @@ The Secretary of State considers that there are reasonable grounds to suspect
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 021 52790180</PhoneNumber>
       <PhoneNumber>+86 021 80125158</PhoneNumber>
+      <PhoneNumber>+86 021 52790180</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>m9logistics.com</Website>
       <Website>m9logisitcs.cn</Website>
+      <Website>m9logistics.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>niceluohuan@163.com</EmailAddress>
       <EmailAddress>de@cn.m9logistics.com</EmailAddress>
       <EmailAddress>accountant@cn.m9logistics.com</EmailAddress>
+      <EmailAddress>niceluohuan@163.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -393549,13 +393573,13 @@ RAPIRA GROUP LLC is an involved person under the Russia (Sanctions) (EU Exit) Re
       <Website>Rapira.io</Website>
       <Website>Rapira.org</Website>
       <Website>Rapira24.ru</Website>
-      <Website>Rapiras.ru</Website>
       <Website>Rapira.net</Website>
+      <Website>Rapiras.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>mail@rapira.org</EmailAddress>
-      <EmailAddress>support@rapira.org</EmailAddress>
       <EmailAddress>support@rapira.net</EmailAddress>
+      <EmailAddress>support@rapira.org</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -393892,8 +393916,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <Websites>
-      <Website>https://www.bitpapa.org</Website>
       <Website>https://www.bitpapa.com</Website>
+      <Website>https://www.bitpapa.org</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>support@bitpapa.com</EmailAddress>
@@ -394808,10 +394832,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>OGRN 1027700565970</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>TIN 7703115760</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP 997950001 / 770401001</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Correspondent account: 30101810900000000204 in OCC No 1 of the Main Directorate of the Bank of Russia for the Central Federal District,</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>BIC 044525204</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>TIN 7703115760</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -395089,12 +395113,12 @@ JOINT-STOCK COMPANY COMMERCIAL BANK "VYATICH" is or has been obtaining a benefit
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (4912) 21-94-07</PhoneNumber>
       <PhoneNumber>8 491 221 94 07</PhoneNumber>
+      <PhoneNumber>+7 (4912) 21-94-07</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>https://bankvyatich.ru</Website>
       <Website>https://ibank2.bankvyatich.ru</Website>
+      <Website>https://bankvyatich.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>kredit@bankvyatich.ru</EmailAddress>
@@ -395256,8 +395280,8 @@ involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+ 7 47248 30217</PhoneNumber>
       <PhoneNumber>+7 47248 30441 </PhoneNumber>
+      <PhoneNumber>+ 7 47248 30217</PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
       <EmailAddress>rushol@ngs.ru   </EmailAddress>
@@ -400400,8 +400424,8 @@ NORTHERN ENGINEERING LIMITED LIABILITY COMPANY is an involved entity under the R
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1267700105012 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 9729417656 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1267700105012 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -400834,16 +400858,16 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 9199 039650 </PhoneNumber>
       <PhoneNumber>+7 (495) 380-00-01 </PhoneNumber>
       <PhoneNumber>+7 925 152 18 12 </PhoneNumber>
+      <PhoneNumber>+7 9199 039650 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.tehnolux.ru</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>Feropont777@gmail.com </EmailAddress>
       <EmailAddress>Tehnoluks1@mail.ru </EmailAddress>
+      <EmailAddress>Feropont777@gmail.com </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -401008,8 +401032,8 @@ The Secretary of State considers that there are reasonable grounds to suspect LI
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 (800) 555-89-21</PhoneNumber>
-      <PhoneNumber>+7 (800) 555-89-82</PhoneNumber>
       <PhoneNumber>+7 (495) 215-24-08</PhoneNumber>
+      <PhoneNumber>+7 (800) 555-89-82</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://t.me/ozon_bank_official</Website>
@@ -401113,8 +401137,8 @@ The Secretary of State considers that there are reasonable grounds to suspect ST
       <PhoneNumber>+7 (495) 967-07-67</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>http://www.eximbank.ru</Website>
       <Website>www.eximbank.ru</Website>
+      <Website>http://www.eximbank.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>mailbox@eximbank.ru</EmailAddress>
@@ -401126,9 +401150,9 @@ The Secretary of State considers that there are reasonable grounds to suspect ST
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>Central Bank of Russia licence: 2790</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN 7704001959
 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -401307,11 +401331,11 @@ JSC REALIST BANK is or has been obtaining a benefit from or supporting the Gover
           <ParentCompany>LLC "BUREAUCRAT"</ParentCompany>
         </ParentCompanies>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>Russia OGRN - 1023800000124
-</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>SWIFT/BIC - BIJORU66</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Russia INN - 3801002781</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Legal Entity Identifier - 2534007T2QFUSCHQPU36</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>SWIFT/BIC - BIJORU66</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Russia OGRN - 1023800000124
+</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -401400,9 +401424,9 @@ PJSC BANK STAVR is or has been obtaining a benefit from or supporting the Govern
           <TypeOfEntity>PUBLIC JOINT STOCK COMPANY </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>OGRN - 1022600000092</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN – 2634028786
 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>OGRN - 1022600000092</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -401477,8 +401501,8 @@ JSC TELEPORT BANK is or has been obtaining a benefit from or supporting the Gove
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (495) 401-14-44</PhoneNumber>
       <PhoneNumber>+7 (495) 739-88-00</PhoneNumber>
+      <PhoneNumber>+7 (495) 401-14-44</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://teleportbank.ru</Website>
@@ -401490,13 +401514,13 @@ JSC TELEPORT BANK is or has been obtaining a benefit from or supporting the Gove
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>OGRN: 1077711000080</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>KPP 997950001</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OKPO 09141558</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OKVED 64.19</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>BIK 044525273</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN 7750004175
 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP 770601001</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>KPP 997950001</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>OKPO 09141558</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -402604,8 +402628,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <DOB>23/05/1977</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Georgia</Nationality>
           <Nationality>Russia</Nationality>
+          <Nationality>Georgia</Nationality>
         </Nationalities>
         <Positions>
           <Position>International Secretary, Solidarity for Peace </Position>
@@ -404015,12 +404039,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <PhoneNumber>+7 (495) 229-00-50</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>http://bankck.ru</Website>
-      <Website>http://www.capitalkredit.ru</Website>
       <Website>https://open.capitalkredit.ru</Website>
+      <Website>http://bankck.ru</Website>
       <Website>http:// bankstolichnykredit.rf</Website>
       <Website>http:// kbstolichnycredit.rf</Website>
       <Website>http://www.bankintegral.ru</Website>
+      <Website>http://www.capitalkredit.ru</Website>
     </Websites>
     <EntityDetails>
       <Entity>
@@ -404484,8 +404508,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (4742) 75-50-01</PhoneNumber>
       <PhoneNumber>+7 (495) 646 28 24 </PhoneNumber>
+      <PhoneNumber>+7 (4742) 75-50-01</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://prime-top.ru/</Website>
@@ -404500,8 +404524,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1124802000905</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 4802024282</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1124802000905</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -404896,10 +404920,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 7727518729 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber> 
 
 OGRN: 1047796617494 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 7727518729 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -412252,19 +412276,19 @@ Al-Goney has controlled the RSF front company Tradive General Trading, which imp
         </DOBs>
         <PassportDetails>
           <Passport>
+            <PassportNumber>B00024943</PassportNumber>
+            <PassportAdditionalInformation>Expires 27 Sep 2031</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
             <PassportNumber>AK1586127</PassportNumber>
           </Passport>
           <Passport>
             <PassportNumber>B00017334</PassportNumber>
           </Passport>
-          <Passport>
-            <PassportNumber>B00024943</PassportNumber>
-            <PassportAdditionalInformation>Expires 27 Sep 2031</PassportAdditionalInformation>
-          </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Kenya</Nationality>
           <Nationality>Sudan</Nationality>
+          <Nationality>Kenya</Nationality>
           <Nationality>Sudan</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
