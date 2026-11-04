@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>30/10/2026</DateGenerated>
+  <DateGenerated>03/11/2026</DateGenerated>
   <Designation>
     <LastUpdated>04/08/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -2415,13 +2415,13 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>29/09/1963</DOB>
           <DOB>dd/mm/1968</DOB>
+          <DOB>29/09/1963</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
             <PassportNumber>D0009751</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number P04999950, issued on 4 Feb. 2025 (expires 4 Feb. 2035)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009751, issued on 16 Oct. 2021, issued in Kabul, Afghanistan  (expires 16 Oct. 2026)</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>P02444826</PassportNumber>
@@ -2429,7 +2429,7 @@
           </Passport>
           <Passport>
             <PassportNumber>D0009751</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009751, issued on 16 Oct. 2021, issued in Kabul, Afghanistan  (expires 16 Oct. 2026)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number P04999950, issued on 4 Feb. 2025 (expires 4 Feb. 2035)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -2614,10 +2614,6 @@
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>D0009803</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>D0009716</PassportNumber>
             <PassportAdditionalInformation>Afghanistan  diplomatic passport issued on 25 Sep. 2021, issued in Kabul, Afghanistan (Name in Latin  script: Amir Khan Mutaqi, name in original script: متقي امیرخان ; expires 25 Sep. 2026)</PassportAdditionalInformation>
           </Passport>
@@ -2632,6 +2628,10 @@
           <Passport>
             <PassportNumber>P02444824</PassportNumber>
             <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>D0009803</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec. 2026)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -5552,38 +5552,38 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>1975</DOB>
-          <DOB>dd/mm/1971</DOB>
           <DOB>20/09/1968</DOB>
+          <DOB>dd/mm/1971</DOB>
+          <DOB>1975</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>D0009755</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 23 Oct. 2021, expires on 23 Oct. 2026 (Name in  Latin script: Abdulhaq Waseeq)</PassportAdditionalInformation>
+            <PassportNumber>P00429350</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>D0010689</PassportNumber>
             <PassportAdditionalInformation>Issued on 29 Mar. 2026, expires 29 Mar. 2031 (Name in Latin script: Abdulhaq Waseeq, name in original script: عبد الحق وثيق)</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>P00429350</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
+            <PassportNumber>D0009755</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 23 Oct. 2021, expires on 23 Oct. 2026 (Name in  Latin script: Abdulhaq Waseeq)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Deputy Minister of Security (Intelligence) under the Taliban regime (1996-2001)</Position>
           <Position>Deputy Minister of Security (Intelligence) under the Taliban regime</Position>
+          <Position>Deputy Minister of Security (Intelligence) under the Taliban regime (1996-2001)</Position>
         </Positions>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Gharib village, Khogyani District, Ghazni Province</TownOfBirth>
+            <TownOfBirth>Ghazni</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Ghazni</TownOfBirth>
+            <TownOfBirth>Gharib village, Khogyani District, Ghazni Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -6311,9 +6311,9 @@
         </Nationalities>
         <Positions>
           <Position>Governor of Herat Province under the Taliban regime (1996-2001)</Position>
-          <Position>Minister of Internal Affairs under the Taliban regime (1996-2001)</Position>
           <Position>Spokesperson of the Taliban regime (1996-2001)</Position>
           <Position>Governor of Kabul province under the Taliban regime (1996-2001)</Position>
+          <Position>Minister of Internal Affairs under the Taliban regime (1996-2001)</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -374812,7 +374812,7 @@ The Secretary of State considers that there are reasonable grounds to suspect WO
     </Websites>
   </Designation>
   <Designation>
-    <LastUpdated>24/02/2026</LastUpdated>
+    <LastUpdated>03/11/2026</LastUpdated>
     <DateDesignated>24/02/2026</DateDesignated>
     <UniqueID>RUS3293</UniqueID>
     <Names>
@@ -374848,10 +374848,10 @@ The Secretary of State considers that there are reasonable grounds to suspect ZE
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>604</AddressLine1>
-        <AddressLine2>Tower A</AddressLine2>
-        <AddressLine3>New Trade Plaza</AddressLine3>
-        <AddressLine4>6 On Ping Street</AddressLine4>
+        <AddressLine1>FLAT/RM D10 9/F</AddressLine1>
+        <AddressLine2>CAMELPAINT BUILDING BLOCK 2</AddressLine2>
+        <AddressLine3>62 HOI YUEN ROAD</AddressLine3>
+        <AddressLine4>KWUN TONG KL</AddressLine4>
         <AddressLine5>Hong Kong</AddressLine5>
         <AddressCountry>China</AddressCountry>
       </Address>
