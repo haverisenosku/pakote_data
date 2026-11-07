@@ -21493,11 +21493,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>123843</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
-      </id>
-      <id>
         <uid>123792</uid>
         <idType>Website</idType>
         <idNumber>transneftfinance.ru</idNumber>
@@ -21511,6 +21506,11 @@
         <uid>143810</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>123843</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21571,9 +21571,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143811</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>123844</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
         <uid>123794</uid>
@@ -21586,9 +21586,9 @@
         <idNumber>transpress.ttn@gmail.com</idNumber>
       </id>
       <id>
-        <uid>123844</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
+        <uid>143811</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21649,6 +21649,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>143812</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>123830</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -21662,11 +21667,6 @@
         <uid>123795</uid>
         <idType>Email Address</idType>
         <idNumber>ootorg@pmn.ru</idNumber>
-      </id>
-      <id>
-        <uid>143812</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21728,11 +21728,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143813</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123798</uid>
         <idType>Website</idType>
         <idNumber>http://sibnefteprovod.transneft.ru</idNumber>
@@ -21741,6 +21736,11 @@
         <uid>123797</uid>
         <idType>Email Address</idType>
         <idNumber>beschastnyhav@ueso.tmn.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143813</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123831</uid>
@@ -21891,14 +21891,14 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>123801</uid>
-        <idType>Website</idType>
-        <idNumber>www.oilnet.ru</idNumber>
-      </id>
-      <id>
         <uid>123829</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
+      </id>
+      <id>
+        <uid>123801</uid>
+        <idType>Website</idType>
+        <idNumber>www.oilnet.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21959,11 +21959,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>123827</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
-      </id>
-      <id>
         <uid>123803</uid>
         <idType>Website</idType>
         <idNumber>www.usmn.ru</idNumber>
@@ -21977,6 +21972,11 @@
         <uid>143816</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>123827</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22038,9 +22038,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143817</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>123845</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
         <uid>123804</uid>
@@ -22048,9 +22048,9 @@
         <idNumber>nurymbetovage@ak.aktnp.ru</idNumber>
       </id>
       <id>
-        <uid>123845</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
+        <uid>143817</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22123,6 +22123,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>143818</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>123846</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -22136,11 +22141,6 @@
         <uid>123805</uid>
         <idType>Email Address</idType>
         <idNumber>androsovaeg@brn.transneft.ru</idNumber>
-      </id>
-      <id>
-        <uid>143818</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22202,11 +22202,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143819</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123808</uid>
         <idType>Website</idType>
         <idNumber>www.gtp.transneft.ru</idNumber>
@@ -22215,6 +22210,11 @@
         <uid>123807</uid>
         <idType>Email Address</idType>
         <idNumber>agafontsevaa@gtp.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143819</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123833</uid>
@@ -22364,14 +22364,14 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
-        <uid>123811</uid>
-        <idType>Website</idType>
-        <idNumber>cupvsto.ru</idNumber>
-      </id>
-      <id>
         <uid>123839</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
+      </id>
+      <id>
+        <uid>123811</uid>
+        <idType>Website</idType>
+        <idNumber>cupvsto.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22433,11 +22433,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>123840</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
-      </id>
-      <id>
         <uid>123813</uid>
         <idType>Website</idType>
         <idNumber>csib.tomsk.ru</idNumber>
@@ -22451,6 +22446,11 @@
         <uid>143822</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>123840</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22512,9 +22512,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143823</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>123841</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
         <uid>123815</uid>
@@ -22527,9 +22527,9 @@
         <idNumber>post@uht.transneft.ru</idNumber>
       </id>
       <id>
-        <uid>123841</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
+        <uid>143823</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22591,6 +22591,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>143824</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>123842</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
@@ -22599,11 +22604,6 @@
         <uid>123816</uid>
         <idType>Email Address</idType>
         <idNumber>babaevii@tno.transneft.ru</idNumber>
-      </id>
-      <id>
-        <uid>143824</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22652,14 +22652,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143825</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>123818</uid>
         <idType>Email Address</idType>
         <idNumber>alexandrovan@vp.transneft.ru</idNumber>
+      </id>
+      <id>
+        <uid>143825</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
         <uid>123837</uid>
@@ -22816,6 +22816,11 @@
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
       <id>
+        <uid>123834</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
+      </id>
+      <id>
         <uid>123822</uid>
         <idType>Website</idType>
         <idNumber>npf-transneft.ru</idNumber>
@@ -22824,11 +22829,6 @@
         <uid>123821</uid>
         <idType>Email Address</idType>
         <idNumber>mail@npf-transneft.ru</idNumber>
-      </id>
-      <id>
-        <uid>123834</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22877,11 +22877,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>123835</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
-      </id>
-      <id>
         <uid>123824</uid>
         <idType>Website</idType>
         <idNumber>centermo.ru</idNumber>
@@ -22895,6 +22890,11 @@
         <uid>143828</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>123835</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22955,9 +22955,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143829</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+        <uid>123836</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
         <uid>123826</uid>
@@ -22970,9 +22970,9 @@
         <idNumber>hanovat@kaz.transneft.ru</idNumber>
       </id>
       <id>
-        <uid>123836</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
+        <uid>143829</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24168,11 +24168,6 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
-        <uid>137439</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>199714</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -24181,6 +24176,11 @@
         <uid>135984</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>137439</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24426,11 +24426,6 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
-        <uid>137438</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>199703</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -24439,6 +24434,11 @@
         <uid>135980</uid>
         <idType>Gender</idType>
         <idNumber>Female</idNumber>
+      </id>
+      <id>
+        <uid>137438</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24580,14 +24580,14 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>136018</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>137443</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>136018</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -24786,14 +24786,14 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>136202</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>137446</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>136202</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -24834,11 +24834,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>137445</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>199709</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -24847,6 +24842,11 @@
         <uid>136025</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>137445</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -24900,6 +24900,11 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
+        <uid>139957</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
         <uid>199704</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -24908,11 +24913,6 @@
         <uid>137853</uid>
         <idType>Gender</idType>
         <idNumber>Female</idNumber>
-      </id>
-      <id>
-        <uid>139957</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24990,6 +24990,11 @@
         <idCountry>Hong Kong</idCountry>
       </id>
       <id>
+        <uid>137900</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
+      </id>
+      <id>
         <uid>199707</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -24998,11 +25003,6 @@
         <uid>139958</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
-        <uid>137900</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
       </id>
     </idList>
     <akaList>
@@ -25126,14 +25126,14 @@
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
-        <uid>199706</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>137909</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>199706</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25231,9 +25231,9 @@
     </programList>
     <idList>
       <id>
-        <uid>139942</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>138125</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>199688</uid>
@@ -25241,9 +25241,9 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>138125</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>139942</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25286,11 +25286,6 @@
     </programList>
     <idList>
       <id>
-        <uid>138129</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>139943</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
@@ -25299,6 +25294,11 @@
         <uid>199723</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>138129</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25396,9 +25396,9 @@
     </programList>
     <idList>
       <id>
-        <uid>139945</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>138137</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>199700</uid>
@@ -25406,9 +25406,9 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>138137</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>139945</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25451,14 +25451,14 @@
     </programList>
     <idList>
       <id>
-        <uid>138141</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>139946</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>138141</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>199699</uid>
@@ -25579,9 +25579,9 @@
     </programList>
     <idList>
       <id>
-        <uid>139948</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>138149</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>199691</uid>
@@ -25589,9 +25589,9 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>138149</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>139948</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25639,11 +25639,6 @@
     </programList>
     <idList>
       <id>
-        <uid>138154</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>139949</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
@@ -25652,6 +25647,11 @@
         <uid>199717</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
+        <uid>138154</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25765,9 +25765,9 @@
     </programList>
     <idList>
       <id>
-        <uid>139951</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>138162</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>199696</uid>
@@ -25775,9 +25775,9 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>138162</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>139951</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25820,14 +25820,14 @@
     </programList>
     <idList>
       <id>
-        <uid>138166</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
-      </id>
-      <id>
         <uid>139952</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>138166</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>199697</uid>
@@ -25930,9 +25930,9 @@
     </programList>
     <idList>
       <id>
-        <uid>139954</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>138174</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>199718</uid>
@@ -25940,9 +25940,9 @@
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
-        <uid>138174</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>139954</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -25988,6 +25988,21 @@
         <idType>Unified Social Credit Code (USCC)</idType>
         <idNumber>9111000071093019X7</idNumber>
         <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141516</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141372</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141370</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
         <uid>141355</uid>
@@ -26074,21 +26089,6 @@
         <idType>Target Type</idType>
         <idNumber>Public Company</idNumber>
       </id>
-      <id>
-        <uid>141516</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141372</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141370</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
     </idList>
     <akaList>
       <aka>
@@ -26136,6 +26136,11 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141134</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
+      </id>
+      <id>
         <uid>141173</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
@@ -26149,11 +26154,6 @@
         <uid>141174</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
-        <uid>141134</uid>
-        <idType>Target Type</idType>
-        <idNumber>State-Owned Enterprise</idNumber>
       </id>
     </idList>
     <akaList>
@@ -26195,6 +26195,21 @@
       <program>CMIC-EO13959</program>
     </programList>
     <idList>
+      <id>
+        <uid>141609</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141608</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141610</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
       <id>
         <uid>138982</uid>
         <idType>Equity Ticker</idType>
@@ -26270,21 +26285,6 @@
         <idType>Target Type</idType>
         <idNumber>Public Company</idNumber>
       </id>
-      <id>
-        <uid>141609</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141608</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141610</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
     </idList>
     <akaList>
       <aka>
@@ -26312,21 +26312,6 @@
       <program>CMIC-EO13959</program>
     </programList>
     <idList>
-      <id>
-        <uid>141617</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141618</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141637</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
       <id>
         <uid>138984</uid>
         <idType>Equity Ticker</idType>
@@ -26372,6 +26357,21 @@
         <idType>Target Type</idType>
         <idNumber>Public Company</idNumber>
       </id>
+      <id>
+        <uid>141617</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141618</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141637</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
@@ -26405,6 +26405,21 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141340</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141338</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141339</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
         <uid>141138</uid>
         <idType>Issuer Name</idType>
         <idNumber>Aviation Industry Corporation of China, Ltd</idNumber>
@@ -26428,21 +26443,6 @@
         <uid>141139</uid>
         <idType>Target Type</idType>
         <idNumber>State-Owned Enterprise</idNumber>
-      </id>
-      <id>
-        <uid>141340</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141338</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141339</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -26494,21 +26494,6 @@
         <uid>21994</uid>
         <idType>Legal Entity Number</idType>
         <idNumber>549300XIVJCBIGMRUD48</idNumber>
-      </id>
-      <id>
-        <uid>141601</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141603</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141605</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
         <uid>138987</uid>
@@ -26570,6 +26555,21 @@
         <idType>Target Type</idType>
         <idNumber>Public Company</idNumber>
       </id>
+      <id>
+        <uid>141601</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141603</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141605</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
@@ -26605,11 +26605,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>141167</uid>
-        <idType>Target Type</idType>
-        <idNumber>State-Owned Enterprise</idNumber>
-      </id>
-      <id>
         <uid>141336</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
@@ -26623,6 +26618,11 @@
         <uid>141334</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141167</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
       </id>
     </idList>
     <akaList>
@@ -26665,21 +26665,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>141477</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141479</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141478</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
         <uid>138997</uid>
         <idType>Issuer Name</idType>
         <idNumber>China Aerospace Science and Industry Corporation Limited</idNumber>
@@ -26693,6 +26678,21 @@
         <uid>141476</uid>
         <idType>Target Type</idType>
         <idNumber>State-Owned Enterprise</idNumber>
+      </id>
+      <id>
+        <uid>141477</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141479</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141478</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -26734,6 +26734,21 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141329</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141330</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141324</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
         <uid>138998</uid>
         <idType>Issuer Name</idType>
         <idNumber>China Aerospace Science and Technology Corporation</idNumber>
@@ -26752,21 +26767,6 @@
         <uid>141170</uid>
         <idType>Target Type</idType>
         <idNumber>State-Owned Enterprise</idNumber>
-      </id>
-      <id>
-        <uid>141329</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141330</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141324</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -26800,21 +26800,6 @@
         <idType>Unified Social Credit Code (USCC)</idType>
         <idNumber>91110000710934369E</idNumber>
         <idCountry>China</idCountry>
-      </id>
-      <id>
-        <uid>141283</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141284</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141282</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
         <uid>139001</uid>
@@ -26956,6 +26941,21 @@
         <idType>Target Type</idType>
         <idNumber>Public Company</idNumber>
       </id>
+      <id>
+        <uid>141283</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141284</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141282</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
@@ -27015,6 +27015,21 @@
         <idNumber>300300PV91RY9GH3CT16</idNumber>
       </id>
       <id>
+        <uid>141429</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141430</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141428</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
         <uid>139011</uid>
         <idType>Issuer Name</idType>
         <idNumber>China Electronics Corporation</idNumber>
@@ -27033,21 +27048,6 @@
         <uid>141441</uid>
         <idType>Target Type</idType>
         <idNumber>State-Owned Enterprise</idNumber>
-      </id>
-      <id>
-        <uid>141429</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141430</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141428</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27081,21 +27081,6 @@
         <idType>Unified Social Credit Code (USCC)</idType>
         <idNumber>91110000710924929L</idNumber>
         <idCountry>China</idCountry>
-      </id>
-      <id>
-        <uid>141213</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141214</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141212</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
         <uid>141235</uid>
@@ -27162,6 +27147,21 @@
         <idType>Target Type</idType>
         <idNumber>Private Company</idNumber>
       </id>
+      <id>
+        <uid>141213</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141214</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141212</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
@@ -27218,6 +27218,21 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141267</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141258</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141265</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
         <uid>139007</uid>
         <idType>Equity Ticker</idType>
         <idNumber>600118 CN</idNumber>
@@ -27236,21 +27251,6 @@
         <uid>141172</uid>
         <idType>Target Type</idType>
         <idNumber>Public Company</idNumber>
-      </id>
-      <id>
-        <uid>141267</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141258</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141265</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27293,6 +27293,11 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141448</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
+      </id>
+      <id>
         <uid>141446</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
@@ -27306,11 +27311,6 @@
         <uid>141445</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
-        <uid>141448</uid>
-        <idType>Target Type</idType>
-        <idNumber>State-Owned Enterprise</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27348,6 +27348,21 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141402</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141403</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141401</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
         <uid>139015</uid>
         <idType>Issuer Name</idType>
         <idNumber>China General Nuclear Power Corporation</idNumber>
@@ -27376,21 +27391,6 @@
         <uid>141559</uid>
         <idType>Target Type</idType>
         <idNumber>Private Company</idNumber>
-      </id>
-      <id>
-        <uid>141402</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141403</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141401</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27430,21 +27430,6 @@
         <idType>Unified Social Credit Code (USCC)</idType>
         <idNumber>91310000710924478P</idNumber>
         <idCountry>China</idCountry>
-      </id>
-      <id>
-        <uid>141238</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141239</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141237</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
         <uid>141219</uid>
@@ -27495,6 +27480,21 @@
         <uid>141218</uid>
         <idType>Target Type</idType>
         <idNumber>Private Company</idNumber>
+      </id>
+      <id>
+        <uid>141238</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141239</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141237</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27556,11 +27556,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>141341</uid>
-        <idType>Target Type</idType>
-        <idNumber>Private Company</idNumber>
-      </id>
-      <id>
         <uid>141343</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
@@ -27574,6 +27569,11 @@
         <uid>141342</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141341</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27616,6 +27616,11 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141325</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
+      </id>
+      <id>
         <uid>141327</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
@@ -27629,11 +27634,6 @@
         <uid>141326</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
-        <uid>141325</uid>
-        <idType>Target Type</idType>
-        <idNumber>Private Company</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27682,11 +27682,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>141312</uid>
-        <idType>Target Type</idType>
-        <idNumber>Private Company</idNumber>
-      </id>
-      <id>
         <uid>141314</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
@@ -27700,6 +27695,11 @@
         <uid>141313</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141312</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27736,21 +27736,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>141242</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141243</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141240</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
         <uid>139038</uid>
         <idType>Equity Ticker</idType>
         <idNumber>002415 CN</idNumber>
@@ -27769,6 +27754,21 @@
         <uid>141177</uid>
         <idType>Target Type</idType>
         <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141242</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141243</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141240</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27811,11 +27811,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>141288</uid>
-        <idType>Target Type</idType>
-        <idNumber>Private Company</idNumber>
-      </id>
-      <id>
         <uid>141290</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
@@ -27829,6 +27824,11 @@
         <uid>141289</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141288</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27867,6 +27867,11 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141308</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
+      </id>
+      <id>
         <uid>141310</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
@@ -27880,11 +27885,6 @@
         <uid>141309</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
-        <uid>141308</uid>
-        <idType>Target Type</idType>
-        <idNumber>Private Company</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27922,11 +27922,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>141442</uid>
-        <idType>Target Type</idType>
-        <idNumber>State-Owned Enterprise</idNumber>
-      </id>
-      <id>
         <uid>141439</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
@@ -27940,6 +27935,11 @@
         <uid>141438</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141442</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27971,21 +27971,6 @@
       <program>CMIC-EO13959</program>
     </programList>
     <idList>
-      <id>
-        <uid>141634</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141633</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141636</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
       <id>
         <uid>139053</uid>
         <idType>Equity Ticker</idType>
@@ -28071,6 +28056,21 @@
         <idType>Target Type</idType>
         <idNumber>Public Company</idNumber>
       </id>
+      <id>
+        <uid>141634</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141633</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141636</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
@@ -28125,6 +28125,21 @@
         <idType>Unified Social Credit Code (USCC)</idType>
         <idNumber>91110000100009563N</idNumber>
         <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141405</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141406</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141404</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
         <uid>139060</uid>
@@ -28196,21 +28211,6 @@
         <idType>Target Type</idType>
         <idNumber>Private Company</idNumber>
       </id>
-      <id>
-        <uid>141405</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141406</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141404</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
     </idList>
     <akaList>
       <aka>
@@ -28256,6 +28256,11 @@
         <idNumber>300300AY5BEBCYDR2F31</idNumber>
       </id>
       <id>
+        <uid>141301</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
+      </id>
+      <id>
         <uid>141303</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
@@ -28269,11 +28274,6 @@
         <uid>141302</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
-        <uid>141301</uid>
-        <idType>Target Type</idType>
-        <idNumber>State-Owned Enterprise</idNumber>
       </id>
     </idList>
     <akaList>
@@ -28315,6 +28315,21 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141216</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141217</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141215</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
         <uid>141228</uid>
         <idType>Issuer Name</idType>
         <idNumber>China North Industries Group Corporation Limited</idNumber>
@@ -28348,21 +28363,6 @@
         <uid>141178</uid>
         <idType>Target Type</idType>
         <idNumber>Private Company</idNumber>
-      </id>
-      <id>
-        <uid>141216</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141217</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141215</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -28423,21 +28423,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>141408</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141409</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141407</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
         <uid>141381</uid>
         <idType>Equity Ticker</idType>
         <idNumber>601611 CN</idNumber>
@@ -28461,6 +28446,21 @@
         <uid>141558</uid>
         <idType>Target Type</idType>
         <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141408</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141409</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141407</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -28514,6 +28514,21 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141411</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141412</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141410</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
         <uid>139073</uid>
         <idType>Equity Ticker</idType>
         <idNumber>601186 CN</idNumber>
@@ -28537,21 +28552,6 @@
         <uid>141560</uid>
         <idType>Target Type</idType>
         <idNumber>Public Company</idNumber>
-      </id>
-      <id>
-        <uid>141411</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141412</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141410</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -28753,9 +28753,9 @@
         <expirationDate>28 Mar 2024</expirationDate>
       </id>
       <id>
-        <uid>199701</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>139113</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
       </id>
       <id>
         <uid>139963</uid>
@@ -28763,9 +28763,9 @@
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
       <id>
-        <uid>139113</uid>
-        <idType>Gender</idType>
-        <idNumber>Male</idNumber>
+        <uid>199701</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -28822,11 +28822,6 @@
     </programList>
     <idList>
       <id>
-        <uid>139959</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>199711</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -28835,6 +28830,11 @@
         <uid>139119</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>139959</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <akaList>
@@ -28884,6 +28884,11 @@
     </programList>
     <idList>
       <id>
+        <uid>199722</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+      </id>
+      <id>
         <uid>139962</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
@@ -28892,11 +28897,6 @@
         <uid>139121</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
-      </id>
-      <id>
-        <uid>199722</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -28938,14 +28938,14 @@
     </programList>
     <idList>
       <id>
-        <uid>199712</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>139196</uid>
         <idType>Gender</idType>
         <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>199712</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>139960</uid>
@@ -31717,14 +31717,14 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>199690</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>145527</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>199690</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -31770,11 +31770,6 @@
     </programList>
     <idList>
       <id>
-        <uid>145529</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
-      </id>
-      <id>
         <uid>199708</uid>
         <idType>HKAA Section 6 Information:</idType>
         <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
@@ -31783,6 +31778,11 @@
         <uid>142035</uid>
         <idType>Gender</idType>
         <idNumber>Female</idNumber>
+      </id>
+      <id>
+        <uid>145529</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -31823,14 +31823,14 @@
     </programList>
     <idList>
       <id>
-        <uid>199713</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>145531</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>199713</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>142040</uid>
@@ -31886,14 +31886,14 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>199698</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
-      </id>
-      <id>
         <uid>145528</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+      </id>
+      <id>
+        <uid>199698</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
     </idList>
     <addressList>
@@ -31934,9 +31934,9 @@
     </programList>
     <idList>
       <id>
-        <uid>145547</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
+        <uid>199721</uid>
+        <idType>HKAA Section 6 Information:</idType>
+        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
       </id>
       <id>
         <uid>142055</uid>
@@ -31944,9 +31944,9 @@
         <idNumber>Male</idNumber>
       </id>
       <id>
-        <uid>199721</uid>
-        <idType>HKAA Section 6 Information:</idType>
-        <idNumber>BLOCKING OF PROPERTY. Sec.6(b)(1)(A),(B),(C) - All property and interests in property of this individual are blocked, and all transactions with this individual are prohibited, except for the importation of goods.</idNumber>
+        <uid>145547</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>pursuant to the Hong Kong Autonomy Act of 2020 - Public Law 116-149</idNumber>
       </id>
     </idList>
     <addressList>
@@ -32999,19 +32999,9 @@
         <idNumber>See Section 11 of Executive Order 14024.</idNumber>
       </id>
       <id>
-        <uid>199886</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 3</idNumber>
-      </id>
-      <id>
         <uid>184328</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
-        <uid>152769</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>22 Nov 2007</idNumber>
       </id>
       <id>
         <uid>199884</uid>
@@ -33022,6 +33012,16 @@
         <uid>199885</uid>
         <idType>Email Address</idType>
         <idNumber>info@uecrus.com</idNumber>
+      </id>
+      <id>
+        <uid>199886</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 3</idNumber>
+      </id>
+      <id>
+        <uid>152769</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>22 Nov 2007</idNumber>
       </id>
     </idList>
     <akaList>
