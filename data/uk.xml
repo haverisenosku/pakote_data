@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>03/11/2026</DateGenerated>
+  <DateGenerated>10/11/2026</DateGenerated>
   <Designation>
     <LastUpdated>04/08/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -2314,22 +2314,22 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1968</DOB>
-          <DOB>24/10/1971</DOB>
+          <DOB>dd/mm/1963</DOB>
           <DOB>dd/mm/1964</DOB>
           <DOB>dd/mm/1965</DOB>
           <DOB>dd/mm/1966</DOB>
           <DOB>dd/mm/1967</DOB>
-          <DOB>dd/mm/1963</DOB>
+          <DOB>dd/mm/1968</DOB>
+          <DOB>24/10/1971</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
             <PassportNumber>D0009726</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009726, issued on 13 Oct. 2021, issued in Kabul, Afghanistan</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009726, issued on 13 Oct. 2021, issued  in Kabul, Afghanistan, expires 13 Oct. 2026 (Name in Latin script: Mohammad Fadel Aakhund; name in original script: محمد آخوند فاضل)</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>D0009726</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009726, issued on 13 Oct. 2021, issued  in Kabul, Afghanistan, expires 13 Oct. 2026 (Name in Latin script: Mohammad Fadel Aakhund; name in original script: محمد آخوند فاضل)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009726, issued on 13 Oct. 2021, issued in Kabul, Afghanistan</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -3307,8 +3307,8 @@
       <Individual>
         <DOBs>
           <DOB>dd/mm/1960</DOB>
-          <DOB>01/01/1967</DOB>
           <DOB>dd/mm/1961</DOB>
+          <DOB>01/01/1967</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -3321,8 +3321,8 @@
         </Nationalities>
         <Positions>
           <Position>Governor of Khost and Paktika provinces under the Taliban regime  (1996-2001)</Position>
-          <Position>Vice-Minister of Information and  Culture under the Taliban regime (1996-2001) </Position>
           <Position>Consular Department, Ministry of Foreign Affairs under the Taliban regime (1996- 2001)</Position>
+          <Position>Vice-Minister of Information and  Culture under the Taliban regime (1996-2001) </Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -4372,8 +4372,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1958</DOB>
           <DOB>22/02/1957</DOB>
+          <DOB>dd/mm/1958</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -4977,8 +4977,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>24/10/1972</DOB>
           <DOB>dd/mm/1971</DOB>
+          <DOB>24/10/1972</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -7953,9 +7953,9 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>22/03/1973</DOB>
           <DOB>dd/mm/1972</DOB>
           <DOB>dd/mm/1973</DOB>
+          <DOB>22/03/1973</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -7974,15 +7974,15 @@
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Uruzgan</TownOfBirth>
-            <CountryOfBirth>Afghanistan</CountryOfBirth>
-          </Location>
-          <Location>
             <TownOfBirth>Sarpolad village, Washer District, Helmand Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
             <TownOfBirth>Arghandab District, Kandahar Province</TownOfBirth>
+            <CountryOfBirth>Afghanistan</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Uruzgan</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -9900,8 +9900,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1972</DOB>
           <DOB>27/07/1976</DOB>
+          <DOB>dd/mm/1972</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -9909,12 +9909,12 @@
             <PassportAdditionalInformation>Issued on 28 Sep. 2022, issued in Kabul, Afghanistan (expires 28 Sep. 2027)</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>D0010408</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>P03318995</PassportNumber>
             <PassportAdditionalInformation>Afghanistan passport, issued on 29 Jul. 2020 (Name in Latin script: Hedayatullah  Hedayat, expires 29 Jul. 2025)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>D0010408</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -10197,14 +10197,14 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1963</DOB>
-          <DOB>dd/mm/1964</DOB>
           <DOB>01/01/1966</DOB>
           <DOB>dd/mm/1958</DOB>
           <DOB>dd/mm/1959</DOB>
           <DOB>dd/mm/1960</DOB>
           <DOB>dd/mm/1961</DOB>
           <DOB>dd/mm/1962</DOB>
+          <DOB>dd/mm/1963</DOB>
+          <DOB>dd/mm/1964</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -17430,13 +17430,13 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressCountry>United Arab Emirates</AddressCountry>
+      </Address>
+      <Address>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
       <Address>
         <AddressCountry>Kuwait</AddressCountry>
-      </Address>
-      <Address>
-        <AddressCountry>United Arab Emirates</AddressCountry>
       </Address>
     </Addresses>
   </Designation>
@@ -24146,8 +24146,8 @@ name: Abdul Rahman. Photo and fingerprints available for inclusion in the INTERP
           <DOB>01/08/1983</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>France</Nationality>
           <Nationality>Tunisia</Nationality>
+          <Nationality>France</Nationality>
         </Nationalities>
         <BirthDetails>
           <Location>
@@ -28710,8 +28710,8 @@ Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>18/03/1966</DOB>
           <DOB>10/03/1967</DOB>
+          <DOB>18/03/1966</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Philippines</Nationality>
@@ -33084,18 +33084,18 @@ November 2021 INTERPOL-UN Security Council Special Notice web link: https://www.
       <Individual>
         <DOBs>
           <DOB>08/08/1980</DOB>
+          <DOB>08/08/1980</DOB>
           <DOB>28/05/1984</DOB>
           <DOB>03/12/1979</DOB>
           <DOB>03/03/1979</DOB>
-          <DOB>08/08/1980</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>S335026</PassportNumber>
-            <PassportAdditionalInformation>Indonesia number S335026 (forged Indonesian passport).</PassportAdditionalInformation>
+            <PassportAdditionalInformation>(information derived from forged Indonesia passport No.S335026)</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportAdditionalInformation>(information derived from forged Indonesia passport No.S335026)</PassportAdditionalInformation>
+            <PassportNumber>S335026</PassportNumber>
+            <PassportAdditionalInformation>Indonesia number S335026 (forged Indonesian passport).</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -43164,8 +43164,8 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>16/03/1993</DOB>
           <DOB>09/05/1993</DOB>
+          <DOB>16/03/1993</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -43178,12 +43178,12 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>CM920231090NZA</NationalIdentifierNumber>
-            <NationalIdentifierAdditionalInformation>(Uganda)</NationalIdentifierAdditionalInformation>
-          </NationalIdentifier>
-          <NationalIdentifier>
             <NationalIdentifierNumber>Z15105123</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Zambia Z15105123, issued on 5. Aug. 2020 (fraudulently acquired under the name Isaac Mupeta, born 9 May 1993 in Lusaka, Zambia, registration number 102523/29/1) </NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>CM920231090NZA</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>(Uganda)</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Genders>
@@ -43271,20 +43271,20 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>01/07/1974</DOB>
           <DOB>01/01/1973</DOB>
+          <DOB>01/07/1974</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Iraq</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>9080002892</NationalIdentifierNumber>
-            <NationalIdentifierAdditionalInformation>National Identification card issued by the Syrian Arab Republic, mother’s name Dahiyah al-Mulhim, DOB: 1 Jan. 1973, POB: Albu Kamal, Syria</NationalIdentifierAdditionalInformation>
-          </NationalIdentifier>
-          <NationalIdentifier>
             <NationalIdentifierNumber>4118 </NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Turkish Residency Card issued on 15 Jan. 2019</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>9080002892</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>National Identification card issued by the Syrian Arab Republic, mother’s name Dahiyah al-Mulhim, DOB: 1 Jan. 1973, POB: Albu Kamal, Syria</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Genders>
@@ -43292,11 +43292,11 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
         </Genders>
         <BirthDetails>
           <Location>
-            <CountryOfBirth>Iraq</CountryOfBirth>
-          </Location>
-          <Location>
             <TownOfBirth>Albu Kamal</TownOfBirth>
             <CountryOfBirth>Syria</CountryOfBirth>
+          </Location>
+          <Location>
+            <CountryOfBirth>Iraq</CountryOfBirth>
           </Location>
         </BirthDetails>
       </Individual>
@@ -62789,13 +62789,13 @@ SC Signal is an involved person under the Chemical Weapons (Sanctions) (EU Exit)
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>8 Bolshaya Olenya Street</AddressLine1>
+        <AddressLine1>16A Nagatinskaya Street</AddressLine1>
         <AddressLine2>Sokolniki Municipal District</AddressLine2>
         <AddressLine6>Moscow</AddressLine6>
         <AddressCountry>Russia</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>16A Nagatinskaya Street</AddressLine1>
+        <AddressLine1>8 Bolshaya Olenya Street</AddressLine1>
         <AddressLine2>Sokolniki Municipal District</AddressLine2>
         <AddressLine6>Moscow</AddressLine6>
         <AddressCountry>Russia</AddressCountry>
@@ -96858,10 +96858,10 @@ Paragraph 7(h): CHARLES SEMATAMA, by his involvement with the Twirwaneho and the
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>OP0204168</PassportNumber>
+            <PassportNumber>OB0072391</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>OB0072391</PassportNumber>
+            <PassportNumber>OP0204168</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -100902,26 +100902,26 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>CK23926</PassportNumber>
-          </Passport>
-          <Passport>
             <PassportNumber>564196270</PassportNumber>
             <PassportAdditionalInformation>Issued 23/12/2019 </PassportAdditionalInformation>
           </Passport>
+          <Passport>
+            <PassportNumber>CK23926</PassportNumber>
+          </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Kenya</Nationality>
           <Nationality>United Kingdom</Nationality>
+          <Nationality>Kenya</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
         </Genders>
         <BirthDetails>
           <Location>
+            <TownOfBirth>Mombasa</TownOfBirth>
             <CountryOfBirth>Kenya</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Mombasa</TownOfBirth>
             <CountryOfBirth>Kenya</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -115058,9 +115058,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </PassportDetails>
         <Nationalities>
           <Nationality>St Kitts and Nevis</Nationality>
+          <Nationality>Cambodia</Nationality>
           <Nationality>China</Nationality>
           <Nationality>Cyprus</Nationality>
-          <Nationality>Cambodia</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -115664,8 +115664,8 @@ The Secretary of State considers that there are reasonable grounds to suspect Be
           <DOB>10/09/1969</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Israel</Nationality>
           <Nationality>United States</Nationality>
+          <Nationality>Israel</Nationality>
         </Nationalities>
       </Individual>
     </IndividualDetails>
@@ -118320,9 +118320,9 @@ of individuals in countries like Bangladesh, Iraq, India and Yemen to Ukraine vi
           <DOB>28/05/1974</DOB>
         </DOBs>
         <Nationalities>
+          <Nationality>Russia</Nationality>
           <Nationality>Syria</Nationality>
           <Nationality>Iraq</Nationality>
-          <Nationality>Russia</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
@@ -118823,10 +118823,10 @@ Specifically, engaged in the recruitment of Indian nationals using deception and
           <TypeOfEntity>Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>India PAN - AAYCA2604D</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>
 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Corporate Identification Number (CIN): U74999HR2023OPC109285</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>India PAN - AAYCA2604D</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -119314,8 +119314,8 @@ Specifically, BABA VLOGS OVERSEAS RECRUITMENT SOLUTIONS PRIVATE LIMITED engaged 
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>India PAN: AALCB8806B</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>India CIN: U78100MH2023PTC409367</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>India PAN: AALCB8806B</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -156685,20 +156685,20 @@ ANSARI has facilitated and provided support to hostile activity by the Governmen
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>RE003666</PassportNumber>
-            <PassportAdditionalInformation>St Kitts &amp; Nevis</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>L00017629 </PassportNumber>
-            <PassportAdditionalInformation>Cyprus</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>B65348454</PassportNumber>
             <PassportAdditionalInformation>Iran</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>P41219058</PassportNumber>
             <PassportAdditionalInformation>Iran</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>L00017629 </PassportNumber>
+            <PassportAdditionalInformation>Cyprus</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>RE003666</PassportNumber>
+            <PassportAdditionalInformation>St Kitts &amp; Nevis</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -157283,15 +157283,15 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>12/03/1974</DOB>
           <DOB>12/03/1971</DOB>
+          <DOB>12/03/1974</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>L18597666</PassportNumber>
+            <PassportNumber>L95279398</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>L95279398</PassportNumber>
+            <PassportNumber>L18597666</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -157879,8 +157879,8 @@ Mansour ZARRINGHALAM is or has been involved in conduct which facilitates hostil
           <DOB>22/03/1963</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Iran</Nationality>
           <Nationality>St Kitts and Nevis</Nationality>
+          <Nationality>Iran</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -157937,8 +157937,8 @@ Nasser ZARRINGHALAM is or has been involved in conduct which facilitates hostile
           <DOB>28/09/1960</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>St Kitts and Nevis</Nationality>
           <Nationality>Iran</Nationality>
+          <Nationality>St Kitts and Nevis</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -158010,8 +158010,8 @@ Pouria ZARRINGHALAM is associated with persons who have been involved in activit
           <DOB>28/08/1996</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>United Kingdom</Nationality>
           <Nationality>St Kitts and Nevis</Nationality>
+          <Nationality>United Kingdom</Nationality>
           <Nationality>Iran</Nationality>
         </Nationalities>
         <Genders>
@@ -221127,14 +221127,14 @@ The Secretary of State has reasonable grounds to suspect that Mikhail Maratovich
           <DOB>21/04/1964</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Israel</Nationality>
           <Nationality>Russia</Nationality>
+          <Nationality>Israel</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Shareholder of ABH Holdings S.A</Position>
+          <Position>Former Chairman of the Supervisory Board of Alfa Group Consortium</Position>
           <Position>Former Member of the Board of Directors of ABH Holdings S.A</Position>
           <Position>Former Member of the Board of Directors of Alfa-Bank Russia</Position>
-          <Position>Former Chairman of the Supervisory Board of Alfa Group Consortium</Position>
+          <Position>Shareholder of ABH Holdings S.A</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -265297,9 +265297,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Israel</Nationality>
-          <Nationality>Russia</Nationality>
           <Nationality>Cyprus</Nationality>
+          <Nationality>Russia</Nationality>
+          <Nationality>Israel</Nationality>
         </Nationalities>
         <Positions>
           <Position>Associate of Oleg Deripaska</Position>
@@ -330281,9 +330281,9 @@ Federalnoe Kazennoe Predpriiatie Gosudarstvennyi Nauchno Issledovatelskii Instit
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>+7 (843) 564-60-03 </PhoneNumber>
       <PhoneNumber>+7 (843) 560-20-12 </PhoneNumber>
       <PhoneNumber>+7 (843) 555-68-30</PhoneNumber>
-      <PhoneNumber>+7 (843) 564-60-03 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.gniihp.ru/ </Website>
@@ -333121,15 +333121,15 @@ The Secretary of State considers that there are reasonable grounds to suspect th
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>80/1, Moskovskaya Street</AddressLine1>
-        <AddressLine6>Bishkek</AddressLine6>
-        <AddressPostalCode>720021</AddressPostalCode>
-        <AddressCountry>Kyrgyzstan</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>40/4, Togolok Moldo</AddressLine1>
         <AddressLine6>Bishkek</AddressLine6>
         <AddressPostalCode>720001</AddressPostalCode>
+        <AddressCountry>Kyrgyzstan</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>80/1, Moskovskaya Street</AddressLine1>
+        <AddressLine6>Bishkek</AddressLine6>
+        <AddressPostalCode>720021</AddressPostalCode>
         <AddressCountry>Kyrgyzstan</AddressCountry>
       </Address>
     </Addresses>
@@ -363590,7 +363590,7 @@ NAYARA ENERGY LIMITED is an involved person under the Russia (Sanctions) (EU Exi
     </Websites>
   </Designation>
   <Designation>
-    <LastUpdated>15/10/2025</LastUpdated>
+    <LastUpdated>10/11/2026</LastUpdated>
     <DateDesignated>15/10/2025</DateDesignated>
     <UniqueID>RUS3066</UniqueID>
     <OFSIGroupID>17171</OFSIGroupID>
@@ -363622,7 +363622,7 @@ NAYARA ENERGY LIMITED is an involved person under the Russia (Sanctions) (EU Exi
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
     <UKStatementofReasons>
-ALT CAPITAL is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by making available goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.  
+The Secretary of State considers that there are reasonable grounds to suspect that ALT CAPITAL is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by making available funds, economic resources, goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
 </UKStatementofReasons>
     <Addresses>
       <Address>
@@ -363646,7 +363646,7 @@ ALT CAPITAL is or has been involved in destabilising Ukraine or undermining or t
     </EntityDetails>
   </Designation>
   <Designation>
-    <LastUpdated>15/10/2025</LastUpdated>
+    <LastUpdated>10/11/2026</LastUpdated>
     <DateDesignated>15/10/2025</DateDesignated>
     <UniqueID>RUS3067</UniqueID>
     <OFSIGroupID>17172</OFSIGroupID>
@@ -363686,24 +363686,36 @@ ALT CAPITAL is or has been involved in destabilising Ukraine or undermining or t
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
     <UKStatementofReasons>
-Vladislav GROMOV  is an "involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because he is, or has been, involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by managing an entity, ALT CAPITAL PTE LTD, which is making available goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
+The Secretary of State considers that there are reasonable grounds to suspect that Vladislav GROMOV is an "involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because he is, or has been, involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine by managing an entity, ALT CAPITAL PTE LTD, which is making available funds, economic resources, goods or technology that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine.
 </UKStatementofReasons>
     <IndividualDetails>
       <Individual>
         <DOBs>
           <DOB>23/03/1970</DOB>
         </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>LT244011</PassportNumber>
+            <PassportAdditionalInformation>New Zealand</PassportAdditionalInformation>
+          </Passport>
+        </PassportDetails>
         <Nationalities>
           <Nationality>New Zealand</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
         </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Belgorod-Dnestrovskiy</TownOfBirth>
+            <CountryOfBirth>Ukraine</CountryOfBirth>
+          </Location>
+        </BirthDetails>
       </Individual>
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>23/10/2025</LastUpdated>
+    <LastUpdated>10/11/2026</LastUpdated>
     <DateDesignated>15/10/2025</DateDesignated>
     <UniqueID>RUS3068</UniqueID>
     <OFSIGroupID>17173</OFSIGroupID>
@@ -363736,7 +363748,8 @@ Vladislav GROMOV  is an "involved person" under the Russia (Sanctions) (EU Exi
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
     <UKStatementofReasons>
-Narmina DADASHOVA is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by owning or controlling directly or indirectly, or working as a director, trustee, or other manager or equivalent of ALT CAPITAL PTE LTD, an entity that is or has been providing financial services, or making available funds, economic resources, goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
+The Secretary of State considers that there are reasonable grounds to suspect that Narmina DADASHOVA is an involved person on the basis of the following grounds: (1) Narmina DADASHOVA is or has been involved in destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine, by owning or controlling directly or indirectly, or working as a director, trustee, or other manager or equivalent of ALT CAPITAL PTE LTD, an entity that is or has been providing financial services, or making available funds, economic resources, goods or technology, that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine; 
+ (2) Narmina DADASHOVA has also been involved in obtaining a benefit from or supporting the Government of Russia through working as a manager of an entity (Mechel Carbon Pte Ltd) carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian extractives sector.
 </UKStatementofReasons>
     <Addresses>
       <Address>
@@ -363750,9 +363763,21 @@ Narmina DADASHOVA is or has been involved in destabilising Ukraine or underminin
         <DOBs>
           <DOB>20/10/1982</DOB>
         </DOBs>
+        <PassportDetails>
+          <Passport>
+            <PassportNumber>K4296297D</PassportNumber>
+            <PassportAdditionalInformation>Singapore</PassportAdditionalInformation>
+          </Passport>
+        </PassportDetails>
         <Nationalities>
           <Nationality>Singapore</Nationality>
         </Nationalities>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>S8276308B</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Singaporean National ID number</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
         <Positions>
           <Position>Owner of ALT Capital PTE Ltd </Position>
           <Position>Owner of METAFLARE PTE LTD</Position>
@@ -363761,6 +363786,12 @@ Narmina DADASHOVA is or has been involved in destabilising Ukraine or underminin
         <Genders>
           <Gender>Female</Gender>
         </Genders>
+        <BirthDetails>
+          <Location>
+            <TownOfBirth>Baku</TownOfBirth>
+            <CountryOfBirth>Azerbaijan</CountryOfBirth>
+          </Location>
+        </BirthDetails>
       </Individual>
     </IndividualDetails>
   </Designation>
@@ -363854,15 +363885,15 @@ PERGAM-ENGINEERING JSC is an “involved person” under the Russia (Sanctions
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 812 3171120</PhoneNumber>
       <PhoneNumber>+7(495) 775-75-25 </PhoneNumber>
+      <PhoneNumber>+7 812 3171120</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.pergam.ru/ </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>vip@pergam.ru </EmailAddress>
       <EmailAddress>info@pergam.ru </EmailAddress>
+      <EmailAddress>vip@pergam.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -364124,15 +364155,15 @@ HORSWAY TECH (HK) CO., LIMITED is an "involved person" under the Russia (Sanctio
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Flat/Rm 2003 20/F Hong Kong Plaza</AddressLine1>
-        <AddressLine2>188 Connaught Road West</AddressLine2>
+        <AddressLine1>Rm 1318, Sunbeam Centre</AddressLine1>
+        <AddressLine2>27 Shing Yip Street</AddressLine2>
+        <AddressLine5>Kwun Tong</AddressLine5>
         <AddressLine6>Hong Kong</AddressLine6>
         <AddressCountry>China</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Rm 1318, Sunbeam Centre</AddressLine1>
-        <AddressLine2>27 Shing Yip Street</AddressLine2>
-        <AddressLine5>Kwun Tong</AddressLine5>
+        <AddressLine1>Flat/Rm 2003 20/F Hong Kong Plaza</AddressLine1>
+        <AddressLine2>188 Connaught Road West</AddressLine2>
         <AddressLine6>Hong Kong</AddressLine6>
         <AddressCountry>China</AddressCountry>
       </Address>
@@ -364420,15 +364451,15 @@ The Secretary of State has reasonable grounds to suspect that JSC SOLID BANK is 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 924 75 00 </PhoneNumber>
       <PhoneNumber>8 (800) 775-56-06 </PhoneNumber>
+      <PhoneNumber>+7 495 924 75 00 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://solidbank.ru </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>ckp@solidbank.ru </EmailAddress>
       <EmailAddress>bank@solidbank.ru </EmailAddress>
+      <EmailAddress>ckp@solidbank.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -364730,10 +364761,10 @@ JSC BBR BANK is or has been obtaining a benefit from or supporting the Governmen
       <Entity>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>BIK (RU): 044525769 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>SWIFT CODE: BADJRUMM </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN: 3900001002 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP: 770401001 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>SWIFT CODE: BADJRUMM </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -369260,10 +369291,10 @@ The Secretary of State has reasonable grounds to suspect that FARGONA KIMYO ZAVO
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+998 93 501 03 32</PhoneNumber>
       <PhoneNumber>+998 90 231 31 49</PhoneNumber>
       <PhoneNumber>+998 90 533 64 84</PhoneNumber>
       <PhoneNumber>+998 91 681 82 14</PhoneNumber>
+      <PhoneNumber>+998 93 501 03 32</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://fergchem.com/</Website>
@@ -369331,8 +369362,8 @@ The Secretary of State has reasonable grounds to suspect that GELION BUSINESS TR
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+998 90 924 66 65</PhoneNumber>
       <PhoneNumber>+998 94 100-80-55</PhoneNumber>
+      <PhoneNumber>+998 90 924 66 65</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://gelion.uz/ </Website>
@@ -380813,10 +380844,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
-      <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
       <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
+      <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
       <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
+      <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://tochka.com</Website>
@@ -381158,9 +381189,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>8(800)1000 600</PhoneNumber>
+      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
       <PhoneNumber>8(343)355 75 75</PhoneNumber>
       <PhoneNumber>8(495)771 70 95</PhoneNumber>
-      <PhoneNumber>+7 343 355 75 75</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>http://sinara.ru</Website>
@@ -381168,9 +381199,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Websites>
     <EmailAddresses>
       <EmailAddress>clients@skbbank.ru</EmailAddress>
+      <EmailAddress>orders@delo.ru</EmailAddress>
       <EmailAddress>digital@sinara.ru</EmailAddress>
       <EmailAddress>orders@sinara.ru</EmailAddress>
-      <EmailAddress>orders@delo.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -381259,12 +381290,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
+          <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
           <Position>Minority shareholder of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of LLC NATSPROMKOMPLEKT</Position>
           <Position>Co-owner of LLC NATSPROMRESURS</Position>
           <Position>President of LLC UNIMATIC</Position>
-          <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -381351,12 +381382,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Owner of LLC UNIMATIC</Position>
-          <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>Owner of LLC HUSTLE SHIFT</Position>
           <Position>Owner of LLC 2D6</Position>
           <Position>Owner of LLC GRAVITAL</Position>
+          <Position>Owner of LLC UNIMATIC</Position>
+          <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -381643,9 +381674,9 @@ is an "involved person" under the Russian (Sanctions) (EU Exit) Regulations 2019
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>18260406767</PhoneNumber>
       <PhoneNumber>+86-0517-88297588</PhoneNumber>
       <PhoneNumber>+86-0517-88297770</PhoneNumber>
+      <PhoneNumber>18260406767</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>qzmtt.com</Website>
@@ -381714,8 +381745,8 @@ The Secretary of State considers there are reasonable grounds to suspect that NI
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 62766789</PhoneNumber>
       <PhoneNumber>+86 574 6276 6276</PhoneNumber>
+      <PhoneNumber>+86 62766789</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.skymaster.com.cn</Website>
@@ -381929,8 +381960,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN – 7802931751 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN - 1227800139071 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN – 7802931751 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -382670,8 +382701,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1152901005795</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 2901259450</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1152901005795</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -383397,8 +383428,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86-411-88702340</PhoneNumber>
       <PhoneNumber>+86-13889429555</PhoneNumber>
+      <PhoneNumber>+86-411-88702340</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.chineselathe.com/</Website>
@@ -384252,16 +384283,16 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 777-71-71 </PhoneNumber>
       <PhoneNumber>+7 495 777-71-75 </PhoneNumber>
+      <PhoneNumber>+7 495 777-71-71 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.absolutbank.ru </Website>
       <Website>www.absolutbank.com </Website>
+      <Website>www.absolutbank.ru </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@absolutbank.ru</EmailAddress>
       <EmailAddress>anti.corr@absolutbank.ru </EmailAddress>
+      <EmailAddress>info@absolutbank.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -385151,8 +385182,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN - 1167847135059</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN – 7805349407</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN - 1167847135059</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -385504,8 +385535,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1027700311760 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 7728173890 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1027700311760 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -385693,8 +385724,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 3810081395</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1193850025467</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 3810081395</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -385950,8 +385981,8 @@ involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1027810256473 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1027810256473 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -386386,12 +386417,12 @@ involved in destabilising Ukraine or undermining or threatening the territorial 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+852 6131 1855</PhoneNumber>
       <PhoneNumber>+852 6745 7255</PhoneNumber>
+      <PhoneNumber>+852 6131 1855</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>m9logisitcs.cn</Website>
       <Website>m9logistics.com</Website>
+      <Website>m9logisitcs.cn</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>sales.hk@m9logistics.com</EmailAddress>
@@ -386405,8 +386436,8 @@ involved in destabilising Ukraine or undermining or threatening the territorial 
           <Subsidiary>M9 LOGISTICS CO., LTD.</Subsidiary>
         </Subsidiaries>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>Business Registration Number - 67092371</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>CR number: 2469563 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Business Registration Number - 67092371</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -386486,10 +386517,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>+7 812 6355070</PhoneNumber>
       <PhoneNumber>+8 800 5050040</PhoneNumber>
       <PhoneNumber>+ 7 812 6355088</PhoneNumber>
       <PhoneNumber>+7 812 3279090</PhoneNumber>
-      <PhoneNumber>+7 812 6355070</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.eltech.spb.ru/</Website>
@@ -386864,8 +386895,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>090-970-9725 </PhoneNumber>
       <PhoneNumber>+66992731367 </PhoneNumber>
+      <PhoneNumber>090-970-9725 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://canopus.in.th/  </Website>
@@ -387241,8 +387272,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Owner of LLC Zavod Santeks</Position>
           <Position>Owner of LLC Shefmontazh</Position>
+          <Position>Owner of LLC Zavod Santeks</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -387323,9 +387354,9 @@ The Secretary of State considers that there are reasonable grounds to suspect
       <Website>m9logistics.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>de@cn.m9logistics.com</EmailAddress>
       <EmailAddress>accountant@cn.m9logistics.com</EmailAddress>
       <EmailAddress>niceluohuan@163.com</EmailAddress>
+      <EmailAddress>de@cn.m9logistics.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -387410,8 +387441,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1177456043907</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 7453309640</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1177456043907</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -393397,8 +393428,8 @@ NUEVA CRYPTOLOGIA, SOCIEDAD POR ACCIONES SIMPLIFICADA DE CAPITAL VARIABLE (S.A.S
       <Website>https://abcex.io/</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>support@abcex.io</EmailAddress>
       <EmailAddress>legal@abcex.io</EmailAddress>
+      <EmailAddress>support@abcex.io</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -393570,16 +393601,16 @@ RAPIRA GROUP LLC is an involved person under the Russia (Sanctions) (EU Exit) Re
       </Address>
     </Addresses>
     <Websites>
+      <Website>Rapiras.ru</Website>
+      <Website>Rapira.net</Website>
       <Website>Rapira.io</Website>
       <Website>Rapira.org</Website>
       <Website>Rapira24.ru</Website>
-      <Website>Rapira.net</Website>
-      <Website>Rapiras.ru</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>mail@rapira.org</EmailAddress>
-      <EmailAddress>support@rapira.net</EmailAddress>
       <EmailAddress>support@rapira.org</EmailAddress>
+      <EmailAddress>support@rapira.net</EmailAddress>
+      <EmailAddress>mail@rapira.org</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -394817,8 +394848,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8-800-2008-600</PhoneNumber>
       <PhoneNumber>Fax +7 (495) 967-8133</PhoneNumber>
+      <PhoneNumber>8-800-2008-600</PhoneNumber>
       <PhoneNumber>+7 (495) 967-8182</PhoneNumber>
       <PhoneNumber>+7 (499) 300-9832</PhoneNumber>
     </PhoneNumbers>
@@ -394922,9 +394953,9 @@ The Secretary of State considers that there are reasonable grounds to suspect JO
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>+7 499 253-31-33</PhoneNumber>
       <PhoneNumber>+7 495 787-37-96</PhoneNumber>
       <PhoneNumber>+7 (495) 221-60-35</PhoneNumber>
-      <PhoneNumber>+7 499 253-31-33</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://bank.yandex.ru</Website>
@@ -395024,8 +395055,8 @@ LIMITED LIABILITY COMPANY "WILDBERRIES BANK" is or has been obtaining a benefit 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 800 600-60-06</PhoneNumber>
       <PhoneNumber>8 800 770-77-70</PhoneNumber>
+      <PhoneNumber>8 800 600-60-06</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://wb-bank.ru/</Website>
@@ -395893,8 +395924,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 800 250 06 79</PhoneNumber>
       <PhoneNumber>8 843 278 38 38</PhoneNumber>
+      <PhoneNumber>8 800 250 06 79</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>pegas.company </Website>
@@ -395908,8 +395939,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1165275076031 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 1658159962</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1165275076031 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -395970,15 +396001,15 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 0755 86018996 </PhoneNumber>
       <PhoneNumber>+86 755 8666 5669 </PhoneNumber>
+      <PhoneNumber>+86 0755 86018996 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.harxon.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>wanyanni@harxon.com</EmailAddress>
       <EmailAddress>sales@harxon.com </EmailAddress>
+      <EmailAddress>wanyanni@harxon.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -396803,8 +396834,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Website>21komposit.ru  </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>overseas@21kompozit.ru</EmailAddress>
       <EmailAddress>sales@21kompozit.ru</EmailAddress>
+      <EmailAddress>overseas@21kompozit.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -396812,8 +396843,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company  </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 2130159236 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1152130010890</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 2130159236 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -400424,8 +400455,8 @@ NORTHERN ENGINEERING LIMITED LIABILITY COMPANY is an involved entity under the R
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 9729417656 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1267700105012 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 9729417656 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -401032,8 +401063,8 @@ The Secretary of State considers that there are reasonable grounds to suspect LI
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 (800) 555-89-21</PhoneNumber>
-      <PhoneNumber>+7 (495) 215-24-08</PhoneNumber>
       <PhoneNumber>+7 (800) 555-89-82</PhoneNumber>
+      <PhoneNumber>+7 (495) 215-24-08</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://t.me/ozon_bank_official</Website>
@@ -401137,8 +401168,8 @@ The Secretary of State considers that there are reasonable grounds to suspect ST
       <PhoneNumber>+7 (495) 967-07-67</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.eximbank.ru</Website>
       <Website>http://www.eximbank.ru</Website>
+      <Website>www.eximbank.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>mailbox@eximbank.ru</EmailAddress>
@@ -401514,13 +401545,13 @@ JSC TELEPORT BANK is or has been obtaining a benefit from or supporting the Gove
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>OGRN: 1077711000080</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>KPP 997950001</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>BIK 044525273</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OKPO 09141558</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OKVED 64.19</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>BIK 044525273</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN 7750004175
 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP 770601001</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>KPP 997950001</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -402628,8 +402659,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <DOB>23/05/1977</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Georgia</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
           <Position>International Secretary, Solidarity for Peace </Position>
@@ -404039,12 +404070,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <PhoneNumber>+7 (495) 229-00-50</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>https://open.capitalkredit.ru</Website>
-      <Website>http://bankck.ru</Website>
       <Website>http:// bankstolichnykredit.rf</Website>
+      <Website>http://bankck.ru</Website>
       <Website>http:// kbstolichnycredit.rf</Website>
       <Website>http://www.bankintegral.ru</Website>
       <Website>http://www.capitalkredit.ru</Website>
+      <Website>https://open.capitalkredit.ru</Website>
     </Websites>
     <EntityDetails>
       <Entity>
@@ -404225,8 +404256,8 @@ and activities linked to and continued via HELEKET.
       </Address>
     </Addresses>
     <Websites>
-      <Website>https://heleket.com/</Website>
       <Website>www.Cryptomus.com</Website>
+      <Website>https://heleket.com/</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>support@cryptomus.com</EmailAddress>
@@ -404508,8 +404539,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (495) 646 28 24 </PhoneNumber>
       <PhoneNumber>+7 (4742) 75-50-01</PhoneNumber>
+      <PhoneNumber>+7 (495) 646 28 24 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://prime-top.ru/</Website>
@@ -404524,8 +404555,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 4802024282</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1124802000905</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 4802024282</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -411773,16 +411804,16 @@ action, policy or activity which threatens the peace, stability and security of 
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>AP628498</PassportNumber>
-          </Passport>
-          <Passport>
             <PassportNumber>YB7731256</PassportNumber>
             <PassportAdditionalInformation>Expires 01 Mar 2031</PassportAdditionalInformation>
           </Passport>
+          <Passport>
+            <PassportNumber>AP628498</PassportNumber>
+          </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Colombia</Nationality>
           <Nationality>Italy</Nationality>
+          <Nationality>Colombia</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
@@ -411791,8 +411822,8 @@ action, policy or activity which threatens the peace, stability and security of 
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Retired Army Colonel </Position>
           <Position>Recruiter for A4SI (INTERNATIONAL SERVICES AGENCY S.A.S)</Position>
+          <Position>Retired Army Colonel </Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -411884,8 +411915,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </Nationalities>
         <Positions>
           <Position>Senior SAF Commander</Position>
-          <Position>Head of the Sudan Shield Forces</Position>
           <Position>Former Senior RSF Commander</Position>
+          <Position>Head of the Sudan Shield Forces</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -412276,19 +412307,19 @@ Al-Goney has controlled the RSF front company Tradive General Trading, which imp
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>B00024943</PassportNumber>
-            <PassportAdditionalInformation>Expires 27 Sep 2031</PassportAdditionalInformation>
+            <PassportNumber>AK1586127</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>AK1586127</PassportNumber>
+            <PassportNumber>B00024943</PassportNumber>
+            <PassportAdditionalInformation>Expires 27 Sep 2031</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>B00017334</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Sudan</Nationality>
           <Nationality>Kenya</Nationality>
+          <Nationality>Sudan</Nationality>
           <Nationality>Sudan</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
@@ -412988,23 +413019,23 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Individual>
         <PassportDetails>
           <Passport>
-            <PassportNumber>PU683987</PassportNumber>
+            <PassportNumber> FM684476</PassportNumber>
           </Passport>
           <Passport>
             <PassportNumber> PU669310</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>FB793884</PassportNumber>
+            <PassportNumber>PU683987</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber> FM684476</PassportNumber>
+            <PassportNumber>FB793884</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
           <Nationality>Ukraine</Nationality>
           <Nationality>Ukraine</Nationality>
-          <Nationality>Sudan</Nationality>
           <Nationality>Ukraine</Nationality>
+          <Nationality>Sudan</Nationality>
           <Nationality>Ukraine</Nationality>
         </Nationalities>
         <Genders>
