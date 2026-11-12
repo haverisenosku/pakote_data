@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>10/11/2026</DateGenerated>
+  <DateGenerated>12/11/2026</DateGenerated>
   <Designation>
     <LastUpdated>04/08/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -2314,22 +2314,22 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1963</DOB>
-          <DOB>dd/mm/1964</DOB>
-          <DOB>dd/mm/1965</DOB>
           <DOB>dd/mm/1966</DOB>
           <DOB>dd/mm/1967</DOB>
           <DOB>dd/mm/1968</DOB>
           <DOB>24/10/1971</DOB>
+          <DOB>dd/mm/1963</DOB>
+          <DOB>dd/mm/1964</DOB>
+          <DOB>dd/mm/1965</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
             <PassportNumber>D0009726</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009726, issued on 13 Oct. 2021, issued  in Kabul, Afghanistan, expires 13 Oct. 2026 (Name in Latin script: Mohammad Fadel Aakhund; name in original script: محمد آخوند فاضل)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009726, issued on 13 Oct. 2021, issued in Kabul, Afghanistan</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>D0009726</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009726, issued on 13 Oct. 2021, issued in Kabul, Afghanistan</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009726, issued on 13 Oct. 2021, issued  in Kabul, Afghanistan, expires 13 Oct. 2026 (Name in Latin script: Mohammad Fadel Aakhund; name in original script: محمد آخوند فاضل)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -3307,8 +3307,8 @@
       <Individual>
         <DOBs>
           <DOB>dd/mm/1960</DOB>
-          <DOB>dd/mm/1961</DOB>
           <DOB>01/01/1967</DOB>
+          <DOB>dd/mm/1961</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -3321,8 +3321,8 @@
         </Nationalities>
         <Positions>
           <Position>Governor of Khost and Paktika provinces under the Taliban regime  (1996-2001)</Position>
-          <Position>Consular Department, Ministry of Foreign Affairs under the Taliban regime (1996- 2001)</Position>
           <Position>Vice-Minister of Information and  Culture under the Taliban regime (1996-2001) </Position>
+          <Position>Consular Department, Ministry of Foreign Affairs under the Taliban regime (1996- 2001)</Position>
         </Positions>
         <BirthDetails>
           <Location>
@@ -4372,8 +4372,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>22/02/1957</DOB>
           <DOB>dd/mm/1958</DOB>
+          <DOB>22/02/1957</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -4977,8 +4977,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1971</DOB>
           <DOB>24/10/1972</DOB>
+          <DOB>dd/mm/1971</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -17430,13 +17430,13 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressCountry>Kuwait</AddressCountry>
+      </Address>
+      <Address>
         <AddressCountry>United Arab Emirates</AddressCountry>
       </Address>
       <Address>
         <AddressCountry>Afghanistan</AddressCountry>
-      </Address>
-      <Address>
-        <AddressCountry>Kuwait</AddressCountry>
       </Address>
     </Addresses>
   </Designation>
@@ -33084,18 +33084,18 @@ November 2021 INTERPOL-UN Security Council Special Notice web link: https://www.
       <Individual>
         <DOBs>
           <DOB>08/08/1980</DOB>
-          <DOB>08/08/1980</DOB>
           <DOB>28/05/1984</DOB>
           <DOB>03/12/1979</DOB>
           <DOB>03/03/1979</DOB>
+          <DOB>08/08/1980</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportAdditionalInformation>(information derived from forged Indonesia passport No.S335026)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>S335026</PassportNumber>
             <PassportAdditionalInformation>Indonesia number S335026 (forged Indonesian passport).</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportAdditionalInformation>(information derived from forged Indonesia passport No.S335026)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -43164,8 +43164,8 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>09/05/1993</DOB>
           <DOB>16/03/1993</DOB>
+          <DOB>09/05/1993</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -43178,12 +43178,12 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>Z15105123</NationalIdentifierNumber>
-            <NationalIdentifierAdditionalInformation>Zambia Z15105123, issued on 5. Aug. 2020 (fraudulently acquired under the name Isaac Mupeta, born 9 May 1993 in Lusaka, Zambia, registration number 102523/29/1) </NationalIdentifierAdditionalInformation>
-          </NationalIdentifier>
-          <NationalIdentifier>
             <NationalIdentifierNumber>CM920231090NZA</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>(Uganda)</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>Z15105123</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Zambia Z15105123, issued on 5. Aug. 2020 (fraudulently acquired under the name Isaac Mupeta, born 9 May 1993 in Lusaka, Zambia, registration number 102523/29/1) </NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Genders>
@@ -43271,20 +43271,20 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>01/01/1973</DOB>
           <DOB>01/07/1974</DOB>
+          <DOB>01/01/1973</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Iraq</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>4118 </NationalIdentifierNumber>
-            <NationalIdentifierAdditionalInformation>Turkish Residency Card issued on 15 Jan. 2019</NationalIdentifierAdditionalInformation>
-          </NationalIdentifier>
-          <NationalIdentifier>
             <NationalIdentifierNumber>9080002892</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>National Identification card issued by the Syrian Arab Republic, mother’s name Dahiyah al-Mulhim, DOB: 1 Jan. 1973, POB: Albu Kamal, Syria</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>4118 </NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>Turkish Residency Card issued on 15 Jan. 2019</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Genders>
@@ -43292,11 +43292,11 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Albu Kamal</TownOfBirth>
-            <CountryOfBirth>Syria</CountryOfBirth>
+            <CountryOfBirth>Iraq</CountryOfBirth>
           </Location>
           <Location>
-            <CountryOfBirth>Iraq</CountryOfBirth>
+            <TownOfBirth>Albu Kamal</TownOfBirth>
+            <CountryOfBirth>Syria</CountryOfBirth>
           </Location>
         </BirthDetails>
       </Individual>
@@ -96858,10 +96858,10 @@ Paragraph 7(h): CHARLES SEMATAMA, by his involvement with the Twirwaneho and the
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>OB0072391</PassportNumber>
+            <PassportNumber>OP0204168</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>OP0204168</PassportNumber>
+            <PassportNumber>OB0072391</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -115058,9 +115058,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </PassportDetails>
         <Nationalities>
           <Nationality>St Kitts and Nevis</Nationality>
-          <Nationality>Cambodia</Nationality>
           <Nationality>China</Nationality>
           <Nationality>Cyprus</Nationality>
+          <Nationality>Cambodia</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -115664,8 +115664,8 @@ The Secretary of State considers that there are reasonable grounds to suspect Be
           <DOB>10/09/1969</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>United States</Nationality>
           <Nationality>Israel</Nationality>
+          <Nationality>United States</Nationality>
         </Nationalities>
       </Individual>
     </IndividualDetails>
@@ -118320,9 +118320,9 @@ of individuals in countries like Bangladesh, Iraq, India and Yemen to Ukraine vi
           <DOB>28/05/1974</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Syria</Nationality>
           <Nationality>Iraq</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
@@ -118823,10 +118823,10 @@ Specifically, engaged in the recruitment of Indian nationals using deception and
           <TypeOfEntity>Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>India PAN - AAYCA2604D</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>
 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Corporate Identification Number (CIN): U74999HR2023OPC109285</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>India PAN - AAYCA2604D</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -119314,8 +119314,8 @@ Specifically, BABA VLOGS OVERSEAS RECRUITMENT SOLUTIONS PRIVATE LIMITED engaged 
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>India CIN: U78100MH2023PTC409367</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>India PAN: AALCB8806B</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>India CIN: U78100MH2023PTC409367</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -157283,15 +157283,15 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>12/03/1971</DOB>
           <DOB>12/03/1974</DOB>
+          <DOB>12/03/1971</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>L95279398</PassportNumber>
+            <PassportNumber>L18597666</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>L18597666</PassportNumber>
+            <PassportNumber>L95279398</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -157879,8 +157879,8 @@ Mansour ZARRINGHALAM is or has been involved in conduct which facilitates hostil
           <DOB>22/03/1963</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>St Kitts and Nevis</Nationality>
           <Nationality>Iran</Nationality>
+          <Nationality>St Kitts and Nevis</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -157937,8 +157937,8 @@ Nasser ZARRINGHALAM is or has been involved in conduct which facilitates hostile
           <DOB>28/09/1960</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Iran</Nationality>
           <Nationality>St Kitts and Nevis</Nationality>
+          <Nationality>Iran</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -158010,8 +158010,8 @@ Pouria ZARRINGHALAM is associated with persons who have been involved in activit
           <DOB>28/08/1996</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>St Kitts and Nevis</Nationality>
           <Nationality>United Kingdom</Nationality>
+          <Nationality>St Kitts and Nevis</Nationality>
           <Nationality>Iran</Nationality>
         </Nationalities>
         <Genders>
@@ -221127,14 +221127,14 @@ The Secretary of State has reasonable grounds to suspect that Mikhail Maratovich
           <DOB>21/04/1964</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Israel</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Former Chairman of the Supervisory Board of Alfa Group Consortium</Position>
+          <Position>Shareholder of ABH Holdings S.A</Position>
           <Position>Former Member of the Board of Directors of ABH Holdings S.A</Position>
           <Position>Former Member of the Board of Directors of Alfa-Bank Russia</Position>
-          <Position>Shareholder of ABH Holdings S.A</Position>
+          <Position>Former Chairman of the Supervisory Board of Alfa Group Consortium</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -265298,8 +265298,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </PassportDetails>
         <Nationalities>
           <Nationality>Cyprus</Nationality>
-          <Nationality>Russia</Nationality>
           <Nationality>Israel</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
           <Position>Associate of Oleg Deripaska</Position>
@@ -330281,8 +330281,8 @@ Federalnoe Kazennoe Predpriiatie Gosudarstvennyi Nauchno Issledovatelskii Instit
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (843) 564-60-03 </PhoneNumber>
       <PhoneNumber>+7 (843) 560-20-12 </PhoneNumber>
+      <PhoneNumber>+7 (843) 564-60-03 </PhoneNumber>
       <PhoneNumber>+7 (843) 555-68-30</PhoneNumber>
     </PhoneNumbers>
     <Websites>
@@ -364451,15 +364451,15 @@ The Secretary of State has reasonable grounds to suspect that JSC SOLID BANK is 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 (800) 775-56-06 </PhoneNumber>
       <PhoneNumber>+7 495 924 75 00 </PhoneNumber>
+      <PhoneNumber>8 (800) 775-56-06 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://solidbank.ru </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>bank@solidbank.ru </EmailAddress>
       <EmailAddress>ckp@solidbank.ru </EmailAddress>
+      <EmailAddress>bank@solidbank.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -364762,9 +364762,9 @@ JSC BBR BANK is or has been obtaining a benefit from or supporting the Governmen
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>BIK (RU): 044525769 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN: 3900001002 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP: 770401001 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>SWIFT CODE: BADJRUMM </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -369291,10 +369291,10 @@ The Secretary of State has reasonable grounds to suspect that FARGONA KIMYO ZAVO
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>+998 93 501 03 32</PhoneNumber>
+      <PhoneNumber>+998 91 681 82 14</PhoneNumber>
       <PhoneNumber>+998 90 231 31 49</PhoneNumber>
       <PhoneNumber>+998 90 533 64 84</PhoneNumber>
-      <PhoneNumber>+998 91 681 82 14</PhoneNumber>
-      <PhoneNumber>+998 93 501 03 32</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://fergchem.com/</Website>
@@ -369362,8 +369362,8 @@ The Secretary of State has reasonable grounds to suspect that GELION BUSINESS TR
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+998 94 100-80-55</PhoneNumber>
       <PhoneNumber>+998 90 924 66 65</PhoneNumber>
+      <PhoneNumber>+998 94 100-80-55</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://gelion.uz/ </Website>
@@ -370155,7 +370155,7 @@ The Secretary of State has reasonable grounds to suspect that MERCANTILE &amp; M
     </Websites>
   </Designation>
   <Designation>
-    <LastUpdated>18/12/2025</LastUpdated>
+    <LastUpdated>12/11/2026</LastUpdated>
     <DateDesignated>18/12/2025</DateDesignated>
     <UniqueID>RUS3185</UniqueID>
     <OFSIGroupID>17285</OFSIGroupID>
@@ -370163,10 +370163,6 @@ The Secretary of State has reasonable grounds to suspect that MERCANTILE &amp; M
       <Name>
         <Name6>ALTRUM GROUP FZCO</Name6>
         <NameType>Primary Name</NameType>
-      </Name>
-      <Name>
-        <Name6>NOVUS ENERGY DMCC</Name6>
-        <NameType>Primary Name Variation</NameType>
       </Name>
       <Name>
         <Name6>NOVUS MIDDLE EAST DMCC </Name6>
@@ -380844,10 +380840,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
       <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
       <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
       <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
+      <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://tochka.com</Website>
@@ -381290,12 +381286,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
           <Position>Minority shareholder of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of LLC NATSPROMKOMPLEKT</Position>
           <Position>Co-owner of LLC NATSPROMRESURS</Position>
           <Position>President of LLC UNIMATIC</Position>
+          <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -381596,11 +381592,11 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 512-36825901</PhoneNumber>
       <PhoneNumber>+86 755- 23405269</PhoneNumber>
       <PhoneNumber>+86 755- 27175156</PhoneNumber>
       <PhoneNumber>+86 755-29874501</PhoneNumber>
       <PhoneNumber>+86 0755-29874500</PhoneNumber>
+      <PhoneNumber>+86 512-36825901</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>http://www.sowin-ks.com/</Website>
@@ -381674,9 +381670,9 @@ is an "involved person" under the Russian (Sanctions) (EU Exit) Regulations 2019
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>18260406767</PhoneNumber>
       <PhoneNumber>+86-0517-88297588</PhoneNumber>
       <PhoneNumber>+86-0517-88297770</PhoneNumber>
-      <PhoneNumber>18260406767</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>qzmtt.com</Website>
@@ -381960,8 +381956,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN - 1227800139071 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN – 7802931751 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN - 1227800139071 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -382701,8 +382697,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 2901259450</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1152901005795</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 2901259450</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -383428,8 +383424,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86-13889429555</PhoneNumber>
       <PhoneNumber>+86-411-88702340</PhoneNumber>
+      <PhoneNumber>+86-13889429555</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.chineselathe.com/</Website>
@@ -384283,16 +384279,16 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 777-71-75 </PhoneNumber>
       <PhoneNumber>+7 495 777-71-71 </PhoneNumber>
+      <PhoneNumber>+7 495 777-71-75 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.absolutbank.com </Website>
       <Website>www.absolutbank.ru </Website>
+      <Website>www.absolutbank.com </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>anti.corr@absolutbank.ru </EmailAddress>
       <EmailAddress>info@absolutbank.ru</EmailAddress>
+      <EmailAddress>anti.corr@absolutbank.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -384551,8 +384547,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>INN: 7704113772 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027739553764 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>BIK (RU): 044525341</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Russia Licence No. – 1885 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>BIK (RU): 044525341</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -385182,8 +385178,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN – 7805349407</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN - 1167847135059</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN – 7805349407</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -385535,8 +385531,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 7728173890 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027700311760 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 7728173890 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -385724,8 +385720,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1193850025467</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 3810081395</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1193850025467</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -385981,8 +385977,8 @@ involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027810256473 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN - 7826059466</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -386417,12 +386413,12 @@ involved in destabilising Ukraine or undermining or threatening the territorial 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+852 6745 7255</PhoneNumber>
       <PhoneNumber>+852 6131 1855</PhoneNumber>
+      <PhoneNumber>+852 6745 7255</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>m9logistics.com</Website>
       <Website>m9logisitcs.cn</Website>
+      <Website>m9logistics.com</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>sales.hk@m9logistics.com</EmailAddress>
@@ -386436,8 +386432,8 @@ involved in destabilising Ukraine or undermining or threatening the territorial 
           <Subsidiary>M9 LOGISTICS CO., LTD.</Subsidiary>
         </Subsidiaries>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>CR number: 2469563 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Business Registration Number - 67092371</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>CR number: 2469563 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -386895,8 +386891,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+66992731367 </PhoneNumber>
       <PhoneNumber>090-970-9725 </PhoneNumber>
+      <PhoneNumber>+66992731367 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://canopus.in.th/  </Website>
@@ -387272,8 +387268,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Owner of LLC Shefmontazh</Position>
           <Position>Owner of LLC Zavod Santeks</Position>
+          <Position>Owner of LLC Shefmontazh</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -387346,17 +387342,17 @@ The Secretary of State considers that there are reasonable grounds to suspect
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 021 80125158</PhoneNumber>
       <PhoneNumber>+86 021 52790180</PhoneNumber>
+      <PhoneNumber>+86 021 80125158</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>m9logisitcs.cn</Website>
       <Website>m9logistics.com</Website>
+      <Website>m9logisitcs.cn</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>accountant@cn.m9logistics.com</EmailAddress>
       <EmailAddress>niceluohuan@163.com</EmailAddress>
       <EmailAddress>de@cn.m9logistics.com</EmailAddress>
+      <EmailAddress>accountant@cn.m9logistics.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -393428,8 +393424,8 @@ NUEVA CRYPTOLOGIA, SOCIEDAD POR ACCIONES SIMPLIFICADA DE CAPITAL VARIABLE (S.A.S
       <Website>https://abcex.io/</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>legal@abcex.io</EmailAddress>
       <EmailAddress>support@abcex.io</EmailAddress>
+      <EmailAddress>legal@abcex.io</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -393601,16 +393597,16 @@ RAPIRA GROUP LLC is an involved person under the Russia (Sanctions) (EU Exit) Re
       </Address>
     </Addresses>
     <Websites>
-      <Website>Rapiras.ru</Website>
-      <Website>Rapira.net</Website>
       <Website>Rapira.io</Website>
       <Website>Rapira.org</Website>
       <Website>Rapira24.ru</Website>
+      <Website>Rapira.net</Website>
+      <Website>Rapiras.ru</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>support@rapira.org</EmailAddress>
-      <EmailAddress>support@rapira.net</EmailAddress>
       <EmailAddress>mail@rapira.org</EmailAddress>
+      <EmailAddress>support@rapira.net</EmailAddress>
+      <EmailAddress>support@rapira.org</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -394848,8 +394844,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>Fax +7 (495) 967-8133</PhoneNumber>
       <PhoneNumber>8-800-2008-600</PhoneNumber>
+      <PhoneNumber>Fax +7 (495) 967-8133</PhoneNumber>
       <PhoneNumber>+7 (495) 967-8182</PhoneNumber>
       <PhoneNumber>+7 (499) 300-9832</PhoneNumber>
     </PhoneNumbers>
@@ -394953,9 +394949,9 @@ The Secretary of State considers that there are reasonable grounds to suspect JO
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 499 253-31-33</PhoneNumber>
       <PhoneNumber>+7 495 787-37-96</PhoneNumber>
       <PhoneNumber>+7 (495) 221-60-35</PhoneNumber>
+      <PhoneNumber>+7 499 253-31-33</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://bank.yandex.ru</Website>
@@ -395055,8 +395051,8 @@ LIMITED LIABILITY COMPANY "WILDBERRIES BANK" is or has been obtaining a benefit 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 800 770-77-70</PhoneNumber>
       <PhoneNumber>8 800 600-60-06</PhoneNumber>
+      <PhoneNumber>8 800 770-77-70</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://wb-bank.ru/</Website>
@@ -395924,8 +395920,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8 843 278 38 38</PhoneNumber>
       <PhoneNumber>8 800 250 06 79</PhoneNumber>
+      <PhoneNumber>8 843 278 38 38</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>pegas.company </Website>
@@ -395939,8 +395935,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 1658159962</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1165275076031 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 1658159962</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -396001,15 +395997,15 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 755 8666 5669 </PhoneNumber>
       <PhoneNumber>+86 0755 86018996 </PhoneNumber>
+      <PhoneNumber>+86 755 8666 5669 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.harxon.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>sales@harxon.com </EmailAddress>
       <EmailAddress>wanyanni@harxon.com</EmailAddress>
+      <EmailAddress>sales@harxon.com </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -396834,8 +396830,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Website>21komposit.ru  </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>sales@21kompozit.ru</EmailAddress>
       <EmailAddress>overseas@21kompozit.ru</EmailAddress>
+      <EmailAddress>sales@21kompozit.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -396843,8 +396839,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company  </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1152130010890</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 2130159236 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1152130010890</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -400455,8 +400451,8 @@ NORTHERN ENGINEERING LIMITED LIABILITY COMPANY is an involved entity under the R
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1267700105012 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 9729417656 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1267700105012 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -401063,8 +401059,8 @@ The Secretary of State considers that there are reasonable grounds to suspect LI
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+7 (800) 555-89-21</PhoneNumber>
-      <PhoneNumber>+7 (800) 555-89-82</PhoneNumber>
       <PhoneNumber>+7 (495) 215-24-08</PhoneNumber>
+      <PhoneNumber>+7 (800) 555-89-82</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://t.me/ozon_bank_official</Website>
@@ -401168,8 +401164,8 @@ The Secretary of State considers that there are reasonable grounds to suspect ST
       <PhoneNumber>+7 (495) 967-07-67</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>http://www.eximbank.ru</Website>
       <Website>www.eximbank.ru</Website>
+      <Website>http://www.eximbank.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>mailbox@eximbank.ru</EmailAddress>
@@ -401180,10 +401176,10 @@ The Secretary of State considers that there are reasonable grounds to suspect ST
           <TypeOfEntity>JOINT-STOCK COMPANY</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Central Bank of Russia licence: 2790</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN 7704001959
 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -402659,8 +402655,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <DOB>23/05/1977</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Georgia</Nationality>
           <Nationality>Russia</Nationality>
+          <Nationality>Georgia</Nationality>
         </Nationalities>
         <Positions>
           <Position>International Secretary, Solidarity for Peace </Position>
@@ -404071,11 +404067,11 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </PhoneNumbers>
     <Websites>
       <Website>http:// bankstolichnykredit.rf</Website>
-      <Website>http://bankck.ru</Website>
       <Website>http:// kbstolichnycredit.rf</Website>
       <Website>http://www.bankintegral.ru</Website>
       <Website>http://www.capitalkredit.ru</Website>
       <Website>https://open.capitalkredit.ru</Website>
+      <Website>http://bankck.ru</Website>
     </Websites>
     <EntityDetails>
       <Entity>
@@ -404256,8 +404252,8 @@ and activities linked to and continued via HELEKET.
       </Address>
     </Addresses>
     <Websites>
-      <Website>www.Cryptomus.com</Website>
       <Website>https://heleket.com/</Website>
+      <Website>www.Cryptomus.com</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>support@cryptomus.com</EmailAddress>
@@ -404539,8 +404535,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (4742) 75-50-01</PhoneNumber>
       <PhoneNumber>+7 (495) 646 28 24 </PhoneNumber>
+      <PhoneNumber>+7 (4742) 75-50-01</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://prime-top.ru/</Website>
@@ -406537,6 +406533,1274 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         <TypeOfShipDetails>
           <TypeOfShip>Oil Tanker</TypeOfShip>
         </TypeOfShipDetails>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3792</UniqueID>
+    <Names>
+      <Name>
+        <Name6>JSC NIPIGAZPERERABOTKA</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>JSC NIPIGAS</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>JSC NIPIGAZ</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>АКЦИОНЕРНОЕ ОБЩЕСТВО НИПИГАЗПЕРЕРАБОТКА</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Transport sanctions: see "Other information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Transport sanctions: Where transport sanctions apply, a ship owned, controlled, chartered or operated by a designated person is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Similarly, an aircraft owned, chartered or operated by a designated person is prohibited from overflying or landing in the UK, may be given a movement direction, can be detained or moved to a specified airport, and will be refused permission to register on the CAA Aircraft Register or have its existing registration terminated. In addition to a prohibition of the provision of technical assistance relating to aircraft or ships will prevent a person from directly or indirectly providing technical assistance to, or for the benefit of, the designated person, where that technical assistance relates to an aircraft or ship. </OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that JSC NIPIGAZPERERABOTKA (hereafter NIPIGAZ) is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 because NIPIGAZ is, or has been, involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian energy sector.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Profsoyuznaya str., 65, bldg. 1</AddressLine1>
+        <AddressLine6>Moscow</AddressLine6>
+        <AddressPostalCode>117342</AddressPostalCode>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+7 (861) 201 06 10</PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>https://www.nipigas.ru/</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>info@nipigas.ru</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <TypeOfEntities>
+          <TypeOfEntity>JSC</TypeOfEntity>
+        </TypeOfEntities>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>INN: 2310004087</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3793</UniqueID>
+    <Names>
+      <Name>
+        <Name6>PJSC SIBUR HOLDING</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>ПАО СИБУР ХОЛДИНГ</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Transport sanctions: see "Other information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Transport sanctions: Where transport sanctions apply, a ship owned, controlled, chartered or operated by a designated person is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Similarly, an aircraft owned, chartered or operated by a designated person is prohibited from overflying or landing in the UK, may be given a movement direction, can be detained or moved to a specified airport, and will be refused permission to register on the CAA Aircraft Register or have its existing registration terminated. In addition to a prohibition of the provision of technical assistance relating to aircraft or ships will prevent a person from directly or indirectly providing technical assistance to, or for the benefit of, the designated person, where that technical assistance relates to an aircraft or ship. </OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that PJSC SIBUR HOLDING (hereafter SIBUR) is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 because SIBUR is, or has been, involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian energy sector.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Krzhizhanovsky st., 16/1</AddressLine1>
+        <AddressLine6>Moscow</AddressLine6>
+        <AddressPostalCode>117218</AddressPostalCode>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+74957775500</PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>https://www.sibur.ru</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>info@sibur.ru</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <TypeOfEntities>
+          <TypeOfEntity>PJSC</TypeOfEntity>
+        </TypeOfEntities>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>INN: 7727547261</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3794</UniqueID>
+    <Names>
+      <Name>
+        <Name6>FORTEZA TRADING DMCC </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>فورتيزا تريدينغ ش.م.ح </NameNonLatinScript>
+        <NonLatinScriptType>Arabic</NonLatinScriptType>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Transport sanctions: see "Other information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Transport sanctions: Where transport sanctions apply, a ship owned, controlled, chartered or operated by a designated person is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Similarly, an aircraft owned, chartered or operated by a designated person is prohibited from overflying or landing in the UK, may be given a movement direction, can be detained or moved to a specified airport, and will be refused permission to register on the CAA Aircraft Register or have its existing registration terminated. In addition, the prohibition on the provision of technical assistance relating to aircraft and ships will prevent a person from directly or indirectly providing technical assistance to, or for the benefit of, the designated person, where that technical assistance relates to an aircraft or a ship.</OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that FORTEZA TRADING DMCC is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 based on the following ground: FORTEZA TRADING DMCC is or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian energy sector.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Office 2102, Swiss Tower</AddressLine1>
+        <AddressLine2>Jumeirah Lake Towers</AddressLine2>
+        <AddressLine6>Dubai</AddressLine6>
+        <AddressCountry>United Arab Emirates</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+971 45700420 </PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>https://forteza.ae/</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>Info@forteza.ae </EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <TypeOfEntities>
+          <TypeOfEntity>Free Zone Company  </TypeOfEntity>
+        </TypeOfEntities>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3795</UniqueID>
+    <Names>
+      <Name>
+        <Name6>IMO 9958303</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>MELICERTES</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Shipping &amp; Trade Sanctions: see "Other Information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Shipping sanctions: Shipping sanctions: A specified ship must not be chartered or operated, is prohibited from being provided with access to or having its master or pilot cause it to enter a port in the UK, may have its registration on the UK Ship Register terminated, and a master or pilot of a specified ship may be given a port barring direction, a detention direction, and a port entry direction or a movement direction.    
+
+Trade sanctions: Where trade sanctions apply to a specified ship, it is an offence to directly or indirectly provide technical assistance, crew services, operating services, chartering services, brokering services, financial services or funds in relation to a specified ship. It is an offence to directly or indirectly provide services relating to the acquisition, sale, transfer or supply of a specified ship. It is also an offence to directly or indirectly procure services relating to a specified ship, including, in particular, services involving the use of that specified ship. </OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that IMO 
+9958303 (“MELICERTES”) 
+is, has been, or is likely to be involved in an activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine, namely that IMO 
+9958303 
+is likely to be involved in carrying liquefied natural gas that originated in Russia from a place in Russia to a third country.
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9958303</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>Norvex Pte Ltd</CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Panama</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
+        <TypeOfShipDetails>
+          <TypeOfShip>LNG Tanker</TypeOfShip>
+        </TypeOfShipDetails>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3796</UniqueID>
+    <Names>
+      <Name>
+        <Name6>IMO 9958315</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>NELEUS</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Shipping &amp; Trade Sanctions: see "Other Information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Shipping sanctions: Shipping sanctions: A specified ship must not be chartered or operated, is prohibited from being provided with access to or having its master or pilot cause it to enter a port in the UK, may have its registration on the UK Ship Register terminated, and a master or pilot of a specified ship may be given a port barring direction, a detention direction, and a port entry direction or a movement direction.    
+
+Trade sanctions: Where trade sanctions apply to a specified ship, it is an offence to directly or indirectly provide technical assistance, crew services, operating services, chartering services, brokering services, financial services or funds in relation to a specified ship. It is an offence to directly or indirectly provide services relating to the acquisition, sale, transfer or supply of a specified ship. It is also an offence to directly or indirectly procure services relating to a specified ship, including, in particular, services involving the use of that specified ship. </OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that IMO 9958315 (“NELEUS”) is, has been, or is likely to be involved in an activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine, namely that IMO 9958315 is likely to be involved in carrying liquefied natural gas that originated in Russia from a place in Russia to a third country.
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9958315</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>Trivanta Pte Ltd</CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Panama</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
+        <TypeOfShipDetails>
+          <TypeOfShip>LNG Tanker</TypeOfShip>
+        </TypeOfShipDetails>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3797</UniqueID>
+    <Names>
+      <Name>
+        <Name6>IMO 9274616</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>APEKS</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Shipping &amp; Trade Sanctions: see "Other Information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Shipping sanctions: Shipping sanctions: A specified ship must not be chartered or operated, is prohibited from being provided with access to or having its master or pilot cause it to enter a port in the UK, may have its registration on the UK Ship Register terminated, and a master or pilot of a specified ship may be given a port barring direction, a detention direction, and a port entry direction or a movement direction.   
+
+Trade sanctions: Where trade sanctions apply to a specified ship, it is an offence to directly or indirectly provide technical assistance, crew services, operating services, chartering services, brokering services, financial services or funds in relation to a specified ship. It is an offence to directly or indirectly provide services relating to the acquisition, sale, transfer or supply of a specified ship. It is also an offence to directly or indirectly procure services relating to a specified ship, including, in particular, services involving the use of that specified ship. </OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that IMO 9274616 ("APEKS") is, has been or is likely to be involved in activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine or to obtain a benefit from or support the Government of Russia. Namely, IMO 9274616 is involved in carrying oil or oil products that originated in Russia from Russia to a third country. 
+ 
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9274616</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>Global Seaway LLC </CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Russia</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
+        <TypeOfShipDetails>
+          <TypeOfShip>Oil Tanker</TypeOfShip>
+        </TypeOfShipDetails>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3798</UniqueID>
+    <Names>
+      <Name>
+        <Name6>IMO 9402328</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>SARA SKY</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Shipping &amp; Trade Sanctions: see "Other Information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Shipping sanctions: Shipping sanctions: A specified ship must not be chartered or operated, is prohibited from being provided with access to or having its master or pilot cause it to enter a port in the UK, may have its registration on the UK Ship Register terminated, and a master or pilot of a specified ship may be given a port barring direction, a detention direction, and a port entry direction or a movement direction.   
+
+Trade sanctions: Where trade sanctions apply to a specified ship, it is an offence to directly or indirectly provide technical assistance, crew services, operating services, chartering services, brokering services, financial services or funds in relation to a specified ship. It is an offence to directly or indirectly provide services relating to the acquisition, sale, transfer or supply of a specified ship. It is also an offence to directly or indirectly procure services relating to a specified ship, including, in particular, services involving the use of that specified ship</OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that IMO 9402328 ("SARA SKY") is, has been or is likely to be involved in activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine or to obtain a benefit from or support the Government of Russia. Namely, IMO 9402328 is involved in carrying oil or oil products that originated in Russia from Russia to a third country. 
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9402328</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>Benefit Shipping Ltd-HKG </CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Sierra Leone</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
+        <TypeOfShipDetails>
+          <TypeOfShip>Oil Tanker</TypeOfShip>
+        </TypeOfShipDetails>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3799</UniqueID>
+    <Names>
+      <Name>
+        <Name6>IMO 9460564</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>BALU 6</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Shipping &amp; Trade Sanctions: see "Other Information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Shipping sanctions: Shipping sanctions: A specified ship must not be chartered or operated, is prohibited from being provided with access to or having its master or pilot cause it to enter a port in the UK, may have its registration on the UK Ship Register terminated, and a master or pilot of a specified ship may be given a port barring direction, a detention direction, and a port entry direction or a movement direction.   
+
+Trade sanctions: Where trade sanctions apply to a specified ship, it is an offence to directly or indirectly provide technical assistance, crew services, operating services, chartering services, brokering services, financial services or funds in relation to a specified ship. It is an offence to directly or indirectly provide services relating to the acquisition, sale, transfer or supply of a specified ship. It is also an offence to directly or indirectly procure services relating to a specified ship, including, in particular, services involving the use of that specified ship. </OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that IMO 9460564 ("BALU 6") is, has been or is likely to be involved in activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine or to obtain a benefit from or support the Government of Russia. Namely, IMO 9460564 is involved in carrying oil or oil products that originated in Russia from Russia to a third country.
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9460564</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>Toila Shipping Ltd </CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Panama</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
+        <TypeOfShipDetails>
+          <TypeOfShip>Oil Tanker</TypeOfShip>
+        </TypeOfShipDetails>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3800</UniqueID>
+    <Names>
+      <Name>
+        <Name6>PJSC OIL AND GAS COMPANY SLAVNEFT</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>OAO NGK SLAVNEFT</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО НЕФТЕГАЗОВАЯ КОМПАНИЯ СЛАВНЕФТЬ </NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Transport sanctions: see "Other information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Transport sanctions: Where transport sanctions apply, a ship owned, controlled, chartered or operated by a designated person is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Similarly, an aircraft owned, chartered or operated by a designated person is prohibited from overflying or landing in the UK, may be given a movement direction, can be detained or moved to a specified airport, and will be refused permission to register on the CAA Aircraft Register or have its existing registration terminated. In addition, the prohibition on the provision of technical assistance relating to aircraft and ships will prevent a person from directly or indirectly providing technical assistance to, or for the benefit of, the designated person, where that technical assistance relates to an aircraft or a ship.       </OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that PJSC Oil and Gas Company Slavneft is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 because it is, and has been, involved in obtaining a benefit from or supporting the Government of Russia, through carrying on business in a sector of strategic significance to the Government of Russia, namely, the Russian energy sector.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>PER. 4-I LESNOI D. 4, FLOOR 11</AddressLine1>
+        <AddressLine6>Moscow</AddressLine6>
+        <AddressPostalCode>125047</AddressPostalCode>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+7 495 773 73 52 </PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>www.slavneft.ru </Website>
+    </Websites>
+    <EntityDetails>
+      <Entity>
+        <TypeOfEntities>
+          <TypeOfEntity>Public Joint Stock Company (PJSC) </TypeOfEntity>
+        </TypeOfEntities>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>INN: 7707017509</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3801</UniqueID>
+    <Names>
+      <Name>
+        <Name6>JOINT STOCK COMPANY UGOLNAYA KOMPANIYA KUZBASSRAZREZUGOL</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>JSC MC KUZBASSRAZREZUGOL</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>KUZBASSRAZREZUGOL</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>АКЦИОНЕРНОЕ ОБЩЕСТВО УГОЛЬНАЯ КОМПАНИЯ КУЗБАССРАЗРЕЗУГОЛЬ</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Transport sanctions: see "Other information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Transport sanctions: Where transport sanctions apply, a ship owned, controlled, chartered or operated by a designated person is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Similarly, an aircraft owned, chartered or operated by a designated person is prohibited from overflying or landing in the UK, may be given a movement direction, can be detained or moved to a specified airport, and will be refused permission to register on the CAA Aircraft Register or have its existing registration terminated. In addition to a prohibition of the provision of technical assistance relating to aircraft or ships will prevent a person from directly or indirectly providing technical assistance to, or for the benefit of, the designated person, where that technical assistance relates to an aircraft or ship.</OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that 
+JOINT STOCK COMPANY UGOLNAYA KOMPANIYA KUZBASSRAZREZUGOL is or has been involved in obtaining a benefit from or supporting the Government of Russia by 
+carrying on business in a sector of strategic significance to the Government of Russia namely, the Russian extractives sector.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Pionersky Boulevard</AddressLine1>
+        <AddressLine2>Building. 4a</AddressLine2>
+        <AddressLine3>Kuzbass</AddressLine3>
+        <AddressLine5>Kemerovo Region</AddressLine5>
+        <AddressLine6>Kemerovo</AddressLine6>
+        <AddressPostalCode>650054</AddressPostalCode>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <PhoneNumbers>
+      <PhoneNumber>+7 (3842) 44-03-00</PhoneNumber>
+    </PhoneNumbers>
+    <Websites>
+      <Website>https://kru.ru</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>office@kru.ru</EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>TIN 4205049090
+OGRN 1034205040935</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3802</UniqueID>
+    <Names>
+      <Name>
+        <Name6>JOINT-STOCK COMPANY "SIBERIAN COAL ENERGY COMPANY"</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>JSC SIBERIAN UGOL ENERGY COMPANY</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>JSC SUEK</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>АКЦИОНЕРНОЕ ОБЩЕСТВО «СИБИРСКАЯ УГОЛЬНАЯ ЭНЕРГЕТИЧЕСКАЯ КОМПАНИЯ»</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+      <NonLatinName>
+        <NameNonLatinScript>АО СИБИРСКАЯ УГОЛЬНАЯ ЭНЕРГЕТИЧЕСКАЯ КОМПАНИЯ</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+      <NonLatinName>
+        <NameNonLatinScript>АО СУЭК</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Transport sanctions: see "Other information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Transport sanctions: Where transport sanctions apply, a ship owned, controlled, chartered or operated by a designated person is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Similarly, an aircraft owned, chartered or operated by a designated person is prohibited from overflying or landing in the UK, may be given a movement direction, can be detained or moved to a specified airport, and will be refused permission to register on the CAA Aircraft Register or have its existing registration terminated. In addition to a prohibition of the provision of technical assistance relating to aircraft or ships will prevent a person from directly or indirectly providing technical assistance to, or for the benefit of, the designated person, where that technical assistance relates to an aircraft or ship.</OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that JOINT-STOCK COMPANY "SIBERIAN COAL ENERGY COMPANY" is or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia namely, the Russian extractives sector.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Bldg. 6, premises. 1/7</AddressLine1>
+        <AddressLine2>Dubininskaya st., 53</AddressLine2>
+        <AddressLine5>Danilovsky Municipal District</AddressLine5>
+        <AddressLine6>Moscow</AddressLine6>
+        <AddressPostalCode>115054</AddressPostalCode>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <EntityDetails>
+      <Entity>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>Russia INN - 7708129854
+Russia OGRN - 1027700151380</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3803</UniqueID>
+    <Names>
+      <Name>
+        <Name6>PATERA FZCO </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>PATERA DMCC </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>PATERA MIDDLE EAST DMCC </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Transport sanctions: see "Other information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Transport sanctions: Where transport sanctions apply, a ship owned, controlled, chartered or operated by a designated person is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Similarly, an aircraft owned, chartered or operated by a designated person is prohibited from overflying or landing in the UK, may be given a movement direction, can be detained or moved to a specified airport, and will be refused permission to register on the CAA Aircraft Register or have its existing registration terminated. In addition, the prohibition on the provision of technical assistance relating to aircraft and ships will prevent a person from directly or indirectly providing technical assistance to, or for the benefit of, the designated person, where that technical assistance relates to an aircraft or a ship.</OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that PATERA FZCO is an involved person under the Russia (Sanctions) (EU Exit) Regulations 2019 based on the following ground: PATERA FZCO is or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian energy sector.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>Unit 2102-B, Uptown Tower</AddressLine1>
+        <AddressLine2>Plot No. DMCC-UD-T2</AddressLine2>
+        <AddressLine6>Dubai</AddressLine6>
+        <AddressCountry>United Arab Emirates</AddressCountry>
+      </Address>
+    </Addresses>
+    <Websites>
+      <Website>https://www.patera.ae/</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress>info@patera.ae </EmailAddress>
+    </EmailAddresses>
+    <EntityDetails>
+      <Entity>
+        <TypeOfEntities>
+          <TypeOfEntity>Free Zone Establishment</TypeOfEntity>
+        </TypeOfEntities>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3804</UniqueID>
+    <Names>
+      <Name>
+        <Name6> NOVUS ENERGY DMCC </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Transport sanctions: see "Other information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Transport sanctions: Where transport sanctions apply, a ship owned, controlled, chartered or operated by a designated person is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Similarly, an aircraft owned, chartered or operated by a designated person is prohibited from overflying or landing in the UK, may be given a movement direction, can be detained or moved to a specified airport, and will be refused permission to register on the CAA Aircraft Register or have its existing registration terminated. In addition, the prohibition on the provision of technical assistance relating to aircraft and ships will prevent a person from directly or indirectly providing technical assistance to, or for the benefit of, the designated person, where that technical assistance relates to an aircraft or a ship.</OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that NOVUS ENERGY DMCC is an involved person under the Russia (EU Exit) (Sanctions) Regulations 2019 on the basis of the following ground: NOVUS ENERGY DMCC is or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian energy sector, including by dealing with UK-specified ships. 
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>#BA838, DMCC Business Centre Level #1, J&amp;G-3</AddressLine1>
+        <AddressLine6>Dubai</AddressLine6>
+        <AddressCountry>United Arab Emirates</AddressCountry>
+      </Address>
+    </Addresses>
+    <Websites>
+      <Website>https://novusenergydmcc.com/</Website>
+    </Websites>
+    <EmailAddresses>
+      <EmailAddress> Info@novusenergydmcc.com </EmailAddress>
+    </EmailAddresses>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3805</UniqueID>
+    <Names>
+      <Name>
+        <Name6>IMO9630028 </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>PERLE</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Shipping sanctions: (see "Other information")</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Shipping sanctions: where shipping sanctions apply, a specified ship is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. 
+
+Trade sanctions:  
+
+Provision of services relating to specified ships; Where a ship is specified for the purposes of all of the following trade prohibitions, a person must not directly or indirectly provide to that ship: technical assistance; crew services; operating services; chartering services; brokering services; financial services or funds. A person must also not directly or indirectly provide services relating to the acquisition, sale, transfer or supply of a specified ship.  
+
+Procurement of services relating to specified ships: A person must not directly or indirectly procure services relating to a specified ship. For the purposes of this regulation, services relating to a specified ship include, in particular, services involving the use of that specified ship.  
+
+Prohibition on chartering or operating specified ships: A person must not charter a specified ship, if the person knows, or has reasonable cause to suspect, that the ship is a specified ship. A person must not operate a specified ship, if the person knows, or has reasonable cause to suspect, that the ship is a specified ship.  
+
+The above trade prohibitions may be subject to Part 7 of the Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (Exceptions and licences).  </OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that IMO 9630028 is likely to be involved in an activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine, namely that IMO 9630028 is likely to be involved in carrying liquefied natural gas that originated in Russia from a place in Russia to a third country.  
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9630028</IMONumber>
+        </IMONumbers>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Oman</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
+        <TypeOfShipDetails>
+          <TypeOfShip>LNG Tanker</TypeOfShip>
+        </TypeOfShipDetails>
+        <TonnageOfShipDetails>
+          <TonnageOfShip>1702003</TonnageOfShip>
+        </TonnageOfShipDetails>
+        <YearsBuilt>
+          <YearBuilt>2014</YearBuilt>
+        </YearsBuilt>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3806</UniqueID>
+    <Names>
+      <Name>
+        <Name6>IMO9915105</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>KORYAK FSU</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Shipping sanctions: (see "Other information")</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Shipping sanctions: where shipping sanctions apply, a specified ship is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Trade sanctions: Provision of services relating to specified ships; Where a ship is specified for the purposes of all of the following trade prohibitions, a person must not directly or indirectly provide to that ship: technical assistance; crew services; operating services; chartering services; brokering services; financial services or funds. A person must also not directly or indirectly provide services relating to the acquisition, sale, transfer or supply of a specified ship. Procurement of services relating to specified ships: A person must not directly or indirectly procure services relating to a specified ship. For the purposes of this regulation, services relating to a specified ship include, in particular, services involving the use of that specified ship. Prohibition on chartering or operating specified ships: A person must not charter a specified ship, if the person knows, or has reasonable cause to suspect, that the ship is a specified ship. A person must not operate a specified ship, if the person knows, or has reasonable cause to suspect, that the ship is a specified ship. The above trade prohibitions may be subject to Part 7 of the Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (Exceptions and licences).</OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that IMO 9915105 (“KORYAK FSU”) is, has been, or is likely to be involved in activity whose object or effect is to obtain a benefit from or support the Government of Russia.
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9915105</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>Novatek OAO </CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3807</UniqueID>
+    <Names>
+      <Name>
+        <Name6>IMO9958298</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>AEOLUS</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Shipping sanctions: (see "Other information")</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Shipping sanctions: where shipping sanctions apply, a specified ship is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Trade sanctions: Provision of services relating to specified ships; Where a ship is specified for the purposes of all of the following trade prohibitions, a person must not directly or indirectly provide to that ship: technical assistance; crew services; operating services; chartering services; brokering services; financial services or funds. A person must also not directly or indirectly provide services relating to the acquisition, sale, transfer or supply of a specified ship. Procurement of services relating to specified ships: A person must not directly or indirectly procure services relating to a specified ship. For the purposes of this regulation, services relating to a specified ship include, in particular, services involving the use of that specified ship. Prohibition on chartering or operating specified ships: A person must not charter a specified ship, if the person knows, or has reasonable cause to suspect, that the ship is a specified ship. A person must not operate a specified ship, if the person knows, or has reasonable cause to suspect, that the ship is a specified ship. The above trade prohibitions may be subject to Part 7 of the Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (Exceptions and licences).</OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that IMO 9958315 (“NELEUS”) is likely to be involved in an activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine, namely that IMO 9958315 is likely to be involved in carrying liquefied natural gas that originated in Russia from a place in Russia to a third country. 
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9958298</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>IOB Co Ltd </CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Panama</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
+        <TypeOfShipDetails>
+          <TypeOfShip>LNG Tanker</TypeOfShip>
+        </TypeOfShipDetails>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3808</UniqueID>
+    <Names>
+      <Name>
+        <Name6>IMO9958327</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>ONEIROI</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Shipping sanctions: (see "Other information")</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Shipping sanctions: where shipping sanctions apply, a specified ship is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Trade sanctions: Provision of services relating to specified ships; Where a ship is specified for the purposes of all of the following trade prohibitions, a person must not directly or indirectly provide to that ship: technical assistance; crew services; operating services; chartering services; brokering services; financial services or funds. A person must also not directly or indirectly provide services relating to the acquisition, sale, transfer or supply of a specified ship. Procurement of services relating to specified ships: A person must not directly or indirectly procure services relating to a specified ship. For the purposes of this regulation, services relating to a specified ship include, in particular, services involving the use of that specified ship. Prohibition on chartering or operating specified ships: A person must not charter a specified ship, if the person knows, or has reasonable cause to suspect, that the ship is a specified ship. A person must not operate a specified ship, if the person knows, or has reasonable cause to suspect, that the ship is a specified ship. The above trade prohibitions may be subject to Part 7 of the Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (Exceptions and licences).</OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that IMO 9958327 (“ONEIROI”) is likely to be involved in an activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine, namely that IMO 9958327 is likely to be involved in carrying liquefied natural gas that originated in Russia from a place in Russia to a third country.  
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9958327</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>IOB Co Ltd </CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Panama</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
+        <TypeOfShipDetails>
+          <TypeOfShip>LNG Tanker</TypeOfShip>
+        </TypeOfShipDetails>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3809</UniqueID>
+    <Names>
+      <Name>
+        <Name6>LLC Vostok Oil</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU VOSTOK-OIL </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>Vostok Oyl</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>Vostok-Oil</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>OOO Восток-Ойл</NameNonLatinScript>
+        <NonLatinScriptType>Cyrillic</NonLatinScriptType>
+        <NonLatinScriptLanguage>Russian</NonLatinScriptLanguage>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Entity</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Trust Services Sanctions|Director Disqualification Sanction|Transport sanctions: see "Other information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>true</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Transport sanctions: Where transport sanctions apply, a ship owned, controlled, chartered or operated by a designated person is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Similarly, an aircraft owned, chartered or operated by a designated person is prohibited from overflying or landing in the UK, may be given a movement direction, can be detained or moved to a specified airport, and will be refused permission to register on the CAA Aircraft Register or have its existing registration terminated. In addition to a prohibition of the provision of technical assistance relating to aircraft or ships will prevent a person from directly or indirectly providing technical assistance to, or for the benefit of, the designated person, where that technical assistance relates to an aircraft or ship.  </OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Limited Liability Company LLC Vostok Oil is or has been involved in obtaining a benefit from or supporting the Government of Russia by carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian energy sector.
+</UKStatementofReasons>
+    <Addresses>
+      <Address>
+        <AddressLine1>78 Dobrovol'cheskoy Brigady Street, 15</AddressLine1>
+        <AddressLine6>Krasnoyarsk</AddressLine6>
+        <AddressPostalCode>660077</AddressPostalCode>
+        <AddressCountry>Russia</AddressCountry>
+      </Address>
+    </Addresses>
+    <EntityDetails>
+      <Entity>
+        <ParentCompanies>
+          <ParentCompany>Rosneft</ParentCompany>
+        </ParentCompanies>
+        <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>1067746343708</BusinessRegistrationNumber>
+        </BusinessRegistrationNumbers>
+      </Entity>
+    </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3810</UniqueID>
+    <Names>
+      <Name>
+        <Name6>IMO 9252967 </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>YVIKA</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Shipping &amp; Trade Sanctions: see "Other Information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Shipping sanctions: A specified ship must not be chartered or operated, is prohibited from being provided with access to or having its master or pilot cause it to enter a port in the UK, may have its registration on the UK Ship Register terminated, and a master or pilot of a specified ship may be given a port barring direction, a detention direction, and a port entry direction or a movement direction.   
+
+Trade sanctions: Where trade sanctions apply to a specified ship, it is an offence to directly or indirectly provide technical assistance, crew services, operating services, chartering services, brokering services, financial services or funds in relation to a specified ship. It is an offence to directly or indirectly provide services relating to the acquisition, sale, transfer or supply of a specified ship. It is also an offence to directly or indirectly procure services relating to a specified ship, including, in particular, services involving the use of that specified ship. </OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that IMO 9252967 is, has been or is likely to be involved in activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine or to obtain a benefit from or support the Government of Russia. Namely, IMO 9252967 is involved in carrying oil or oil products that originated in Russia from Russia to a third country. 
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9252967</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>Dzovpar Trans Ltd</CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Sierra Leone</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>12/11/2026</LastUpdated>
+    <DateDesignated>12/11/2026</DateDesignated>
+    <UniqueID>RUS3811</UniqueID>
+    <Names>
+      <Name>
+        <Name6>IMO 9321304 </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>ALMA </Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Shipping &amp; Trade Sanctions: see "Other Information"</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>Shipping sanctions: A specified ship must not be chartered or operated, is prohibited from being provided with access to or having its master or pilot cause it to enter a port in the UK, may have its registration on the UK Ship Register terminated, and a master or pilot of a specified ship may be given a port barring direction, a detention direction, and a port entry direction or a movement direction.   
+
+Trade sanctions: Where trade sanctions apply to a specified ship, it is an offence to directly or indirectly provide technical assistance, crew services, operating services, chartering services, brokering services, financial services or funds in relation to a specified ship. It is an offence to directly or indirectly provide services relating to the acquisition, sale, transfer or supply of a specified ship. It is also an offence to directly or indirectly procure services relating to a specified ship, including, in particular, services involving the use of that specified ship. </OtherInformation>
+    <UKStatementofReasons>
+The Secretary of State has reasonable grounds to suspect that IMO 9321304 is, has been or is likely to be involved in activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine or to obtain a benefit from or support the Government of Russia. Namely, IMO 9321304 is involved in carrying oil or oil products that originated in Russia from Russia to a third country.  
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO9321304</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>Trident Dexterity Ltd </CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Djibouti</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
       </Ship>
     </ShipDetails>
   </Designation>
@@ -411804,16 +413068,16 @@ action, policy or activity which threatens the peace, stability and security of 
         </DOBs>
         <PassportDetails>
           <Passport>
+            <PassportNumber>AP628498</PassportNumber>
+          </Passport>
+          <Passport>
             <PassportNumber>YB7731256</PassportNumber>
             <PassportAdditionalInformation>Expires 01 Mar 2031</PassportAdditionalInformation>
           </Passport>
-          <Passport>
-            <PassportNumber>AP628498</PassportNumber>
-          </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Italy</Nationality>
           <Nationality>Colombia</Nationality>
+          <Nationality>Italy</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
@@ -411822,8 +413086,8 @@ action, policy or activity which threatens the peace, stability and security of 
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Recruiter for A4SI (INTERNATIONAL SERVICES AGENCY S.A.S)</Position>
           <Position>Retired Army Colonel </Position>
+          <Position>Recruiter for A4SI (INTERNATIONAL SERVICES AGENCY S.A.S)</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -412307,19 +413571,19 @@ Al-Goney has controlled the RSF front company Tradive General Trading, which imp
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>AK1586127</PassportNumber>
-          </Passport>
-          <Passport>
             <PassportNumber>B00024943</PassportNumber>
             <PassportAdditionalInformation>Expires 27 Sep 2031</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>AK1586127</PassportNumber>
           </Passport>
           <Passport>
             <PassportNumber>B00017334</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Kenya</Nationality>
           <Nationality>Sudan</Nationality>
+          <Nationality>Kenya</Nationality>
           <Nationality>Sudan</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
@@ -413019,23 +414283,23 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Individual>
         <PassportDetails>
           <Passport>
-            <PassportNumber> FM684476</PassportNumber>
+            <PassportNumber>PU683987</PassportNumber>
           </Passport>
           <Passport>
             <PassportNumber> PU669310</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>PU683987</PassportNumber>
+            <PassportNumber>FB793884</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>FB793884</PassportNumber>
+            <PassportNumber> FM684476</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
           <Nationality>Ukraine</Nationality>
           <Nationality>Ukraine</Nationality>
-          <Nationality>Ukraine</Nationality>
           <Nationality>Sudan</Nationality>
+          <Nationality>Ukraine</Nationality>
           <Nationality>Ukraine</Nationality>
         </Nationalities>
         <Genders>
