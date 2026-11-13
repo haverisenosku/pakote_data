@@ -2424,12 +2424,12 @@
             <PassportAdditionalInformation>Afghanistan diplomatic passport D0009751, issued on 16 Oct. 2021, issued in Kabul, Afghanistan  (expires 16 Oct. 2026)</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>P02444826</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>D0009751</PassportNumber>
             <PassportAdditionalInformation>Afghanistan diplomatic passport number P04999950, issued on 4 Feb. 2025 (expires 4 Feb. 2035)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>P02444826</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -2596,11 +2596,11 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Kabul</AddressLine1>
+        <AddressLine6>Kabul</AddressLine6>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
       <Address>
-        <AddressLine6>Kabul</AddressLine6>
+        <AddressLine1>Kabul</AddressLine1>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
     </Addresses>
@@ -4372,8 +4372,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1958</DOB>
           <DOB>22/02/1957</DOB>
+          <DOB>dd/mm/1958</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -4977,8 +4977,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>24/10/1972</DOB>
           <DOB>dd/mm/1971</DOB>
+          <DOB>24/10/1972</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -5552,38 +5552,38 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>20/09/1968</DOB>
-          <DOB>dd/mm/1971</DOB>
           <DOB>1975</DOB>
+          <DOB>dd/mm/1971</DOB>
+          <DOB>20/09/1968</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>P00429350</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
+            <PassportNumber>D0009755</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 23 Oct. 2021, expires on 23 Oct. 2026 (Name in  Latin script: Abdulhaq Waseeq)</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>D0010689</PassportNumber>
             <PassportAdditionalInformation>Issued on 29 Mar. 2026, expires 29 Mar. 2031 (Name in Latin script: Abdulhaq Waseeq, name in original script: عبد الحق وثيق)</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>D0009755</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 23 Oct. 2021, expires on 23 Oct. 2026 (Name in  Latin script: Abdulhaq Waseeq)</PassportAdditionalInformation>
+            <PassportNumber>P00429350</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Deputy Minister of Security (Intelligence) under the Taliban regime</Position>
           <Position>Deputy Minister of Security (Intelligence) under the Taliban regime (1996-2001)</Position>
+          <Position>Deputy Minister of Security (Intelligence) under the Taliban regime</Position>
         </Positions>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Ghazni</TownOfBirth>
+            <TownOfBirth>Gharib village, Khogyani District, Ghazni Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Gharib village, Khogyani District, Ghazni Province</TownOfBirth>
+            <TownOfBirth>Ghazni</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -7631,18 +7631,18 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>1958</DOB>
           <DOB>18/09/1963</DOB>
           <DOB>19/10/1962</DOB>
+          <DOB>1958</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
-            <PassportNumber>D0009914</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport,  issued in Afghanistan, issued 10 May 2022, expires 10 May 2027 (Name in Latin script: Noor Mohammed Saqeb; name original script: نور  ثاقب محمد)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>P09305451</PassportNumber>
             <PassportAdditionalInformation>Issued on 29 April 2025, issued in Kabul, Afghanistan, expires 29 Apr. 2030</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>D0009914</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport,  issued in Afghanistan, issued 10 May 2022, expires 10 May 2027 (Name in Latin script: Noor Mohammed Saqeb; name original script: نور  ثاقب محمد)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -7656,11 +7656,11 @@
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Bagrami District, Kabul Province</TownOfBirth>
+            <TownOfBirth>Tarakhel area, Deh Sabz District, Kabul Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Tarakhel area, Deh Sabz District, Kabul Province</TownOfBirth>
+            <TownOfBirth>Bagrami District, Kabul Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -9609,10 +9609,6 @@
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Khost province</TownOfBirth>
-            <CountryOfBirth>Afghanistan</CountryOfBirth>
-          </Location>
-          <Location>
             <TownOfBirth>Danda, Miramshah, North Waziristan</TownOfBirth>
             <CountryOfBirth>Pakistan</CountryOfBirth>
           </Location>
@@ -9622,6 +9618,10 @@
           </Location>
           <Location>
             <TownOfBirth>Srana village, Garda Saray district, Paktia province</TownOfBirth>
+            <CountryOfBirth>Afghanistan</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Khost province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -17430,10 +17430,10 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressCountry>Kuwait</AddressCountry>
+        <AddressCountry>United Arab Emirates</AddressCountry>
       </Address>
       <Address>
-        <AddressCountry>United Arab Emirates</AddressCountry>
+        <AddressCountry>Kuwait</AddressCountry>
       </Address>
       <Address>
         <AddressCountry>Afghanistan</AddressCountry>
@@ -20875,6 +20875,12 @@ in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security 
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressLine1>Südliche Ringstrasse 133</AddressLine1>
+        <AddressLine6>Langen</AddressLine6>
+        <AddressPostalCode>63225</AddressPostalCode>
+        <AddressCountry>Germany</AddressCountry>
+      </Address>
+      <Address>
         <AddressCountry>Germany</AddressCountry>
       </Address>
       <Address>
@@ -20891,12 +20897,6 @@ in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security 
         <AddressLine6>Istanbul</AddressLine6>
         <AddressPostalCode>34860</AddressPostalCode>
         <AddressCountry>Turkey</AddressCountry>
-      </Address>
-      <Address>
-        <AddressLine1>Südliche Ringstrasse 133</AddressLine1>
-        <AddressLine6>Langen</AddressLine6>
-        <AddressPostalCode>63225</AddressPostalCode>
-        <AddressCountry>Germany</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -24146,8 +24146,8 @@ name: Abdul Rahman. Photo and fingerprints available for inclusion in the INTERP
           <DOB>01/08/1983</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Tunisia</Nationality>
           <Nationality>France</Nationality>
+          <Nationality>Tunisia</Nationality>
         </Nationalities>
         <BirthDetails>
           <Location>
@@ -25213,12 +25213,12 @@ name: Abdul Rahman. Photo and fingerprints available for inclusion in the INTERP
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>050456101445</NationalIdentifierNumber>
-            <NationalIdentifierAdditionalInformation>France. Issued on 19/05/2005 in Lorient, France (issued by the sous-prefecture of police)</NationalIdentifierAdditionalInformation>
-          </NationalIdentifier>
-          <NationalIdentifier>
             <NationalIdentifierNumber>0205561020089</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>France. Issued on 30 May 2002 (issued under name Emilie Edwige Konig)</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>050456101445</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>France. Issued on 19/05/2005 in Lorient, France (issued by the sous-prefecture of police)</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Genders>
@@ -28699,11 +28699,11 @@ Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Basilan, previous location until 2016</AddressLine6>
+        <AddressLine6>Lanao del Sur</AddressLine6>
         <AddressCountry>Philippines</AddressCountry>
       </Address>
       <Address>
-        <AddressLine6>Lanao del Sur</AddressLine6>
+        <AddressLine6>Basilan, previous location until 2016</AddressLine6>
         <AddressCountry>Philippines</AddressCountry>
       </Address>
     </Addresses>
@@ -34486,20 +34486,20 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>04/04/1964</DOB>
           <DOB>1966</DOB>
+          <DOB>04/04/1964</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Indonesia</Nationality>
           <Nationality>Malaysia</Nationality>
+          <Nationality>Indonesia</Nationality>
         </Nationalities>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Cianjur, West Java</TownOfBirth>
+            <TownOfBirth>Sukamanah, West Java</TownOfBirth>
             <CountryOfBirth>Indonesia</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Sukamanah, West Java</TownOfBirth>
+            <TownOfBirth>Cianjur, West Java</TownOfBirth>
             <CountryOfBirth>Indonesia</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -37933,8 +37933,8 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>11/04/1963</DOB>
           <DOB>11/04/1960</DOB>
+          <DOB>11/04/1963</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Egypt</Nationality>
@@ -39954,8 +39954,8 @@ Iraq (possible alternative location as at Aug. 2015) </OtherInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Germany</Nationality>
           <Nationality>Morocco</Nationality>
+          <Nationality>Germany</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
@@ -96435,9 +96435,10 @@ Alain Francois Viviane GOETZ is an involved person under the Democratic Republic
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>24/07/2026</LastUpdated>
+    <LastUpdated>12/11/2026</LastUpdated>
     <DateDesignated>17/07/2026</DateDesignated>
     <UniqueID>DRC0076</UniqueID>
+    <UNReferenceNumber>CDe.010</UNReferenceNumber>
     <Names>
       <Name>
         <Name6>Alliance Fleuve Congo</Name6>
@@ -96449,6 +96450,10 @@ Alain Francois Viviane GOETZ is an involved person under the Democratic Republic
       </Name>
       <Name>
         <Name6>AFC</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>Front pour la Refondation de la Nation (FRN) </Name6>
         <NameType>Primary Name Variation</NameType>
       </Name>
     </Names>
@@ -96473,11 +96478,12 @@ Alain Francois Viviane GOETZ is an involved person under the Democratic Republic
       <TrustServicesSanctions>false</TrustServicesSanctions>
       <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
-    <OtherInformation>Listed pursuant to paragraphs 7(c), 7(h), 7(g), and 7(j) of resolution 2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023) and paragraph 3 of resolution 2738 (2024) and resolution 2783 (2025): The CONGO RIVER ALLIANCE has and continues to  impede the participation of their combatants, namely M23 combatants, in disarmament, demobilization and reintegration processes.  The CONGO RIVER ALLIANCE acts on behalf of, and provides support for, a designated entity, namely M23, and shares responsibility for  M23’s destabilisation activities including through the exploitation of natural resources such as coltan.</OtherInformation>
+    <OtherInformation>Listed pursuant to paragraphs 7(c), 7(h), 7(g), and 7(j) of resolution 2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023) and paragraph 3 of resolution 2738 (2024) and resolution 2783 (2025): The CONGO RIVER ALLIANCE has and continues to  impede the participation of their combatants, namely M23 combatants, in disarmament, demobilization and reintegration processes.  The CONGO RIVER ALLIANCE acts on behalf of, and provides support for, a designated entity, namely M23, and shares responsibility for  M23’s destabilisation activities including through the exploitation of natural resources such as coltan.  Established in 2023. INTERPOL-UN Security Council Special Notice: www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</OtherInformation>
     <UKStatementofReasons>
 </UKStatementofReasons>
     <Addresses>
       <Address>
+        <AddressLine6>Eastern</AddressLine6>
         <AddressCountry>Congo (Democratic Republic)</AddressCountry>
       </Address>
     </Addresses>
@@ -96866,8 +96872,8 @@ Paragraph 7(h): CHARLES SEMATAMA, by his involvement with the Twirwaneho and the
         </PassportDetails>
         <Nationalities>
           <Nationality>Congo (Democratic Republic)</Nationality>
-          <Nationality>Congo (Democratic Republic)</Nationality>
           <Nationality>Rwanda</Nationality>
+          <Nationality>Congo (Democratic Republic)</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
@@ -97042,11 +97048,11 @@ Paragraph 7(h): CHARLES SEMATAMA, by his involvement with the Twirwaneho and the
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Gatoki Cell, Murunda Sector, Rutsiro Commune, Kibuye Prefecture</TownOfBirth>
+            <TownOfBirth>Rutsiro District, Western Province</TownOfBirth>
             <CountryOfBirth>Rwanda</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Rutsiro District, Western Province</TownOfBirth>
+            <TownOfBirth>Gatoki Cell, Murunda Sector, Rutsiro Commune, Kibuye Prefecture</TownOfBirth>
             <CountryOfBirth>Rwanda</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -190750,9 +190756,9 @@ Gennadiy TIMCHENKO is an involved person under the Russia (EU Exit) (Sanctions) 
           <DOB>09/11/1952</DOB>
         </DOBs>
         <Nationalities>
+          <Nationality>Armenia</Nationality>
           <Nationality>Russia</Nationality>
           <Nationality>Finland</Nationality>
-          <Nationality>Armenia</Nationality>
         </Nationalities>
         <Positions>
           <Position>Shareholder in Bank Russia</Position>
@@ -290453,8 +290459,8 @@ Vitaly Anatolyevich Markelov is an “involved person” under the Russia (Sanct
           <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Executive Director, Gazprom</Position>
           <Position>Deputy Chairman of the Management Board of Gazprom</Position>
+          <Position>Executive Director, Gazprom</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -330281,8 +330287,8 @@ Federalnoe Kazennoe Predpriiatie Gosudarstvennyi Nauchno Issledovatelskii Instit
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (843) 560-20-12 </PhoneNumber>
       <PhoneNumber>+7 (843) 564-60-03 </PhoneNumber>
+      <PhoneNumber>+7 (843) 560-20-12 </PhoneNumber>
       <PhoneNumber>+7 (843) 555-68-30</PhoneNumber>
     </PhoneNumbers>
     <Websites>
@@ -362494,8 +362500,8 @@ HeliCo Group is an “involved person” under the Russia (Sanctions) (EU Exit) 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8-800-500-69-60</PhoneNumber>
       <PhoneNumber>+7 (861) 624-35-65</PhoneNumber>
+      <PhoneNumber>8-800-500-69-60</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website> HeliCo-russia.ru</Website>
@@ -400451,8 +400457,8 @@ NORTHERN ENGINEERING LIMITED LIABILITY COMPANY is an involved entity under the R
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 9729417656 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1267700105012 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 9729417656 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -400658,8 +400664,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Website>https://www.metcomplect.ru/   </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>metcomplect@yandex.ru</EmailAddress>
       <EmailAddress>info@metcomplect.ru </EmailAddress>
+      <EmailAddress>metcomplect@yandex.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -400738,8 +400744,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Website>https://ncmetal.ru/en/</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>lab@ncmetal.ru</EmailAddress>
       <EmailAddress>info@ncmetal.ru </EmailAddress>
+      <EmailAddress>lab@ncmetal.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -400885,16 +400891,16 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>+7 9199 039650 </PhoneNumber>
       <PhoneNumber>+7 (495) 380-00-01 </PhoneNumber>
       <PhoneNumber>+7 925 152 18 12 </PhoneNumber>
-      <PhoneNumber>+7 9199 039650 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.tehnolux.ru</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>Tehnoluks1@mail.ru </EmailAddress>
       <EmailAddress>Feropont777@gmail.com </EmailAddress>
+      <EmailAddress>Tehnoluks1@mail.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -401058,17 +401064,17 @@ The Secretary of State considers that there are reasonable grounds to suspect LI
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (800) 555-89-21</PhoneNumber>
-      <PhoneNumber>+7 (495) 215-24-08</PhoneNumber>
       <PhoneNumber>+7 (800) 555-89-82</PhoneNumber>
+      <PhoneNumber>+7 (495) 215-24-08</PhoneNumber>
+      <PhoneNumber>+7 (800) 555-89-21</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>https://t.me/ozon_bank_official</Website>
       <Website>https://finance.ozon.ru</Website>
+      <Website>https://t.me/ozon_bank_official</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>help@finance.ozon.ru</EmailAddress>
       <EmailAddress>infobank@ozon.ru</EmailAddress>
+      <EmailAddress>help@finance.ozon.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -401164,8 +401170,8 @@ The Secretary of State considers that there are reasonable grounds to suspect ST
       <PhoneNumber>+7 (495) 967-07-67</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.eximbank.ru</Website>
       <Website>http://www.eximbank.ru</Website>
+      <Website>www.eximbank.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>mailbox@eximbank.ru</EmailAddress>
@@ -401176,8 +401182,8 @@ The Secretary of State considers that there are reasonable grounds to suspect ST
           <TypeOfEntity>JOINT-STOCK COMPANY</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Central Bank of Russia licence: 2790</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN 7704001959
 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
@@ -401268,9 +401274,9 @@ PJSC CENTER-INVEST is or has been involved in obtaining a benefit from or suppor
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>Russian INN - 6163011391</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Russian OGRN - 1026100001949
-</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Russian KPP - 616301001
+</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Russian OGRN - 1026100001949
 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
@@ -401358,11 +401364,11 @@ JSC REALIST BANK is or has been obtaining a benefit from or supporting the Gover
           <ParentCompany>LLC "BUREAUCRAT"</ParentCompany>
         </ParentCompanies>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>SWIFT/BIC - BIJORU66</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Russia INN - 3801002781</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Legal Entity Identifier - 2534007T2QFUSCHQPU36</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>SWIFT/BIC - BIJORU66</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Russia OGRN - 1023800000124
 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Russia INN - 3801002781</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -404068,10 +404074,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <Websites>
       <Website>http:// bankstolichnykredit.rf</Website>
       <Website>http:// kbstolichnycredit.rf</Website>
+      <Website>http://bankck.ru</Website>
+      <Website>https://open.capitalkredit.ru</Website>
       <Website>http://www.bankintegral.ru</Website>
       <Website>http://www.capitalkredit.ru</Website>
-      <Website>https://open.capitalkredit.ru</Website>
-      <Website>http://bankck.ru</Website>
     </Websites>
     <EntityDetails>
       <Entity>
@@ -404535,8 +404541,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (495) 646 28 24 </PhoneNumber>
       <PhoneNumber>+7 (4742) 75-50-01</PhoneNumber>
+      <PhoneNumber>+7 (495) 646 28 24 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://prime-top.ru/</Website>
@@ -404947,10 +404953,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>INN: 7727518729 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber> 
 
 OGRN: 1047796617494 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>INN: 7727518729 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
