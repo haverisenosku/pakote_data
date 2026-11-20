@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>17/11/2026</DateGenerated>
+  <DateGenerated>20/11/2026</DateGenerated>
   <Designation>
     <LastUpdated>04/08/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -2314,22 +2314,22 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>dd/mm/1963</DOB>
+          <DOB>dd/mm/1964</DOB>
+          <DOB>dd/mm/1965</DOB>
           <DOB>dd/mm/1966</DOB>
           <DOB>dd/mm/1967</DOB>
           <DOB>dd/mm/1968</DOB>
           <DOB>24/10/1971</DOB>
-          <DOB>dd/mm/1963</DOB>
-          <DOB>dd/mm/1964</DOB>
-          <DOB>dd/mm/1965</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
             <PassportNumber>D0009726</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009726, issued on 13 Oct. 2021, issued in Kabul, Afghanistan</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009726, issued on 13 Oct. 2021, issued  in Kabul, Afghanistan, expires 13 Oct. 2026 (Name in Latin script: Mohammad Fadel Aakhund; name in original script: محمد آخوند فاضل)</PassportAdditionalInformation>
           </Passport>
           <Passport>
             <PassportNumber>D0009726</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport D0009726, issued on 13 Oct. 2021, issued  in Kabul, Afghanistan, expires 13 Oct. 2026 (Name in Latin script: Mohammad Fadel Aakhund; name in original script: محمد آخوند فاضل)</PassportAdditionalInformation>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport number D0009726, issued on 13 Oct. 2021, issued in Kabul, Afghanistan</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -2424,12 +2424,12 @@
             <PassportAdditionalInformation>Afghanistan diplomatic passport D0009751, issued on 16 Oct. 2021, issued in Kabul, Afghanistan  (expires 16 Oct. 2026)</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>P02444826</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>D0009751</PassportNumber>
             <PassportAdditionalInformation>Afghanistan diplomatic passport number P04999950, issued on 4 Feb. 2025 (expires 4 Feb. 2035)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>P02444826</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -2596,11 +2596,11 @@
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Kabul</AddressLine1>
+        <AddressLine6>Kabul</AddressLine6>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
       <Address>
-        <AddressLine6>Kabul</AddressLine6>
+        <AddressLine1>Kabul</AddressLine1>
         <AddressCountry>Afghanistan</AddressCountry>
       </Address>
     </Addresses>
@@ -3472,8 +3472,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1942</DOB>
           <DOB>dd/mm/1948</DOB>
+          <DOB>dd/mm/1942</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -3483,11 +3483,11 @@
         </Positions>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Garda Saray area, Waza Zadran District,Paktia Province</TownOfBirth>
+            <TownOfBirth>Neka District, Paktia Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Neka District, Paktia Province</TownOfBirth>
+            <TownOfBirth>Garda Saray area, Waza Zadran District,Paktia Province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -5552,15 +5552,11 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>20/09/1968</DOB>
           <DOB>1975</DOB>
           <DOB>dd/mm/1971</DOB>
+          <DOB>20/09/1968</DOB>
         </DOBs>
         <PassportDetails>
-          <Passport>
-            <PassportNumber>P00429350</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
-          </Passport>
           <Passport>
             <PassportNumber>D0009755</PassportNumber>
             <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 23 Oct. 2021, expires on 23 Oct. 2026 (Name in  Latin script: Abdulhaq Waseeq)</PassportAdditionalInformation>
@@ -5568,6 +5564,10 @@
           <Passport>
             <PassportNumber>D0010689</PassportNumber>
             <PassportAdditionalInformation>Issued on 29 Mar. 2026, expires 29 Mar. 2031 (Name in Latin script: Abdulhaq Waseeq, name in original script: عبد الحق وثيق)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>P00429350</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan passport number </PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -9581,11 +9581,14 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
+          <DOB>30/12/1981</DOB>
           <DOB>dd/mm/1977</DOB>
           <DOB>dd/mm/1978</DOB>
-          <DOB>30/12/1981</DOB>
         </DOBs>
         <PassportDetails>
+          <Passport>
+            <PassportNumber>P05076602</PassportNumber>
+          </Passport>
           <Passport>
             <PassportNumber>P00032260</PassportNumber>
             <PassportAdditionalInformation>Afghanistan, issued on 30 Jun. 2022 in Kabul, Afghanistan, expires 30 Jun. 2032 (Name in Latin script: Abdul Satar Abdullah)</PassportAdditionalInformation>
@@ -9593,9 +9596,6 @@
           <Passport>
             <PassportNumber>D0010367</PassportNumber>
             <PassportAdditionalInformation>Afghanistan number D0010367, issued on 18 May 2024, issued in Kabul, Afghanistan, expires 18 May 2029 (Name in Latin script: Sirajuddin Haqqani)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>P05076602</PassportNumber>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -9609,19 +9609,19 @@
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Danda, Miramshah, North Waziristan</TownOfBirth>
-            <CountryOfBirth>Pakistan</CountryOfBirth>
-          </Location>
-          <Location>
-            <TownOfBirth>Neka district, Paktika province</TownOfBirth>
-            <CountryOfBirth>Afghanistan</CountryOfBirth>
-          </Location>
-          <Location>
             <TownOfBirth>Srana village, Garda Saray district, Paktia province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
           <Location>
             <TownOfBirth>Khost province</TownOfBirth>
+            <CountryOfBirth>Afghanistan</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Danda, Miramshah, North Waziristan</TownOfBirth>
+            <CountryOfBirth>Pakistan</CountryOfBirth>
+          </Location>
+          <Location>
+            <TownOfBirth>Neka district, Paktika province</TownOfBirth>
             <CountryOfBirth>Afghanistan</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -20878,17 +20878,17 @@ in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security 
         <AddressCountry>Germany</AddressCountry>
       </Address>
       <Address>
-        <AddressLine1>Südliche Ringstrasse 133</AddressLine1>
-        <AddressLine6>Langen</AddressLine6>
-        <AddressPostalCode>63225</AddressPostalCode>
-        <AddressCountry>Germany</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Ash Sokak no 24/5</AddressLine1>
         <AddressLine2>Atalar Mahallesi</AddressLine2>
         <AddressLine6>İstanbul</AddressLine6>
         <AddressPostalCode>34862</AddressPostalCode>
         <AddressCountry>Turkey</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Südliche Ringstrasse 133</AddressLine1>
+        <AddressLine6>Langen</AddressLine6>
+        <AddressPostalCode>63225</AddressPostalCode>
+        <AddressCountry>Germany</AddressCountry>
       </Address>
       <Address>
         <AddressLine1>Ash Street 24/5</AddressLine1>
@@ -34486,20 +34486,20 @@ Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>04/04/1964</DOB>
           <DOB>1966</DOB>
+          <DOB>04/04/1964</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Indonesia</Nationality>
           <Nationality>Malaysia</Nationality>
+          <Nationality>Indonesia</Nationality>
         </Nationalities>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Cianjur, West Java</TownOfBirth>
+            <TownOfBirth>Sukamanah, West Java</TownOfBirth>
             <CountryOfBirth>Indonesia</CountryOfBirth>
           </Location>
           <Location>
-            <TownOfBirth>Sukamanah, West Java</TownOfBirth>
+            <TownOfBirth>Cianjur, West Java</TownOfBirth>
             <CountryOfBirth>Indonesia</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -43271,20 +43271,20 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>01/07/1974</DOB>
           <DOB>01/01/1973</DOB>
+          <DOB>01/07/1974</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Iraq</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>9080002892</NationalIdentifierNumber>
-            <NationalIdentifierAdditionalInformation>National Identification card issued by the Syrian Arab Republic, mother’s name Dahiyah al-Mulhim, DOB: 1 Jan. 1973, POB: Albu Kamal, Syria</NationalIdentifierAdditionalInformation>
-          </NationalIdentifier>
-          <NationalIdentifier>
             <NationalIdentifierNumber>4118 </NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Turkish Residency Card issued on 15 Jan. 2019</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>9080002892</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>National Identification card issued by the Syrian Arab Republic, mother’s name Dahiyah al-Mulhim, DOB: 1 Jan. 1973, POB: Albu Kamal, Syria</NationalIdentifierAdditionalInformation>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Genders>
@@ -43292,11 +43292,11 @@ Abubakar Swalleh was listed on [Date] pursuant to paragraphs 2 and 5 of resoluti
         </Genders>
         <BirthDetails>
           <Location>
-            <CountryOfBirth>Iraq</CountryOfBirth>
-          </Location>
-          <Location>
             <TownOfBirth>Albu Kamal</TownOfBirth>
             <CountryOfBirth>Syria</CountryOfBirth>
+          </Location>
+          <Location>
+            <CountryOfBirth>Iraq</CountryOfBirth>
           </Location>
         </BirthDetails>
       </Individual>
@@ -96871,8 +96871,8 @@ Paragraph 7(h): CHARLES SEMATAMA, by his involvement with the Twirwaneho and the
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>Congo (Democratic Republic)</Nationality>
           <Nationality>Rwanda</Nationality>
+          <Nationality>Congo (Democratic Republic)</Nationality>
           <Nationality>Congo (Democratic Republic)</Nationality>
         </Nationalities>
         <NationalIdentifierDetails>
@@ -100908,26 +100908,26 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </DOBs>
         <PassportDetails>
           <Passport>
+            <PassportNumber>CK23926</PassportNumber>
+          </Passport>
+          <Passport>
             <PassportNumber>564196270</PassportNumber>
             <PassportAdditionalInformation>Issued 23/12/2019 </PassportAdditionalInformation>
           </Passport>
-          <Passport>
-            <PassportNumber>CK23926</PassportNumber>
-          </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>United Kingdom</Nationality>
           <Nationality>Kenya</Nationality>
+          <Nationality>United Kingdom</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
         </Genders>
         <BirthDetails>
           <Location>
-            <TownOfBirth>Mombasa</TownOfBirth>
             <CountryOfBirth>Kenya</CountryOfBirth>
           </Location>
           <Location>
+            <TownOfBirth>Mombasa</TownOfBirth>
             <CountryOfBirth>Kenya</CountryOfBirth>
           </Location>
         </BirthDetails>
@@ -114684,12 +114684,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </Passport>
         </PassportDetails>
         <Nationalities>
-          <Nationality>China</Nationality>
           <Nationality>Cambodia</Nationality>
+          <Nationality>China</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Director of U-Life KH Super App Company Limited </Position>
           <Position>Director of Tian Xu International Technology Plc  </Position>
+          <Position>Director of U-Life KH Super App Company Limited </Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -115065,8 +115065,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         <Nationalities>
           <Nationality>St Kitts and Nevis</Nationality>
           <Nationality>China</Nationality>
-          <Nationality>Cyprus</Nationality>
           <Nationality>Cambodia</Nationality>
+          <Nationality>Cyprus</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -115924,7 +115924,7 @@ The Secretary of State considers Avichai SUISSA (hereafter “SUISSA”) is an i
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>17/11/2026</LastUpdated>
+    <LastUpdated>20/11/2026</LastUpdated>
     <DateDesignated>17/11/2026</DateDesignated>
     <UniqueID>GHR0203</UniqueID>
     <Names>
@@ -115933,7 +115933,11 @@ The Secretary of State considers Avichai SUISSA (hereafter “SUISSA”) is an i
         <NameType>Primary Name</NameType>
       </Name>
       <Name>
-        <Name6>HAR HEBRON DEVELOPMENT CO; SOUTHERN MT. HEBRON DEVELOPMENT CO (1986) LTD</Name6>
+        <Name6>HAR HEBRON DEVELOPMENT CO</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name6>SOUTHERN MT. HEBRON DEVELOPMENT CO (1986) LTD</Name6>
         <NameType>Primary Name Variation</NameType>
       </Name>
     </Names>
@@ -115966,7 +115970,7 @@ The Secretary of State considers Avichai SUISSA (hereafter “SUISSA”) is an i
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
     <UKStatementofReasons>
-The Secretary of State considers that there are reasonable grounds to suspect that HAR HEVRON DEVELOPMENT COMPANY LTD (hereafter “HAR HEVRON”) is an involved person under the Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 on the basis of the following grounds: (1) HAR HEVRON is or has been involved in facilitating or providing support for activity which constitutes a serious violation of international humanitarian law; Specifically, HAR HEVRON is a development company which carries out construction and infrastructure works for, and supplies housing units to, Israeli settlements and outposts in the southern West Bank. The establishment and expansion of Israeli settlements in the occupied West Bank constitutes. The establishment and expansion of Israeli settlements in the occupied West Bank constitutes a serious violation of international humanitarian law.
+The Secretary of State considers that there are reasonable grounds to suspect that HAR HEVRON DEVELOPMENT COMPANY LTD (hereafter “HAR HEVRON”) is an involved person under the Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 on the basis of the following grounds: (1) HAR HEVRON is or has been involved in facilitating or providing support for activity which constitutes a serious violation of international humanitarian law; Specifically, HAR HEVRON is a development company which carries out construction and infrastructure works for, and supplies housing units to, Israeli settlements and outposts in the southern West Bank. The establishment and expansion of Israeli settlements in the occupied West Bank constitutes a serious violation of international humanitarian law.
  
 </UKStatementofReasons>
     <Addresses>
@@ -116052,7 +116056,7 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </EntityDetails>
   </Designation>
   <Designation>
-    <LastUpdated>17/11/2026</LastUpdated>
+    <LastUpdated>20/11/2026</LastUpdated>
     <DateDesignated>17/11/2026</DateDesignated>
     <UniqueID>GHR0205</UniqueID>
     <Names>
@@ -116090,7 +116094,7 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
     <UKStatementofReasons>
-The Secretary of State considers that there are reasonable grounds to suspect that AMI GVRITZMAN ARCHITECTS 2021 LIMITED (hereafter “AMI GVIRTZMAN”) is an involved person under the Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 on the basis of the following grounds: (1) AMI GVRITZMAN is or has been involved in facilitating or providing support for activity which constitutes a serious violation of international humanitarian law; (2) AMI GVRITZMAN is or has been involved in profiting from activity which constitutes a serious violation of international humanitarian law. Specifically, AMI GVIRTZMAN ARCHITECTS is an Israeli architectural and planning practice which designs housing, neighbourhoods and public infrastructure for Israeli settlements in the occupied West Bank, including at Carmel, Ma’ale Amos, Tekoa and Efrat. The establishment and expansion of Israeli settlements in the occupied West Bank constitutes the transfer by Israel of parts of its own civilian population into the territory it occupies, contrary to Article 49(6) of the Fourth Geneva Convention, and a serious violation of international humanitarian law.
+The Secretary of State considers that there are reasonable grounds to suspect that AMI GVIRTZMAN ARCHITECTS 2021 LIMITED (hereafter “AMI GVIRTZMAN”) is an involved person under the Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 on the basis of the following grounds: (1) AMI GVIRTZMAN is or has been involved in facilitating or providing support for activity which constitutes a serious violation of international humanitarian law; (2) AMI GVIRTZMAN is or has been involved in profiting from activity which constitutes a serious violation of international humanitarian law. Specifically, AMI GVIRTZMAN is an Israeli architectural and planning practice which designs housing, neighbourhoods and public infrastructure for Israeli settlements in the occupied West Bank, including at Carmel, Ma’ale Amos, Tekoa and Efrat. The establishment and expansion of Israeli settlements in the occupied West Bank constitutes the transfer by Israel of parts of its own civilian population into the territory it occupies, contrary to Article 49(6) of the Fourth Geneva Convention, and a serious violation of international humanitarian law.  
 </UKStatementofReasons>
     <Addresses>
       <Address>
@@ -116321,7 +116325,7 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </EntityDetails>
   </Designation>
   <Designation>
-    <LastUpdated>17/11/2026</LastUpdated>
+    <LastUpdated>20/11/2026</LastUpdated>
     <DateDesignated>17/11/2026</DateDesignated>
     <UniqueID>GHR0210</UniqueID>
     <Names>
@@ -116359,7 +116363,7 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
     <UKStatementofReasons>
-The Secretary of State considers that there are reasonable grounds to suspect that LEV HAAR YAZAMUT LIMITED (hereafter “LEV HAAR”) is an involved person under the Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 on the basis of the following grounds: (1) LEV HAAR is or has been involved in facilitating or providing support for activity which constitutes a serious violation of international humanitarian law; (2) LEV HAAR is or has been involved in profiting from activity which constitutes a serious violation of international humanitarian law. Specifically, LEV HAAR is an Israeli property developer which builds and markets housing in Israeli settlements in the occupied West Bank Itamar, Elon Moreh, Bruchin, Rechelim, and Neria. The establishment and expansion of Israeli settlements in the occupied West Bank constitutes a serious violation of international humanitarian law.
+The Secretary of State considers that there are reasonable grounds to suspect that LEV HAHAR YAZAMUT LIMITED (hereafter “LEV HAHAR”) is an involved person under the Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 on the basis of the following grounds: (1) LEV HAHAR is or has been involved in facilitating or providing support for activity which constitutes a serious violation of international humanitarian law; (2) LEV HAHAR is or has been involved in profiting from activity which constitutes a serious violation of international humanitarian law. Specifically, LEV HAHAR is an Israeli property developer which builds and markets housing in Israeli settlements in the occupied West Bank Itamar, Elon Moreh, Bruchin, Rechelim, and Neria. The establishment and expansion of Israeli settlements in the occupied West Bank constitutes a serious violation of international humanitarian law.
  
 </UKStatementofReasons>
     <Addresses>
@@ -158255,8 +158259,8 @@ FARHAD ZARRINGHALAM is associated with persons who have been involved in activit
           <DOB>13/08/1981</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>United Kingdom</Nationality>
           <Nationality>Iran</Nationality>
+          <Nationality>United Kingdom</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -158346,8 +158350,8 @@ Fazlolah
           <DOB>23/06/1952</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Iran</Nationality>
           <Nationality>United Kingdom</Nationality>
+          <Nationality>Iran</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -158525,8 +158529,8 @@ Nasser ZARRINGHALAM is or has been involved in conduct which facilitates hostile
           <DOB>28/09/1960</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>St Kitts and Nevis</Nationality>
           <Nationality>Iran</Nationality>
+          <Nationality>St Kitts and Nevis</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -291041,8 +291045,8 @@ Vitaly Anatolyevich Markelov is an “involved person” under the Russia (Sanct
           <Nationality>Russia</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Executive Director, Gazprom</Position>
           <Position>Deputy Chairman of the Management Board of Gazprom</Position>
+          <Position>Executive Director, Gazprom</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -310193,8 +310197,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <DOB>09/12/1985</DOB>
         </DOBs>
         <Nationalities>
-          <Nationality>Russia</Nationality>
           <Nationality>Cyprus</Nationality>
+          <Nationality>Russia</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Female</Gender>
@@ -313342,7 +313346,7 @@ RUSATOM ARCTIC is an involved entity under the Russia (Sanctions) (EU Exit) Regu
     </EntityDetails>
   </Designation>
   <Designation>
-    <LastUpdated>09/04/2025</LastUpdated>
+    <LastUpdated>20/11/2026</LastUpdated>
     <DateDesignated>13/06/2024</DateDesignated>
     <UniqueID>RUS2122</UniqueID>
     <OFSIGroupID>16545</OFSIGroupID>
@@ -313388,9 +313392,9 @@ RUSATOM ARCTIC is an involved entity under the Russia (Sanctions) (EU Exit) Regu
       <TrustServicesSanctions>true</TrustServicesSanctions>
       <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
-    <OtherInformation>Transport sanctions: where transport sanctions apply, a ship owned, controlled, chartered or operated by a designated person is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Similarly, an aircraft owned, chartered or operated by a designated person is prohibited from overflying or landing in the UK, may be given a movement direction, can be detained or moved to a specified airport, and will be refused permission to register on the CAA Aircraft Register or have its existing registration terminated. This also includes a prohibition of technical assistance relating to aircraft and ships: a prohibition on the provision of technical assistance relating to aircraft or ships will prevent a person from directly or indirectly providing technical assistance to, or for the benefit of, the designated person, where that technical assistance relates to an aircraft or ship. The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
+    <OtherInformation>	Transport sanctions: where transport sanctions apply, a ship owned, controlled, chartered or operated by a designated person is prohibited from entering a port in the UK, may be given a movement or a port entry direction, can be detained, and will be refused permission to register on the UK Ship Register or have its existing registration terminated. Similarly, an aircraft owned, chartered or operated by a designated person is prohibited from overflying or landing in the UK, may be given a movement direction, can be detained or moved to a specified airport, and will be refused permission to register on the CAA Aircraft Register or have its existing registration terminated. This also includes a prohibition of technical assistance relating to aircraft and ships: a prohibition on the provision of technical assistance relating to aircraft or ships will prevent a person from directly or indirectly providing technical assistance to, or for the benefit of, the designated person, where that technical assistance relates to an aircraft or ship. The Director Disqualification Sanction was imposed on 09/04/2025.</OtherInformation>
     <UKStatementofReasons>
-Avet Vladimirovich MIRAKYAN (hereafter MIRAKYAN) is an “involved person” under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground:  MIRAKYAN is or has been involved in obtaining a benefit from or supporting the Government of Russia by owning or controlling an entity, Insight Investment Group, which is carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector.
+The Secretary of State has reasonable grounds to suspect that Avet Vladimirovich MIRAKYAN (hereafter MIRAKYAN) is an “involved person” under the Russia (Sanctions) (EU Exit) Regulations 2019 on the basis of the following ground: MIRAKYAN has been involved in obtaining a benefit from or supporting the Government of Russia by owning or controlling an entity, Insight Investment Group, which is carrying on business in a sector of strategic significance to the Government of Russia, namely the Russian financial services sector.
 </UKStatementofReasons>
     <Addresses>
       <Address>
@@ -331299,12 +331303,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+49 931 666878-0 </PhoneNumber>
       <PhoneNumber>+49 931 666878-29 </PhoneNumber>
+      <PhoneNumber>+49 931 666878-0 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.ekc.ag</Website>
       <Website>www.ek-company.com </Website>
+      <Website>www.ekc.ag</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>info@ekc.ag </EmailAddress>
@@ -363082,8 +363086,8 @@ HeliCo Group is an “involved person” under the Russia (Sanctions) (EU Exit) 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8-800-500-69-60</PhoneNumber>
       <PhoneNumber>+7 (861) 624-35-65</PhoneNumber>
+      <PhoneNumber>8-800-500-69-60</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website> HeliCo-russia.ru</Website>
@@ -365039,15 +365043,15 @@ The Secretary of State has reasonable grounds to suspect that JSC SOLID BANK is 
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 924 75 00 </PhoneNumber>
       <PhoneNumber>8 (800) 775-56-06 </PhoneNumber>
+      <PhoneNumber>+7 495 924 75 00 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://solidbank.ru </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>ckp@solidbank.ru </EmailAddress>
       <EmailAddress>bank@solidbank.ru </EmailAddress>
+      <EmailAddress>ckp@solidbank.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -378102,8 +378106,8 @@ involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because
       <Website>www.top-alloy.ru </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>office@top-alloy.ru </EmailAddress>
       <EmailAddress>zapros@top-alloy.ru</EmailAddress>
+      <EmailAddress>office@top-alloy.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -378961,8 +378965,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1173668048113</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 3664230952</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1173668048113</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -379034,8 +379038,8 @@ The Secretary of State has reasonable grounds to suspect that LLC MACHINE-BUILDI
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 6671290740</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1236600076569</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 6671290740</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -381029,8 +381033,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1197746016049</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 7751154399</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1197746016049</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -381666,13 +381670,13 @@ JOINT-STOCK COMPANY COMMERCIAL BANK “LANTA-BANK”
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+8 800 100-67-00</PhoneNumber>
       <PhoneNumber>+7 (495) 957-00-00</PhoneNumber>
+      <PhoneNumber>+8 800 100-67-00</PhoneNumber>
     </PhoneNumbers>
     <Websites>
+      <Website>https://lanta.ru</Website>
       <Website>www.lanta.ru</Website>
       <Website>https://www.lanta.ru</Website>
-      <Website>https://lanta.ru</Website>
     </Websites>
     <EmailAddresses>
       <EmailAddress>mail@lanta.ru</EmailAddress>
@@ -381772,20 +381776,20 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>8(800)1000 600</PhoneNumber>
       <PhoneNumber>+7 343 355 75 75</PhoneNumber>
       <PhoneNumber>8(343)355 75 75</PhoneNumber>
       <PhoneNumber>8(495)771 70 95</PhoneNumber>
+      <PhoneNumber>8(800)1000 600</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>http://sinara.ru</Website>
       <Website>http://www.sinara.ru</Website>
+      <Website>http://sinara.ru</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>clients@skbbank.ru</EmailAddress>
       <EmailAddress>orders@delo.ru</EmailAddress>
       <EmailAddress>digital@sinara.ru</EmailAddress>
       <EmailAddress>orders@sinara.ru</EmailAddress>
+      <EmailAddress>clients@skbbank.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -381966,12 +381970,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Owner of LLC GRAVITAL</Position>
-          <Position>Owner of LLC HUSTLE SHIFT</Position>
           <Position>Owner of LLC 2D6</Position>
+          <Position>Owner of LLC GRAVITAL</Position>
           <Position>Owner of LLC UNIMATIC</Position>
           <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of DALIAN UNITECH TRADING CO., LTD.</Position>
+          <Position>Owner of LLC HUSTLE SHIFT</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -382180,19 +382184,19 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 0755-29874500</PhoneNumber>
       <PhoneNumber>+86 755- 27175156</PhoneNumber>
       <PhoneNumber>+86 755-29874501</PhoneNumber>
+      <PhoneNumber>+86 0755-29874500</PhoneNumber>
       <PhoneNumber>+86 512-36825901</PhoneNumber>
       <PhoneNumber>+86 755- 23405269</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>https://www.sowincnc.com/</Website>
       <Website>http://www.sowin-ks.com/</Website>
+      <Website>https://www.sowincnc.com/</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>market@sowincnc.com</EmailAddress>
       <EmailAddress>overseas@sowincnc.com</EmailAddress>
+      <EmailAddress>market@sowincnc.com</EmailAddress>
       <EmailAddress>hr@sowincnc.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
@@ -383361,8 +383365,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 6025018018</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1026000899682</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 6025018018</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -383437,8 +383441,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 1650252110</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1121650019567</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 1650252110</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -383510,8 +383514,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 0264070057</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1150280012211</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 0264070057</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -383802,16 +383806,16 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+86 371 60308992</PhoneNumber>
       <PhoneNumber>+86 371 60973290</PhoneNumber>
+      <PhoneNumber>+86 371 60308992</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>timewaymachine.com</Website>
       <Website>https://www.timewaymachinery.com/</Website>
+      <Website>timewaymachine.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@timewaymachine.com</EmailAddress>
       <EmailAddress>timeway@aliyun.com</EmailAddress>
+      <EmailAddress>info@timewaymachine.com</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -384332,8 +384336,8 @@ destabilising Ukraine or undermining or threatening the territorial integrity, s
       <Website>www.minospace.cn</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>minospace@minospace.cn</EmailAddress>
       <EmailAddress>maming@minospace.cn</EmailAddress>
+      <EmailAddress>minospace@minospace.cn</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -384867,16 +384871,16 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 495 777-71-75 </PhoneNumber>
       <PhoneNumber>+7 495 777-71-71 </PhoneNumber>
+      <PhoneNumber>+7 495 777-71-75 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.absolutbank.com </Website>
       <Website>www.absolutbank.ru </Website>
+      <Website>www.absolutbank.com </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>anti.corr@absolutbank.ru </EmailAddress>
       <EmailAddress>info@absolutbank.ru</EmailAddress>
+      <EmailAddress>anti.corr@absolutbank.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -385435,58 +385439,6 @@ The Secretary of State has reasonable grounds to suspect that IMO 9408190 (‘SA
         </TonnageOfShipDetails>
         <YearsBuilt>
           <YearBuilt>2009</YearBuilt>
-        </YearsBuilt>
-      </Ship>
-    </ShipDetails>
-  </Designation>
-  <Designation>
-    <LastUpdated>24/02/2026</LastUpdated>
-    <DateDesignated>24/02/2026</DateDesignated>
-    <UniqueID>RUS3470</UniqueID>
-    <Names>
-      <Name>
-        <Name6>LNG SOARS</Name6>
-        <NameType>Primary Name</NameType>
-      </Name>
-    </Names>
-    <RegimeName>The Russia (Sanctions) (EU Exit) Regulations 2019</RegimeName>
-    <IndividualEntityShip>Ship</IndividualEntityShip>
-    <DesignationSource>UK</DesignationSource>
-    <SanctionsImposed>Shipping sanctions: (see "Other information")</SanctionsImposed>
-    <SanctionsImposedIndicators>
-      <AssetFreeze>false</AssetFreeze>
-      <ArmsEmbargo>false</ArmsEmbargo>
-      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
-      <CharteringOfShips>false</CharteringOfShips>
-      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
-      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
-      <Deflag>false</Deflag>
-      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
-      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
-      <TravelBan>false</TravelBan>
-      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
-      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
-      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
-      <TrustServicesSanctions>false</TrustServicesSanctions>
-      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
-    </SanctionsImposedIndicators>
-    <OtherInformation>Shipping sanctions: a specified ship is prohibited from being provided with access to or having its master or pilot cause it to enter a port in the UK, may have its registration on the UK Ship Register terminated, and a master or pilot of a specified ship may be given a port barring direction, a detention direction, and a port entry direction or a movement direction.</OtherInformation>
-    <UKStatementofReasons>
-The Secretary of State has reasonable grounds to suspect that LNG SOARS (IMO 9307205)  is an involved entity under the Russia (Sanctions) (EU Exit) Regulations 2019 because it is, has been or is likely to be involved in: an activity whose object or effect is to destabilise Ukraine or undermine or threaten the territorial integrity, sovereignty or independence of Ukraine. Namely, LNG SOARS is, has been or is likely to be involved in carrying a good from a place in Russia to a third country that could contribute to destabilising Ukraine or undermining or threatening the territorial integrity, sovereignty or independence of Ukraine. 
-</UKStatementofReasons>
-    <ShipDetails>
-      <Ship>
-        <IMONumbers>
-          <IMONumber>IMO9307205</IMONumber>
-        </IMONumbers>
-        <TypeOfShipDetails>
-          <TypeOfShip>LNG Tanker</TypeOfShip>
-        </TypeOfShipDetails>
-        <TonnageOfShipDetails>
-          <TonnageOfShip>95753</TonnageOfShip>
-        </TonnageOfShipDetails>
-        <YearsBuilt>
-          <YearBuilt>2006</YearBuilt>
         </YearsBuilt>
       </Ship>
     </ShipDetails>
@@ -386661,8 +386613,8 @@ involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because
           <TypeOfEntity>Joint Stock Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1022201770084</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN – 2225008370 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1022201770084</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -387632,8 +387584,8 @@ The Secretary of State considers there are reasonable grounds to suspect that TA
       <Website>https://www.tanaq.co.th/ </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>equipment_supply@tanaq.co.th </EmailAddress>
       <EmailAddress>info@tanaq.co.th </EmailAddress>
+      <EmailAddress>equipment_supply@tanaq.co.th </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -388025,8 +387977,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1177456043907</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 7453309640</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1177456043907</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -388308,8 +388260,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Owner of LLC RUSTAKT </Position>
           <Position>Owner of SANTROSS LLC </Position>
+          <Position>Owner of LLC RUSTAKT </Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -396077,8 +396029,8 @@ LLC NEPTUNE CO LTD is or has been involved in obtaining a benefit from or suppor
       <Website>neptun-co.com</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>neptun-co@inbox.ru</EmailAddress>
       <EmailAddress>office@neptun-co.com</EmailAddress>
+      <EmailAddress>neptun-co@inbox.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -396913,8 +396865,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1025001414283 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 5010027226 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1025001414283 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -398001,8 +397953,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>GRU officer</Position>
           <Position>Former director of LLC NEPTUNE CO LTD</Position>
+          <Position>GRU officer</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -398208,10 +398160,10 @@ Stanislav Sergeyevich POPOV is, or has been, obtaining a benefit from or support
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <Positions>
-          <Position>Director of LLC MAGNUS LINK</Position>
+          <Position>GRU officer</Position>
           <Position>Director of LLC NEPTUNE CO LTD</Position>
           <Position>Owner of LLC MAGNUS LINK</Position>
-          <Position>GRU officer</Position>
+          <Position>Director of LLC MAGNUS LINK</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -401039,8 +400991,8 @@ NORTHERN ENGINEERING LIMITED LIABILITY COMPANY is an involved entity under the R
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 9729417656 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1267700105012 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 9729417656 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -401246,8 +401198,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Website>https://www.metcomplect.ru/   </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@metcomplect.ru </EmailAddress>
       <EmailAddress>metcomplect@yandex.ru</EmailAddress>
+      <EmailAddress>info@metcomplect.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -401326,8 +401278,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Website>https://ncmetal.ru/en/</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>info@ncmetal.ru </EmailAddress>
       <EmailAddress>lab@ncmetal.ru</EmailAddress>
+      <EmailAddress>info@ncmetal.ru </EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -401473,9 +401425,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 925 152 18 12 </PhoneNumber>
       <PhoneNumber>+7 9199 039650 </PhoneNumber>
       <PhoneNumber>+7 (495) 380-00-01 </PhoneNumber>
+      <PhoneNumber>+7 925 152 18 12 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>www.tehnolux.ru</Website>
@@ -401646,17 +401598,17 @@ The Secretary of State considers that there are reasonable grounds to suspect LI
       </Address>
     </Addresses>
     <PhoneNumbers>
+      <PhoneNumber>+7 (495) 215-24-08</PhoneNumber>
       <PhoneNumber>+7 (800) 555-89-21</PhoneNumber>
       <PhoneNumber>+7 (800) 555-89-82</PhoneNumber>
-      <PhoneNumber>+7 (495) 215-24-08</PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>https://t.me/ozon_bank_official</Website>
       <Website>https://finance.ozon.ru</Website>
+      <Website>https://t.me/ozon_bank_official</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>help@finance.ozon.ru</EmailAddress>
       <EmailAddress>infobank@ozon.ru</EmailAddress>
+      <EmailAddress>help@finance.ozon.ru</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -401764,8 +401716,8 @@ The Secretary of State considers that there are reasonable grounds to suspect ST
           <TypeOfEntity>JOINT-STOCK COMPANY</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>Central Bank of Russia licence: 2790</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Central Bank of Russia licence: 2790</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN 7704001959
 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
@@ -401856,9 +401808,9 @@ PJSC CENTER-INVEST is or has been involved in obtaining a benefit from or suppor
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>Russian INN - 6163011391</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Russian KPP - 616301001
-</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Russian OGRN - 1026100001949
+</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Russian KPP - 616301001
 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
@@ -401946,11 +401898,11 @@ JSC REALIST BANK is or has been obtaining a benefit from or supporting the Gover
           <ParentCompany>LLC "BUREAUCRAT"</ParentCompany>
         </ParentCompanies>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>SWIFT/BIC - BIJORU66</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Russia OGRN - 1023800000124
 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Russia INN - 3801002781</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Legal Entity Identifier - 2534007T2QFUSCHQPU36</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>SWIFT/BIC - BIJORU66</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -402039,9 +401991,9 @@ PJSC BANK STAVR is or has been obtaining a benefit from or supporting the Govern
           <TypeOfEntity>PUBLIC JOINT STOCK COMPANY </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN - 1022600000092</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN – 2634028786
 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN - 1022600000092</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -405535,10 +405487,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <TypeOfEntity>Limited Liability Company</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>INN: 7727518729 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber> 
 
 OGRN: 1047796617494 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>INN: 7727518729 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -414871,9 +414823,6 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <Individual>
         <PassportDetails>
           <Passport>
-            <PassportNumber> PU669310</PassportNumber>
-          </Passport>
-          <Passport>
             <PassportNumber>PU683987</PassportNumber>
           </Passport>
           <Passport>
@@ -414882,11 +414831,14 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <Passport>
             <PassportNumber> FM684476</PassportNumber>
           </Passport>
+          <Passport>
+            <PassportNumber> PU669310</PassportNumber>
+          </Passport>
         </PassportDetails>
         <Nationalities>
           <Nationality>Ukraine</Nationality>
-          <Nationality>Ukraine</Nationality>
           <Nationality>Sudan</Nationality>
+          <Nationality>Ukraine</Nationality>
           <Nationality>Ukraine</Nationality>
           <Nationality>Ukraine</Nationality>
         </Nationalities>
