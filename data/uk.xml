@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>23/11/2026</DateGenerated>
+  <DateGenerated>24/11/2026</DateGenerated>
   <Designation>
     <LastUpdated>04/08/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -9900,8 +9900,8 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1972</DOB>
           <DOB>27/07/1976</DOB>
+          <DOB>dd/mm/1972</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -9909,12 +9909,12 @@
             <PassportAdditionalInformation>Issued on 28 Sep. 2022, issued in Kabul, Afghanistan (expires 28 Sep. 2027)</PassportAdditionalInformation>
           </Passport>
           <Passport>
-            <PassportNumber>D0010408</PassportNumber>
-            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
             <PassportNumber>P03318995</PassportNumber>
             <PassportAdditionalInformation>Afghanistan passport, issued on 29 Jul. 2020 (Name in Latin script: Hedayatullah  Hedayat, expires 29 Jul. 2025)</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
+            <PassportNumber>D0010408</PassportNumber>
+            <PassportAdditionalInformation>Afghanistan diplomatic passport, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name  in Latin script: Hedayatullah Badri; name in original script: ي بدر الله ھدایت ;expires 26 Aug. 2029)</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -10197,14 +10197,14 @@
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1962</DOB>
-          <DOB>dd/mm/1964</DOB>
           <DOB>dd/mm/1963</DOB>
           <DOB>01/01/1966</DOB>
           <DOB>dd/mm/1958</DOB>
           <DOB>dd/mm/1959</DOB>
           <DOB>dd/mm/1960</DOB>
           <DOB>dd/mm/1961</DOB>
+          <DOB>dd/mm/1962</DOB>
+          <DOB>dd/mm/1964</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Afghanistan</Nationality>
@@ -28710,8 +28710,8 @@ Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>18/03/1966</DOB>
           <DOB>10/03/1967</DOB>
+          <DOB>18/03/1966</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Philippines</Nationality>
@@ -33067,27 +33067,27 @@ November 2021 INTERPOL-UN Security Council Special Notice web link: https://www.
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Jalan Nakula of Witana Harja Complex Block C</AddressLine1>
-        <AddressLine2>Pamulang</AddressLine2>
-        <AddressLine6>Banten</AddressLine6>
-        <AddressCountry>Indonesia</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Jalan M. Saidi</AddressLine1>
         <AddressLine2>RT010 RW 001 Pesanggrahan</AddressLine2>
         <AddressLine3>South Petukangan</AddressLine3>
         <AddressLine6>South Jakarta</AddressLine6>
         <AddressCountry>Indonesia</AddressCountry>
       </Address>
+      <Address>
+        <AddressLine1>Jalan Nakula of Witana Harja Complex Block C</AddressLine1>
+        <AddressLine2>Pamulang</AddressLine2>
+        <AddressLine6>Banten</AddressLine6>
+        <AddressCountry>Indonesia</AddressCountry>
+      </Address>
     </Addresses>
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>28/05/1984</DOB>
+          <DOB>08/08/1980</DOB>
           <DOB>03/12/1979</DOB>
           <DOB>03/03/1979</DOB>
           <DOB>08/08/1980</DOB>
-          <DOB>08/08/1980</DOB>
+          <DOB>28/05/1984</DOB>
         </DOBs>
         <PassportDetails>
           <Passport>
@@ -33103,11 +33103,11 @@ November 2021 INTERPOL-UN Security Council Special Notice web link: https://www.
         </Nationalities>
         <NationalIdentifierDetails>
           <NationalIdentifier>
-            <NationalIdentifierNumber>2181558</NationalIdentifierNumber>
-          </NationalIdentifier>
-          <NationalIdentifier>
             <NationalIdentifierNumber>3219222002.2181558</NationalIdentifierNumber>
             <NationalIdentifierAdditionalInformation>Indonesian national identity card number </NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>2181558</NationalIdentifierNumber>
           </NationalIdentifier>
         </NationalIdentifierDetails>
         <BirthDetails>
@@ -40908,17 +40908,17 @@ Iraq (possible alternative location as at Aug. 2015) </OtherInformation>
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Desa Gebang</AddressLine1>
-        <AddressLine2>Kecamatan Masaran</AddressLine2>
-        <AddressLine3>Kabupaten Sragen</AddressLine3>
-        <AddressLine4>Jawa Tenagh</AddressLine4>
-        <AddressCountry>Indonesia</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Desa Taman Fajar</AddressLine1>
         <AddressLine2>Kecamatan Probolinggo</AddressLine2>
         <AddressLine3>Kabupaten Lampung Timur</AddressLine3>
         <AddressLine4>Lampung</AddressLine4>
+        <AddressCountry>Indonesia</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Desa Gebang</AddressLine1>
+        <AddressLine2>Kecamatan Masaran</AddressLine2>
+        <AddressLine3>Kabupaten Sragen</AddressLine3>
+        <AddressLine4>Jawa Tenagh</AddressLine4>
         <AddressCountry>Indonesia</AddressCountry>
       </Address>
     </Addresses>
@@ -63482,9 +63482,9 @@ We have reasonable grounds to suspect that Rampage Productions (“Rampage”) i
       <Website>www.Rampageproductions.co.uk </Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>rampage-productions@hotmail.com</EmailAddress>
       <EmailAddress>RAMPAGETRADE@aol.com</EmailAddress>
       <EmailAddress>sales@rampageproductions.co.uk</EmailAddress>
+      <EmailAddress>rampage-productions@hotmail.com</EmailAddress>
     </EmailAddresses>
   </Designation>
   <Designation>
@@ -115064,9 +115064,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </PassportDetails>
         <Nationalities>
           <Nationality>St Kitts and Nevis</Nationality>
+          <Nationality>Cambodia</Nationality>
           <Nationality>China</Nationality>
           <Nationality>Cyprus</Nationality>
-          <Nationality>Cambodia</Nationality>
         </Nationalities>
         <Genders>
           <Gender>Male</Gender>
@@ -116508,6 +116508,225 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </TypeOfEntities>
       </Entity>
     </EntityDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>24/11/2026</LastUpdated>
+    <DateDesignated>24/11/2026</DateDesignated>
+    <UniqueID>GHR0214</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Sarim</Name1>
+        <Name2>Al Din</Name2>
+        <Name6>Mufadal</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Sarim</Name1>
+        <Name2>Al-Din</Name2>
+        <Name6>MUFADDAL </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>صارم الدين مفضل </NameNonLatinScript>
+        <NonLatinScriptType>Arabic</NonLatinScriptType>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that SARIM AL-DIN MUFADDAL (hereafter “MUFADDAL”) is an involved person under the Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 on the basis that he is or has been responsible for or engaged in activity which amounts to a serious abuse of the right of individuals not to be subjected to torture or cruel, inhuman or degrading treatment or punishment. Specifically, as a prosecutor of the Specialised Criminal Prosecution in Sana’a under the Houthi de facto authorities, MUFADDAL is reasonably suspected of having directly perpetrated, or knowingly permitted or acquiesced in, sexual violence including rape, torture and other cruel, inhuman or degrading treatment of women detainees. 
+</UKStatementofReasons>
+  </Designation>
+  <Designation>
+    <LastUpdated>24/11/2026</LastUpdated>
+    <DateDesignated>24/11/2026</DateDesignated>
+    <UniqueID>GHR0215</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Mohamed </Name1>
+        <Name6>MOUFLEH </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Mohamad</Name1>
+        <Name6>MOFLEH</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Mohammad</Name1>
+        <Name6>MOFLIH</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Muhammad</Name1>
+        <Name6>MOUFLEH</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Mohammed</Name1>
+        <Name6>MOUFLIH</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+      <Name>
+        <Name1>Muhammed</Name1>
+        <Name6>MUFLEH</Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <NonLatinNames>
+      <NonLatinName>
+        <NameNonLatinScript>محمد مفلح </NameNonLatinScript>
+        <NonLatinScriptType>Arabic</NonLatinScriptType>
+      </NonLatinName>
+    </NonLatinNames>
+    <RegimeName>The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Mohamed MOUFLEH (hereafter “MOUFLEH”) is an involved person under the Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 on the basis of the following grounds: (1) MOUFLEH is or has been involved in a serious violation of an individual’s right to liberty and security of a person. 
+</UKStatementofReasons>
+  </Designation>
+  <Designation>
+    <LastUpdated>24/11/2026</LastUpdated>
+    <DateDesignated>24/11/2026</DateDesignated>
+    <UniqueID>GHR0216</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Abdul</Name1>
+        <Name2>Hakim</Name2>
+        <Name6>AL KHAIWANI </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name1>Abdulhakim </Name1>
+        <Name6> AL KHIYAWANI </Name6>
+        <NameType>Primary Name Variation</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Abdul Hakim Hashem Ali AL-KHAIWANI (hereafter AL-KHAIWANI) is an involved person under The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 on the basis that he is or has been responsible for, and has facilitated and provided support for, activity which amounts to a serious abuse of the right of individuals not to be subjected to torture or cruel, inhuman or degrading treatment or punishment. Specifically, as Director of the Houthi Security and Intelligence Service since September 2019, and previously as Houthi Deputy Minister of Interior from 2016, AL-KHAIWANI has been responsible for security forces and detention facilities in which detainees, including journalists, activists, humanitarian workers and United Nations personnel held without charge or trial, have been subjected to torture and other cruel, inhuman or degrading treatment, including electric shocks, beatings, the removal of fingernails, waterboarding, sexual violence and the denial of food and medical care, in some cases resulting in death. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <DOBs>
+          <DOB>dd/mm/1986</DOB>
+        </DOBs>
+        <Nationalities>
+          <Nationality>Yemen</Nationality>
+        </Nationalities>
+        <Positions>
+          <Position>Director of the Security and Intelligence Service (former: Deputy Minister of the Interior) </Position>
+        </Positions>
+        <Genders>
+          <Gender>Male</Gender>
+        </Genders>
+      </Individual>
+    </IndividualDetails>
+  </Designation>
+  <Designation>
+    <LastUpdated>24/11/2026</LastUpdated>
+    <DateDesignated>24/11/2026</DateDesignated>
+    <UniqueID>GHR0217</UniqueID>
+    <Names>
+      <Name>
+        <Name1>Abdulkarim  </Name1>
+        <Name2>Amiruddin  </Name2>
+        <Name3>Hussein </Name3>
+        <Name6> AL-HOUTHI </Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026</RegimeName>
+    <IndividualEntityShip>Individual</IndividualEntityShip>
+    <DesignationSource>UK</DesignationSource>
+    <SanctionsImposed>Asset freeze|Travel Ban|Director Disqualification Sanction</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>true</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>true</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <UKStatementofReasons>
+The Secretary of State considers that there are reasonable grounds to suspect that Abdulkarim Amir al-Din Hussein AL-HOUTHI (hereafter AL-HOUTHI) is an involved person under The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 on the basis that he is or has been responsible for, and has facilitated and provided support for, activity which amounts to a serious abuse of the right of individuals not to be subjected to torture or cruel, inhuman or degrading treatment or punishment. Specifically, as Minister of Interior of the Houthi de facto authorities in Sana’a since May 2019, AL-HOUTHI has been responsible for the police, security forces, Criminal Investigation Department, women’s security unit and detention facilities of the Ministry of Interior, in whose custody detainees held without charge or trial have been subjected to torture and other cruel, inhuman or degrading treatment, including electric shocks, beatings and sexual violence. 
+</UKStatementofReasons>
+    <IndividualDetails>
+      <Individual>
+        <Positions>
+          <Position>Minister of Interior, Director of the Executive Office of Ansar Allah. </Position>
+        </Positions>
+      </Individual>
+    </IndividualDetails>
   </Designation>
   <Designation>
     <LastUpdated>23/11/2026</LastUpdated>
@@ -135602,12 +135821,12 @@ Tosee
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+(9821) 66418184 </PhoneNumber>
       <PhoneNumber>+(9821) 66419974</PhoneNumber>
+      <PhoneNumber>+(9821) 66418184 </PhoneNumber>
     </PhoneNumbers>
     <Websites>
-      <Website>www.en.ttbank.ir</Website>
       <Website>www.ttbank.ir</Website>
+      <Website>www.en.ttbank.ir</Website>
     </Websites>
     <EntityDetails>
       <Entity>
@@ -138160,9 +138379,9 @@ n, or for use in, Iran; or the development of a nuclear weapon delivery system i
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
+          <BusinessRegistrationNumber>SWIFT/BIC - PBIRIRTH </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Iran National ID Number – 10101702747 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Iran Registration No. - 126785 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>SWIFT/BIC - PBIRIRTH </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -157110,8 +157329,8 @@ Hossein SHAMKHANI is an involved person under the Iran (Sanctions) Regulations 2
     <IndividualDetails>
       <Individual>
         <DOBs>
-          <DOB>dd/mm/1984</DOB>
           <DOB>dd/mm/1985</DOB>
+          <DOB>dd/mm/1984</DOB>
         </DOBs>
         <Nationalities>
           <Nationality>Iran</Nationality>
@@ -157350,6 +157569,10 @@ ANSARI has facilitated and provided support to hostile activity by the Governmen
         </DOBs>
         <PassportDetails>
           <Passport>
+            <PassportNumber>B65348454</PassportNumber>
+            <PassportAdditionalInformation>Iran</PassportAdditionalInformation>
+          </Passport>
+          <Passport>
             <PassportNumber>P41219058</PassportNumber>
             <PassportAdditionalInformation>Iran</PassportAdditionalInformation>
           </Passport>
@@ -157360,10 +157583,6 @@ ANSARI has facilitated and provided support to hostile activity by the Governmen
           <Passport>
             <PassportNumber>RE003666</PassportNumber>
             <PassportAdditionalInformation>St Kitts &amp; Nevis</PassportAdditionalInformation>
-          </Passport>
-          <Passport>
-            <PassportNumber>B65348454</PassportNumber>
-            <PassportAdditionalInformation>Iran</PassportAdditionalInformation>
           </Passport>
         </PassportDetails>
         <Nationalities>
@@ -163671,14 +163890,14 @@ N/A</UKStatementofReasons>
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine6>Beirut</AddressLine6>
-        <AddressCountry>Lebanon</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>Fuad Dawod Farm</AddressLine1>
         <AddressLine5>Az Zabadani</AddressLine5>
         <AddressLine6>Damascus</AddressLine6>
         <AddressCountry>Syria</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine6>Beirut</AddressLine6>
+        <AddressCountry>Lebanon</AddressCountry>
       </Address>
     </Addresses>
     <IndividualDetails>
@@ -173170,8 +173389,8 @@ Ground 2: Through his military roles in the military government of Myanmar Major
           <Nationality>Myanmar</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Major General</Position>
           <Position>Ambassador of Myanmar to the Lao People’s Democratic Republic </Position>
+          <Position>Major General</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -222113,9 +222332,9 @@ Petr Olegovich Aven (hereinafter AVEN) is an involved person under the Russia (S
         <Positions>
           <Position>Former Chairman of the Board Alfa-Bank Russia</Position>
           <Position>Chairman of the Board Alfastrakhovanie</Position>
-          <Position>Former President of Alfa-Bank (Russia)</Position>
           <Position>Former Chairman of the Board AHB Holdings</Position>
           <Position>Member of the supervisory board Alfa Bank Consortium</Position>
+          <Position>Former President of Alfa-Bank (Russia)</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -331204,8 +331423,8 @@ Federalnoe Kazennoe Predpriiatie Gosudarstvennyi Nauchno Issledovatelskii Instit
         </ParentCompanies>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>OGRN: 1021603067683 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>INN: 1656003409 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP: 165601001 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 1656003409 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -360395,8 +360614,8 @@ LLC MYTISHCHI INSTRUMENT-MAKING PLANT is an "involved person" under the Russian 
           <TypeOfEntity>Limited Liability Company </TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>INN: 5029217125</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1175029001641</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>INN: 5029217125</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -363794,14 +364013,6 @@ IZZITION E-TECHNOLOGY CO LTD is an "involved person" under the Russia (Sanctions
 </UKStatementofReasons>
     <Addresses>
       <Address>
-        <AddressLine1>Flat 1506, 15/F</AddressLine1>
-        <AddressLine2>Lucky Center,</AddressLine2>
-        <AddressLine3>No. 166-171</AddressLine3>
-        <AddressLine4>Wan Chai Road</AddressLine4>
-        <AddressLine6>Hong Kong</AddressLine6>
-        <AddressCountry>China</AddressCountry>
-      </Address>
-      <Address>
         <AddressLine1>RM 29, 22/F, Yan's Tower, 25-27 Wong Chuk Hang Road, Aberdeen</AddressLine1>
         <AddressLine6>Hong Kong</AddressLine6>
       </Address>
@@ -363812,6 +364023,14 @@ IZZITION E-TECHNOLOGY CO LTD is an "involved person" under the Russia (Sanctions
         <AddressLine4>Huqqiang North Subdistrict</AddressLine4>
         <AddressLine5>Futian District</AddressLine5>
         <AddressLine6>Shenzhen</AddressLine6>
+        <AddressCountry>China</AddressCountry>
+      </Address>
+      <Address>
+        <AddressLine1>Flat 1506, 15/F</AddressLine1>
+        <AddressLine2>Lucky Center,</AddressLine2>
+        <AddressLine3>No. 166-171</AddressLine3>
+        <AddressLine4>Wan Chai Road</AddressLine4>
+        <AddressLine6>Hong Kong</AddressLine6>
         <AddressCountry>China</AddressCountry>
       </Address>
     </Addresses>
@@ -365660,10 +365879,10 @@ JSC BBR BANK is or has been obtaining a benefit from or supporting the Governmen
       <Entity>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>BIK (RU): 044525769 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN: 3900001002 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>KPP: 770401001 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Registered Russian Bank No. 2929 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>SWIFT CODE: BADJRUMM </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>KPP: 770401001 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -370190,10 +370409,10 @@ The Secretary of State has reasonable grounds to suspect that FARGONA KIMYO ZAVO
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+998 91 681 82 14</PhoneNumber>
-      <PhoneNumber>+998 93 501 03 32</PhoneNumber>
       <PhoneNumber>+998 90 231 31 49</PhoneNumber>
       <PhoneNumber>+998 90 533 64 84</PhoneNumber>
+      <PhoneNumber>+998 91 681 82 14</PhoneNumber>
+      <PhoneNumber>+998 93 501 03 32</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://fergchem.com/</Website>
@@ -381739,10 +381958,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
-      <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
       <PhoneNumber>8 (800) 600 46 57</PhoneNumber>
       <PhoneNumber>8 (495) 787-89-55</PhoneNumber>
+      <PhoneNumber>7 (495) 258 33 50</PhoneNumber>
+      <PhoneNumber>8 (800) 200 00 24</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://tochka.com</Website>
@@ -382188,9 +382407,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <Position>Minority shareholder of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>President of LLC UNIMATIC</Position>
           <Position>Minority shareholder of LLC UNIMATIC-MSK</Position>
+          <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of LLC NATSPROMKOMPLEKT</Position>
           <Position>Co-owner of LLC NATSPROMRESURS</Position>
-          <Position>Supervisor of DALIAN UNIMATIC TRADING CO., LTD.</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -382278,11 +382497,11 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </NationalIdentifierDetails>
         <Positions>
           <Position>Owner of LLC GRAVITAL</Position>
-          <Position>Owner of LLC UNIMATIC</Position>
           <Position>Owner of DALIAN UNIMATIC TRADING CO., LTD.</Position>
           <Position>Owner of DALIAN UNITECH TRADING CO., LTD.</Position>
           <Position>Owner of LLC HUSTLE SHIFT</Position>
           <Position>Owner of LLC 2D6</Position>
+          <Position>Owner of LLC UNIMATIC</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -383891,8 +384110,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     <EntityDetails>
       <Entity>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN: 1187847186339</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>INN: 7810733560</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN: 1187847186339</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -385446,8 +385665,8 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>INN: 7704113772 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>OGRN: 1027739553764 </BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>Russia Licence No. – 1885 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>BIK (RU): 044525341</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Russia Licence No. – 1885 </BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -387279,8 +387498,8 @@ involved in destabilising Ukraine or undermining or threatening the territorial 
           <Subsidiary>M9 LOGISTICS CO., LTD.</Subsidiary>
         </Subsidiaries>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>Business Registration Number - 67092371</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>CR number: 2469563 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>Business Registration Number - 67092371</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -387361,9 +387580,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>+ 7 812 6355088</PhoneNumber>
-      <PhoneNumber>+8 800 5050040</PhoneNumber>
       <PhoneNumber>+7 812 3279090</PhoneNumber>
       <PhoneNumber>+7 812 6355070</PhoneNumber>
+      <PhoneNumber>+8 800 5050040</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://www.eltech.spb.ru/</Website>
@@ -394271,8 +394490,8 @@ NUEVA CRYPTOLOGIA, SOCIEDAD POR ACCIONES SIMPLIFICADA DE CAPITAL VARIABLE (S.A.S
       <Website>https://abcex.io/</Website>
     </Websites>
     <EmailAddresses>
-      <EmailAddress>support@abcex.io</EmailAddress>
       <EmailAddress>legal@abcex.io</EmailAddress>
+      <EmailAddress>support@abcex.io</EmailAddress>
     </EmailAddresses>
     <EntityDetails>
       <Entity>
@@ -394444,10 +394663,10 @@ RAPIRA GROUP LLC is an involved person under the Russia (Sanctions) (EU Exit) Re
       </Address>
     </Addresses>
     <Websites>
-      <Website>Rapira.io</Website>
-      <Website>Rapira.org</Website>
       <Website>Rapira24.ru</Website>
       <Website>Rapiras.ru</Website>
+      <Website>Rapira.io</Website>
+      <Website>Rapira.org</Website>
       <Website>Rapira.net</Website>
     </Websites>
     <EmailAddresses>
@@ -395692,9 +395911,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </Addresses>
     <PhoneNumbers>
       <PhoneNumber>8-800-2008-600</PhoneNumber>
-      <PhoneNumber>+7 (495) 967-8182</PhoneNumber>
       <PhoneNumber>+7 (499) 300-9832</PhoneNumber>
       <PhoneNumber>Fax +7 (495) 967-8133</PhoneNumber>
+      <PhoneNumber>+7 (495) 967-8182</PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
       <EmailAddress>info@evrofinance.ru</EmailAddress>
@@ -395706,10 +395925,10 @@ The Secretary of State considers that there are reasonable grounds to suspect th
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>OGRN 1027700565970</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>KPP 997950001 / 770401001</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Correspondent account: 30101810900000000204 in OCC No 1 of the Main Directorate of the Bank of Russia for the Central Federal District,</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>BIC 044525204</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN 7703115760</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>KPP 997950001 / 770401001</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -395796,9 +396015,9 @@ The Secretary of State considers that there are reasonable grounds to suspect JO
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+7 (495) 221-60-35</PhoneNumber>
       <PhoneNumber>+7 499 253-31-33</PhoneNumber>
       <PhoneNumber>+7 495 787-37-96</PhoneNumber>
+      <PhoneNumber>+7 (495) 221-60-35</PhoneNumber>
     </PhoneNumbers>
     <Websites>
       <Website>https://bank.yandex.ru</Website>
@@ -396154,8 +396373,8 @@ involved person" under the Russia (Sanctions) (EU Exit) Regulations 2019 because
       </Address>
     </Addresses>
     <PhoneNumbers>
-      <PhoneNumber>+ 7 47248 30217</PhoneNumber>
       <PhoneNumber>+7 47248 30441 </PhoneNumber>
+      <PhoneNumber>+ 7 47248 30217</PhoneNumber>
     </PhoneNumbers>
     <EmailAddresses>
       <EmailAddress>rushol@ngs.ru   </EmailAddress>
@@ -402023,10 +402242,10 @@ The Secretary of State considers that there are reasonable grounds to suspect ST
           <TypeOfEntity>JOINT-STOCK COMPANY</TypeOfEntity>
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
-          <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>Central Bank of Russia licence: 2790</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN 7704001959
 </BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OGRN 1027739109133</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -402388,13 +402607,13 @@ JSC TELEPORT BANK is or has been obtaining a benefit from or supporting the Gove
         </TypeOfEntities>
         <BusinessRegistrationNumbers>
           <BusinessRegistrationNumber>OGRN: 1077711000080</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>BIK 044525273</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OKPO 09141558</BusinessRegistrationNumber>
+          <BusinessRegistrationNumber>OKVED 64.19</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>TIN 7750004175
 </BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP 770601001</BusinessRegistrationNumber>
           <BusinessRegistrationNumber>KPP 997950001</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>OKPO 09141558</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>OKVED 64.19</BusinessRegistrationNumber>
-          <BusinessRegistrationNumber>BIK 044525273</BusinessRegistrationNumber>
         </BusinessRegistrationNumbers>
       </Entity>
     </EntityDetails>
@@ -404913,12 +405132,12 @@ The Secretary of State considers that there are reasonable grounds to suspect th
       <PhoneNumber>+7 (495) 229-00-50</PhoneNumber>
     </PhoneNumbers>
     <Websites>
+      <Website>http://bankck.ru</Website>
+      <Website>http:// kbstolichnycredit.rf</Website>
+      <Website>http://www.bankintegral.ru</Website>
       <Website>http://www.capitalkredit.ru</Website>
       <Website>https://open.capitalkredit.ru</Website>
       <Website>http:// bankstolichnykredit.rf</Website>
-      <Website>http:// kbstolichnycredit.rf</Website>
-      <Website>http://www.bankintegral.ru</Website>
-      <Website>http://bankck.ru</Website>
     </Websites>
     <EntityDetails>
       <Entity>
@@ -414025,9 +414244,9 @@ The Secretary of State considers that there are reasonable grounds to suspect th
           <Nationality>Sudan</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Former Senior RSF Commander</Position>
           <Position>Head of the Sudan Shield Forces</Position>
           <Position>Senior SAF Commander</Position>
+          <Position>Former Senior RSF Commander</Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
@@ -415133,20 +415352,20 @@ The Secretary of State considers that there are reasonable grounds to suspect th
             <PassportNumber>PU683987</PassportNumber>
           </Passport>
           <Passport>
-            <PassportNumber>FB793884</PassportNumber>
-          </Passport>
-          <Passport>
             <PassportNumber> FM684476</PassportNumber>
           </Passport>
           <Passport>
             <PassportNumber> PU669310</PassportNumber>
           </Passport>
+          <Passport>
+            <PassportNumber>FB793884</PassportNumber>
+          </Passport>
         </PassportDetails>
         <Nationalities>
           <Nationality>Ukraine</Nationality>
+          <Nationality>Ukraine</Nationality>
+          <Nationality>Ukraine</Nationality>
           <Nationality>Sudan</Nationality>
-          <Nationality>Ukraine</Nationality>
-          <Nationality>Ukraine</Nationality>
           <Nationality>Ukraine</Nationality>
         </Nationalities>
         <Genders>
@@ -448645,13 +448864,17 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>14/06/2022</LastUpdated>
+    <LastUpdated>24/11/2026</LastUpdated>
     <DateDesignated>01/03/2022</DateDesignated>
     <UniqueID>YEM0010</UniqueID>
     <Names>
       <Name>
         <Name6>The Houthis</Name6>
         <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>Ansar Allah</Name6>
+        <NameType>Alias</NameType>
       </Name>
       <Name>
         <Name6>ANSARALLAH</Name6>
@@ -448668,10 +448891,10 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
     </Names>
     <RegimeName>The Yemen (Sanctions) (EU Exit) Regulations 2020</RegimeName>
     <IndividualEntityShip>Entity</IndividualEntityShip>
-    <DesignationSource>UN</DesignationSource>
-    <SanctionsImposed>Arms embargo</SanctionsImposed>
+    <DesignationSource>UK|UN</DesignationSource>
+    <SanctionsImposed>Asset freeze|Arms embargo|Director Disqualification Sanction</SanctionsImposed>
     <SanctionsImposedIndicators>
-      <AssetFreeze>false</AssetFreeze>
+      <AssetFreeze>true</AssetFreeze>
       <ArmsEmbargo>true</ArmsEmbargo>
       <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
       <CharteringOfShips>false</CharteringOfShips>
@@ -448685,13 +448908,10 @@ Juan Carlos Hidalgo Pandares is a member of the Supreme Tribunal of Justice, an 
       <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
       <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
       <TrustServicesSanctions>false</TrustServicesSanctions>
-      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+      <DirectorDisqualificationSanction>true</DirectorDisqualificationSanction>
     </SanctionsImposedIndicators>
     <UKStatementofReasons>
-The Houthis have engaged in acts that threaten the peace, security, and stability of Yemen.
-The Houthis have engaged in attacks striking civilians and civilian infrastructure in Yemen, implemented a policy of sexual violence and repression against politically active and professional women, engaged in the recruitment and use of children, incited violence against groups including on the basis of religion and nationality, and indiscriminately used landmines and improvised explosive devices on the West Coast of Yemen. The Houthis have also obstructed the delivery of humanitarian assistance to Yemen, or access to, or distribution of, humanitarian assistance in Yemen.
-The Houthis have conducted attacks on commercial shipping in the Red Sea using waterborne improvised explosive devices and sea mines.
-The Houthis have also perpetrated repeated cross-border terrorist attacks striking civilians and civilian infrastructure in the Kingdom of Saudi Arabia and the United Arab Emirates and threatened to intentionally target civilian sites.
+The Secretary of State considers that there are reasonable grounds to suspect that the Houthis have engaged in acts that threaten the peace, security, and stability of Yemen. The Houthis have engaged in attacks striking civilians and civilian infrastructure in Yemen, implemented a policy of sexual violence and repression against politically active and professional women, engaged in the recruitment and use of children, incited violence against groups including on the basis of religion and nationality, and indiscriminately used landmines and improvised explosive devices on the West Coast of Yemen. The Houthis have also obstructed the delivery of humanitarian assistance to Yemen, or access to, or distribution of, humanitarian assistance in Yemen. The Houthis have conducted attacks on commercial shipping in the Red Sea using waterborne improvised explosive devices and sea mines. The Houthis have also perpetrated repeated cross-border terrorist attacks striking civilians and civilian infrastructure in the Kingdom of Saudi Arabia and the United Arab Emirates and threatened to intentionally target civilian sites. 
 </UKStatementofReasons>
   </Designation>
   <Designation>
