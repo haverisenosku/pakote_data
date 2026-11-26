@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Designations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DateGenerated>24/11/2026</DateGenerated>
+  <DateGenerated>26/11/2026</DateGenerated>
   <Designation>
     <LastUpdated>04/08/2026</LastUpdated>
     <DateDesignated>29/06/2012</DateDesignated>
@@ -62615,7 +62615,7 @@ Viktor Fedorovic Taranchenko (hereafter “Taranchenko”) is an involved person
     </IndividualDetails>
   </Designation>
   <Designation>
-    <LastUpdated>06/07/2026</LastUpdated>
+    <LastUpdated>26/11/2026</LastUpdated>
     <DateDesignated>06/07/2026</DateDesignated>
     <UniqueID>CHW0042</UniqueID>
     <Names>
@@ -62655,6 +62655,19 @@ Ivan Sergeyevich Kravtsov (hereafter “Kravtsov”) is an involved person under
 </UKStatementofReasons>
     <IndividualDetails>
       <Individual>
+        <DOBs>
+          <DOB>12/08/1982</DOB>
+        </DOBs>
+        <NationalIdentifierDetails>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>43452993337367</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>NIN</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+          <NationalIdentifier>
+            <NationalIdentifierNumber>06786435816</NationalIdentifierNumber>
+            <NationalIdentifierAdditionalInformation>SNILS</NationalIdentifierAdditionalInformation>
+          </NationalIdentifier>
+        </NationalIdentifierDetails>
         <Positions>
           <Position>Head. 4th Scientific Research Department. SC Signal  </Position>
         </Positions>
@@ -116510,21 +116523,21 @@ The Secretary of State considers that there are reasonable grounds to suspect th
     </EntityDetails>
   </Designation>
   <Designation>
-    <LastUpdated>24/11/2026</LastUpdated>
+    <LastUpdated>26/11/2026</LastUpdated>
     <DateDesignated>24/11/2026</DateDesignated>
     <UniqueID>GHR0214</UniqueID>
     <Names>
       <Name>
         <Name1>Sarim</Name1>
-        <Name2>Al Din</Name2>
-        <Name6>Mufadal</Name6>
+        <Name2>Al-Din</Name2>
+        <Name6>MUFADDAL </Name6>
         <NameType>Primary Name</NameType>
       </Name>
       <Name>
         <Name1>Sarim</Name1>
-        <Name2>Al-Din</Name2>
-        <Name6>MUFADDAL </Name6>
-        <NameType>Primary Name</NameType>
+        <Name2>Al Din</Name2>
+        <Name6>MUFADAL</Name6>
+        <NameType>Alias</NameType>
       </Name>
     </Names>
     <NonLatinNames>
@@ -168247,6 +168260,74 @@ Shipping sanctions: a specified ship is prohibited from being provided with ac
     </ShipDetails>
   </Designation>
   <Designation>
+    <LastUpdated>26/11/2026</LastUpdated>
+    <DateDesignated>24/11/2026</DateDesignated>
+    <UniqueID>LIB0080</UniqueID>
+    <UNReferenceNumber>LYe.007</UNReferenceNumber>
+    <Names>
+      <Name>
+        <Name6>IMO 8027705</Name6>
+        <NameType>Primary Name</NameType>
+      </Name>
+      <Name>
+        <Name6>AEGEAN</Name6>
+        <NameType>Alias</NameType>
+      </Name>
+    </Names>
+    <RegimeName>The Libya (Sanctions) (EU Exit) Regulations 2020</RegimeName>
+    <IndividualEntityShip>Ship</IndividualEntityShip>
+    <DesignationSource>UN</DesignationSource>
+    <SanctionsImposed>Shipping sanctions: (see "Other information")</SanctionsImposed>
+    <SanctionsImposedIndicators>
+      <AssetFreeze>false</AssetFreeze>
+      <ArmsEmbargo>false</ArmsEmbargo>
+      <TargetedArmsEmbargo>false</TargetedArmsEmbargo>
+      <CharteringOfShips>false</CharteringOfShips>
+      <ClosureOfRepresentativeOffices>false</ClosureOfRepresentativeOffices>
+      <CrewServicingOfShipsAndAircraft>false</CrewServicingOfShipsAndAircraft>
+      <Deflag>false</Deflag>
+      <PreventionOfBusinessArrangements>false</PreventionOfBusinessArrangements>
+      <ProhibitionOfPortEntry>false</ProhibitionOfPortEntry>
+      <TravelBan>false</TravelBan>
+      <PreventionOfCharteringOfShips>false</PreventionOfCharteringOfShips>
+      <PreventionOfCharteringOfShipsAndAircraft>false</PreventionOfCharteringOfShipsAndAircraft>
+      <TechnicalAssistanceRelatedToAircraft>false</TechnicalAssistanceRelatedToAircraft>
+      <TrustServicesSanctions>false</TrustServicesSanctions>
+      <DirectorDisqualificationSanction>false</DirectorDisqualificationSanction>
+    </SanctionsImposedIndicators>
+    <OtherInformation>IMO 8027705 was listed pursuant to paragraphs 10(a), 10 (b), 10(c) and 10(d) of resolution 2146 (2014), as amended by paragraph 2 of resolutions 2441 (2018) and 2509 (2020) and extended in resolution 2819 (2026) (prohibition to load, transport or discharge; prohibition to enter ports; prohibition to provide bunkering and vessel services; prohibition to engage in financial transactions with regard to petroleum). Pursuant to paragraph 11 of resolution 2146, as modified by paragraph 2 of resolution 2509 (2020), this designation is valid from 24 November 2026 to 24 November 2027, unless terminated earlier by the Committee pursuant to paragraph 12 of resolution 2146 (2014).</OtherInformation>
+    <UKStatementofReasons>
+</UKStatementofReasons>
+    <ShipDetails>
+      <Ship>
+        <IMONumbers>
+          <IMONumber>IMO8027705</IMONumber>
+        </IMONumbers>
+        <CurrentOwnerOperators>
+          <CurrentOwnerOperator>Canary Navigation SA</CurrentOwnerOperator>
+        </CurrentOwnerOperators>
+        <CurrentBelievedFlagOfShips>
+          <CurrentBelievedFlagOfShip>Turkey</CurrentBelievedFlagOfShip>
+        </CurrentBelievedFlagOfShips>
+        <PreviousFlags>
+          <PreviousFlag>Mongolia</PreviousFlag>
+        </PreviousFlags>
+        <TypeOfShipDetails>
+          <TypeOfShip>Oil Tanker</TypeOfShip>
+        </TypeOfShipDetails>
+        <TonnageOfShipDetails>
+          <TonnageOfShip>1900</TonnageOfShip>
+        </TonnageOfShipDetails>
+        <LengthOfShipDetails>
+          <LengthOfShip>87</LengthOfShip>
+        </LengthOfShipDetails>
+        <YearsBuilt>
+          <YearBuilt>1981</YearBuilt>
+        </YearsBuilt>
+      </Ship>
+    </ShipDetails>
+  </Designation>
+  <Designation>
     <LastUpdated>09/04/2025</LastUpdated>
     <DateDesignated>08/12/2022</DateDesignated>
     <UniqueID>MAL0010</UniqueID>
@@ -173389,8 +173470,8 @@ Ground 2: Through his military roles in the military government of Myanmar Major
           <Nationality>Myanmar</Nationality>
         </Nationalities>
         <Positions>
-          <Position>Ambassador of Myanmar to the Lao People’s Democratic Republic </Position>
           <Position>Major General</Position>
+          <Position>Ambassador of Myanmar to the Lao People’s Democratic Republic </Position>
         </Positions>
         <Genders>
           <Gender>Male</Gender>
